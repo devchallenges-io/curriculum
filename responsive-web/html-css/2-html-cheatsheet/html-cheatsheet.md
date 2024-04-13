@@ -110,7 +110,7 @@ In this snippet:
 
 The `<img>` tag is an essential element in HTML that allows you to add images to your web pages. Whether it's a stunning photograph, an informative chart, or a simple icon, images can greatly enhance the visual appeal and user experience of your website.
 
-#### How to Use the `<img>` Tag
+#### How to use the `<img>` Tag
 
 To use the `<img>` tag, you need to include it in your HTML code and specify two important attributes: `src` and `alt`.
 
