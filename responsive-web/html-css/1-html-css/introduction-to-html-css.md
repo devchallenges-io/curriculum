@@ -100,7 +100,7 @@ In this example:
 
 CSS provides various types of selectors that allow you to apply styles to different HTML elements:
 
-1.  **Type Selectors:** These match specific element names.
+1. **Type Selectors:** These match specific element names.
 
 ```css
 p {
@@ -108,7 +108,7 @@ p {
 }
 ```
 
-2.  **Class Selectors:** These target elements based on their class attribute.
+2. **Class Selectors:** These target elements based on their class attribute.
 
 ```css
 .intro {
@@ -116,7 +116,7 @@ p {
 }
 ```
 
-3.  **ID Selectors:** These select elements based on their unique ID attribute.
+3. **ID Selectors:** These select elements based on their unique ID attribute.
 
 ```css
 #header {
