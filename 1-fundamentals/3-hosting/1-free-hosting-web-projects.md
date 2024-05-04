@@ -1,7 +1,5 @@
 # Free Platforms for Hosting Web Projects
 
-![A tall lighthouse with a rotating light beam.](https://api.junia.ai/storage/v1/object/sign/user-generated-images/e8ea8e1f-482a-4fb1-b14a-8a0e53a999eb/bca88db6-850c-4d7f-ae84-32a80f5e2417.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1c2VyLWdlbmVyYXRlZC1pbWFnZXMvZThlYThlMWYtNDgyYS00ZmIxLWIxNGEtOGEwZTUzYTk5OWViL2JjYTg4ZGI2LTg1MGMtNGQ3Zi1hZTg0LTMyYTgwZjVlMjQxNy5wbmciLCJpYXQiOjE3MDQzODQ3NzksImV4cCI6MjAxOTc0NDc3OX0.waTCF6wtH0zRQdxvGxlIx3PI399_Mi2K10ov-kQmSxk)
-
 ## Introduction
 
 When you're ready to take your web project live, the hosting platform you choose is a critical piece of the puzzle. _The right platform_ not only brings your creation to the world but can also affect your site's performance, scalability, and even its search engine ranking.
@@ -16,9 +14,9 @@ Diving into the realm of web hosting might have you swimming in a sea of options
 
 But remember, not all best free web hosting services are created equal. Each comes with its own set of features, benefits, and constraints. As we explore platforms like GitHub Pages, Vercel, Netlify, Surge.sh, and Render, we'll help you navigate these waters so you can confidently select the best fit for your web project needs. Let's get those digital dreams anchored on solid ground!
 
-## GitHub Pages: Free Hosting for Developers
+## [GitHub Pages: Free Hosting for Developers](https://pages.github.com/)
 
-**GitHub Pages** stands as a stalwart option among free hosting plans, tailored specifically for developers looking to showcase their work. This platform leverages the power of GitHub repositories to turn code into a live website without a hitch.
+**GitHub Pages** is a standout option among free hosting plans, specifically designed for developers looking to showcase their work. This platform utilizes the power of GitHub repositories to seamlessly turn code into a live website.
 
 ### Key Benefits
 
@@ -48,9 +46,9 @@ GitHub Pages is perfect for static websites, portfolios, and documentation. It's
 
 _By diving into GitHub Pages, you're leveraging an ecosystem designed for developers by developers._
 
-## Vercel: Fast and Scalable Hosting
+## [Vercel: Fast and Scalable Hosting](https://vercel.com/)
 
-When you're looking for a hosting solution that combines speed with scalability, **Vercel** stands out as a strong option. Formerly known as Zeit, Vercel is specifically designed for **frontend developers** and excels in hosting Jamstack sites. It works especially well with **Next.js**, a React framework, but it's also compatible with other frameworks.
+When you're looking for a hosting solution that combines speed with scalability, **Vercel** stands out as a strong option. Vercel is specifically designed for **frontend developers** and excels in hosting Jamstack sites. It works especially well with **Next.js**, a React framework, but it's also compatible with other frameworks.
 
 ### Key Features and Benefits of Vercel
 
@@ -65,8 +63,8 @@ Here are some reasons why Vercel is worth considering for your hosting needs:
 
 If you prefer working with the command line, you can follow these steps to deploy your project on Vercel:
 
-1.  Install the Vercel CLI (Command Line Interface) globally using npm: bash npm i -g vercel
-2.  Navigate to your project directory in the terminal and run the following command: bash vercel
+1.  Install the Vercel CLI (Command Line Interface) globally using npm: `npm i -g vercel`
+2.  Navigate to your project directory in the terminal and run the following command: `vercel`
 3.  Follow the prompts to link your project to a Git hosting service (such as GitHub) and set up your deployment settings.
 
 ### How Does Vercel Compare to Other Hosting Options?
@@ -79,7 +77,7 @@ It's always helpful to weigh the pros and cons before making a decision. Here's 
 
 Whether you're launching a simple static site or need more advanced backend functionality without the hassle of managing servers, Vercel provides an environment that can adapt to your project's evolving needs.
 
-## Netlify: A Powerful Hosting Platform
+## [Netlify: A Powerful Hosting Platform](https://www.netlify.com/)
 
 Netlify is a cutting-edge hosting platform created specifically for modern web projects. It has become popular among developers because of its focus on _static site hosting_, making it the top choice for projects built with frameworks like React, Vue, and Angular.
 
@@ -96,14 +94,14 @@ Here are some of the standout features and advantages of Netlify:
 
 If you're interested in deploying your web project on Netlify, here are the steps to get started:
 
-1.  Install the Netlify CLI tool using npm:
-2.  npm install netlify-cli -g
-3.  Authenticate the CLI tool with your Netlify account:
-4.  netlify login
-5.  Initialize your site:
-6.  netlify init
-7.  Deploy your project:
-8.  netlify deploy
+1. Install the Netlify CLI tool using npm:
+   `npm install netlify-cli -g`
+2. Authenticate the CLI tool with your Netlify account:
+   `netlify login`
+3. Initialize your site:
+   `netlify init`
+4. Deploy your project:
+   `netlify deploy`
 
 After running these commands, follow the prompts to complete the setup and deploy your web project.
 
@@ -117,7 +115,7 @@ When comparing Netlify's free plan with other hosting platforms, here's how it s
 
 With its combination of powerful features and user-friendly interface, Netlify is a strong contender for hosting web projects without budget constraints.
 
-## Surge.sh: Simple and Easy Deployment
+## [Surge.sh: Simple and Easy Deployment](https://surge.sh/)
 
 Surge.sh is a great option for developers who want to publish static web pages and front-end frameworks with ease. It simplifies the web deployment process by handling server configuration and maintenance for you.
 
@@ -145,7 +143,7 @@ While there are other free hosting options available, Surge.sh stands out for it
 
 By focusing on simplicity and fast deployment, Surge.sh provides an environment where ideas can quickly turn into live websites.
 
-## Render: High-Performance Hosting
+## [Render: High-Performance Hosting](https://render.com/)
 
 Render is an excellent option for developers who need high-performance hosting solutions, especially with its generous free tier. One of the standout features of Render is its seamless integration with your Git provider, which streamlines the deployment process and allows developers to easily update and manage their web projects.
 
