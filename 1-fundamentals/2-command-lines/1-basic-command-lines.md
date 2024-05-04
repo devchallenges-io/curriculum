@@ -14,18 +14,6 @@ Command lines are essential tools in operating systems that allow users to inter
 2.  **Resource Consumption**: CLIs generally consume fewer system resources than GUIs, as they don't need to render complex graphical elements.
 3.  **User Control**: Advanced users often prefer the precision and control offered by command lines, allowing for complex task automation not available through GUIs.
 
-### Pros of Using a CLI
-
-1.  **Efficiency**: Automate repetitive tasks with scripts.
-2.  **Speed**: Access functions faster than navigating GUI menus.
-3.  **Low Resource Usage**: Ideal for systems with limited graphical capabilities.
-
-### Cons of Using a CLI
-
-1.  **Steep Learning Curve**: Requires memorization of commands and syntax.
-2.  **Less Intuitive**: Users without experience may find CLIs opaque and challenging.
-3.  **Limited Visual Feedback**: Absence of graphical cues makes some tasks more difficult.
-
 Understanding these aspects paves the way for harnessing the full potential of command lines, particularly in environments where speed, efficiency, and automation are paramount. Next, delve into the practical steps for getting started with CMD commands to manage files, navigate directories, and configure system settings.
 
 ## Getting Started with CMD Commands
@@ -91,22 +79,6 @@ In the world of command line operations, being able to work with directories is 
 - Use `.` to represent the current directory
 - Use `..` to represent the parent directory
   Example: If your current working directory is `C:\Users\UserName\Documents` and you want to move to `C:\Users\UserName\Pictures`, type `cd ..\Pictures`
-
-## Advanced Techniques for Command Line Mastery
-
-### Utilizing Wildcards in Batch Operations
-
-Wildcards are symbols that enable you to select multiple files or directories at once, based on patterns. The asterisk `*` is the most common wildcard character in CMD commands. It represents any number of characters in a file or directory name. This functionality is particularly useful when you need to apply an operation to a group of files.
-
-For example, to list all text files in the current directory:
-
-`ls *.txt`
-
-To delete all documents with the '.md' extension:
-
-`rm *.md`
-
-Using wildcards can significantly speed up file management tasks by reducing repetitive commands.
 
 ## Conclusion
 
