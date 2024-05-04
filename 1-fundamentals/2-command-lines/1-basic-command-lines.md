@@ -44,8 +44,8 @@ Let's break down the different components of a CMD command:
 
 For efficient file management, familiarize yourself with these indispensable CMD commands:
 
-- `ls`: Displays a list of files and subdirectories in a directory.
-  Example: `ls` lists only the names of files and folders in the current directory.
+- `ls` (macOS/Linux) or `dir` (Windows): Displays a list of files and subdirectories in a directory.
+  Example: `ls` or `dir` lists only the names of files and folders in the current directory.
 - `cd`: Changes the current working directory.
   Example: `cd Documents` changes the current directory to Documents if it exists within the current directory.
 - `mkdir`: Creates a new directory.
