@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is devchallenges.io? How does it work?",
+    "path": "1-fundamentals/1-what-is-devchallenges.md"
+  },
+  {
+    "title": "Where to get help?",
+    "path": "1-fundamentals/1-introduction/2-where-to-get-help.md"
+  },
+  {
+    "title": "Visual Studio Code Introduction",
+    "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md"
+  },
+  {
+    "title": "Command Line Basics",
+    "path": "1-fundamentals/3-command-lines/1-command-line-basics.md"
+  },
+  {
+    "title": "Introduction to Git and Github",
+    "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md"
+  },
+  {
+    "title": "Free Hosting for Web Projects",
+    "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md"
+  },
+  {
+    "title": "How to host a website on Github Pages",
+    "path": "1-fundamentals/5-hosting/2-hosting-github-page.md"
+  },
+  {
+    "title": "Introduction to HTML and CSS",
+    "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md"
+  },
+  {
+    "title": "HTML Cheat Sheet",
+    "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md"
+  },
+  {
+    "title": "CSS Flexbox",
+    "path": "2-responsive-web/1-html-css/3-flexbox.md"
+  },
+  {
+    "title": "CSS Grid",
+    "path": "2-responsive-web/1-html-css/4-grid.md"
+  },
+  {
+    "title": "CSS Positioning",
+    "path": "2-responsive-web/1-html-css/5-css-position.md"
+  },
+  {
+    "title": "CSS Units",
+    "path": "2-responsive-web/1-html-css/6-css-unit.md"
+  },
+  {
+    "title": "CSS Functions",
+    "path": "2-responsive-web/1-html-css/7-css-functions.md"
+  },
+  {
+    "title": "CSS Custom Properties",
+    "path": "2-responsive-web/1-html-css/8-css-custom-properties.md"
+  },
+  {
+    "title": "CSS Advanced Selectors",
+    "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md"
+  },
+  {
+    "title": "CSS Animation",
+    "path": "2-responsive-web/1-html-css/10-css-animation.md"
+  },
+  {
+    "title": "Responsive Design",
+    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md"
+  },
+  {
+    "title": "Form and Form Validation",
+    "path": "2-responsive-web/1-html-css/12-form-form-validation.md"
+  },
+  {
+    "title": "Accessibility",
+    "path": "2-responsive-web/1-html-css/13-accessibility.md"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "title": "Fundamentals",
+  "description": "Before we get started, let's make sure you have a good understanding of the basics. These concepts are the building blocks of the rest of the curriculum.",
+  "content": {
+    "Introduction": [
+      {
+        "title": "What is devchallenges.io? How does it work?",
+        "path": "1-fundamentals/1-what-is-devchallenges.md"
+      },
+      {
+        "title": "Where to get help?",
+        "path": "1-fundamentals/1-introduction/2-where-to-get-help.md"
+      }
+    ],
+    "Code Editor": [
+      {
+        "title": "Visual Studio Code Introduction",
+        "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md"
+      }
+    ],
+    "Command Lines": [
+      {
+        "title": "Command Line Basics",
+        "path": "1-fundamentals/3-command-lines/1-command-line-basics.md"
+      }
+    ],
+    "Git and Github": [
+      {
+        "title": "Introduction to Git and Github",
+        "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md"
+      }
+    ],
+    "Hosting your projects": [
+      {
+        "title": "Free Hosting for Web Projects",
+        "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md"
+      },
+      {
+        "title": "How to host a website on Github Pages",
+        "path": "1-fundamentals/5-hosting/2-hosting-github-page.md"
+      }
+    ]
+  }
+}

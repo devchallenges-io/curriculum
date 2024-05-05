@@ -1,4 +1,4 @@
-# Mastering Flexbox: A Complete Guide to CSS Flex
+# Mastering Flexbox: A Complete Guide to CSS Flexbox
 
 ## Understanding the Flexbox Layout Model
 

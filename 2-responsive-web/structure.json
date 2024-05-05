@@ -1,0 +1,60 @@
+{
+  "title": "Responsive Web Development (HTML, CSS)",
+  "description": "Learn the fundamentals of web development, including HTML, CSS, and responsive design.",
+  "content": {
+    "HTML and CSS": [
+      {
+        "title": "Introduction to HTML and CSS",
+        "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md"
+      },
+      {
+        "title": "HTML Cheat Sheet",
+        "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md"
+      },
+      {
+        "title": "CSS Flexbox",
+        "path": "2-responsive-web/1-html-css/3-flexbox.md"
+      },
+      {
+        "title": "CSS Grid",
+        "path": "2-responsive-web/1-html-css/4-grid.md"
+      },
+      {
+        "title": "CSS Positioning",
+        "path": "2-responsive-web/1-html-css/5-css-position.md"
+      },
+      {
+        "title": "CSS Units",
+        "path": "2-responsive-web/1-html-css/6-css-unit.md"
+      },
+      {
+        "title": "CSS Functions",
+        "path": "2-responsive-web/1-html-css/7-css-functions.md"
+      },
+      {
+        "title": "CSS Custom Properties",
+        "path": "2-responsive-web/1-html-css/8-css-custom-properties.md"
+      },
+      {
+        "title": "CSS Advanced Selectors",
+        "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md"
+      },
+      {
+        "title": "CSS Animation",
+        "path": "2-responsive-web/1-html-css/10-css-animation.md"
+      },
+      {
+        "title": "Responsive Design",
+        "path": "2-responsive-web/1-html-css/11-css-responsive-design.md"
+      },
+      {
+        "title": "Form and Form Validation",
+        "path": "2-responsive-web/1-html-css/12-form-form-validation.md"
+      },
+      {
+        "title": "Accessibility",
+        "path": "2-responsive-web/1-html-css/13-accessibility.md"
+      }
+    ]
+  }
+}
