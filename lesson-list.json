@@ -25,6 +25,10 @@
     "slug": "introduction-to-git-and-github"
   },
   {
+    "title": "Writing good commit messages",
+    "path": "1-fundamentals/4-git-github/2-writing-good-commits.md"
+  },
+  {
     "title": "Free Hosting for Web Projects",
     "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md",
     "slug": "free-hosting-for-web-projects"
