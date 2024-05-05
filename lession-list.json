@@ -1,82 +1,102 @@
 [
   {
     "title": "What is devchallenges.io? How does it work?",
-    "path": "1-fundamentals/1-what-is-devchallenges.md"
+    "path": "1-fundamentals/1-what-is-devchallenges.md",
+    "slug": "what-is-devchallenges"
   },
   {
     "title": "Where to get help?",
-    "path": "1-fundamentals/1-introduction/2-where-to-get-help.md"
+    "path": "1-fundamentals/1-introduction/2-where-to-get-help.md",
+    "slug": "where-to-get-help"
   },
   {
     "title": "Visual Studio Code Introduction",
-    "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md"
+    "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md",
+    "slug": "visual-studio-code-introduction"
   },
   {
     "title": "Command Line Basics",
-    "path": "1-fundamentals/3-command-lines/1-command-line-basics.md"
+    "path": "1-fundamentals/3-command-lines/1-command-line-basics.md",
+    "slug": "command-line-basics"
   },
   {
     "title": "Introduction to Git and Github",
-    "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md"
+    "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md",
+    "slug": "introduction-to-git-and-github"
   },
   {
     "title": "Free Hosting for Web Projects",
-    "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md"
+    "path": "1-fundamentgtals/5-hosting/1-free-hosting-web-projects.md",
+    "slug": "free-hosting-for-web-projects"
   },
   {
     "title": "How to host a website on Github Pages",
-    "path": "1-fundamentals/5-hosting/2-hosting-github-page.md"
+    "path": "1-fundamentals/5-hosting/2-hosting-github-page.md",
+    "slug": "how-to-host-a-website-on-github-pages"
   },
   {
     "title": "Introduction to HTML and CSS",
-    "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md"
+    "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md",
+    "slug": "introduction-to-html-and-css"
   },
   {
     "title": "HTML Cheat Sheet",
-    "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md"
+    "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md",
+    "slug": "html-cheat-sheet"
   },
   {
     "title": "CSS Flexbox",
-    "path": "2-responsive-web/1-html-css/3-flexbox.md"
+    "path": "2-responsive-web/1-html-css/3-flexbox.md",
+    "slug": "css-flexbox"
   },
   {
     "title": "CSS Grid",
-    "path": "2-responsive-web/1-html-css/4-grid.md"
+    "path": "2-responsive-web/1-html-css/4-grid.md",
+    "slug": "css-grid"
   },
   {
     "title": "CSS Positioning",
-    "path": "2-responsive-web/1-html-css/5-css-position.md"
+    "path": "2-responsive-web/1-html-css/5-css-position.md",
+    "slug": "css-positioning"
   },
   {
     "title": "CSS Units",
-    "path": "2-responsive-web/1-html-css/6-css-unit.md"
+    "path": "2-responsive-web/1-html-css/6-css-unit.md",
+    "slug": "css-units"
   },
   {
     "title": "CSS Functions",
-    "path": "2-responsive-web/1-html-css/7-css-functions.md"
+    "path": "2-responsive-web/1-html-css/7-css-functions.md",
+    "slug": "css-functions"
   },
   {
     "title": "CSS Custom Properties",
-    "path": "2-responsive-web/1-html-css/8-css-custom-properties.md"
+    "path": "2-responsive-web/1-html-css/8-css-custom-properties.md",
+    "slug": "css-custom-properties"
   },
   {
     "title": "CSS Advanced Selectors",
-    "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md"
+    "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md",
+    "slug": "css-advanced-selectors"
   },
   {
     "title": "CSS Animation",
-    "path": "2-responsive-web/1-html-css/10-css-animation.md"
+    "path": "2-responsive-web/1-html-css/10-css-animation.md",
+    "slug": "css-animation"
   },
   {
     "title": "Responsive Design",
-    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md"
+    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md",
+    "slug": "responsive-design"
   },
   {
     "title": "Form and Form Validation",
-    "path": "2-responsive-web/1-html-css/12-form-form-validation.md"
+    "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
+    "slug": "form-and-form-validation"
   },
   {
     "title": "Accessibility",
-    "path": "2-responsive-web/1-html-css/13-accessibility.md"
+    "path": "2-responsive-web/1-html-css/13-accessibility.md",
+    "slug": "accessibility"
   }
 ]
