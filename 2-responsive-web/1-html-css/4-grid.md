@@ -1,4 +1,4 @@
-# Mastering CSS Grid: A Step-by-Step Tutorial
+# Mastering CSS Grid: A Step-by-Step lesson
 
 ## Introduction
 

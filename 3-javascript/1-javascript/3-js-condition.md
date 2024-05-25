@@ -1,4 +1,4 @@
-# Mastering Conditional Statements in JavaScript: The Ultimate Tutorial
+# Mastering Conditional Statements in JavaScript: The Ultimate lesson
 
 ## Introduction
 
@@ -12,7 +12,7 @@ In this lesson, you'll learn about:
 - **Switch Statement**: A neater way to handle many possibilities.
 - **Ternary Operator**: A short way to write conditionals.
 
-These concepts will be explained in detail, giving you the knowledge to write clean, efficient, and easy-to-understand code. By the end of this tutorial, you'll be ready to use conditional statements confidently in your JavaScript projects.
+These concepts will be explained in detail, giving you the knowledge to write clean, efficient, and easy-to-understand code. By the end of this lesson, you'll be ready to use conditional statements confidently in your JavaScript projects.
 
 ## 1. If Statement
 

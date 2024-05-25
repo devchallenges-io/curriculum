@@ -1,4 +1,4 @@
-# CSS Keyframes and Transitions: The Ultimate Tutorial for Web Developers
+# CSS Keyframes and Transitions: The Ultimate lesson for Web Developers
 
 ## Introduction
 

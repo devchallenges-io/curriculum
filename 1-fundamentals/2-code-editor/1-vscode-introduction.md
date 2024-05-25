@@ -1,8 +1,8 @@
-# Visual Studio Code Tutorial for Beginners
+# Visual Studio Code lesson for Beginners
 
 ## Introduction
 
-Visual Studio Code, also known as VS Code, is a highly versatile and powerful source-code editor created by Microsoft for Windows, Linux, macOS, and even web browsers. It comes with a wide range of features such as debugging, syntax highlighting, intelligent code completion, and more. This tutorial aims to provide a comprehensive guide for those starting out with this tool.
+Visual Studio Code, also known as VS Code, is a highly versatile and powerful source-code editor created by Microsoft for Windows, Linux, macOS, and even web browsers. It comes with a wide range of features such as debugging, syntax highlighting, intelligent code completion, and more. This lesson aims to provide a comprehensive guide for those starting out with this tool.
 
 ### Why Choose Visual Studio Code?
 

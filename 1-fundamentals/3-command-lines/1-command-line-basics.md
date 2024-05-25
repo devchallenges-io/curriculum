@@ -4,7 +4,7 @@
 
 Command lines are essential tools in operating systems that allow users to interact with their computers through text commands. Unlike graphical user interfaces (GUIs) where actions are performed by clicking on icons, command lines require users to type in specific instructions that are then interpreted and executed by the system.
 
-**Cmd commands**, the default command line interpreter on Windows, offer a wide range of capabilities for advanced users to accomplish various tasks. By following a **cmd tutorial**, individuals can learn how to navigate file systems, manage processes, and configure system settings without relying on a visual interface.
+**Cmd commands**, the default command line interpreter on Windows, offer a wide range of capabilities for advanced users to accomplish various tasks. By following a **cmd lesson**, individuals can learn how to navigate file systems, manage processes, and configure system settings without relying on a visual interface.
 
 ## The Basics of Command Line Interfaces (CLIs)
 

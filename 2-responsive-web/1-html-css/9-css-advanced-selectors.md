@@ -1,4 +1,4 @@
-# Mastering Advanced CSS Selectors: A Comprehensive Tutorial
+# Mastering Advanced CSS Selectors: A Comprehensive lesson
 
 ## Introduction
 

@@ -119,7 +119,7 @@ By combining both automated and manual testing methods, developers can create mo
 Accessing reliable and authoritative resources is crucial when pursuing web accessibility. The World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) stands out as a primary source of information and guidance. Here are some key offerings from the W3C WAI:
 
 - **Web Accessibility Guidelines**: Comprehensive documentation of WCAG and other related guidelines provides a foundation for understanding the standards.
-- **Technical Support Materials**: Tutorials, techniques, and examples on how to apply the guidelines in real-world scenarios.
+- **Technical Support Materials**: lessons, techniques, and examples on how to apply the guidelines in real-world scenarios.
 - **Educational Resources**: Articles, videos, and e-learning courses to facilitate self-paced learning or structured education on web accessibility.
 - **Policy Resources**: Information about laws and policies across different countries aids organizations in legal compliance.
 - **Tools**: Lists of software and development tools to support web accessibility evaluation and implementation.

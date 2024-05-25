@@ -172,4 +172,4 @@ The ease with which these layouts are achieved highlights Flexbox's aptitude for
 
 ## Conclusion
 
-Mastering Flexbox gives you a powerful set of tools for creating modern, responsive web layouts. Embrace the journey through hands-on experimentation and building projects. Look for more resources such as tutorials, documentation, and community forums to deepen your understanding and improve your skills. Let each new Flexbox project challenge and inspire you as you make the web more flexible and user-friendly.
+Mastering Flexbox gives you a powerful set of tools for creating modern, responsive web layouts. Embrace the journey through hands-on experimentation and building projects. Look for more resources such as lessons, documentation, and community forums to deepen your understanding and improve your skills. Let each new Flexbox project challenge and inspire you as you make the web more flexible and user-friendly.

@@ -1,4 +1,4 @@
-# Mastering Form and Form Validation: A Step-by-Step HTML Tutorial
+# Mastering Form and Form Validation: A Step-by-Step HTML lesson
 
 ## Introduction
 
@@ -6,7 +6,7 @@ HTML forms are essential in web development, as they allow users to submit infor
 
 Form validation is just as important. It acts as a gatekeeper to ensure that the data submitted by users meets specific criteria before it's processed. This step is vital for maintaining data integrity and creating a secure environment for both the user and the system.
 
-By the end of this tutorial, you'll have the skills to improve user interfaces and strengthen data security in your projects.
+By the end of this lesson, you'll have the skills to improve user interfaces and strengthen data security in your projects.
 
 ## Understanding HTML Forms
 
