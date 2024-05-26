@@ -1,6 +1,6 @@
 # HTML Tag Cheat Sheet: The Essential Reference for Web Developers
 
-This article aims to equip readers with a comprehensive **Essential Reference** designed specifically for **Web Developers**. Here's what you can expect:
+This lesson aims to equip readers with a comprehensive **Essential Reference** designed specifically for **Web Developers**. Here's what you can expect:
 
 1.  A curated list of crucial HTML tags
 2.  Detailed explanations on how each tag works

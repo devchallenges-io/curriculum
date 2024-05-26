@@ -11,7 +11,7 @@ Among the many CSS functions available, four stand out for their versatility and
 3.  **max()**: Chooses the largest value, setting an upper limit on the sizing of elements.
 4.  **clamp()**: Combines both `min()` and `max()` by defining a range within which a value must fall.
 
-In this article, we will explore each of these functions in detail— **calc()**, **min()**, **max()**, and **clamp()** —explaining their syntax, providing examples of their use cases, and highlighting the benefits they bring to web design.
+In this lesson, we will explore each of these functions in detail— **calc()**, **min()**, **max()**, and **clamp()** —explaining their syntax, providing examples of their use cases, and highlighting the benefits they bring to web design.
 
 By mastering these functions, you will be able to:
 
