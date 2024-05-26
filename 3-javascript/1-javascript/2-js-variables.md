@@ -128,7 +128,37 @@ Common **data types** in JavaScript include:
 3.  **Booleans**: Logical values representing `true` or `false`
 4.  **undefined**: A variable that has been declared but not assigned a value
 5.  **null**: Represents the intentional absence of any object value
-6.  **Objects**: Complex data structures like arrays, functions, and more
+6.  **Arrays**: Ordered collections of values, which can be of any data type. Arrays are denoted by square brackets (`[]`) and can contain multiple elements separated by commas.
+7.  **Objects**: Complex data structures that allow you to store collections of data. An object variable contains data in key-value pairs, where each key maps to a value. Keys are always strings, and the values can be any data type, including numbers, strings, booleans, or even other objects.
+
+### Array basics
+
+In JavaScript, an array is a special variable that can hold more than one value at a time. Each value (also called an element) in an array has a numeric position, known as its index, and it can contain values of any data type.
+
+**Example:**
+
+```javascript
+let fruits = ["Apple", "Banana", "Cherry"];
+```
+
+In this example, `fruits` is an array variable. It contains three elements: "Apple", "Banana", and "Cherry". You can access these elements by their index, like `fruits[0]` for "Apple", `fruits[1]` for "Banana", and `fruits[2]` for "Cherry". Note that array indices start at 0 in JavaScript.
+
+### Object basics
+
+In JavaScript, an object is a complex data type that allows you to store collections of data. An object variable might contain data in key-value pairs, where each key maps to a value. Keys are always strings, and the values can be any data type, including numbers, strings, booleans, or even other objects.
+
+**Example:**
+
+```javascript
+let student = {
+  name: "John Doe",
+  age: 20,
+  grade: "Sophomore",
+  courses: ["Math", "English", "History"],
+};
+```
+
+In this example, `student` is an object variable. It contains four properties: `name`, `age`, `grade`, and `courses`. The `name`, `age`, and `grade` properties are mapped to string and number values, while the `courses` property is mapped to an array of strings. You can access these properties using dot notation, like `student.name` or `student.courses`.
 
 Each data type serves a specific purpose and understanding when to use each type is crucial for effective programming and manipulation of data within your applications.
 
