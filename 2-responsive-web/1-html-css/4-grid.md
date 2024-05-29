@@ -285,7 +285,7 @@ Grid Line Names simplify the process of placing items by assigning meaningful na
 ```css
 .container {
   display: grid;
-  grid-template-columns: \[start]100px\[main-start]1fr\[main-end]100px\[end];
+  grid-template-columns: [start]100px[main-start]1fr[main-end]100px[end];
 }
 ```
 

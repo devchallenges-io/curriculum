@@ -312,7 +312,7 @@ Regular expressions are powerful tools for various string manipulation tasks in 
 A common use case for regular expressions is validating email addresses. Using a pattern like:
 
 ```javascript
-const emailPattern = /^\[^@]+@\w+(.\w+)+$/;
+const emailPattern = /^[^@]+@\w+(.\w+)+$/;
 ```
 
 This pattern checks for a basic structure: one or more characters before the '@', followed by alphanumeric characters, a period, and finally, the domain part.

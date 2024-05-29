@@ -107,8 +107,8 @@ Here's how you might use these data types:
 let age = 25; // Number
 let name = "Alex"; // String
 let isStudent = true; // Boolean
-let skills = \['HTML', 'CSS', 'JavaScript']; // Array
-let person = {firstName: "Alex", lastName: "Smith"}; // Object
+let skills = ["HTML", "CSS", "JavaScript"]; // Array
+let person = { firstName: "Alex", lastName: "Smith" }; // Object
 ```
 
 ### Arithmetic, Assignment, Comparison Operators
