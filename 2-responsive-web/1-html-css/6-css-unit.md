@@ -178,9 +178,3 @@ By thoughtfully applying these principles, developers can craft layouts that are
 ## Conclusion
 
 Mastering CSS units is essential for crafting designs that are both flexible and maintainable. The knowledge of when and how to use `px`, `em`, `rem`, along with other units like `vw` and `vh`, empowers developers to build layouts that adapt seamlessly across different devices and screen sizes.
-
-Dive into the world of CSS Grid Layout to further enhance your design capabilities. **Learn about CSS Grid Layout** and the `Fr unit` to tap into advanced layout techniques. The `Fr unit`, a fractional unit, allows for the distribution of available space within grid containers, simplifying the creation of responsive layouts.
-
-**Understand how to use Fr unit in CSS Grid Layout**; it's a game-changer for defining flexible grid tracks. By allocating space without the need for calculating percentages or fixed sizes, the `Fr unit` streamlines responsive design, making it intuitive and efficient.
-
-Embrace experimentation with various units in your projects. Continuously update your skills and knowledge with new developments in CSS, ensuring that your designs stay at the forefront of technology and user experience. Your journey with CSS is ongoing—keep exploring, learning, and innovating.

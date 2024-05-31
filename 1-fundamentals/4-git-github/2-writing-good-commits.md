@@ -14,7 +14,7 @@ Writing good Git commit messages is an art that requires balance. It's about bei
 
 This guide aims to equip you with the knowledge and best practices needed to craft meaningful commit messages that enrich collaboration and enhance your development workflow.
 
-## The Basics of Git Commit Messages
+## 1. The Basics of Git Commit Messages
 
 ### Understanding the Fundamentals
 
@@ -47,7 +47,7 @@ Here are some tips on how to use each part of the commit structure effectively:
 
 By understanding these components and their purposes, you create a solid framework that improves codebase understanding and speeds up team workflows.
 
-## Conventional Commits: Enforcing Consistency in Commit Messages
+## 2. Conventional Commits: Enforcing Consistency in Commit Messages
 
 Conventional Commits serve as a specification for creating standardized commit message formats. By following this structured approach, developers can simplify how they explain code changes. The main components of Conventional Commits are:
 
@@ -65,7 +65,7 @@ Implementing Conventional Commits brings several advantages to development teams
 
 As commit conventions become an essential part of a project's workflow, keeping a clean and organized project history becomes easier. This history then serves as a clear roadmap for contributors, both current and potential, helping them understand how the software has evolved over time.
 
-## Best Practices for Writing Good Git Commit Messages
+## 3. Best Practices for Writing Good Git Commit Messages
 
 Writing good Git commit messages is critical for project success and ensuring that both current and future development efforts are well-documented, understandable, and maintainable. Improve commit messages by adhering to the following best practices:
 
@@ -106,7 +106,7 @@ Writing good Git commit messages is critical for project success and ensuring th
 
 By committing to these practices, you elevate commit messages from mere afterthoughts to a robust documentation tool within your repository. The next section will delve into how linting and validation tools can further enhance your Git commits by enforcing these guidelines consistently across your project's history.
 
-## Commit Message Linting and Validation Tools
+## 4. Commit Message Linting and Validation Tools
 
 Linting tools are essential for maintaining good commit habits by enforcing commit message guidelines. These automated code quality enforcers carefully examine each commit message to ensure it meets specific criteria, catching any mistakes or inconsistencies that may go unnoticed by humans.
 
@@ -118,7 +118,7 @@ In Visual Studio Code, there are several linting tools available for enforcing c
 
 These tools can be installed as extensions in VS Code and configured to run automatically when committing changes. They help ensure that commit messages follow the specified guidelines, making it easier to maintain a clean and consistent commit history.
 
-## Maintaining a Clean and Organized Commit History
+## 5. Maintaining a Clean and Organized Commit History
 
 Effective management of commit history is crucial for the long-term health of software projects. It ensures that maintainability and knowledge preservation are prioritized, allowing developers to efficiently track and understand the evolution of the codebase.
 

@@ -1,4 +1,4 @@
-# Visual Studio Code lesson for Beginners
+# Visual Studio Code for Beginners
 
 ## Introduction
 
@@ -227,7 +227,7 @@ To leverage Git integration fully, ensure Git is installed on your system and pr
 - `Shift + F11`: Step out.
 - `Shift + F5`: Stop debugging.
 
-## Troubleshooting Common Issues
+## 6. Troubleshooting Common Issues
 
 When you come across obstacles in Visual Studio Code, it's important to troubleshoot effectively for a quick solution. Error messages or unexpected behavior can often be fixed with a step-by-step approach.
 

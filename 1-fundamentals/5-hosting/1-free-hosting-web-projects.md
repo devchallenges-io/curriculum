@@ -14,7 +14,7 @@ Diving into the realm of web hosting might have you swimming in a sea of options
 
 But remember, not all best free web hosting services are created equal. Each comes with its own set of features, benefits, and constraints. As we explore platforms like GitHub Pages, Vercel, Netlify, Surge.sh, and Render, we'll help you navigate these waters so you can confidently select the best fit for your web project needs. Let's get those digital dreams anchored on solid ground!
 
-## [GitHub Pages: Free Hosting for Developers](https://pages.github.com/)
+## 1. [GitHub Pages: Free Hosting for Developers](https://pages.github.com/)
 
 **GitHub Pages** is a standout option among free hosting plans, specifically designed for developers looking to showcase their work. This platform utilizes the power of GitHub repositories to seamlessly turn code into a live website.
 
@@ -46,7 +46,7 @@ GitHub Pages is perfect for static websites, portfolios, and documentation. It's
 
 _By diving into GitHub Pages, you're leveraging an ecosystem designed for developers by developers._
 
-## [Vercel: Fast and Scalable Hosting](https://vercel.com/)
+## 2. [Vercel: Fast and Scalable Hosting](https://vercel.com/)
 
 When you're looking for a hosting solution that combines speed with scalability, **Vercel** stands out as a strong option. Vercel is specifically designed for **frontend developers** and excels in hosting Jamstack sites. It works especially well with **Next.js**, a React framework, but it's also compatible with other frameworks.
 
@@ -77,7 +77,7 @@ It's always helpful to weigh the pros and cons before making a decision. Here's 
 
 Whether you're launching a simple static site or need more advanced backend functionality without the hassle of managing servers, Vercel provides an environment that can adapt to your project's evolving needs.
 
-## [Netlify: A Powerful Hosting Platform](https://www.netlify.com/)
+## 3. [Netlify: A Powerful Hosting Platform](https://www.netlify.com/)
 
 Netlify is a cutting-edge hosting platform created specifically for modern web projects. It has become popular among developers because of its focus on _static site hosting_, making it the top choice for projects built with frameworks like React, Vue, and Angular.
 
@@ -115,7 +115,7 @@ When comparing Netlify's free plan with other hosting platforms, here's how it s
 
 With its combination of powerful features and user-friendly interface, Netlify is a strong contender for hosting web projects without budget constraints.
 
-## [Surge.sh: Simple and Easy Deployment](https://surge.sh/)
+## 4. [Surge.sh: Simple and Easy Deployment](https://surge.sh/)
 
 Surge.sh is a great option for developers who want to publish static web pages and front-end frameworks with ease. It simplifies the web deployment process by handling server configuration and maintenance for you.
 
@@ -143,7 +143,7 @@ While there are other free hosting options available, Surge.sh stands out for it
 
 By focusing on simplicity and fast deployment, Surge.sh provides an environment where ideas can quickly turn into live websites.
 
-## [Render: High-Performance Hosting](https://render.com/)
+## 5. [Render: High-Performance Hosting](https://render.com/)
 
 Render is an excellent option for developers who need high-performance hosting solutions, especially with its generous free tier. One of the standout features of Render is its seamless integration with your Git provider, which streamlines the deployment process and allows developers to easily update and manage their web projects.
 

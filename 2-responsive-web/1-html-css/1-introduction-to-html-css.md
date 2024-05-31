@@ -21,7 +21,7 @@ In this guide, we'll explore various aspects of HTML and CSS, from the basics to
 
 By the end of this guide, you'll have a solid understanding of HTML and CSS, allowing you to create beautiful websites from scratch!
 
-## Section 1: Getting Started with HTML
+## 1. Getting Started with HTML
 
 HTML (HyperText Markup Language) is the foundational building block of web development, serving as the skeleton that gives structure to web content. Grasping the basics of HTML syntax and code structure is essential for creating well-organized web pages.
 
@@ -69,7 +69,7 @@ Here is a basic example of an HTML structure:
 
 By understanding these fundamental concepts—syntax, elements, and structure—you create a solid foundation for crafting basic web pages. As you progress through this guide, you will learn how to enhance this foundation with styles, layout techniques, and interactivity.
 
-## Introduction to CSS
+## 2. Introduction to CSS
 
 Cascading Style Sheets, commonly known as CSS, is a fundamental technology that controls the visual presentation of web pages. It allows developers to customize the layout, colors, fonts, and other visual aspects of elements on a webpage. By separating the content (HTML) from the design (CSS), it becomes much easier to maintain and update web pages.
 
@@ -128,7 +128,7 @@ Selectors can also be combined for more specific targeting. In addition, CSS sty
 
 This is why it's called "Cascading" Style Sheets. The cascade also takes into account the specificity of selectors and the order in which styles are defined, allowing for flexible and powerful styling options.
 
-## Section 3: Combining HTML and CSS to Build a Webpage
+## 3. Combining HTML and CSS to Build a Webpage
 
 Crafting a webpage design involves a synergy between HTML layout and CSS styling. Begin with HTML to define the structure, then layer on CSS to refine the presentation.
 
@@ -207,7 +207,7 @@ When applied to an HTML element with class `.box`, these styles determine its ap
 
 By mastering both HTML structures and the CSS box model, you can create intricate webpage designs that are both functional and visually appealing.
 
-## Section 4: Enhancing the Webpage with CSS Styles
+## 4. Enhancing the Webpage with CSS Styles
 
 CSS properties are essential for making a webpage visually appealing. By carefully choosing and using these properties, web developers can improve the readability of text and the overall look of the content.
 

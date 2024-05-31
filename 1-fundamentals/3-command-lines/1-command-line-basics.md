@@ -6,7 +6,7 @@ Command lines are essential tools in operating systems that allow users to inter
 
 **Cmd commands**, the default command line interpreter on Windows, offer a wide range of capabilities for advanced users to accomplish various tasks. By following a **cmd lesson**, individuals can learn how to navigate file systems, manage processes, and configure system settings without relying on a visual interface.
 
-## The Basics of Command Line Interfaces (CLIs)
+## 1. The Basics of Command Line Interfaces (CLIs)
 
 ### Key Differences Between CLI and GUI
 
@@ -16,7 +16,7 @@ Command lines are essential tools in operating systems that allow users to inter
 
 Understanding these aspects paves the way for harnessing the full potential of command lines, particularly in environments where speed, efficiency, and automation are paramount. Next, delve into the practical steps for getting started with CMD commands to manage files, navigate directories, and configure system settings.
 
-## Getting Started with CMD Commands
+## 2. Getting Started with CMD Commands
 
 Before we explore how CMD commands can be used for tasks like managing files and changing system settings, let's first understand the basic structure of Command Prompt commands. This will help us make sense of the various parts that make up a command and how they work together.
 
@@ -62,7 +62,7 @@ Adjusting system environment settings using CMD can streamline your workflow:
 
 These foundational commands and concepts establish a solid starting point for mastering Windows Command Prompt and enhance capabilities in managing files and customizing your computing environment. With practice, these commands become second nature, leading to more advanced operations covered in subsequent sections.
 
-## Navigating Through Directories in the Command Line
+## 3. Navigating Through Directories in the Command Line
 
 In the world of command line operations, being able to work with directories is a fundamental skill. The _current working directory_ is the directory that you are currently operating in. It serves as the default location for executing commands related to files and folders. Understanding the importance of this directory is crucial because many command line tasks rely on paths that are either relative or absolute to this location.
 

@@ -6,7 +6,7 @@ GitHub Pages Hosting provides an easy-to-use stage for developers and content ma
 
 By the conclusion of this guide, you'll have acquired the skills to effectively use GitHub Pages in 2024 to display your projects globally.
 
-## Understanding GitHub Pages
+## 1. Understanding GitHub Pages
 
 **GitHub Pages** is a **static site hosting service** that turns your GitHub projects into shareable websites. Here's how it works:
 
@@ -132,7 +132,7 @@ Workflows are essentially preset automation sequences within your repository, de
 - When the build is successful, you can select the "Deployments" tab to see all the deployments and link to your website.
 - TO BE ADDED
 
-## Customization and Optimization of Your GitHub Pages Site
+## 2. Customization and Optimization of Your GitHub Pages Site
 
 Customizing your GitHub Pages site allows you to reflect your personal or brand identity effectively. For more control over your site's design, you can directly edit or add new HTML, CSS, and JavaScript files to your repository.
 
@@ -154,7 +154,7 @@ Implement these SEO best practices to improve your GitHub Pages site's visibilit
 
 Remember that setting the source properly is essential. In the **GitHub Pages** section of the Repository Settings, ensure that you have selected the correct branch as your publishing source. This ensures that any updates you make are reflected on the live site.
 
-## Troubleshooting Common Issues with GitHub Pages
+## 3. Troubleshooting Common Issues with GitHub Pages
 
 When hosting with GitHub Pages, you might run into Jekyll build errors, impacting your site's availability. Jekyll is the default static site generator for GitHub Pages that transforms your plain text into static websites and blogs. Here are common issues and solutions:
 
@@ -184,7 +184,7 @@ To resolve build failures:
 
 Remember, the community and forums like Stack Overflow are invaluable resources for troubleshooting, chances are someone has faced and resolved similar issues.
 
-## Advanced Tips and Best Practices for GitHub Pages Users
+## 4. Advanced Tips and Best Practices for GitHub Pages Users
 
 Utilizing the full potential of GitHub Pages requires familiarity with its advanced features and an understanding of the different site types available: user, project, and organization sites. Here are key insights to elevate your GitHub Pages experience:
 
@@ -219,7 +219,7 @@ Each type of site on GitHub Pages serves a unique purpose:
 
 Understanding these distinctions helps you structure your online presence more strategically. By customizing domain names and implementing redirects where necessary, each site can maintain a professional look while serving its intended audience effectively.
 
-## Exploring Alternatives: When Not to Use GitHub Pages for Hosting
+## 5. Exploring Alternatives: When Not to Use GitHub Pages for Hosting
 
 GitHub Pages is a popular choice for hosting static websites, but it may not be suitable for every situation. Here are some scenarios where you might want to consider other hosting options:
 
@@ -244,7 +244,7 @@ Each of these alternatives has its own advantages and caters to different needs.
 
 Use GitHub Pages Hosting to its full extent with this** ultimate guide for 2024**. Use all available resources, from official documents to community chats, and improve your online presence with GitHub Pages hosting. Take this opportunity, learn new skills, and discover new chances.
 
-## FAQs (Frequently Asked Questions)
+## 6. FAQs (Frequently Asked Questions)
 
 ### What is GitHub Pages Hosting?
 
