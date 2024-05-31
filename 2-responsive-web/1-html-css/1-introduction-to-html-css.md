@@ -31,7 +31,7 @@ HTML code is composed of a series of elements, which are the individual parts of
 
 For example:
 
-```html
+```
 <p>This is a paragraph</p>
 ```
 
