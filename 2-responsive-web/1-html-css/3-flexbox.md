@@ -136,7 +136,7 @@ Flexbox examples in web design showcase its versatility and efficiency. Below ar
 Constructing a navigation bar is a fundamental task in web design, and Flexbox simplifies this process immensely. Begin by setting the parent container to `display: flex;`, ensuring that each navigation item lines up side by side. Utilize `justify-content: space-between;` to distribute the navigation links evenly across the available space or `justify-content: space-around;` for equal spacing around each link.
 
 ```css
-/* CSS for Flexbox Navigation Bar \*/
+/* CSS for Flexbox Navigation Bar */
 nav {
   display: flex;
   justify-content: space-between;
@@ -154,7 +154,7 @@ This approach offers a responsive and adaptable navigation structure, which can 
 Card layouts are another area where Flexbox shines, allowing for an array of items to adjust seamlessly within a container. Define a container with `display: flex;` followed by `flex-wrap: wrap;` so that cards can wrap onto the next line when space is constrained. With `justify-content: center;`, cards remain centered within the container.
 
 ```css
-/* CSS for Flexbox Card Layout \*/
+/* CSS for Flexbox Card Layout */
 .container {
   display: flex;
   flex-wrap: wrap;

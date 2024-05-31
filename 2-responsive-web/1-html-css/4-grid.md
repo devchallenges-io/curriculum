@@ -178,7 +178,7 @@ This property aligns grid items along the inline (row) axis. By default, it is s
 ```css
 .container {
   display: grid;
-  justify-items: start; /* Aligns items to the start of each cell \*/
+  justify-items: start; /* Aligns items to the start of each cell */
 }
 ```
 
@@ -189,7 +189,7 @@ Similar to `justify-items`, but for the block (column) axis. It determines verti
 ```css
 .container {
   display: grid;
-  align-items: end; /* Aligns items to the end of each cell vertically \*/
+  align-items: end; /* Aligns items to the end of each cell vertically */
 }
 ```
 
@@ -213,7 +213,7 @@ Operates like `justify-content`, but on the block axis. This property comes into
 .container {
   display: grid;
   height: 400px;
-  align-content: center; /* Centers the rows vertically within the container \*/
+  align-content: center; /* Centers the rows vertically within the container */
 }
 ```
 

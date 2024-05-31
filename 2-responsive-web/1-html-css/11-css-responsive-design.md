@@ -157,7 +157,7 @@ Parentheses are important for grouping multiple media features or types, allowin
 
 ```css
 @media (orientation: landscape) and (min-width: 768px) {
-  /* Styles for landscape orientation with a minimum width of 768px \*/
+  /* Styles for landscape orientation with a minimum width of 768px */
 }
 ```
 
