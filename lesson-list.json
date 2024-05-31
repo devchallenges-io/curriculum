@@ -26,7 +26,8 @@
   },
   {
     "title": "Writing good commit messages",
-    "path": "1-fundamentals/4-git-github/2-writing-good-commits.md"
+    "path": "1-fundamentals/4-git-github/2-writing-good-commits.md",
+    "slug": "writing-good-commit-messages"
   },
   {
     "title": "Free Hosting for Web Projects",
