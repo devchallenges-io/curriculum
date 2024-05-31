@@ -1,5 +1,7 @@
 # HTML Tag Cheat Sheet: The Essential Reference for Web Developers
 
+## Introduction
+
 This lesson aims to equip readers with a comprehensive **Essential Reference** designed specifically for **Web Developers**. Here's what you can expect:
 
 1.  A curated list of crucial HTML tags
@@ -83,7 +85,7 @@ For example:
 
 **_Note:_** There can only be one `<body>` element in a document.
 
-## The `<a>` Tag: Creating Hyperlinks in HTML
+## 3. Anchor Tag: `<a>`
 
 The `<a>` tag, commonly known as the anchor tag, plays a crucial role in web navigation by creating hyperlinks. It is the gateway that connects one resource to another, enabling the interconnected nature of the web.
 
@@ -106,7 +108,7 @@ In this snippet:
 - Clicking on the link will navigate to "https://www.example.com".
 - Due to `target="_blank"`, the URL opens in a new browser tab.
 
-## 3. Image Tag: `<img>`
+## 4. Image Tag: `<img>`
 
 The `<img>` tag is an essential element in HTML that allows you to add images to your web pages. Whether it's a stunning photograph, an informative chart, or a simple icon, images can greatly enhance the visual appeal and user experience of your website.
 
@@ -153,7 +155,7 @@ Here are some tips to keep in mind when using the `<img>` tag:
 
 By following these best practices and using the `<img>` tag correctly, you can ensure that your images are displayed properly across different devices and browsers, while also making your website more accessible and search engine-friendly.
 
-## 4. Heading Tags
+## 5. Heading Tags
 
 Heading tags in HTML are fundamental for structuring the content of a web page. They provide a hierarchy that outlines the importance and level of the content, facilitating both user navigation and search engine optimization.
 
@@ -173,7 +175,7 @@ Using these HTML tags correctly ensures a well-structured document that enhances
 
 Each heading level visually conveys the structure of your document's content, guiding users through your webpage logically. Remember to use headings sequentially to define sections and subsections effectively.
 
-## 5. Paragraph Tag: `<p>`
+## 6. Paragraph Tag: `<p>`
 
 The `<p>` tag is an essential element in web development used to define paragraphs of text. It has two main functions:
 
@@ -198,7 +200,7 @@ When integrating paragraphs into your HTML document, remember these key points:
 
 By following these best practices with the paragraph tag, you ensure that your content is both semantically correct and visually accessible to all users.
 
-## 6. List Tags
+## 7. List Tags
 
 In HTML, organizing content into lists is accomplished using the `<ul>`, `<ol>`, and `<li>` tags. An unordered list, created with `<ul>`, displays list items with bullet points as their default styling, indicating a collection of items without a particular sequence. In contrast, an ordered list, formed with `<ol>`, automatically numbers its items, conveying a sense of order or steps.
 
@@ -224,7 +226,7 @@ The `<li>` tag defines each list item within both types of lists and is essentia
 
 By utilizing these list tags effectively, web developers can enhance readability and organization of content on their web pages.
 
-## 7. Line Break Tag: `<br>`
+## 8. Line Break Tag: `<br>`
 
 The `<br>` tag, also known as the line break tag, has a specific purpose in HTML: it adds a single line break into text content. Unlike paragraph tags (`<p>`), which create a block-level container for text, the `<br>` tag is an inline element that doesn't need a closing tag. It's especially handy for adjusting the layout of poems or addresses within an HTML document where distinct line breaks are essential.
 
@@ -240,7 +242,7 @@ Here's an example of how you can use the `<br>` tag:
 
 In this code snippet, each `<br>` tag represents the end of a line of text, creating clear separation without starting a new paragraph. This simple yet powerful HTML tag ensures that your content appears exactly as intended on web pages.
 
-## 8. Div (Container) Tag: `<div>`
+## 9. Div (Container) Tag: `<div>`
 
 The `<div>` tag is an essential part of HTML, used as a flexible container for grouping and styling HTML elements. Unlike other HTML tags that have specific meanings or purposes, the `<div>` tag is purely presentational, allowing developers to organize their web pages in a logical and structured way.
 
@@ -262,7 +264,7 @@ In this example:
 
 It's important to note that while `<div>` tags are incredibly versatile, they should be used wisely to avoid excessive nesting and complex code structures. Instead, consider using more semantic HTML5 elements like `<section>`, `<article>`, and `<aside>` when they better describe the content for improved accessibility and SEO.
 
-## 9. Video Tag: `<video>`
+## 10. Video Tag: `<video>`
 
 The `<video>` tag is an HTML5 feature that allows you to directly embed video content on a web page without relying on external plugins or players. It supports different video formats like MP4, WebM, and Ogg.
 
@@ -294,7 +296,7 @@ In this example:
 
 By using the `<video>` tag correctly, developers can create a better user experience by incorporating multimedia content that works well on different devices and browsers.
 
-## 10. Table Tag: `<table>`
+## 11. Table Tag: `<table>`
 
 When structuring tabular data on a web page, the `<table>` **tag** is indispensable. It serves as the foundation for creating a table in HTML, organizing data into rows and columns for clear presentation.
 
@@ -313,7 +315,7 @@ HTML tables can be formatted with various attributes to adjust their appearance:
 
 Here is an example of how these elements come together to create a simple HTML table:
 
-```
+```html
 <table border="1" cellpadding="4" cellspacing="0" width="100%">
   <tr>
     <th>Header 1</th>
@@ -337,7 +339,7 @@ This code defines a table with a one-pixel border, four pixels of padding within
 
 By understanding and utilizing these basic yet powerful elements of HTML tables, web developers can effectively organize and display data on their web pages.
 
-## 11. Form Tag: `<form>`
+## 12. Form Tag: `<form>`
 
 The `form` tag is crucial in HTML as it enables the creation of an interactive form for user input. This element is foundational for gathering data from users, ranging from simple contact information to complex survey responses.
 
@@ -369,7 +371,7 @@ Remember, proper labeling is essential for accessibility; use `<label>` tags ass
 
 For enhanced functionality, JavaScript can be leveraged to validate user input before submission or manipulate form controls dynamically without requiring a page refresh.
 
-## 12. Comments
+## 13. Comments
 
 When writing HTML, it's essential to maintain code that is easily understandable not just by the machine, but also by humans—be it your future self or other developers. This is where _HTML comments_ come into play.
 
