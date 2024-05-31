@@ -102,5 +102,93 @@
     "title": "Accessibility",
     "path": "2-responsive-web/1-html-css/13-accessibility.md",
     "slug": "accessibility"
+  },
+  {
+    "title": "Introduction to JavaScript",
+    "path": "3-javascript/1-javascript/1-introduction-to-javascript.md"
+  },
+  {
+    "title": "JavaScript Variables and Data Types",
+    "path": "3-javascript/1-javascript/2-variables.md"
+  },
+  {
+    "title": "JavaScript Functions",
+    "path": "3-javascript/1-javascript/3-js-functions.md"
+  },
+  {
+    "title": "JavaScript Arrays",
+    "path": "3-javascript/1-javascript/4-js-array.md"
+  },
+  {
+    "title": "JavaScript Objects",
+    "path": "3-javascript/1-javascript/5-js-advanced-object.md"
+  },
+  {
+    "title": "JavaScript Loops",
+    "path": "3-javascript/1-javascript/6-js-loops.md"
+  },
+  {
+    "title": "JavaScript Conditionals",
+    "path": "3-javascript/1-javascript/7-conditionals.md"
+  },
+  {
+    "title": "JavaScript Modules Basics",
+    "path": "3-javascript/1-javascript/8-js-modules-basics.md"
+  },
+  {
+    "title": "JavaScript Recursion",
+    "path": "3-javascript/1-javascript/9-js-recursion.md"
+  },
+  {
+    "title": "JavaScript DOM and Events",
+    "path": "3-javascript/1-javascript/10-js-dom-and-events.md"
+  },
+  {
+    "title": "JavaScript Scope and Closures",
+    "path": "3-javascript/1-javascript/11-js-scope-closures.md"
+  },
+  {
+    "title": "JavaScript Async and API",
+    "path": "3-javascript/1-javascript/12-async-and-api.md"
+  },
+  {
+    "title": "JavaScript Functional Programming",
+    "path": "3-javascript/1-javascript/13-functional-programming.md"
+  },
+  {
+    "title": "JavaScript OOP Concepts",
+    "path": "3-javascript/1-javascript/14-oop.md"
+  },
+  {
+    "title": "JavaScript Regular Expressions",
+    "path": "3-javascript/1-javascript/15-regex.md"
+  },
+  {
+    "title": "JavaScript Storing Data in Browser",
+    "path": "3-javascript/1-javascript/16-storing-data-browser.md"
+  },
+  {
+    "title": "Introduction to TypeScript",
+    "path": "3-javascript/2-typescript/1-introduction-to-typescript.md"
+  },
+  {
+    "title": "TypeScript OOP Concepts",
+    "path": "3-javascript/2-typescript/2-oop-in-typescript.md"
+  },
+  {
+    "title": "TypeScript Generics",
+    "path": "3-javascript/2-typescript/3-typescript-generics.md"
+  },
+  {
+    "title": "TypeScript Modules",
+    "path": "3-javascript/2-typescript/4-typescript-modules.md"
+  },
+  {
+    "title": "TypeScript Decorators",
+    "path": "3-javascript/2-typescript/5-typescript-decorators.md"
+  },
+  {
+    "title": "TypeScript Advanced Concepts",
+    "path": "3-javascript/2-typescript/6-advanced-typescript-concept.md"
   }
 ]
