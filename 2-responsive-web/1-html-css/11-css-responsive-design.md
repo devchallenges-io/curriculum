@@ -112,11 +112,11 @@ Breakpoints are defined points where the website content responds to provide the
 }
 ```
 
-5.  **Use Standard Sizes**: While custom breakpoints offer flexibility, aligning with common device dimensions can streamline the design process.
+3.  **Use Standard Sizes**: While custom breakpoints offer flexibility, aligning with common device dimensions can streamline the design process.
 
 By integrating media queries strategically, websites adapt fluidly, maintaining an optimal user experience regardless of device specifics. The practice requires careful planning and testing to ensure seamless transitions between breakpoints.
 
-## Adapting to Different Devices with Media Queries
+### Adapting to Different Devices with Media Queries
 
 Responsive design must accommodate not only varying screen sizes but also the different ways users interact with their devices. Media queries are instrumental in fine-tuning a website's presentation across a multitude of devices, each with unique orientations and pointing devices.
 

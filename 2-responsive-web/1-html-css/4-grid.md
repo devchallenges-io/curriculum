@@ -223,7 +223,7 @@ Leveraging these alignment properties ensures that designers have granular contr
 
 ## 8. Changing the Order of Grid Items
 
-In CSS Grid, you can change the visual order of grid items using the `order`** property**. This feature was first introduced in CSS Flexbox and now also available in CSS Grid. The `order` property allows you to rearrange items independently of their source order within the HTML document.
+In CSS Grid, you can change the visual order of grid items using the `order` **property**. This feature was first introduced in CSS Flexbox and now also available in CSS Grid. The `order` property allows you to rearrange items independently of their source order within the HTML document.
 
 Here's an example of how you can use the `order` property in CSS:
 

@@ -32,7 +32,7 @@ The class selector allows you to style any HTML element that has a specific clas
 
 Here, any element with the `class="error"` attribute will have red text.
 
-## **ID Selector**
+### **ID Selector**
 
 The ID selector in CSS allows you to style a specific HTML element that has a unique identifier. It is denoted by a hash symbol # followed by the ID name.
 
@@ -209,7 +209,7 @@ Pseudo-elements can add flair and attention to detail without altering the HTML 
 
 Use these advanced selectors to refine interactions and presentation, enhancing both aesthetic appeal and usability. For instance, combine pseudo-classes with transitions for smooth hover effects or utilize pseudo-elements to create custom bullet points for lists. These techniques exemplify how pseudo-selectors can elevate web design beyond basic styling conventions.
 
-## Practical Tips for Using Advanced CSS Selectors
+## 5. Practical Tips for Using Advanced CSS Selectors
 
 When integrating advanced CSS selectors into web projects, consider the specific needs of the project and weigh them against the capabilities of basic selectors. Advanced selectors offer precision and can target elements in a context-sensitive manner, but they may also introduce complexity. Here are some key points to keep in mind:
 
@@ -257,7 +257,7 @@ CSS selector optimization is not only about performance; it's also about writing
 
 By integrating these accessible and maintainable coding practices, web developers not only adhere to best practices but also pave the way for user-friendly and scalable designs. The next section delves into how CSS frameworks incorporate these selector strategies within their methodologies.
 
-## Exploring CSS Frameworks and their use of Selectors
+## 6. Exploring CSS Frameworks and their use of Selectors
 
 CSS frameworks are essential tools for building modern web applications. They provide pre-written CSS classes and components, making it easier and faster to style our websites.
 
