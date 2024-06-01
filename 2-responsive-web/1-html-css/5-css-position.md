@@ -154,7 +154,7 @@ While sticky positioning can be a helpful technique, there are some important po
 
 By strategically incorporating sticky elements into your webpages, you can improve the user experience by ensuring that important content remains easily accessible as visitors scroll.
 
-## Stacking Order, Z-index, and Positioned Elements
+## 6. Stacking Order, Z-index, and Positioned Elements
 
 When multiple elements overlap in a web layout, **stacking order** determines which element appears on top of another. This visual hierarchy is pivotal in CSS for creating complex designs without unintentional obstructions.
 

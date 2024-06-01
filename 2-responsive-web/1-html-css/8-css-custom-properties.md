@@ -6,7 +6,7 @@ CSS custom properties have transformed the way we style websites, offering a lev
 
 Custom properties allow authors to define values once and reuse them throughout the document, leading to more maintainable code. They are identifiable with their unique syntax, consisting of two hyphens (--) followed by a name, for example: `--main-bg-color`.
 
-### **Syntax Comparison**
+## 1. **Syntax Comparison**
 
 Here's a quick comparison between a regular CSS property and a custom property definition:
 
@@ -31,7 +31,7 @@ To use the value of a custom property, you need to use the `var()` function:
 }
 ```
 
-## Working with CSS Custom Properties
+## 2. Working with CSS Custom Properties
 
 ### Declaring and Defining Custom Properties in CSS
 
@@ -91,7 +91,7 @@ There may be scenarios where an invalid value is assigned to a custom property. 
 }
 ```
 
-### Accessing and Using Custom Properties in CSS Rule Declaration
+## 3. Accessing and Using Custom Properties in CSS Rule Declaration
 
 Accessing and using CSS custom properties involves a critical understanding of the `var()` function. This function enables you to retrieve the value of a defined custom property. The syntax is straightforward: `var(--name)`, where `--name` represents the name of the custom property.
 
@@ -137,7 +137,7 @@ In this example, both paragraph tags `p` and heading tags `h1` access the same c
 
 Remember, mastering CSS custom properties necessitates being fluent in declaring, defining, accessing, and using these properties efficiently within your stylesheets. Keep practicing and experimenting with different scenarios to gain a solid grasp of these concepts.
 
-### Scope and Inheritance of Custom Properties in CSS
+## 4. Scope and Inheritance of Custom Properties in CSS
 
 Custom properties in CSS make stylesheets more dynamic by allowing values to be reused and manipulated efficiently. One important thing to understand is how custom properties work with scope and inheritance.
 
@@ -182,7 +182,7 @@ For example:
 
 The `.child` class will have a different `--text-color` value than its parent due to redefinition. This behavior enables fine-grained control over styling in complex component structures.
 
-## Advanced Techniques with CSS Custom Properties
+## 5. Advanced Techniques with CSS Custom Properties
 
 ### Using Media Queries and Themes with CSS Custom Properties
 

@@ -10,13 +10,7 @@ There are three key components of responsive design:
 2. **Media queries:** This CSS feature enables designers to apply specific styles based on device characteristics like screen width and resolution.
 3. **CSS techniques:** Using modern CSS properties helps make web components more flexible and responsive.
 
-In this comprehensive guide, we'll explore each of these aspects in detail, providing you with a solid understanding and practical strategies. We'll start with the basics of fluid layouts and media queries before diving into advanced CSS tricks and future trends in responsive web design.
-
-By the end of this guide, you'll have the knowledge and skills to excel in responsive design both now and in the future. Let's get started!
-
-## Understanding Responsive Design
-
-Responsive design is a method of web development that ensures a website's layout adjusts to the viewport width of the device it's being viewed on. This approach provides an optimal viewing experience for users across a wide range of devices, from desktop monitors to mobile phones.
+In this lesson, we'll explore each of these aspects in detail, providing you with a solid understanding and practical strategies. We'll start with the basics of fluid layouts and media queries before diving into advanced CSS tricks and future trends in responsive web design.
 
 ### Key Principles of Responsive Design
 
@@ -29,7 +23,7 @@ When designing responsively, remember several key principles:
 
 By prioritizing these principles, developers create websites that are not only visually appealing but also functional and user-friendly across all devices.
 
-## Creating Flexible and Fluid Layouts with CSS
+## 1. Creating Flexible and Fluid Layouts with CSS
 
 Using CSS to create responsive layouts ensures that your websites adjust smoothly across different screen sizes. The key to responsive web design is being able to create layouts that are flexible and can stretch or shrink based on the device's screen.
 
@@ -60,7 +54,7 @@ Here are two options for using fluid grid systems:
 
 Start incorporating these CSS techniques into your workflow to make your web layouts more flexible and ready for any screen size.
 
-## Ensuring Image Responsiveness in a Mobile-First World
+## 2. Ensuring Image Responsiveness in a Mobile-First World
 
 Responsive design goes beyond text and layout; it's important for images to adapt to different devices as well. Here are some ways you can make sure your images are responsive:
 
@@ -92,7 +86,7 @@ In this example, the browser will choose:
 - The `medium.jpg` image (1000 pixels wide) if the screen width is between 601 and 1200 pixels.
 - The `large.jpg` image (2000 pixels wide) if the screen width is greater than 1200 pixels.
 
-## Mastering Media Queries for Effective Responsiveness
+## 3. Mastering Media Queries for Effective Responsiveness
 
 Media queries are the backbone of responsive web design, enabling the creation of visually and functionally cohesive experiences across a multitude of devices. By leveraging these powerful CSS tools, designers can adapt layouts to varying screen sizes and conditions with precision.
 
@@ -135,7 +129,7 @@ Media queries enable the detection and application of styles based on device ori
 
 By testing these orientations during development, you can adjust styles dynamically, ensuring that elements such as navigation menus and images render appropriately.
 
-## Advanced Strategies with Media Queries
+## 4. Advanced Strategies with Media Queries
 
 Responsive web design becomes more powerful with advanced media query techniques. Mastering these strategies allows for better control over how content appears on different devices.
 
@@ -175,7 +169,7 @@ Selective styling can be achieved by using media queries that evaluate certain c
 
 By incorporating these advanced strategies in CSS, designers have more precise control over responsive design, creating a better user experience on any device or screen size. These methods enable responsive designs that are not only flexible but also smartly adaptable.
 
-## Best Practices for Responsive Web Design
+## 5. Best Practices for Responsive Web Design
 
 Responsive Web Design (RWD) requires a careful approach to ensure websites look great and work well on any device. Front-end engineers play a crucial role in this area, creating smooth experiences by following established best practices.
 
@@ -209,7 +203,7 @@ Regularly test your design on actual devices in addition to emulators, in order 
 
 By following these best practices, front-end engineers can create responsive designs that are durable and effective.
 
-## Future Trends in Responsive Design
+## 6. Future Trends in Responsive Design
 
 Responsive design is constantly changing, and there are exciting developments on the horizon with the **Level 4 specification** for media queries. This new standard is set to completely transform how developers create websites that can adapt to different devices. Here are some key trends to look out for:
 

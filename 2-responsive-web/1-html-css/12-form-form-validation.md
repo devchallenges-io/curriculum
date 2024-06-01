@@ -8,7 +8,7 @@ Form validation is just as important. It acts as a gatekeeper to ensure that the
 
 By the end of this lesson, you'll have the skills to improve user interfaces and strengthen data security in your projects.
 
-## Understanding HTML Forms
+## 1. Understanding HTML Forms
 
 HTML forms are essential for collecting data on the web. They allow users to enter information that can be sent to a server for processing. The `<form>` element is used as a container for different types of input elements, each serving a specific purpose in capturing user input.
 
@@ -82,7 +82,7 @@ Understanding these different input elements and how they work is crucial in des
 
 The next sections will cover more advanced input types and validation techniques that can further enhance the functionality and security of your forms.
 
-## Common Input Types for Form Fields
+## 2. Common Input Types for Form Fields
 
 HTML forms support a variety of input types that cater to different data requirements. This section provides insights into the most commonly used HTML input types, offering guidance on their suitable applications and any associated validation requirements. Practical examples demonstrate how each input type is implemented.
 
@@ -189,7 +189,7 @@ In this example:
 
 Remember to use appropriate attributes like `required`, `pattern`, and length constraints (`minlength`/`maxlength`) to enhance built-in validation mechanisms. Each attribute serves a specific purpose in guiding user inputs towards meeting defined criteria and maintaining data integrity.
 
-## JavaScript Form Validation
+## 3. JavaScript Form Validation
 
 For more complex scenarios where HTML attributes fall short, JavaScript offers a powerful way to handle custom validation rules.
 

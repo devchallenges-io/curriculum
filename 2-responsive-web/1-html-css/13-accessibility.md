@@ -6,7 +6,7 @@ Web accessibility is the practice of making websites usable for everyone, includ
 
 This lesson explores the main principles of web accessibility as defined by the Web Content Accessibility Guidelines (WCAG) and provides practical tips on how to incorporate these principles into your web projects. By focusing on four key areas—perceivability, operability, understandability, and robustness—you can create an inclusive online environment that accommodates diverse user needs.
 
-## Understanding Web Accessibility Guidelines
+## 1. Understanding Web Accessibility Guidelines
 
 The **Web Accessibility Initiative (WAI)** operates under the World Wide Web Consortium (W3C), playing a pivotal role in improving digital access. WAI spearheads efforts to craft and disseminate strategies, guidelines, and resources that ensure the web is accessible to individuals with disabilities, thus fostering inclusivity on a global scale.
 
@@ -23,7 +23,7 @@ Complementing WCAG is **WAI-ARIA**, the Accessible Rich Internet Applications su
 
 By adhering to these guidelines, developers create an environment where all users have equal access to information and functionality. The subsequent sections delve into practical aspects of implementing these principles in web development.
 
-## Key Elements of HTML Accessibility
+## 2. Key Elements of HTML Accessibility
 
 Ensuring HTML accessibility is a critical step in web development, directly impacting users with disabilities by providing them with a better, more inclusive web experience. Effective accessibility strategies revolve around several key elements:
 
@@ -56,7 +56,7 @@ Focus management entails:
 
 By integrating these aspects effectively, developers create websites that are more accessible to people with various disabilities. It's not just about compliance; it's about creating an equitable environment where every user has the opportunity to interact fully with web content.
 
-## Making Media Content Accessible
+## 3. Making Media Content Accessible
 
 Accessible media content is essential for users with disabilities to fully engage with the web. This includes images, videos, and audio. Here are some actionable strategies to make sure this content is inclusive:
 
@@ -72,7 +72,7 @@ Accessible media content is essential for users with disabilities to fully engag
 
 By integrating these practices into web design, media content becomes more accessible, enriching the experience for all users.
 
-## Ensuring Navigation and Readability for All Users
+## 4. Ensuring Navigation and Readability for All Users
 
 Web accessibility means making sure that everyone can easily navigate and read content on a website, regardless of their abilities. Here are some important things to consider:
 
@@ -90,7 +90,7 @@ Websites need to work well on different devices and screen sizes in order to be 
 
 By following these guidelines, you'll be creating a user-friendly experience that includes as many people as possible and makes web content accessible to a wider audience.
 
-## Importance of Testing and Evaluation in Web Accessibility
+## 5. Importance of Testing and Evaluation in Web Accessibility
 
 Ensuring web accessibility is a continuous effort that must be integrated into the development process. Rigorous testing and evaluation are essential to verify that websites meet accessibility standards and are usable by people with disabilities.
 
@@ -114,7 +114,7 @@ User testing with individuals who have disabilities is invaluable as it provides
 
 By combining both automated and manual testing methods, developers can create more accessible web experiences. Engaging users with disabilities throughout this process promotes inclusivity and helps to elevate the quality of the final product.
 
-## Resources for Web Accessibility Standards and Education
+## 6. Resources for Web Accessibility Standards and Education
 
 Accessing reliable and authoritative resources is crucial when pursuing web accessibility. The World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) stands out as a primary source of information and guidance. Here are some key offerings from the W3C WAI:
 
@@ -128,7 +128,7 @@ These resources provide essential knowledge for practitioners looking to deepen 
 
 By implementing these best practices, organizations can gain significant advantages beyond just meeting accessibility requirements.
 
-## The Business Case for Web Accessibility
+## 7. The Business Case for Web Accessibility
 
 Businesses that prioritize web accessibility experience a wide range of benefits, going beyond ethical considerations and leading to measurable improvements in performance. By making their websites more accessible, businesses adopt an inclusive approach that brings significant advantages:
 
@@ -148,7 +148,7 @@ By embracing web accessibility, businesses protect their interests while also ma
 
 The movement towards an accessible online world is gaining momentum, and businesses are strongly advised to incorporate these practices as a standard part of their digital strategy.
 
-## Embracing a Culture of Inclusive Design
+## 8. Embracing a Culture of Inclusive Design
 
 In a digital era where inclusivity can define the success of web projects, adopting a culture of inclusive design is paramount. It's about integrating accessibility into the fabric of organizational values and project workflows. This commitment to inclusivity ensures that products and services cater to a diverse audience, including those with disabilities.
 

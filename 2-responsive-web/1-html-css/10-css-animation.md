@@ -116,7 +116,7 @@ Here's an example of using the shorthand transition property:
 
 By utilizing these tools skillfully, developers craft subtle or dynamic transitions that enrich user interactions without detracting from functionality.
 
-## Animation Timing Functions
+## 3. Animation Timing Functions
 
 Animation timing functions are used to control the pace and progression of animations. They determine how an animation property changes over time. In other words, they define the rate of change of an animation's property values.
 

@@ -10,7 +10,7 @@ CSS units can be divided into three main types:
 2.  **Relative units**: These include em and rem. Unlike absolute units, relative units adapt their size based on other properties such as the parent element's font-size or the root element's font-size. This makes them more flexible and suitable for responsive designs.
 3.  **Viewport units**: These include vw, vh, vmin, and vmax. Viewport units are relative to the size of the browser viewport (the visible portion of the webpage). They are useful for creating layouts that automatically adjust to different screen sizes.
 
-## Absolute Length Units
+## 1. Absolute Length Units
 
 When creating web layouts and wanting precise design control, it's important to understand absolute length units. These units are fixed and don't change based on other elements' properties. They help maintain consistency across devices with the same physical measurements but may appear differently due to varying screen resolutions.
 
@@ -41,7 +41,7 @@ When creating web layouts and wanting precise design control, it's important to 
 
 Each absolute unit has specific use cases where their unchanging nature ensures consistency. Pixels are commonly used in digital interfaces because they are familiar and precise. However, it's important to consider their limitations and potential impact on device independence and user accessibility. The choice between these units should depend on the project's need for consistency across different mediums and the user's experience.
 
-## Relative Length Units
+## 2. Relative Length Units
 
 ### **Understanding the **`em`** Unit**
 
@@ -76,7 +76,7 @@ Users who adjust their browser's default font size will find websites styled wit
 
 Choosing between these relative units depends on specific layout goals and typography strategies. By leveraging these units effectively, developers can create designs that are flexible and adaptive to user preferences and display environments. Transitioning smoothly into viewport units, these concepts remain foundational as they address different aspects of responsive design.
 
-## Viewport Units
+## 3. Viewport Units
 
 Viewport units are essential for creating responsive design layouts, as they allow elements to adapt to various screen sizes. These units include `vw` (viewport width), `vh` (viewport height), `vmin`, and `vmax`. Each unit represents a percentage of the current viewport size, enabling scalability and fluidity in design.
 
@@ -139,7 +139,7 @@ In this example, regardless of how users resize their browser window, the overla
 
 Integrating these units into web design ensures that layouts remain flexible and user-friendly across different devices. By assigning dimensions with `vw`, `vh`, `vmin`, and `vmax`, developers can create designs that are truly responsive to changing viewport sizes.
 
-## Choosing the Right CSS Units for Your Project
+## 4. Choosing the Right CSS Units for Your Project
 
 Selecting the appropriate CSS units for typography and layout is crucial for ensuring a consistent and accessible user experience across various devices. Here are some considerations to guide your decision when determining which length units to implement in your project:
 

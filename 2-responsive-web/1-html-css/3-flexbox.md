@@ -9,19 +9,17 @@ The positioning of these items is determined along two axes:
 - **Primary Axis**: Defines the main direction in which flex items are placed in the flex container. By default, this is horizontal (row), but it can be vertical (column) if specified by `flex-direction`.
 - **Cross Axis**: Perpendicular to the primary axis; where alignment of items occurs when there's extra space in the container or when their sizes differ.
 
-<!-- TODO: ADD image ![Flexbox axis](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg) -->
-
 By understanding how the primary and cross axis work together, you have the ability to control how items stack and align inside a container. Whether you're dealing with a set of buttons or creating intricate web layouts, knowing about these axes gives you the power to adjust spacing and item alignment precisely.
 
 > **Note**: When exploring individual Flexbox properties, remember their impact on elements along these axes. This understanding will help you create designs that are adaptable and versatile.
 
-## Key Flexbox Properties for Containers and Items
+## 1. Key Flexbox Properties for Containers and Items
 
 Flexbox revolves around two types of elements: the **flex container** and the **flex items**. Mastering Flexbox involves understanding and effectively applying properties to these elements.
 
 ### Flex Container Properties
 
-<!-- TODO: ADD image for each -->
+<!-- TODO: add visualization here -->
 
 #### `display`
 
@@ -79,7 +77,7 @@ This property applies uniform spacing between items, streamlining layout design 
 
 By mastering these properties, designers gain granular control over how elements are laid out within a flex container, allowing for sophisticated designs that adapt fluidly across different screen sizes and devices.
 
-## Managing Flexibility with Growth, Shrinkage, and Basis
+## 2. Managing Flexibility with Growth, Shrinkage, and Basis
 
 Flexbox's true power lies in its ability to manage space distribution among items within a container. This dynamic resizing is handled by three key properties: `flex-grow`, `flex-shrink`, and `flex-basis`. Understanding how these properties work together is essential for mastering flexible layouts.
 
@@ -127,7 +125,7 @@ By effectively managing these properties, you can create complex layouts that ar
 
 Experimenting with different values for `flex-grow`, `flex-shrink`, and `flex-basis` will reveal their impact on your layouts and improve your command over this robust layout model.
 
-## Real-world Examples of Flexbox in Action
+## 3. Real-world Examples of Flexbox in Action
 
 Flexbox examples in web design showcase its versatility and efficiency. Below are practical demonstrations of how Flexbox can be instrumental in creating commonly used layout patterns:
 

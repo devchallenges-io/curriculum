@@ -4,11 +4,13 @@
 
 CSS Grid Layout revolutionized web design by allowing developers to precisely create complex layouts. Unlike older methods, CSS Grid provides a flexible and robust approach to element arrangement on a web page. It offers enhanced control over horizontal and vertical alignment of elements, facilitating responsive designs that adapt to various screen sizes. This advancement enables the creation of complex, adaptable layouts without necessitating complicated frameworks or hacks.
 
-## Understanding the Basics of CSS Grid
+## 1. Understanding the Basics of CSS Grid
 
 ### Grid Container
 
 When creating a CSS Grid layout, the main element you need is the _Grid Container_. This is simply an HTML element that acts as a container and has the `display: grid;` property applied to it. Once you do this, it becomes a powerful grid system where you can organize and arrange its child elements in any way you want.
+
+<!-- TODO: add visualization here -->
 
 ### Grid Lines
 
@@ -30,7 +32,7 @@ Here's how it works:
 
 By understanding these basic concepts — Grid Container, Grid Lines, and Grid Tracks — you'll have a solid foundation for creating complex layouts using CSS Grid. With these fundamentals in place, diving into more advanced features of CSS Grid will be much easier.
 
-## Exploring Grid Items, Grid Cells, and Grid Areas
+## 2. Exploring Grid Items, Grid Cells, and Grid Areas
 
 When you use CSS Grid on a container element, the direct children become **Grid Items**. These items automatically join in the grid layout, positioning themselves according to the structure defined by **Grid Lines**.
 
@@ -46,7 +48,7 @@ For organizing content that spans across multiple cells, CSS Grid provides **Gri
 
 Understanding these concepts helps you see how individual elements interact with CSS Grid structures. This knowledge will come in handy as you move on to creating layouts and manipulating items within your grid.
 
-## Creating a Basic CSS Grid Layout
+## 3. Creating a Basic CSS Grid Layout
 
 To create a CSS Grid layout, follow these steps:
 
@@ -63,7 +65,7 @@ This single line of CSS is enough to convert the container into a grid layout wh
 
 Each direct child of the `.container` automatically takes its place in the grid. By default, they will position themselves as column tracks, filling up one row after another. This transforms a standard block-level flow into a powerful grid structure without additional markup or complex styles.
 
-## Defining Columns and Rows in CSS Grid
+## 4. Defining Columns and Rows in CSS Grid
 
 In CSS Grid, the `grid-template-columns` and `grid-template-rows` properties are crucial for creating the structure of your grid. They determine the column tracks and row tracks, which serve as the foundation of the entire grid layout.
 
@@ -103,7 +105,7 @@ Here:
 
 By utilizing these properties, you have control over the fundamental dimensions of your CSS Grid. These initial settings empower you to create intricate and adaptable design structures that work well on various devices.
 
-## Placing Items in Specific Grid Cells
+## 5. Placing Items in Specific Grid Cells
 
 The `grid-column` and `grid-row` properties are essential for positioning items within a CSS Grid layout. These properties allow you to assign grid items to specific locations on the grid, giving you control over the placement of content.
 
@@ -138,7 +140,7 @@ Combine these properties to target specific cells or areas:
 
 In this example, `.item1` spans from column lines 1 to 3, occupying two columns and is placed in the first row. Conversely, `.item2` is positioned starting at column line 3 and spans two rows down. The flexibility offered by these properties enables designers to create complex layouts with elements spanning various cells, both horizontally and vertically.
 
-## Creating Grid Gaps for Spacing
+## 6. Creating Grid Gaps for Spacing
 
 The `gap` property, an essential tool in the CSS Grid arsenal, introduces a clear visual separation between grid items. It allows designers to define consistent space around items within a grid container, effectively controlling the padding between cells and rows.
 
@@ -167,7 +169,7 @@ Alternatively, `grid-row-gap` and `grid-column-gap` can be used to set row and c
 }
 ```
 
-## Aligning and Justifying Items in the Grid
+## 7. Aligning and Justifying Items in the Grid
 
 CSS Grid provides powerful control over the alignment of items within your grid, which can be managed using `justify-items`, `align-items`, `justify-content`, and `align-content`. These properties influence how content fits within both the grid container and individual grid items.
 
@@ -219,7 +221,7 @@ Operates like `justify-content`, but on the block axis. This property comes into
 
 Leveraging these alignment properties ensures that designers have granular control over how elements are presented in their layouts, leading to more polished and precise designs. With careful application, it is possible to create a layout that looks great on all screen sizes and maintains consistency across different browsers.
 
-## Changing the Order of Grid Items
+## 8. Changing the Order of Grid Items
 
 In CSS Grid, you can change the visual order of grid items using the `order`** property**. This feature was first introduced in CSS Flexbox and now also available in CSS Grid. The `order` property allows you to rearrange items independently of their source order within the HTML document.
 
@@ -231,7 +233,7 @@ Here's an example of how you can use the `order` property in CSS:
 }
 ```
 
-## Creating Responsive Grid Layouts
+## 9. Creating Responsive Grid Layouts
 
 Responsive design is essential for ensuring that web applications provide an optimal experience across various devices. The `minmax()` function in CSS Grid allows developers to define flexible grid tracks that can adapt seamlessly to different screen sizes.
 
@@ -256,7 +258,7 @@ Here, the grid container `.container` sets up columns with a minimum width of `2
 
 By integrating the `minmax()` function into responsive layouts, designers gain control over how content scales and adapts to different devices, ensuring consistent user experiences.
 
-## Building Complex Grid Structures
+## 10. Building Complex Grid Structures
 
 Nested grids and Grid Line Names are powerful tools for creating complex and sophisticated web layouts.
 
@@ -304,13 +306,3 @@ By using nested grids and Grid Line Names, developers can create complex layouts
 ## Conclusion
 
 Mastering CSS Grid empowers web developers with a robust toolset for crafting sophisticated, two-dimensional layouts that seamlessly adapt to the dynamic needs of modern web design. This comprehensive guide has journeyed through the foundational concepts, advancing to complex grid structures, underscoring the versatility and power of CSS Grid.
-
-Embrace CSS Grid as an indispensable part of your front-end development toolkit:
-
-1.  Design with confidence, knowing that CSS Grid's intuitive approach to layout construction simplifies the creation of responsive designs.
-2.  Enhance readability and maintainability by utilizing named grid lines and areas, fostering clearer code organization.
-3.  Experiment with nested grids and witness the ease of building intricate layouts within each grid cell.
-
-With a firm grasp of CSS Grid's properties and functions, you're now equipped to tackle any web layout challenge. Continual practice, coupled with creative exploration of new techniques, will solidify your proficiency. Remember that resources such as _CSS-Tricks_ and _W3Schools_ offer valuable insights when you're in need of a refresher or inspiration.
-
-Acknowledge the significance of CSS Grid in web development history — a milestone in the evolution from rigid frameworks to fluid, adaptable design. As browser technology advances and user expectations grow, CSS Grid remains a critical component in delivering exceptional user experiences across all devices.
