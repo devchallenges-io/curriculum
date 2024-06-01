@@ -230,8 +230,21 @@ On the other hand, **initialization** refers to setting initial values for an ob
 
 Here is a step-by-step guide for instantiation and initialization:
 
-1.  Define a constructor function with parameters that will serve as property values. javascript function Car(make, model) { this.make = make; this.model = model; }
-2.  Use the `new` keyword followed by a call to the constructor function, passing in arguments. javascript var myCar = new Car('Toyota', 'Corolla');
+1.  Define a constructor function with parameters that will serve as property values.
+
+```javascript
+function Car(make, model) {
+  this.make = make;
+  this.model = model;
+}
+```
+
+2.  Use the `new` keyword followed by a call to the constructor function, passing in arguments.
+
+```javascript
+var myCar = new Car("Toyota", "Corolla");
+```
+
 3.  The newly created instance (`myCar`) now has properties `make` and `model` initialized with 'Toyota' and 'Corolla', respectively.
 
 This approach ensures each instance carries its own set of data, defined at creation time through parameters passed to the constructor. It allows for clear definitions and consistent initialization across multiple objects of the same type.
