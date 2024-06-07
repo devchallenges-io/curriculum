@@ -4,7 +4,7 @@
 
 JavaScript Modules are a fundamental aspect of modern web development. They allow you to break down your code into smaller, more manageable pieces, which can significantly enhance the **organization**, **maintainability**, and **reusability** of your codebase.
 
-## Understanding JavaScript Modules
+## 1. Understanding JavaScript Modules
 
 ### Creating Module Files and Defining Exports
 
@@ -42,9 +42,7 @@ Modules provide their own scope, preventing namespace pollution:
 - **Namespace Pollution**: Occurs when multiple scripts define global variables/functions that may conflict with each other.
 - **Module-Level Scope**: Variables/functions in a module aren't added to the global scope. This isolation ensures that different parts of your application don't inadvertently interfere with each other.
 
-By understanding JavaScript Modules, you gain powerful tools to organize your code effectively.
-
-## Different Types of Exports in JavaScript Modules
+## 2. Different Types of Exports in JavaScript Modules
 
 ### Named Exports
 
@@ -104,7 +102,7 @@ console.log(divide(6, 2)); // Outputs: 3
 
 Understanding these different types of exports enhances your ability to create modular and maintainable code structures.
 
-## Importing and Exporting Modules in JavaScript
+## 3. Importing and Exporting Modules in JavaScript
 
 ### Importing Named Exports
 
@@ -136,8 +134,10 @@ console.log(subtract(5, 2)); // 3
 Default exports are imported without curly braces. If the `math.js` file has a default export:
 
 ```javascript
- // math.js
- export default function multiply(a, b) { return a \* b; }
+// math.js
+export default function multiply(a, b) {
+  return a * b;
+}
 ```
 
 You can import it straightforwardly:

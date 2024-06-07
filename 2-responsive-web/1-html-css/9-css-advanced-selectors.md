@@ -178,8 +178,6 @@ p {
 
 Paragraphs will be green since the second rule has equal specificity but comes later in the source order.
 
-By understanding both specificity and cascade, developers can predictably style elements, resolve conflicts, and maintain control over their stylesheets' behavior without unexpected results.
-
 ## 4. The Power of Pseudo-classes and Pseudo-elements in CSS Selectors
 
 Pseudo-classes and pseudo-elements are powerful tools in CSS selectors that allow developers to target elements based on their state or create "virtual" elements for styling purposes. These advanced selectors enable more dynamic and responsive designs without the need for additional HTML markup.
@@ -312,8 +310,6 @@ Each CSS framework has its own way of dealing with selectors, and they all come 
 - **Bulma** prioritizes readability but might require more overrides for unique styles.
 
 As developers, we need to consider these factors when choosing a framework for our projects. It's crucial to find a balance between code efficiency, design requirements, and long-term maintainability.
-
-By understanding how these frameworks handle selectors, we can make informed decisions that align with our project goals while maintaining clean and scalable codebases.
 
 ## Conclusion
 

@@ -171,8 +171,6 @@ console.log(composedFunc(5)); // Outputs: 11
 - **Readability**: Create a clear narrative by sequencing functions in a logical order.
 - **Debuggability**: Isolate problems within small, isolated parts of the codebase.
 
-By incorporating function composition into your coding repertoire, you harness a powerful technique that bolsters the creation of modular and maintainable code structures. It symbolizes a shift towards declarative programming, where the focus lies on what the program should accomplish rather than how it should be done.
-
 ## 5. Managing State with Immutable Data
 
 Immutable data refers to data that cannot be modified after it has been created. In a functional system, immutability plays a crucial role in maintaining function purity, ensuring that functions do not produce side effects by altering shared state.
@@ -249,8 +247,6 @@ function getUserById(id) {
 ```
 
 In this example, `Maybe` ensures that if `findUser(id)` returns `null` or `undefined`, the default message 'User not found' is used instead of throwing an error. It makes the function's behavior predictable even when dealing with external I/O operations.
-
-By using these techniques and tools, JavaScript developers can incorporate asynchronous operations into their functional programs without sacrificing the clarity and maintainability that functional programming aims to provide.
 
 ## 7. Common Pitfalls and How to Avoid Them
 
@@ -333,10 +329,6 @@ Here are two recommendations for better error handling in asynchronous code:
 
 In addition to Promises or async/await, you can also leverage monadic structures like [Maybe](https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html) or [Either](https://folktale.origamitower.com/api/v2.3.0/en/folktale.either.html) for better error handling and control flow in functional programming.
 
-### **Conclusion**
-
-By being aware of these common pitfalls and following the suggested best practices, you can become a more effective functional programmer in JavaScript. Functional programming, when used correctly, can lead to cleaner, more maintainable codebases that are easier to reason about and less prone to bugs.
-
 ## 9. Building Scalable Applications with Functional Architecture
 
 Functional architecture uses functional programming principles to create systems that are easy to scale and maintain. It focuses on using pure functions and immutable data structures to minimize side effects and make state management simpler in large applications.
@@ -394,8 +386,6 @@ When designing a large-scale JavaScript application with functional principles, 
 2.  **Modular Design**: Organize code into small, single-purpose modules that communicate through well-defined interfaces, making it easier to understand and modify specific parts of the system.
 3.  **Type Safety**: Use tools like TypeScript to add static type checking, which can catch potential errors early and provide better documentation for functions and data structures.
 
-By following these principles and using appropriate patterns, developers can build applications that are flexible enough to handle complexity while still being performant and easy to work with. In the next sections, we'll explore more advanced functional techniques and see how they can be applied in real-world projects.
-
 ## 10. The Future of Functional Programming in JavaScript
 
 Functional programming in JavaScript is not static; it evolves with the language's ecosystem and the broader development community's needs. Observers and practitioners alike note several emerging technologies and trends that signal an exciting future for functional programming within the JavaScript landscape.
@@ -423,8 +413,6 @@ As WebAssembly matures, it opens opportunities for running high-performance func
 ### **6. Machine Learning & AI**
 
 With the rise of machine learning (ML) and artificial intelligence (AI), functional programming's declarative nature could facilitate clearer expression of complex operations—an area where JavaScript libraries may expand their footprint.
-
-By staying informed about these trends and technologies, developers can anticipate shifts in best practices and tooling that will shape the future of writing functional code in JavaScript. The integration of these developments into everyday coding practices promises to bolster the power and expressiveness of JavaScript as a language suited for modern software development challenges.
 
 ## Conclusion
 

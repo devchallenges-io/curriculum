@@ -30,8 +30,6 @@ Here's how it works:
 1.  When you define your tracks, you specify their sizes or behaviors.
 2.  Each track can adjust its size based on its content or be given an explicit size using units like pixels, percentages, or fractions of free space (`fr`).
 
-By understanding these basic concepts — Grid Container, Grid Lines, and Grid Tracks — you'll have a solid foundation for creating complex layouts using CSS Grid. With these fundamentals in place, diving into more advanced features of CSS Grid will be much easier.
-
 ## 2. Exploring Grid Items, Grid Cells, and Grid Areas
 
 When you use CSS Grid on a container element, the direct children become **Grid Items**. These items automatically join in the grid layout, positioning themselves according to the structure defined by **Grid Lines**.
@@ -102,8 +100,6 @@ Here:
 1.  The first row has a height of `150px`.
 2.  The second row adjusts its height automatically based on its content.
 3.  The third row is fixed at `100px`.
-
-By utilizing these properties, you have control over the fundamental dimensions of your CSS Grid. These initial settings empower you to create intricate and adaptable design structures that work well on various devices.
 
 ## 5. Placing Items in Specific Grid Cells
 
@@ -300,8 +296,6 @@ To position items using these names:
 ```
 
 This method clearly communicates where an item should be placed within the grid, reducing errors and making code adjustments easier for developers who may be collaborating on a project.
-
-By using nested grids and Grid Line Names, developers can create complex layouts that remain organized and easy to understand. These features demonstrate the powerful capabilities CSS Grid offers for building responsive, multi-dimensional layouts.
 
 ## Conclusion
 

@@ -11,8 +11,6 @@ Here are some key benefits of using OOP in JavaScript:
 3.  **Refactoring Made Easy**: OOP makes it simpler to refactor and maintain your code because changes to one class don't require modifying the entire codebase.
 4.  **Better Collaboration**: With clear structures and encapsulation, teams can work on different classes without conflicts.
 
-By embracing OOP in your JavaScript projects, you set the stage for scalable, efficient, and collaborative development. In this lesson, we'll explore how OOP principles are implemented in JavaScript, giving you the solid understanding you need to master this programming style.
-
 ## Understanding Object-Oriented Programming (OOP)
 
 Object-Oriented Programming (OOP) is a programming style that revolves around objects instead of actions. In OOP languages, you work with four main concepts: _abstraction_, _encapsulation_, _inheritance_, and _polymorphism_. These concepts are not just fancy words; they are fundamental ideas that empower you to write code that is organized, reusable, and scalable.
@@ -246,8 +244,6 @@ Error handling in OOP should be proactive and informative, guiding developers to
 - Encapsulate try/catch blocks within methods to manage exceptions locally.
 - Create custom error types by extending the default `Error` class for more specific error contexts.
 - Use descriptive error messages that detail the nature and location of the problem.
-
-By incorporating these best practices consistently throughout your JavaScript codebase, you establish a strong foundation for future development and collaboration. The result is a more structured, efficient approach to Object-Oriented Programming that benefits developers at all experience levels.
 
 ## Conclusion
 

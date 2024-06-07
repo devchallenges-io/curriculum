@@ -433,8 +433,6 @@ Tree-shaking is a technique used to eliminate dead code during the build process
 - **Abstract Syntax Tree (AST) Analysis**: The TypeScript compiler analyzes the AST to determine which parts of the code are necessary. Decorators can complicate this analysis by introducing dependencies that might seem essential.
 - **TypeScript Compiler Options**: Configuring the TypeScript compiler effectively can help optimize how decorators interact with tree-shaking. Use `experimentalDecorators` and `emitDecoratorMetadata` options wisely to control metadata emission.
 
-By understanding these aspects, you can leverage TypeScript decorators without significantly impacting performance or bundle size.
-
 ## The Future Scope and Potential of TypeScript Decorators
 
 ### Exploring Decorator Metadata and Its Role in Future Language Updates

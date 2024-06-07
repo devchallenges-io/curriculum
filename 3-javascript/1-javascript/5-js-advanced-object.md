@@ -18,7 +18,7 @@ Mastering **JavaScript JSON** proves indispensable for effective JavaScript deve
 
 As a syntax that both humans and machines can easily interpret, JSON stands as an integral aspect of modern web development, making the understanding of both JavaScript Object and **Java Script Object Notation** crucial for robust software solutions.
 
-## Understanding JavaScript Objects
+## 1. Understanding JavaScript Objects
 
 JavaScript objects are dynamic collections of properties, where each property is a key-value pair. These properties may include fundamental data types, other objects, and functions known as methods.
 
@@ -54,7 +54,7 @@ car.displayInfo = function () {
 console.log(car.displayInfo()); // Output: Toyota 2021
 ```
 
-## Working with JSON in JavaScript
+## 2. Working with JSON in JavaScript
 
 JSON (JavaScript Object Notation) is a popular data format with a diverse range of applications. Because JSON is derived from JavaScript, it is a natural fit for JavaScript environments, but it is also used widely outside of JavaScript.
 
@@ -113,7 +113,7 @@ console.log(carWithProto.start()); // Output: Engine starting...
 
 Understanding these aspects of JavaScript objects equips developers with the tools needed to effectively manipulate and utilize objects, leading to more robust and maintainable code. Moving forward, creating objects with null prototypes or adding methods for encapsulation will further enhance the control over these versatile structures.
 
-## Creating and Manipulating Objects
+## 3. Creating and Manipulating Objects
 
 Creating objects with **null prototypes** is a strategy employed to establish cleaner inheritance structures. This approach can be facilitated by using `Object.create(null)`, which ensures the object does not inherit from `Object.prototype`. Here's an example:
 
@@ -155,7 +155,7 @@ if (nullPrototypeObject.hasOwnProperty("key")) {
 
 This method ensures only properties directly on the object are considered, preventing false positives from prototype chain properties.
 
-## Inheritance and Prototype Pollution Attacks
+## 4. Inheritance and Prototype Pollution Attacks
 
 In JavaScript, objects inherit properties and methods from their prototype—a blueprint from which objects are created. This powerful inheritance model allows for property sharing and method reuse across instances. However, this feature can be a double-edged sword.
 
@@ -177,9 +177,7 @@ To defend against such vulnerabilities, developers should:
 2.  Use libraries that offer protection against prototype pollution by freezing the Object prototype — `Object.freeze(Object.prototype)`.
 3.  Leverage `Object.create(null)` to create objects without a prototype, ensuring no inherited properties or methods can be tampered with.
 
-By understanding the risks associated with object inheritance, developers can write more secure JavaScript code, preventing unauthorized access and manipulation within applications.
-
-## Creating Custom Object Types with Constructor Functions
+## 5. Creating Custom Object Types with Constructor Functions
 
 Constructor functions in JavaScript serve as blueprints for creating multiple objects that share the same structure. By defining an `object type` with a constructor function, developers can instantiate new objects that inherit properties and methods defined within the constructor.
 
@@ -217,7 +215,7 @@ console.log(myCar.displayInfo()); // Outputs: Toyota Corolla (2021)
 
 Instances are customizable at creation and benefit from shared behavior through their prototype. This pattern facilitates code reusability and encapsulation in JavaScript development.
 
-## Instantiation and Initialization of Objects
+## 6. Instantiation and Initialization of Objects
 
 When using constructor functions to create custom object types, **instantiation** is the process of creating a new instance of an object with its own unique state. The `new` keyword plays a pivotal role in this process. It:
 
@@ -249,7 +247,7 @@ var myCar = new Car("Toyota", "Corolla");
 
 This approach ensures each instance carries its own set of data, defined at creation time through parameters passed to the constructor. It allows for clear definitions and consistent initialization across multiple objects of the same type.
 
-## Accessing and Modifying Object Properties
+## 7. Accessing and Modifying Object Properties
 
 When working with objects in JavaScript, it is essential to understand how to interact with the properties of an object—whether an owner-created instance or a class-defined structure. Two primary notations facilitate this interaction: dot notation and bracket notation.
 
@@ -291,7 +289,7 @@ The choice between dot and bracket notation hinges on the situation at hand. Dot
 
 When modifying an object's properties, the changes are reflected directly in the instance. This behavior links directly to how objects maintain references rather than copying values, a fundamental aspect of JavaScript's approach to data management.
 
-## Object Literals vs. Constructor Functions and Classes
+## 8. Object Literals vs. Constructor Functions and Classes
 
 In JavaScript, objects can be created through different techniques, each with its unique advantages and use cases.
 

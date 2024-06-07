@@ -51,8 +51,6 @@ let numbers = reverseArray([1, 2, 3]); // inferred as number[]
 let strings = reverseArray(["a", "b", "c"]); // inferred as string[]
 ```
 
-By leveraging generic functions, you can write versatile and robust code that adapts to various data types without repeatedly rewriting similar logic for different types.
-
 ## Working with Generic Classes
 
 ### Overview of Generic Classes in TypeScript
@@ -156,8 +154,6 @@ const arr2 = createArray(3, 100); // [100, 100, 100]
 
 Here, if no type is passed while calling `createArray`, TypeScript assumes it as a `string`. This feature is particularly useful for creating more flexible and reusable code components without sacrificing type safety.
 
-By applying these constraints and defaults effectively, you enhance both the robustness and flexibility of your TypeScript code.
-
 ## Benefits of Mastering TypeScript Generics
 
 ### Increased Type Safety and Code Reusability
@@ -175,8 +171,6 @@ For example, libraries like **RxJS** and **React** make extensive use of generic
 ### Practical Learning through TypeScript Exercises
 
 Engaging in _TypeScript exercises_ that focus on generics is a practical way to solidify your understanding. These exercises often simulate real-world scenarios, helping you apply theoretical concepts to actual coding challenges. Practicing with generics prepares you for complex projects by enhancing your problem-solving skills.
-
-By incorporating TypeScript Generics into your daily coding routine, you not only improve your technical skills but also become more proficient in creating robust, scalable applications.
 
 ## Best Practices for Using TypeScript Generics Effectively
 
@@ -212,8 +206,6 @@ function handleResult(result: Result): void {
 ```
 
 In this example, `Result<T>` can either be a type `T` or an `Error`, making the function versatile in handling different outcomes.
-
-By following these practices, you can leverage the full potential of TypeScript Generics, making your codebase more robust and maintainable.
 
 ## Conclusion
 

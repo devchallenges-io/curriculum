@@ -14,7 +14,7 @@ JavaScript provides several options for looping:
 
 Each type of loop serves different purposes in JavaScript programming. Understanding their syntax and use cases is crucial for writing clean and efficient code. In this lesson, we will dive deep into these loops, exploring how they work and where they can be applied to improve your JavaScript coding skills.
 
-## JavaScript for Loop
+## 1. JavaScript for Loop
 
 The _for loop_ in JavaScript is an essential tool for executing a block of code repeatedly until a certain condition is met. This loop includes three main parts: the **initialization** of the counter variable, the **condition** that must be true for the loop to continue, and the **updateExpression** which modifies the counter variable at the end of each iteration.
 
@@ -38,7 +38,7 @@ for (let i = 0; i < 5; i++) {
 
 In this example, the `for` loop starts with `i` equal to 0. The loop will continue to run as long as `i` is less than 5. On each iteration, it will log the current value of `i` to the console and then increment `i` by 1. When `i` reaches 5, the condition `i < 5` will be false, and the loop will stop.
 
-## while and do-while Loops
+## 2. while and do-while Loops
 
 Understanding the `while loop` and `do/while loop` in JavaScript is essential for efficient coding practices. These loops offer different ways to execute code blocks based on a condition.
 
@@ -99,7 +99,7 @@ In this example, the `do-while` loop will first execute the code block, and then
 
 Both loops have their unique applications and understanding their differences ensures you can select the most appropriate tool for your JavaScript programming tasks.
 
-## for-in and for-of Loops
+## 3. for-in and for-of Loops
 
 JavaScript provides two distinct loops for iterating over different types of data structures: the `for/in loop` and the `for/of loop`. Both serve unique purposes when dealing with collections like arrays, objects, and other iterable structures.
 
@@ -159,7 +159,7 @@ This example creates an array named `colors` with the elements "red", "green", a
 
 By choosing the appropriate loop based on data structure type and desired operation, efficient and readable code is achieved.
 
-## Break and Continue Statements
+## 4. Break and Continue Statements
 
 The `break statement` in JavaScript serves a critical function: it allows the termination of a loop's execution once a specified condition is met. Consider a scenario where iterating over a large dataset is required, but the goal is to find and process just one particular item. Once that item is encountered, the loop can be immediately exited using the `break` keyword, saving processing time and resources.
 

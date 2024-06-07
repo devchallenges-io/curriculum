@@ -8,8 +8,6 @@ This lesson aims to equip readers with a comprehensive **Essential Reference** d
 2.  Detailed explanations on how each tag works
 3.  Practical examples showing proper usage
 
-By providing these insights, this HTML cheat sheet goes beyond a simple list and becomes a useful resource that improves HTML document creation, reinforces best practices, and enhances the quality of web development projects.
-
 ### **Role of HTML Elements**
 
 Every piece of content on a web page is wrapped in _HTML elements_, which are defined by tags. These tags tell web browsers how to display the content. For example, `<p>` tags indicate paragraphs, while `<h1>` to `<h6>` tags define headings from most to least important.
@@ -198,7 +196,7 @@ When integrating paragraphs into your HTML document, remember these key points:
 - To maintain accessibility and semantic structure, avoid using the paragraph tag for spacing; instead, consider CSS for styling purposes.
 - Paragraph tags can contain inline HTML elements like `<a>`, `<strong>`, or `<em>`.
 
-By following these best practices with the paragraph tag, you ensure that your content is both semantically correct and visually accessible to all users.
+By following these best practices with the paragraph `tag`, you ensure that your content is both semantically correct and visually accessible to all users.
 
 ## 7. List Tags
 

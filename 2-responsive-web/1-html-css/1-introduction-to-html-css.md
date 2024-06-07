@@ -19,8 +19,6 @@ In this guide, we'll explore various aspects of HTML and CSS, from the basics to
 7.  **Expanding Skills**: Getting an introduction to JavaScript and its role in creating interactive web pages.
 8.  **Developer Toolkit**: Discovering essential software and online resources that can aid you in your development journey.
 
-By the end of this guide, you'll have a solid understanding of HTML and CSS, allowing you to create beautiful websites from scratch!
-
 ## 1. Getting Started with HTML
 
 HTML (HyperText Markup Language) is the foundational building block of web development, serving as the skeleton that gives structure to web content. Grasping the basics of HTML syntax and code structure is essential for creating well-organized web pages.
@@ -66,8 +64,6 @@ Here is a basic example of an HTML structure:
   </body>
 </html>
 ```
-
-By understanding these fundamental concepts—syntax, elements, and structure—you create a solid foundation for crafting basic web pages. As you progress through this guide, you will learn how to enhance this foundation with styles, layout techniques, and interactivity.
 
 ## 2. Introduction to CSS
 
@@ -205,8 +201,6 @@ Visualize it with this example:
 
 When applied to an HTML element with class `.box`, these styles determine its appearance and placement relative to other elements. Experiment with different values to see how they affect your layout.
 
-By mastering both HTML structures and the CSS box model, you can create intricate webpage designs that are both functional and visually appealing.
-
 ## 4. Enhancing the Webpage with CSS Styles
 
 CSS properties are essential for making a webpage visually appealing. By carefully choosing and using these properties, web developers can improve the readability of text and the overall look of the content.
@@ -288,8 +282,6 @@ div.warning {
   background-color: gold;
 }
 ```
-
-By using these CSS properties and color methods, developers can create webpages with better visual appeal. As they become more familiar with each property and technique, their ability to design unique and attractive web interfaces will also grow.
 
 ## Final Thoughts on Your HTML, CSS Journey
 

@@ -65,38 +65,24 @@ The `rem`, or "root em", is a relative length unit referencing the font-size of 
 
 By setting global styles on the root element, using rem units helps maintain consistent spacing and sizing that is easily adjustable from one place.
 
-#### **Accessibility Benefits**
-
-Users who adjust their browser's default font size will find websites styled with rem more accessible as elements scale proportionally.
-
-### Other Relative Units: **`ex`** and **`ch`**
-
-- The `ex` unit is tied to the x-height of a font, which roughly corresponds to the height of lowercase letters. It's less common but can be useful when precision based on character proportions is needed.
-- The `ch` unit represents the width of the "0" (zero) character. It’s particularly useful when defining widths that need to accommodate a fixed number of characters, such as monospaced fonts in coding environments or tabular data.
-
-Choosing between these relative units depends on specific layout goals and typography strategies. By leveraging these units effectively, developers can create designs that are flexible and adaptive to user preferences and display environments. Transitioning smoothly into viewport units, these concepts remain foundational as they address different aspects of responsive design.
-
-## 3. Viewport Units
-
-Viewport units are essential for creating responsive design layouts, as they allow elements to adapt to various screen sizes. These units include `vw` (viewport width), `vh` (viewport height), `vmin`, and `vmax`. Each unit represents a percentage of the current viewport size, enabling scalability and fluidity in design.
-
-### vw (Viewport Width)
-
-The `vw` unit is equal to 1% of the width of the viewport. This unit is particularly useful when you want an element's width to be responsive to the browser window's size. For instance:
-
-```css
-.container {
-  width: 50vw; /* The container will take up half of the viewport width */
+````css
+:root {
+  font-size: 16px; /* Set the base font size for the entire document */
+  margin: 1rem; /* Set a consistent margin of 1rem for all elements */
+  padding: 0.5rem; /* Set a consistent padding of 0.5rem for all elements */
 }
-```
 
-By using `vw`, text can scale responsively, ensuring legibility across devices. Here’s how you might use it for a responsive font size:
-
-```css
-h1 {
-  font-size: 5.9vw; /* The heading font size scales with the viewport width */
+/* Example usage */
+h1 {```css
+  font-size: 2rem; /* Heading font size is 2 times the base font size */
+  margin-bottom: 1rem; /* Add a margin of 1rem below the heading */
 }
-```
+
+p {
+  font-size: 1.2rem; /* Paragraph font size is 1.2 times the base font size */
+  line-height: 1.5; /* Set the line height to 1.5 times the base font size */
+}
+````
 
 ### vh (Viewport Height)
 
@@ -172,8 +158,6 @@ When choosing units, consider how they will render across different browsers. Wh
 
 - Utilize percentages (`%`) or viewport units (`vw`, `vh`) for container widths to create flexible grids that adapt to different screen sizes.
 - These can be set using either relative (`em`, `rem`) or viewport (`vw`, `vh`) units depending on whether you want them tied to text size or viewport dimensions.
-
-By thoughtfully applying these principles, developers can craft layouts that are both adaptable and precise.
 
 ## Conclusion
 

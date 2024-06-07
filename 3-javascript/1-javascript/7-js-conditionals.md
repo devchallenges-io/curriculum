@@ -12,8 +12,6 @@ In this lesson, you'll learn about:
 - **Switch Statement**: A neater way to handle many possibilities.
 - **Ternary Operator**: A short way to write conditionals.
 
-These concepts will be explained in detail, giving you the knowledge to write clean, efficient, and easy-to-understand code. By the end of this lesson, you'll be ready to use conditional statements confidently in your JavaScript projects.
-
 ## 1. If Statement
 
 The `if` statement in JavaScript is the fundamental control structure that allows you to execute code based on whether a condition is `true` or not. When you write an `if` statement, you are essentially telling your program to test for a specific condition and then perform actions accordingly based on the result of that test.
@@ -84,8 +82,6 @@ if (userInput === storedPassword) {
 ```
 
 In this example, if the user's input does not match the stored password, the program outputs "Access denied" due to the execution of code within the `else` block. This approach ensures a response is generated regardless of whether the initial condition passes or fails.
-
-By mastering the use of the `else` statement, you expand your ability to control program flow effectively, enabling more robust and user-responsive applications.
 
 ## 3. Else If Statement
 
@@ -218,9 +214,7 @@ The same logic can be succinctly expressed using the ternary operator:
 let greet = user.isActive ? "Welcome back!" : "Hello there!";
 ```
 
-By understanding and applying the ternary operator, complex conditional logic can be made more readable and maintainable.
-
-## Handling Complex Conditions
+## 6. Handling Complex Conditions
 
 When dealing with complex logic in JavaScript, developers often use nested if else statements and logical operators to evaluate multiple conditions. Understanding these concepts ensures that code runs correctly in different scenarios.
 
@@ -290,7 +284,7 @@ In this example, the nested `if else` statement checks for user preference and s
 
 The ability to handle complex conditions with finesse allows JavaScript developers to write robust applications that react intelligently to a variety of inputs and situations. This level of control over program flow is essential for creating dynamic, user-friendly experiences.
 
-## Common Mistakes and Best Practices
+## 7. Common Mistakes and Best Practices
 
 When working with conditional statements in JavaScript, recognizing and avoiding common pitfalls can significantly improve code quality and functionality. Below are some frequent missteps and strategic approaches to conditional statements:
 
@@ -342,8 +336,6 @@ switch (expression) {
 - **Console Logging**: Use `console.log()` strategically to output values at different points within conditions to understand the flow of execution.
 - **Breakpoints**: Set breakpoints in browser dev tools or debugging software on conditional lines to inspect variables' states when conditions are evaluated.
 - **Unit Testing**: Write tests for functions containing conditional logic to ensure they behave as expected under various scenarios.
-
-By integrating these best practices into your development workflow, you enhance readability, maintainability, and reliability of your JavaScript code. Remember that precision in crafting conditionals leads to more robust applications.
 
 ## Conclusion
 

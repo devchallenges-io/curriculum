@@ -6,8 +6,6 @@ HTML forms are essential in web development, as they allow users to submit infor
 
 Form validation is just as important. It acts as a gatekeeper to ensure that the data submitted by users meets specific criteria before it's processed. This step is vital for maintaining data integrity and creating a secure environment for both the user and the system.
 
-By the end of this lesson, you'll have the skills to improve user interfaces and strengthen data security in your projects.
-
 ## 1. Understanding HTML Forms
 
 HTML forms are essential for collecting data on the web. They allow users to enter information that can be sent to a server for processing. The `<form>` element is used as a container for different types of input elements, each serving a specific purpose in capturing user input.

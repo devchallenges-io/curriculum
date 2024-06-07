@@ -167,8 +167,6 @@ Selective styling can be achieved by using media queries that evaluate certain c
 }
 ```
 
-By incorporating these advanced strategies in CSS, designers have more precise control over responsive design, creating a better user experience on any device or screen size. These methods enable responsive designs that are not only flexible but also smartly adaptable.
-
 ## 5. Best Practices for Responsive Web Design
 
 Responsive Web Design (RWD) requires a careful approach to ensure websites look great and work well on any device. Front-end engineers play a crucial role in this area, creating smooth experiences by following established best practices.
@@ -201,8 +199,6 @@ Reduce image sizes through compression and prioritize the loading of above-the-f
 
 Regularly test your design on actual devices in addition to emulators, in order to assess real-world usability and performance.
 
-By following these best practices, front-end engineers can create responsive designs that are durable and effective.
-
 ## 6. Future Trends in Responsive Design
 
 Responsive design is constantly changing, and there are exciting developments on the horizon with the **Level 4 specification** for media queries. This new standard is set to completely transform how developers create websites that can adapt to different devices. Here are some key trends to look out for:
@@ -228,8 +224,6 @@ We're already seeing a wide variety of devices entering the market, each with it
 ### User Preference Becoming a Priority
 
 In today's digital age, users have come to expect personalized experiences. They want websites that adapt not only to their physical device but also to their individual settings and requirements. Whether it's adjusting the font size for better readability or accommodating color preferences for those with visual impairments, responsive design must go beyond just being "mobile-friendly" and prioritize user preferences.
-
-By staying updated on these future trends and leveraging the power of the Level 4 specification, responsive design professionals can continue to create flexible and user-centric environments. This progress aligns with the industry's commitment to providing inclusive and adaptable digital experiences for all.
 
 ## Conclusion
 

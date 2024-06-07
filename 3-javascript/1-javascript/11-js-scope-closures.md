@@ -17,7 +17,7 @@ In this guide, we will cover everything you need to know about scope and closure
 
 By the end of this guide, you'll have a solid grasp of scope and closures in JavaScript, empowering you to write cleaner, more efficient code for your projects.
 
-## Understanding JavaScript Scope
+## 1. Understanding JavaScript Scope
 
 ### Global Scope in JavaScript
 
@@ -161,9 +161,7 @@ Having a clear understanding of lexical scoping and how it relates to the scope 
 - Ensure security within their code by preventing unauthorized access to sensitive data.
 - Avoid unintended conflicts between different parts of their programs.
 
-By leveraging lexical scoping effectively, developers can write more maintainable and bug-free JavaScript code.
-
-## Implementing and Utilizing Closures in JavaScript
+## 2. Implementing and Utilizing Closures in JavaScript
 
 Closures in JavaScript are functions that have access to an outer function's scope, even after the outer function has completed execution. This is possible because closures retain references to variables from their containing scopes, which allows for functionality ranging from data encapsulation to currying and event handlers.
 
@@ -225,9 +223,7 @@ const myModule = (function () {
 myModule.reveal(); // Outputs: I am private
 ```
 
-By implementing closures effectively, JavaScript developers can write more maintainable and secure code. The next section explores best practices for managing scope in order to maximize these benefits.
-
-## Best Practices for Scope Management
+## 3. Best Practices for Scope Management
 
 Managing scope effectively is essential for maintaining legible, secure, and high-performing JavaScript applications. Adherence to scope management best practices ensures a robust codebase.
 

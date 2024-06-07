@@ -75,8 +75,6 @@ Example usage:
 
 This property applies uniform spacing between items, streamlining layout design without the need for margin hacks.
 
-By mastering these properties, designers gain granular control over how elements are laid out within a flex container, allowing for sophisticated designs that adapt fluidly across different screen sizes and devices.
-
 ## 2. Managing Flexibility with Growth, Shrinkage, and Basis
 
 Flexbox's true power lies in its ability to manage space distribution among items within a container. This dynamic resizing is handled by three key properties: `flex-grow`, `flex-shrink`, and `flex-basis`. Understanding how these properties work together is essential for mastering flexible layouts.
