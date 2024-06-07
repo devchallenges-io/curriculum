@@ -9,31 +9,129 @@
       },
       {
         "title": "HTML Cheat Sheet",
-        "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md"
+        "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Personal Portfolio Website",
+            "description": "Create a personal portfolio website to showcase your projects and skills using HTML and CSS."
+          },
+          {
+            "name": "Design a Responsive Landing Page",
+            "description": "Design a responsive landing page for a product or service using HTML and CSS."
+          },
+          {
+            "name": "Create a Blog Layout",
+            "description": "Create a blog layout using HTML and CSS, including features like article listings, navigation, and sidebar."
+          }
+        ]
       },
       {
         "title": "CSS Flexbox",
-        "path": "2-responsive-web/1-html-css/3-flexbox.md"
+        "path": "2-responsive-web/1-html-css/3-flexbox.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Navigation Bar",
+            "description": "Build a responsive navigation bar using CSS Flexbox."
+          },
+          {
+            "name": "Create a Responsive Image Gallery",
+            "description": "Create a responsive image gallery using CSS Flexbox."
+          },
+          {
+            "name": "Design a Responsive Card Layout",
+            "description": "Design a responsive card layout using CSS Flexbox."
+          }
+        ]
       },
       {
         "title": "CSS Grid",
-        "path": "2-responsive-web/1-html-css/4-grid.md"
+        "path": "2-responsive-web/1-html-css/4-grid.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Blog Layout",
+            "description": "Build a responsive blog layout using CSS Grid."
+          },
+          {
+            "name": "Create a Responsive Pricing Table",
+            "description": "Create a responsive pricing table using CSS Grid."
+          },
+          {
+            "name": "Design a Responsive Dashboard Layout",
+            "description": "Design a responsive dashboard layout using CSS Grid."
+          }
+        ]
       },
       {
         "title": "CSS Positioning",
-        "path": "2-responsive-web/1-html-css/5-css-position.md"
+        "path": "2-responsive-web/1-html-css/5-css-position.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Header",
+            "description": "Build a responsive header using CSS positioning."
+          },
+          {
+            "name": "Create a Responsive Footer",
+            "description": "Create a responsive footer using CSS positioning."
+          },
+          {
+            "name": "Design a Responsive Sidebar",
+            "description": "Design a responsive sidebar using CSS positioning."
+          }
+        ]
       },
       {
         "title": "CSS Units",
-        "path": "2-responsive-web/1-html-css/6-css-unit.md"
+        "path": "2-responsive-web/1-html-css/6-css-unit.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Hero Section",
+            "description": "Build a responsive hero section using CSS units."
+          },
+          {
+            "name": "Create a Responsive Feature Section",
+            "description": "Create a responsive feature section using CSS units."
+          },
+          {
+            "name": "Design a Responsive Testimonial Section",
+            "description": "Design a responsive testimonial section using CSS units."
+          }
+        ]
       },
       {
         "title": "CSS Functions",
-        "path": "2-responsive-web/1-html-css/7-css-functions.md"
+        "path": "2-responsive-web/1-html-css/7-css-functions.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Contact Form",
+            "description": "Build a responsive contact form using CSS functions."
+          },
+          {
+            "name": "Create a Responsive Newsletter Signup",
+            "description": "Create a responsive newsletter signup using CSS functions."
+          },
+          {
+            "name": "Design a Responsive FAQ Section",
+            "description": "Design a responsive FAQ section using CSS functions."
+          }
+        ]
       },
       {
         "title": "CSS Custom Properties",
-        "path": "2-responsive-web/1-html-css/8-css-custom-properties.md"
+        "path": "2-responsive-web/1-html-css/8-css-custom-properties.md",
+        "interactiveChallenges": [
+          {
+            "name": "Build a Responsive Pricing Card",
+            "description": "Build a responsive pricing card using CSS custom properties."
+          },
+          {
+            "name": "Create a Responsive Testimonial Card",
+            "description": "Create a responsive testimonial card using CSS custom properties."
+          },
+          {
+            "name": "Design a Responsive Team Section",
+            "description": "Design a responsive team section using CSS custom properties."
+          }
+        ]
       },
       {
         "title": "CSS Advanced Selectors",
