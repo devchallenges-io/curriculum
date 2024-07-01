@@ -47,7 +47,12 @@
   {
     "title": "HTML Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2-html-cheatsheet.md",
-    "slug": "html-cheat-sheet"
+    "slug": "html-cheat-sheet",
+    "skills": ["Basic HTML tags", "Simple CSS properties"],
+    "project_idea_link": [
+      "https://www.landingfolio.com/library/call-to-action/tailwind?id=631a9834b422f202fb08ddda",
+      "https://www.landingfolio.com/library/blog-sidebar/tailwind?id=62a69412e26bb2547378374c"
+    ]
   },
   {
     "title": "CSS Flexbox",

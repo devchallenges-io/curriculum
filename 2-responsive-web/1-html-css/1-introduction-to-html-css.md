@@ -6,19 +6,6 @@ HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the buildi
 
 On the other hand, CSS is responsible for the design and presentation of the web page. It determines how HTML elements should look on different devices or media. It's like choosing the paint color and decorations for a building, making it visually appealing.
 
-Understanding HTML and CSS is crucial for anyone interested in creating web pages or pursuing web development as a career. These languages are essential tools that allow you to turn your design ideas into functional websites.
-
-In this guide, we'll explore various aspects of HTML and CSS, from the basics to more advanced techniques. Here's what we'll cover:
-
-1.  **HTML Basics**: Understanding the syntax, structure, and important tags used in HTML.
-2.  **CSS Fundamentals**: Learning how to apply styles and make your web page visually appealing.
-3.  **Webpage Creation**: Combining HTML and CSS to create complete web layouts.
-4.  **Advanced Styling**: Exploring advanced CSS concepts and techniques to enhance your designs.
-5.  **Testing & Publishing**: Checking your web page for compatibility issues and using developer tools for debugging.
-6.  **Continuous Learning**: Finding additional resources to further improve your skills in HTML and CSS.
-7.  **Expanding Skills**: Getting an introduction to JavaScript and its role in creating interactive web pages.
-8.  **Developer Toolkit**: Discovering essential software and online resources that can aid you in your development journey.
-
 ## 1. Getting Started with HTML
 
 HTML (HyperText Markup Language) is the foundational building block of web development, serving as the skeleton that gives structure to web content. Grasping the basics of HTML syntax and code structure is essential for creating well-organized web pages.
@@ -177,112 +164,8 @@ To style each element, we can link a CSS file within the `<head>` section using 
 
 In your CSS file, you can start by defining styles that apply globally, then tweak individual elements for alignment, spacing, and aesthetics.
 
-### Understanding the CSS Box Model
-
-Every HTML element is enclosed within the CSS box model, which consists of margins, borders, padding, and content. This model helps us understand how elements are positioned and spaced on a webpage.
-
-- **Content**: The actual text, image, or other media inside an element.
-- **Padding**: The space between the content and the border.
-- **Border**: The line surrounding padding (if any) and content.
-- **Margin**: The outermost layer that handles the space between elements.
-
-Visualize it with this example:
-
-```css
-.box {
-  width: 300px;
-  padding: 20px;
-  border: 5px solid black;
-  margin: 10px;
-}
-```
-
-//TODO: Add picture here to visualize this
-
-When applied to an HTML element with class `.box`, these styles determine its appearance and placement relative to other elements. Experiment with different values to see how they affect your layout.
-
-## 4. Enhancing the Webpage with CSS Styles
-
-CSS properties are essential for making a webpage visually appealing. By carefully choosing and using these properties, web developers can improve the readability of text and the overall look of the content.
-
-### Styling Text and Fonts with CSS Properties
-
-Text formatting plays a crucial role in directing user attention and providing a pleasant reading experience. Here are some CSS properties that can be used to style text:
-
-- `font-family`: Sets the typeface of text.
-
-```css
-p {
-  font-family: "Arial", sans-serif;
-}
-```
-
-- `font-size`: Adjusts the size of text.
-
-```css
-h1 {
-  font-size: 2em; /* em units are scalable according to parent element's font size */
-}
-```
-
-- `font-weight`: Controls the thickness of characters, ranging from thin (`100`) to bold (`700`).
-
-```css
-strong {
-  font-weight: bold;
-}
-```
-
-- `text-align`: Aligns text within an element.
-
-```css
-.center-text {
-  text-align: center;
-}
-```
-
-- `line-height`: Determines the space above and below lines of text, improving legibility.
-
-```css
-p {
-  line-height: 1.6; /* This is typically a multiple of the font size */
-}
-```
-
-### Adding Colors to Elements through Various Methods in CSS
-
-Colors can bring life to designs and make them more appealing to users. CSS provides different ways to apply colors to elements:
-
-#### Hexadecimal Codes
-
-Hexadecimal codes are six-digit codes that represent values for red, green, and blue colors.
-
-```css
-body {
-  background-color: #ff5733; /* A warm reddish-orange shade */
-}
-```
-
-#### RGB(A) Values
-
-RGB(A) values are used to define colors by specifying the amount of red, green, and blue in them. An optional alpha channel can also be added to control transparency.
-
-```css
-p {
-  color: rgba(255, 255, 255, 0.8); /* White text with some transparency */
-}
-```
-
-#### Color Names
-
-CSS provides a list of predefined color names that can be used directly.
-
-```css
-div.warning {
-  background-color: gold;
-}
-```
-
 ## Final Thoughts on Your HTML, CSS Journey
 
-With the knowledge of HTML and CSS and a suite of development tools, you are now prepared to take on more challenging projects. Remember that web development is always changing; it is just as crucial to stay curious and keep learning as it is to use the right tools. The Odin Project's HTML and CSS course is an excellent way to strengthen your skills. With dedication and practice, you will improve your abilities and transform your concepts into functional and visually appealing web experiences.
+HTML and CSS are essential skills for web development. HTML provides the structure and organization of web content, while CSS controls the visual presentation. Understanding these languages allows you to create well-structured and visually appealing web pages.
+
+In the upcoming lessons, we will dive deeper into each topic, exploring more advanced concepts and techniques. You will learn how to create interactive web pages, responsive designs, and much more. Stay tuned for an exciting journey into the world of HTML and CSS!
