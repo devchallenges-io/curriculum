@@ -72,15 +72,15 @@ You can navigate through folders by clicking on them in the **Explorer** view. T
 
 Visual Studio Code comes with a powerful built-in text editor that offers several features to enhance your coding experience:
 
-#### Syntax Highlighting
+**Syntax Highlighting**
 
 Syntax highlighting automatically distinguishes different elements of your code by applying colors to them. This makes it easier to read and understand your code.
 
-#### Intelligent Code Completion (IntelliSense)
+**Intelligent Code Completion (IntelliSense)**
 
 IntelliSense is a feature that provides context-aware suggestions as you type. It helps you write code faster by offering options based on the language you're using and the context of your code.
 
-#### Code Refactoring
+**Code Refactoring**
 
 Refactoring code means making changes to improve its structure without changing its behavior. Visual Studio Code provides options for refactoring code such as renaming symbols or formatting documents.
 
@@ -188,11 +188,7 @@ Visual Studio Code offers a wide range of extensions that can greatly enhance yo
 
 10. **Bracket Pair Colorizer**: Colorizes matching brackets in your code, improving code readability and making it easier to identify code blocks.
 
-These extensions are just a few examples of the many available for web development in Visual Studio Code. You can explore the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode) to discover more extensions that suit your specific needs.
-
 By installing and utilizing these extensions, you can streamline your web development workflow, increase productivity, and write high-quality code more efficiently.
-
-By using these productivity tools from the marketplace in your daily work, you can create a customized development experience that fits your project needs and coding style.
 
 ## 5. Debugging, Testing, and Version Control Capabilities
 
@@ -235,7 +231,7 @@ When you come across obstacles in Visual Studio Code, it's important to troubles
 
 - **Consult the Output Panel**: Access the output panel by pressing `Ctrl+Shift+U` (or `Cmd+Shift+U` on macOS) and select the relevant log from the dropdown. Read through error messages here to figure out what's causing the problem.
 - **Check for Extension Conflicts**: Temporarily disable all extensions by opening VS Code with the `--disable-extensions` flag to see if an extension is causing the issue. Then, enable them one by one to identify which one is causing the problem.
-- **Improve Performance**: If VS Code is running slowly, try closing unused tabs and turning off auto-saving features by changing the `"files.autoSave"` setting. You can also try using lighter themes and disabling extensions that you don't need for your current project.
+- **Improve Performance**: If VS Code is running slowly, try closing unused tabs and turning off auto-saving features by changing the `files.autoSave` setting. You can also try using lighter themes and disabling extensions that you don't need for your current project.
 
 ### Get Help from the Community
 
