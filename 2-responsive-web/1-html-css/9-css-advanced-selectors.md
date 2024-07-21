@@ -1,7 +1,5 @@
 # Mastering Advanced CSS Selectors: A Comprehensive lesson
 
-## Introduction
-
 CSS selectors are the foundation of web styling, providing a powerful way to select and manipulate HTML elements. These selectors enable developers to assign styles to elements based on their attributes, content, or position in the document hierarchy.
 
 ## 1. Understanding Basic CSS Selectors

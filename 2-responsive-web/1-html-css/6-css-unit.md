@@ -1,7 +1,5 @@
 # Mastering CSS Units: A Comprehensive Guide to px, em, rem, and More
 
-## Introduction
-
 Understanding CSS units is crucial for web developers who want to create precise and flexible layouts. The choice of unit can have a big impact on how scalable, maintainable, and accessible a web page is. In this lesson, we'll provide a comprehensive guide to the main CSS units used in web development.
 
 CSS units can be divided into three main types:

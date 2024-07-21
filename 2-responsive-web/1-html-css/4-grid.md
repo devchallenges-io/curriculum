@@ -1,7 +1,5 @@
 # Mastering CSS Grid: A Step-by-Step lesson
 
-## Introduction
-
 CSS Grid Layout revolutionized web design by allowing developers to precisely create complex layouts. Unlike older methods, CSS Grid provides a flexible and robust approach to element arrangement on a web page. It offers enhanced control over horizontal and vertical alignment of elements, facilitating responsive designs that adapt to various screen sizes. This advancement enables the creation of complex, adaptable layouts without necessitating complicated frameworks or hacks.
 
 ## 1. Understanding the Basics of CSS Grid

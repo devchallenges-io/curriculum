@@ -1,7 +1,5 @@
 # The Ultimate Guide to Writing a Good Git Commit Comment
 
-## Introduction
-
 Git commit messages are important in version control. They act as a detailed record of each change made to the repository. Think of them as a journal entry that goes along with your contributions to a project's codebase. They provide context and reasoning for the changes made.
 
 The importance of good commit messages cannot be overstated. They:

@@ -1,7 +1,5 @@
 # Mastering CSS Functions: A Complete Guide to min(), max(), calc() and clamp()
 
-## Introduction
-
 CSS functions play a crucial role in improving web design through responsive styling and precise mathematical operations. These built-in functions allow designers to create intricate styles that can adapt smoothly across various screen sizes and devices, ensuring a consistent user experience.
 
 Among the many CSS functions available, four stand out for their versatility and power:

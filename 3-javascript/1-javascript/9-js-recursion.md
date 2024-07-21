@@ -1,7 +1,5 @@
 # Mastering Recursion in JavaScript: A Step-by-Step Guide
 
-## Introduction
-
 Recursion in JavaScript is a fundamental programming technique that developers use to create functions that call themselves. This lesson is a comprehensive guide on how recursion works and why it's essential to understand in JavaScript programming.
 
 ### What is Recursion?

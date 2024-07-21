@@ -1,6 +1,6 @@
 # Learning TypeScript Online: The Ultimate Resource for Beginners
 
-## Introduction to TypeScript
+to TypeScript
 
 ### What is TypeScript?
 

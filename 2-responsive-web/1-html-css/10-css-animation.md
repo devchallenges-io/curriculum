@@ -1,7 +1,5 @@
 # CSS Keyframes and Transitions: The Ultimate lesson for Web Developers
 
-## Introduction
-
 CSS animations, keyframes, and transitions are foundational elements that empower web developers to craft dynamic and visually engaging interfaces. **CSS animations** expand the capability of CSS by allowing elements to change styles over time without using JavaScript.
 
 Transitions work hand in hand with animations by providing an easier way to specify style changes. Unlike animations that give control over multiple steps, **transitions** enable elements to smoothly switch from one state to another upon a triggering event, such as hovering or clicking.

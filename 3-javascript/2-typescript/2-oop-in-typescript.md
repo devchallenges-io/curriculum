@@ -1,6 +1,6 @@
 # Object-Oriented Programming in TypeScript
 
-## Introduction to Object-Oriented Programming in TypeScript
+to Object-Oriented Programming in TypeScript
 
 **Object-Oriented Programming (OOP)** is a programming approach that revolves around "objects" containing both data and methods. It focuses on four key principles: _encapsulation_, _inheritance_, _polymorphism_, and _abstraction_. These principles empower developers to build code that is modular, reusable, and easy to maintain. OOP is widely used in software development because it allows us to model real-world scenarios effectively and handle complex applications efficiently.
 

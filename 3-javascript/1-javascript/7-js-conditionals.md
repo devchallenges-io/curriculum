@@ -1,7 +1,5 @@
 # Mastering Conditional Statements in JavaScript: The Ultimate lesson
 
-## Introduction
-
 Conditional statements are essential for decision-making in JavaScript. They allow developers to run code based on specific conditions. By checking if certain criteria are true, JavaScript can perform different actions, making applications dynamic and responsive. Understanding conditional statements is crucial for JavaScript developers to effectively control how programs run and handle complex logic smoothly.
 
 In this lesson, you'll learn about:

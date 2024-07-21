@@ -1,7 +1,5 @@
 # Web Accessibility: Why It Matters and How to Get Started
 
-## Introduction
-
 Web accessibility is the practice of making websites usable for everyone, including those with disabilities. It involves removing barriers that may hinder interaction or access to information on the web. When websites are designed, developed, and edited with accessibility in mind, all users can have equal opportunities to navigate and engage with the content.
 
 This lesson explores the main principles of web accessibility as defined by the Web Content Accessibility Guidelines (WCAG) and provides practical tips on how to incorporate these principles into your web projects. By focusing on four key areas—perceivability, operability, understandability, and robustness—you can create an inclusive online environment that accommodates diverse user needs.

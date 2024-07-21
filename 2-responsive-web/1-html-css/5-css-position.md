@@ -1,7 +1,5 @@
 # Master CSS Positioning: A Step-by-Step lesson for Beginners
 
-## Introduction
-
 CSS positioning is a fundamental concept in web design that allows developers to control the layout of HTML elements on a page. For beginners, understanding CSS positioning is crucial for creating responsive and visually appealing websites. This lesson will guide you through the different position values in CSS:
 
 - **Static Positioning**: Elements are positioned normally within the document flow.

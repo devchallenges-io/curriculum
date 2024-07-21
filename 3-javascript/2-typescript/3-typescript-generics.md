@@ -1,6 +1,6 @@
 # Mastering TypeScript Generics
 
-## Introduction to TypeScript Generics
+to TypeScript Generics
 
 TypeScript Generics offer a powerful way to create reusable and flexible code by allowing you to define functions, classes, and type aliases with placeholder types. These placeholder types are known as _type variables_ and can be replaced with specific types when the function or class is used.
 

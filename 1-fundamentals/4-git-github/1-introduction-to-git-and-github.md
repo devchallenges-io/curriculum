@@ -1,7 +1,5 @@
 # Master Git Basics: A Step-by-Step GitHub lesson
 
-## Introduction
-
 In the rapidly changing world of software development, it's important to understand tools like Git and GitHub. Git is a system that helps track changes in source code, allowing you to go back to different versions of a project. GitHub takes your Git repositories and puts them on the internet, providing a web-based platform for managing your projects.
 
 ## 1. Understanding Git: A Powerful Version Control System

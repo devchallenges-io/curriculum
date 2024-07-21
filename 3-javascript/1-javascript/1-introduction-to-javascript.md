@@ -2,7 +2,7 @@
 
 ## 1. What is JavaScript?
 
-### Introduction to JavaScript
+# to JavaScript
 
 JavaScript, often abbreviated as JS, is a versatile programming language that was created in 1995 by Brendan Eich while he was an engineer at Netscape. Initially designed to make web pages alive with interactive effects, it has evolved into a robust language that powers the dynamic aspects of websites.
 
