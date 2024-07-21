@@ -33,7 +33,9 @@ A well-crafted commit message usually has three parts:
 2.  **Body**: Provides more details about the change, answering what was done and why it was necessary. To ensure readability in different Git tools, wrap lines at 72 characters.
     Example:
     ```
-    Implement basic authentication support allowing users to sign in. This update is in response to feature request #123 and adds necessary models, controllers, and views to handle user sessions.
+    Implement basic authentication support allowing users to sign in.
+    This update is in response to feature request #123 and adds
+    necessary models, controllers, and views to handle user sessions.
     ```
 3.  **Footer**: An optional section for including metadata related to the commit, such as references to issue tracker IDs or co-author credits.
     Example: `Resolves: #123` `Co-authored-by: Jane Doe <jane.doe@example.com>`
