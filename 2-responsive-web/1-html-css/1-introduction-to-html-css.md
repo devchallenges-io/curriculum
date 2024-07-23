@@ -4,19 +4,6 @@ HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the buildi
 
 On the other hand, CSS is responsible for the design and presentation of the web page. It determines how HTML elements should look on different devices or media. It's like choosing the paint color and decorations for a building, making it visually appealing.
 
-Understanding HTML and CSS is crucial for anyone interested in creating web pages or pursuing web development as a career. These languages are essential tools that allow you to turn your design ideas into functional websites.
-
-In this guide, we'll explore various aspects of HTML and CSS, from the basics to more advanced techniques. Here's what we'll cover:
-
-1.  **HTML Basics**: Understanding the syntax, structure, and important tags used in HTML.
-2.  **CSS Fundamentals**: Learning how to apply styles and make your web page visually appealing.
-3.  **Webpage Creation**: Combining HTML and CSS to create complete web layouts.
-4.  **Advanced Styling**: Exploring advanced CSS concepts and techniques to enhance your designs.
-5.  **Testing & Publishing**: Checking your web page for compatibility issues and using developer tools for debugging.
-6.  **Continuous Learning**: Finding additional resources to further improve your skills in HTML and CSS.
-7.  **Expanding Skills**: Getting an introduction to JavaScript and its role in creating interactive web pages.
-8.  **Developer Toolkit**: Discovering essential software and online resources that can aid you in your development journey.
-
 ## 1. Getting Started with HTML
 
 HTML (HyperText Markup Language) is the foundational building block of web development, serving as the skeleton that gives structure to web content. Grasping the basics of HTML syntax and code structure is essential for creating well-organized web pages.
@@ -195,8 +182,6 @@ Visualize it with this example:
 }
 ```
 
-//TODO: Add picture here to visualize this
-
 When applied to an HTML element with class `.box`, these styles determine its appearance and placement relative to other elements. Experiment with different values to see how they affect your layout.
 
 ## 4. Enhancing the Webpage with CSS Styles
@@ -283,4 +268,4 @@ div.warning {
 
 ## Final Thoughts on Your HTML, CSS Journey
 
-With the knowledge of HTML and CSS and a suite of development tools, you are now prepared to take on more challenging projects. Remember that web development is always changing; it is just as crucial to stay curious and keep learning as it is to use the right tools. The Odin Project's HTML and CSS course is an excellent way to strengthen your skills. With dedication and practice, you will improve your abilities and transform your concepts into functional and visually appealing web experiences.
+With the knowledge of HTML and CSS and a suite of development tools, you are now prepared to take on more challenging projects. Remember that web development is always changing; it is just as crucial to stay curious and keep learning as it is to use the right tools.
