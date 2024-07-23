@@ -1,0 +1,88 @@
+[
+  {
+    "lessons": [
+      "1-fundamentals/what-is-devchallenges",
+      "1-fundamentals/where-to-get-help",
+      "1-fundamentals/visual-studio-code-introduction",
+      "1-fundamentals/command-line-basics",
+      "1-fundamentals/introduction-to-git-and-github",
+      "1-fundamentals/writing-good-commit-messages",
+      "1-fundamentals/free-hosting-for-web-projects"
+    ],
+    "certificate": "1-fundamentals",
+    "title": "Developer",
+    "description": "You have completed the fundamentals of web development. You have gained knowledge in using Git for version control and hosting websites",
+    "interactiveTutorials": [],
+    "challenges": []
+  },
+  {
+    "lessons": [
+      "2-responsive-web/introduction-to-html-and-css",
+      "2-responsive-web/html-cheat-sheet",
+      "2-responsive-web/css-flexbox",
+      "2-responsive-web/css-grid",
+      "2-responsive-web/css-positioning",
+      "2-responsive-web/css-units",
+      "2-responsive-web/css-functions",
+      "2-responsive-web/css-custom-properties",
+      "2-responsive-web/css-advanced-selectors",
+      "2-responsive-web/css-animation",
+      "2-responsive-web/responsive-design",
+      "2-responsive-web/form-and-form-validation",
+      "2-responsive-web/accessibility"
+    ],
+    "certificate": "2-responsive-web",
+    "title": "Responsive Web Developer",
+    "description": "You have completed the responsive web developer roadmap. You have gained knowledge in using HTML and CSS for building Responsive Website.",
+
+    "interactiveTutorials": [],
+    "challenges": []
+  },
+  {
+    "lessons": [
+      "3-javascript/introduction-to-javascript",
+      "3-javascript/javascript-variables-and-data-types",
+      "3-javascript/javascript-functions",
+      "3-javascript/javascript-arrays",
+      "3-javascript/javascript-objects",
+      "3-javascript/javascript-loops",
+      "3-javascript/javascript-conditionals",
+      "3-javascript/javascript-modules-basics",
+      "3-javascript/javascript-recursion",
+      "3-javascript/javascript-dom-and-events",
+      "3-javascript/javascript-scope-and-closures",
+      "3-javascript/javascript-async-and-api",
+      "3-javascript/javascript-functional-programming",
+      "3-javascript/javascript-oop-concepts",
+      "3-javascript/javascript-regular-expressions",
+      "3-javascript/javascript-storing-data-in-browser",
+      "3-javascript/introduction-to-typescript",
+      "3-javascript/typescript-oop-concepts",
+      "3-javascript/typescript-generics",
+      "3-javascript/typescript-modules",
+      "3-javascript/typescript-decorators",
+      "3-javascript/typescript-advanced-concepts"
+    ],
+    "certificate": "3-javascript",
+    "title": "Frontend Developer",
+    "description": "You have completed the frontend developer path. You have gained knowledge in using JavaScript and TypeScript for building dynamic and interactive websites.",
+    "interactiveTutorials": [],
+    "challenges": []
+  },
+  {
+    "lessons": [],
+    "certificate": "4-frontend-libraries",
+    "title": "Frontend Libraries Developer",
+    "description": "You have completed the frontend libraries developer path. You have gained knowledge in using popular frameworks like React or Vue.js for building scalable and maintainable web applications.",
+    "interactiveTutorials": [],
+    "challenges": []
+  },
+  {
+    "lessons": [],
+    "certificate": "5-fullstack",
+    "title": "Fullstack Developer",
+    "description": "You have completed the fullstack developer path. You have gained knowledge in using backend technologies for building RESTful APIs and managing databases.",
+    "interactiveTutorials": [],
+    "challenges": []
+  }
+]
