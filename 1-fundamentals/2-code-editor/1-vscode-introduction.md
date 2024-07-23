@@ -166,25 +166,25 @@ Extensions in Visual Studio Code are powerful tools that enhance the editor's ca
 
 Visual Studio Code offers a wide range of extensions that can greatly enhance your web development workflow. Here are some essential extensions specifically tailored for web development:
 
-1. **HTML CSS Support**: Provides autocompletion and syntax highlighting for HTML and CSS files, making it easier to write and edit code.
+1. [**HTML CSS Support**](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Provides autocompletion and syntax highlighting for HTML and CSS files, making it easier to write and edit code.
 
-2. **JavaScript (ES6) code snippets**: Offers a collection of helpful code snippets for JavaScript, including ES6 syntax, making it faster to write common code patterns.
+2. [**JavaScript (ES6) code snippets**](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets): Offers a collection of helpful code snippets for JavaScript, including ES6 syntax, making it faster to write common code patterns.
 
-3. **Live Server**: Launches a local development server with live reloading capability, allowing you to see changes in your web application in real-time.
+3. [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launches a local development server with live reloading capability, allowing you to see changes in your web application in real-time.
 
-4. **Prettier - Code formatter**: Automatically formats your code according to predefined rules, ensuring consistent code style throughout your project.
+4. [**Prettier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Automatically formats your code according to predefined rules, ensuring consistent code style throughout your project.
 
-5. **ESLint**: Integrates ESLint, a popular JavaScript linter, into Visual Studio Code, providing real-time feedback on code quality and style.
+5. [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint, a popular JavaScript linter, into Visual Studio Code, providing real-time feedback on code quality and style.
 
-6. **Auto Rename Tag**: Automatically renames the closing tag when you rename the opening tag in HTML or XML files, saving you time and effort.
+6. [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically renames the closing tag when you rename the opening tag in HTML or XML files, saving you time and effort.
 
-7. **CSS Peek**: Allows you to quickly navigate to CSS definitions from HTML files, making it easier to understand and modify CSS styles.
+7. [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): Allows you to quickly navigate to CSS definitions from HTML files, making it easier to understand and modify CSS styles.
 
-8. **GitLens**: Enhances the Git integration in Visual Studio Code by providing additional information about code changes, authors, and commit history.
+8. [**GitLens**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Enhances the Git integration in Visual Studio Code by providing additional information about code changes, authors, and commit history.
 
-9. **Debugger for Chrome**: Enables debugging of JavaScript code running in the Chrome browser directly from Visual Studio Code, making it easier to find and fix bugs.
+9. [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome): Enables debugging of JavaScript code running in the Chrome browser directly from Visual Studio Code, making it easier to find and fix bugs.
 
-10. **Bracket Pair Colorizer**: Colorizes matching brackets in your code, improving code readability and making it easier to identify code blocks.
+10. [**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): Colorizes matching brackets in your code, improving code readability and making it easier to identify code blocks.
 
 By installing and utilizing these extensions, you can streamline your web development workflow, increase productivity, and write high-quality code more efficiently.
 

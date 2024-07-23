@@ -10,8 +10,6 @@ The importance of good commit messages cannot be overstated. They:
 
 Writing good Git commit messages is an art that requires balance. It's about being concise yet descriptive enough to convey the necessary information. Effective communication through commit comments ensures that collaborators, both present and future, can seamlessly navigate through a project's evolution.
 
-This guide aims to equip you with the knowledge and best practices needed to craft meaningful commit messages that enrich collaboration and enhance your development workflow.
-
 ## 1. The Basics of Git Commit Messages
 
 ### Understanding the Fundamentals
@@ -47,8 +45,6 @@ Here are some tips on how to use each part of the commit structure effectively:
 - **Title**: Keep it short yet informative; this is what shows up in logs and summaries.
 - **Body**: Only provide context when needed. Not every commit requires a detailed explanation; reserve the body for complex changes where the title alone is insufficient.
 - **Footer**: Use it for automation and cross-referencing purposes within project management tools.
-
-By understanding these components and their purposes, you create a solid framework that improves codebase understanding and speeds up team workflows.
 
 ## 2. Conventional Commits: Enforcing Consistency in Commit Messages
 

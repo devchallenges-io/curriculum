@@ -4,7 +4,7 @@ Seeking help and community support is crucial in skill development. Tackling cod
 
 ## 1. Community Support on DevChallenges.io
 
-### 1.1 [GitHub Community](https://github.com/orgs/devchallenges-io/discussions)
+### [GitHub Community](https://github.com/orgs/devchallenges-io/discussions)
 
 The GitHub community for DevChallenges.io is a new addition that serves as an essential resource for users looking to find help and share their experiences. You can access the GitHub community for DevChallenges.io by visiting the following link: [GitHub Community](https://github.com/orgs/devchallenges-io/discussions). You can see announcements, provide feedback, post questions, seek advice on specific coding problems, or share your insights from completed projects. The community is categorized into various topics, making it easier for you to navigate through relevant discussions and find the support you need.
 
@@ -42,7 +42,7 @@ Posting a new discussion in the GitHub community is straightforward:
 
 By following these steps, you can effectively engage with fellow developers and contribute to the vibrant DevChallenges.io GitHub community.
 
-### 1.2 Discord
+### [Discord](https://discord.com/invite/3R6vFeM)
 
 The **Discord channel** of DevChallenges.io is a great resource for getting _real-time assistance_ and being part of a collaborative community. When you join the DevChallenges community on Discord, you can:
 
