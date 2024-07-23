@@ -113,7 +113,7 @@ In Visual Studio Code, there are several linting tools available for enforcing c
 
 1. Conventional Commits is a commit message convention that provides a standardized format for writing commit messages. You can use the [Conventional Commit extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) in Visual Studio Code to enforce this convention.
 
-2. Commit Message Editor: A tool that provides a user-friendly interface for creating and editing commit messages. It helps developers follow commit message guidelines and ensures consistency in formatting and content. The Commit Message Editor can be integrated into Git clients or code editors to streamline the process of writing informative and well-structured commit messages. You can use the [Commit Message Editor extension](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor) in Visual Studio Code to enhance your commit message editing experience.
+2. [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor): A tool that provides a user-friendly interface for creating and editing commit messages. It helps developers follow commit message guidelines and ensures consistency in formatting and content. The Commit Message Editor can be integrated into Git clients or code editors to streamline the process of writing informative and well-structured commit messages.
 
 These tools can be installed as extensions in VS Code and configured to run automatically when committing changes. They help ensure that commit messages follow the specified guidelines, making it easier to maintain a clean and consistent commit history.
 
@@ -129,10 +129,6 @@ A structured commit history:
 - Facilitates onboarding new team members by offering an intelligible project timeline
 - Enhances code review processes with coherent and logical change documentation
 
-### GitKon: Commit Hygiene Advocate
-
-Consider attending GitKon, an annual conference focused on sharing best practices in Git usage. Attendees gain insights into maintaining a healthy commit history, among other vital topics, directly impacting project success through improved commit hygiene.
-
 ### Techniques for Commit History Optimization
 
 #### 1. Interactive Rebase
@@ -146,10 +142,5 @@ Employ Git's `fixup` or `squash` commands to organize related changes into logic
 By implementing these strategies, teams can ensure their commit logs remain navigable and informative, serving as a reliable resource for project stakeholders.
 
 ## Conclusion
-
-Investing in the craftsmanship of Git commit messages repays manifold throughout the lifecycle of software development. Each entry in your **Git repository** becomes a meaningful snapshot when you articulate changes with precision and context. These snapshots collectively form a vivid **revision history**, enhancing navigability and comprehension for anyone who traverses it.
-
-- Recognize that an informative Git log is an invaluable resource during code reviews, debugging, and onboarding new team members.
-- Embrace the discipline required to write meaningful commit messages as it directly correlates with the success and sustainability of your projects.
 
 When revisiting past commits or when colleagues rely on the **revision history** to understand the evolution of the codebase, well-crafted messages serve as a testament to the team's professionalism and attention to detail. By adhering to best practices covered in this guide, your project's Git log transforms from a mere technical requirement into a rich narrative of its development journey.
