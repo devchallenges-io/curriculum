@@ -4,9 +4,9 @@ Understanding CSS units is crucial for web developers who want to create precise
 
 CSS units can be divided into three main types:
 
-1.  **Absolute units**: These include pixels (px) and are fixed sizes that don't change based on other factors. While they provide consistency across devices, they may not always scale well.
-2.  **Relative units**: These include em and rem. Unlike absolute units, relative units adapt their size based on other properties such as the parent element's font-size or the root element's font-size. This makes them more flexible and suitable for responsive designs.
-3.  **Viewport units**: These include vw, vh, vmin, and vmax. Viewport units are relative to the size of the browser viewport (the visible portion of the webpage). They are useful for creating layouts that automatically adjust to different screen sizes.
+1.  **Absolute units**: These include pixels (`px`) and are fixed sizes that don't change based on other factors. While they provide consistency across devices, they may not always scale well.
+2.  **Relative units**: These include `em` and `rem`. Unlike absolute units, relative units adapt their size based on other properties such as the parent element's font-size or the root element's font-size. This makes them more flexible and suitable for responsive designs.
+3.  **Viewport units**: These include `vw`, `vh`, `vmin`, and `vmax`. Viewport units are relative to the size of the browser viewport (the visible portion of the webpage). They are useful for creating layouts that automatically adjust to different screen sizes.
 
 ## 1. Absolute Length Units
 
@@ -47,7 +47,7 @@ The `em` unit is a relative length unit in CSS that directly relates to the font
 
 #### **Use Case Example**
 
-If the parent element has a font-size of 16px and a child element is styled with a font-size of 1.5em, the child's font-size will be 24px.
+If the parent element has a font-size of `16px` and a child element is styled with a font-size of `1.5em`, the child's font-size will be `24px`.
 
 #### **Best Practices for Typography**
 
@@ -63,7 +63,7 @@ The `rem`, or "root em", is a relative length unit referencing the font-size of 
 
 By setting global styles on the root element, using rem units helps maintain consistent spacing and sizing that is easily adjustable from one place.
 
-````css
+```css
 :root {
   font-size: 16px; /* Set the base font size for the entire document */
   margin: 1rem; /* Set a consistent margin of 1rem for all elements */
@@ -71,7 +71,7 @@ By setting global styles on the root element, using rem units helps maintain con
 }
 
 /* Example usage */
-h1 {```css
+h1 {
   font-size: 2rem; /* Heading font size is 2 times the base font size */
   margin-bottom: 1rem; /* Add a margin of 1rem below the heading */
 }
@@ -80,7 +80,7 @@ p {
   font-size: 1.2rem; /* Paragraph font size is 1.2 times the base font size */
   line-height: 1.5; /* Set the line height to 1.5 times the base font size */
 }
-````
+```
 
 ### vh (Viewport Height)
 

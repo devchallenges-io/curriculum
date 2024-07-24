@@ -2,13 +2,6 @@
 
 CSS functions play a crucial role in improving web design through responsive styling and precise mathematical operations. These built-in functions allow designers to create intricate styles that can adapt smoothly across various screen sizes and devices, ensuring a consistent user experience.
 
-Among the many CSS functions available, four stand out for their versatility and power:
-
-1.  **calc()**: Performs calculations to combine different units or values dynamically.
-2.  **min()**: Selects the smallest value from a list of comma-separated values, optimizing for minimum size constraints.
-3.  **max()**: Chooses the largest value, setting an upper limit on the sizing of elements.
-4.  **clamp()**: Combines both `min()` and `max()` by defining a range within which a value must fall.
-
 In this lesson, we will explore each of these functions in detail— **calc()**, **min()**, **max()**, and **clamp()** —explaining their syntax, providing examples of their use cases, and highlighting the benefits they bring to web design.
 
 ## 1. The `calc()` Function
@@ -49,7 +42,7 @@ The first parameter of the `min()` function represents the initial value or the 
 
 Let's take a look at some practical examples of how you can use the `min()` function in your CSS:
 
-##### 1. Element Sizing
+##### 2.1 Element Sizing
 
 You can set minimum sizes for elements like images and containers to maintain usability and design consistency on smaller screens:
 
@@ -61,7 +54,7 @@ You can set minimum sizes for elements like images and containers to maintain us
 
 In this example, the width of `.responsive-div` will never be larger than 500px, ensuring a consistent user experience across different devices.
 
-##### 2. Maintaining Spacing
+##### 2.2 Maintaining Spacing
 
 By defining a minimum value, you can control spacing such as margins or padding to prevent elements from looking too crowded on various devices:
 
@@ -71,7 +64,7 @@ By defining a minimum value, you can control spacing such as margins or padding 
 }
 ```
 
-##### 3. Fluid Typography
+##### 2.3 Fluid Typography
 
 To make sure text remains readable on small displays while still allowing for scalability with viewport changes, you can establish a minimum font size:
 
@@ -99,7 +92,7 @@ Here's an example to illustrate the usage of the max() function:
 
 #### **Use Cases for the max() Function:**
 
-##### **1. Responsive Container Widths**
+##### 3.1 Responsive Container Widths
 
 Set a `max-width` for containers to ensure content does not stretch too wide on large screens, preserving readability.
 
@@ -109,7 +102,7 @@ Set a `max-width` for containers to ensure content does not stretch too wide on 
 }
 ```
 
-##### **2. Adaptive Font Sizes**
+##### 3.2 Adaptive Font Sizes\*\*
 
 Assign a maximum font size to text elements to maintain legibility across various devices and screen sizes.
 
@@ -119,7 +112,7 @@ h1 {
 }
 ```
 
-##### **3. Maintaining Spacing**
+##### 3.3 Maintaining Spacing
 
 Use `max()` in padding and margin properties to keep spacing proportional yet bounded by a maximum value.
 
@@ -156,11 +149,3 @@ In the above example, `16px` sets the minimum font size, `24px` is the maximum f
 ## Conclusion
 
 Use CSS functions to transform your web designs. Explore the dynamic features of **min()**, **max()**, **clamp()**, and **calc()** to make websites that adjust smoothly to various devices and screen sizes.
-
-### Advantages of Using CSS Functions
-
-CSS functions offer a suite of advantages that significantly enhance the efficiency and dynamism of website design. The key benefits include:
-
-1.  **Reduction of Complex Calculations**: By handling arithmetic directly within stylesheets, CSS functions like `calc()`, `min()`, `max()`, and `clamp()` simplify what would otherwise require intricate programming logic. They reduce the need for additional scripting or pre-processing to achieve complex layout behavior.
-2.  **Improved Responsiveness**: These functions empower developers to create designs that adapt seamlessly across different screen sizes and devices. Through relative units and dynamic calculations, elements can be sized proportionally, contributing to a consistent user experience irrespective of device constraints.
-3.  **Flexibility in Design**: Designers gain more control over how elements scale and adjust within a page. This flexibility allows for more creative and nuanced layouts, where spacing and sizing can react not just to viewport dimensions but also to user interaction or other dynamic conditions.
