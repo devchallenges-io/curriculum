@@ -8,8 +8,6 @@ CSS Grid Layout revolutionized web design by allowing developers to precisely cr
 
 When creating a CSS Grid layout, the main element you need is the _Grid Container_. This is simply an HTML element that acts as a container and has the `display: grid;` property applied to it. Once you do this, it becomes a powerful grid system where you can organize and arrange its child elements in any way you want.
 
-<!-- TODO: add visualization here -->
-
 ### Grid Lines
 
 A key concept in CSS Grid is _Grid Lines_. These are the lines that divide the grid into columns and rows. They act as reference points for positioning and aligning items within the grid. There are two types of grid lines:
@@ -72,15 +70,19 @@ You can use `grid-template-columns` to specify the number and sizes of columns i
 ```css
 .container {
   display: grid;
-  grid-template-columns: 100px 200px auto;
+  grid-template-columns: 100px 1fr 2fr auto 12%;
 }
 ```
 
-In this example:
+In this example, the `grid-template-columns` property defines the column structure of a CSS Grid layout. In the given example:
 
-1.  The first column is set to be exactly `100px` wide.
-2.  The second column is defined as `200px`.
-3.  The third column takes up the remaining space with `auto`.
+- `100px`: The first column is fixed at 100 pixels wide.
+- `1fr`: The second column takes up one fraction of the available space, after accounting for the other columns' sizes.
+- `2fr`: The third column takes up two fractions of the remaining space, making it twice as wide as the second column.
+- `auto`: The fourth column is sized automatically based on its content's natural size.
+- `12%`: The fifth column takes up 12% of the grid container's total width.
+
+The `fr` unit allows for flexible distribution of the remaining space within the grid container.
 
 ### **Defining Row Tracks with **`grid-template-rows`**:**
 
@@ -89,15 +91,17 @@ Similarly, you can define the rows in your grid using `grid-template-rows`. This
 ```css
 .container {
   display: grid;
-  grid-template-rows: 150px auto 100px;
+  grid-template-rows: 10% auto 100px 2fr repeat(3, 1fr);
 }
 ```
 
-Here:
+In this example, the `grid-template-rows` property defines the row sizes for a CSS Grid layout:
 
-1.  The first row has a height of `150px`.
-2.  The second row adjusts its height automatically based on its content.
-3.  The third row is fixed at `100px`.
+- `10%`: The first row is set to take up 10% of the grid container's height.
+- `auto`: The second row's height is determined by its content's natural size.
+- `100px`: The third row is fixed at 100 pixels high.
+- `2fr`: The fourth row takes up two fractions of the available space, making it larger relative to rows defined with 1fr.
+- `repeat(3, 1fr)`: This repeats a pattern of one fraction of the available space three times, creating three additional rows that each take up an equal share of the remaining space.
 
 ## 5. Placing Items in Specific Grid Cells
 
@@ -159,9 +163,12 @@ Alternatively, `grid-row-gap` and `grid-column-gap` can be used to set row and c
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-row-gap: 20px; /* Sets a 20px gap between the rows _/ grid-column-gap: 10px; /_ Sets a 10px gap between the columns */
+  grid-row-gap: 20px; /* Sets a 20px gap between the rows */
+  grid-column-gap: 10px; /* Sets a 10px gap between the columns */
 }
 ```
+
+In this example, the `repeat(3, 1fr)` function in CSS Grid is used to define a pattern that repeats multiple times. Here, it specifies that there should be three columns (or rows, depending on context) each taking up an equal fraction (`1fr`) of the available space in the grid container.
 
 ## 7. Aligning and Justifying Items in the Grid
 
@@ -169,7 +176,7 @@ CSS Grid provides powerful control over the alignment of items within your grid,
 
 ### `justify-items`
 
-This property aligns grid items along the inline (row) axis. By default, it is set to 'stretch', which causes items to fill the entire cell width. However, it can be set to 'start', 'end', 'center', or 'stretch' to achieve different effects.
+This property aligns grid items along the inline (row) axis. By default, it is set to `stretch`, which causes items to fill the entire cell width. However, it can be set to `start`, `end`, `center`, or `stretch` to achieve different effects.
 
 ```css
 .container {
@@ -180,7 +187,7 @@ This property aligns grid items along the inline (row) axis. By default, it is s
 
 ### `align-items`
 
-Similar to `justify-items`, but for the block (column) axis. It determines vertical placement within grid cells. Set its value to 'start', 'end', 'center', or 'stretch'.
+Similar to `justify-items`, but for the block (column) axis. It determines vertical placement within grid cells. Set its value to `start`, `end`, `center`, or `stretch`.
 
 ```css
 .container {
@@ -191,7 +198,7 @@ Similar to `justify-items`, but for the block (column) axis. It determines verti
 
 ### `justify-content`
 
-This adjusts the position of the grid itself within the container along the inline axis when there is extra space outside of explicit tracks. Options include 'start', 'end', 'center', 'stretch', 'space-around', 'space-between', and 'space-evenly'.
+This adjusts the position of the grid itself within the container along the inline axis when there is extra space outside of explicit tracks. Options include `start`, `end`, `center`, `stretch`, `space-around`, `space-between`, and `space-evenly`.
 
 ```css
 .container {
@@ -281,7 +288,7 @@ Grid Line Names simplify the process of placing items by assigning meaningful na
 ```css
 .container {
   display: grid;
-  grid-template-columns: [start]100px[main-start]1fr[main-end]100px[end];
+  grid-template-columns: [start] 100px [main-start] 1fr [main-end] 100px [end];
 }
 ```
 
