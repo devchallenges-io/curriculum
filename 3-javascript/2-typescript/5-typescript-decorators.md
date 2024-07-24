@@ -1,4 +1,4 @@
-# Mastering TypeScript Decorators: The Ultimate Guide for 2024
+# Mastering TypeScript Decorators
 
 TypeScript Decorators are a powerful feature introduced to add metadata and modify the behavior of classes, methods, properties, and parameters. These decorators enhance the functionality of your code by enabling declarative programming techniques.
 

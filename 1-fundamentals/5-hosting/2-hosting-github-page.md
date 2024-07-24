@@ -1,4 +1,4 @@
-# GitHub Pages Hosting: The Ultimate Guide for 2024
+# GitHub Pages Hosting
 
 GitHub Pages Hosting provides an easy-to-use stage for developers and content makers to launch websites from a GitHub repository.
 

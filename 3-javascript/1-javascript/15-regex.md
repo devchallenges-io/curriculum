@@ -1,4 +1,4 @@
-# Mastering Regular Expressions in JavaScript: The Ultimate Guide for 2024
+# Mastering Regular Expressions in JavaScript
 
 Regular expressions in JavaScript are powerful tools for text processing, enabling developers to search, manipulate, and match character combinations within strings efficiently. These expressions are not just patterns but are objects within JavaScript itself, providing a suite of methods that play a crucial role in string manipulation tasks.
 

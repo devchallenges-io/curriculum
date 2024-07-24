@@ -1,4 +1,4 @@
-# Mastering CSS Custom Properties: The Ultimate Guide for 2024
+# Mastering CSS Custom Properties
 
 CSS custom properties have transformed the way we style websites, offering a level of dynamic and flexible styling options previously out of reach. They promote the DRY (Don't Repeat Yourself) principle, reduce complexity, and enhance readability in your code.
 
@@ -31,9 +31,7 @@ To use the value of a custom property, you need to use the `var()` function:
 
 ## 2. Working with CSS Custom Properties
 
-### Declaring and Defining Custom Properties in CSS
-
-#### Declaration Syntax
+### Declaration Syntax
 
 To declare a custom property, use two dashes followed by the property name, like `--main-bg-color`, then assign it a value:
 
@@ -45,7 +43,7 @@ To declare a custom property, use two dashes followed by the property name, like
 
 The `:root` pseudo-class is often used to declare global custom properties that can be accessed anywhere within the document. However, custom properties can also be scoped locally to specific selectors.
 
-#### Defining with the `@property` At-Rule
+### Defining with the `@property` At-Rule
 
 In addition to the standard declaration method, the `@property` at-rule offers an advanced way to define custom properties with added control over their behavior:
 
