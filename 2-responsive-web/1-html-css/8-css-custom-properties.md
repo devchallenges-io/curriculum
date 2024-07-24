@@ -180,8 +180,6 @@ The `.child` class will have a different `--text-color` value than its parent du
 
 ## 5. Advanced Techniques with CSS Custom Properties
 
-### Using Media Queries and Themes with CSS Custom Properties
-
 Harness the power of CSS custom properties to create flexible and adaptive designs by integrating them with media queries. This synergy enables the creation of responsive themes that respond to various viewport sizes, facilitating dark mode implementations and better accessibility features.
 
 #### **Responsive Design Adaptation**
