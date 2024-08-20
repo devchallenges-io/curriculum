@@ -110,6 +110,11 @@
     "slug": "3-javascript/introduction-to-javascript"
   },
   {
+    "title": "JavaScript DOM and Events",
+    "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
+    "slug": "3-javascript/javascript-dom-and-events"
+  },
+  {
     "title": "JavaScript Variables and Data Types",
     "path": "3-javascript/1-javascript/2-js-variables.md",
     "slug": "3-javascript/javascript-variables-and-data-types"
@@ -148,11 +153,6 @@
     "title": "JavaScript Recursion",
     "path": "3-javascript/1-javascript/9-js-recursion.md",
     "slug": "3-javascript/javascript-recursion"
-  },
-  {
-    "title": "JavaScript DOM and Events",
-    "path": "3-javascript/1-javascript/10-js-dom-and-events.md",
-    "slug": "3-javascript/javascript-dom-and-events"
   },
   {
     "title": "JavaScript Scope and Closures",
