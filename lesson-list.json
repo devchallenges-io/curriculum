@@ -135,14 +135,14 @@
     "slug": "3-javascript/javascript-objects"
   },
   {
-    "title": "JavaScript Loops",
-    "path": "3-javascript/1-javascript/6-js-loops.md",
-    "slug": "3-javascript/javascript-loops"
+    "title": "JavaScript Conditionals",
+    "path": "3-javascript/1-javascript/6-js-conditionals.md",
+    "slug": "3-javascript/javascript-conditionals"
   },
   {
-    "title": "JavaScript Conditionals",
-    "path": "3-javascript/1-javascript/7-js-conditionals.md",
-    "slug": "3-javascript/javascript-conditionals"
+    "title": "JavaScript Loops",
+    "path": "3-javascript/1-javascript/7-js-loops.md",
+    "slug": "3-javascript/javascript-loops"
   },
   {
     "title": "JavaScript Modules Basics",
