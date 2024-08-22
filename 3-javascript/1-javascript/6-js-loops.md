@@ -1,4 +1,4 @@
-# Mastering JavaScript Loops: A Complete Guide for 2024
+# Mastering JavaScript Loops: A Complete Guide for Beginners
 
 In the ever-changing world of web development, JavaScript loops are crucial for handling repetitive tasks efficiently. Whether you're working with data structures or automating repetitive processes, knowing how to use loops is essential for any JavaScript developer.
 
