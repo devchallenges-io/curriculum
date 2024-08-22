@@ -49,8 +49,6 @@ console.log(add(5, 3)); // Outputs: 8
 
 Note that JavaScript functions allow passing fewer or more arguments than declared parameters; if fewer are passed, missing parameters are `undefined`, while extra arguments can be accessed using the `arguments` object within the function.
 
-By mastering JavaScript functions' syntax and effectively managing parameters and arguments, developers enhance their ability to create dynamic interactions within their codebase.
-
 ## 2. Returning Values from Functions
 
 The `return` statement serves a simple yet vital role: it exits the function and optionally passes a value back to the calling context. This allows functions not only to perform tasks but also to communicate results.
