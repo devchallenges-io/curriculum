@@ -185,7 +185,7 @@ fetch("https://api.example.com/data")
   });
 ```
 
-3.  **Handling Different Types of Responses**: The `Response` object provides several methods that you can use to read and parse the content of the response body based on its type:
+2.  **Handling Different Types of Responses**: The `Response` object provides several methods that you can use to read and parse the content of the response body based on its type:
 
 - `.json()` - Parses the response as JSON and returns a promise that resolves with the parsed data.
 - `.text()` - Reads the response as plain text and returns a promise that resolves with the text content.
@@ -205,7 +205,7 @@ fetch("https://api.example.com/data")
   });
 ```
 
-2.  **Error Handling**: When working with the Fetch API, it's important to handle errors properly. If a network error occurs and the request cannot be completed, the `fetch()` function will reject the promise with a `TypeError`. On the other hand, if the request is successful but the server returns an error status code (4xx or 5xx), you can check the `.ok` property or the `.status` code of the `Response` object within the `.then()` method to detect and handle such errors.
+3.  **Error Handling**: When working with the Fetch API, it's important to handle errors properly. If a network error occurs and the request cannot be completed, the `fetch()` function will reject the promise with a `TypeError`. On the other hand, if the request is successful but the server returns an error status code (4xx or 5xx), you can check the `.ok` property or the `.status` code of the `Response` object within the `.then()` method to detect and handle such errors.
 
 Understanding HTTP response status codes is crucial when working with Fetch API as they indicate whether a request has been successfully completed or if errors occurred during processing. Status codes are categorized into five classes:
 
