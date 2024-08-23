@@ -8,7 +8,7 @@ Regular expressions in JavaScript are powerful tools for text processing, enabli
 - They serve a multitude of functions from validation (such as email syntax checks) to parsing and transformation of textual data.
 - Through regular expressions, developers can perform intricate text searches, replace operations, and array splits based on dynamic patterns instead of static string values.
 
-## Understanding Regular Expressions
+## 1. Understanding Regular Expressions
 
 Regular expressions in JavaScript are utilized through the `RegExp` object, which provides powerful methods for pattern matching. Two fundamental `RegExp` methods are:
 
@@ -90,7 +90,7 @@ The _global search flag_ (`g`) alters the behavior of various regular expression
 
 Capturing groups and global flags enhance regex functionality significantly, enabling complex searching and manipulation operations within strings.
 
-## Creating Regular Expressions in JavaScript
+## 2. Creating Regular Expressions in JavaScript
 
 In JavaScript, regular expressions are versatile tools for pattern matching and text manipulation. There are two primary ways to create these powerful patterns: using a regular expression literal or the RegExp constructor.
 
@@ -173,7 +173,7 @@ let re5 = /ab.c/s;
 console.log(str5.match(re5)); // Outputs: [ 'ab\nab.c' ]
 ```
 
-## Syntax and Special Characters in Regular Expressions
+## 3. Syntax and Special Characters in Regular Expressions
 
 Regular expressions in JavaScript use a powerful syntax that includes character groups, meta-characters, and quantifiers to perform complex pattern matching.
 
@@ -301,7 +301,7 @@ console.log(str6.match(re6)); // Outputs: [ 'abbc', 'abbbc' ]
 
 These syntactical elements combined enable precise control over the string matching process. The next section will delve into practical applications and demonstrate how these patterns are utilized in JavaScript programming.
 
-## Common Regular Expression Patterns and Techniques
+## 4. Common Regular Expression Patterns and Techniques
 
 Regular expressions are powerful tools for various string manipulation tasks in JavaScript. The practical applications of regular expressions are vast, from simple validation checks to complex text transformations. Here are some common patterns and techniques employed:
 
@@ -347,7 +347,7 @@ const trimmedString = stringWithWhitespace.replace(/^\s+|\s+$/g, "");
 
 These examples illustrate just a few ways regular expressions enhance JavaScript's string manipulation capabilities. With these patterns and techniques, developers can perform complex tasks succinctly and efficiently.
 
-## Advanced Topics in Regular Expressions
+## 5. Advanced Topics in Regular Expressions
 
 Regular expressions in JavaScript are a powerful tool, and their advanced features offer even more control over text processing. Let’s delve into assertions, backreferences, and Unicode regular expressions to understand their advanced capabilities.
 
@@ -427,7 +427,7 @@ console.log(str3.match(re3)); // Outputs: [ 'あ', 'い', 'う', 'え', 'お' ]
 
 This enhanced support ensures accurate processing of diverse global text data. When dealing with various languages and character sets, leveraging Unicode regular expressions allows for robust international applications.
 
-## Best Practices for Using Regular Expressions in JavaScript
+## 6. Best Practices for Using Regular Expressions in JavaScript
 
 Using regular expressions in JavaScript can make string manipulation tasks easier, but it's important to use them correctly to avoid common mistakes. Here are some best practices:
 

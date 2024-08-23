@@ -174,15 +174,15 @@
     "group": "javascript"
   },
   {
-    "title": "JavaScript Async and API",
-    "path": "3-javascript/1-javascript/12-async-and-api.md",
-    "slug": "3-javascript/javascript-async-and-api",
-    "group": "javascript"
-  },
-  {
     "title": "JavaScript Modules Basics",
     "path": "3-javascript/1-javascript/8-js-modules-basics.md",
     "slug": "3-javascript/javascript-modules-basics",
+    "group": "javascript"
+  },
+  {
+    "title": "JavaScript Async and API",
+    "path": "3-javascript/1-javascript/12-async-and-api.md",
+    "slug": "3-javascript/javascript-async-and-api",
     "group": "javascript"
   },
   {
