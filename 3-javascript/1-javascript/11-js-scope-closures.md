@@ -6,15 +6,6 @@ To truly master JavaScript, you need to do more than just understand its syntax 
 
 **Closures** are a powerful feature in JavaScript that allows functions to remember the variables from the place they were created, even if they are executed elsewhere. This feature enables advanced programming patterns like module privacy.
 
-In this guide, we will cover everything you need to know about scope and closures in JavaScript:
-
-1.  **Key Concepts**: Understand the basic principles behind scope and closures.
-2.  **Types of Scope**: Learn about global scope, local scope, and block scope.
-3.  **Closures**: Explore how closures work and discover their practical uses.
-4.  **Best Practices**: Find out useful strategies for managing scope effectively, making your code easier to maintain and understand.
-
-By the end of this guide, you'll have a solid grasp of scope and closures in JavaScript, empowering you to write cleaner, more efficient code for your projects.
-
 ## 1. Understanding JavaScript Scope
 
 ### Global Scope in JavaScript
@@ -55,8 +46,6 @@ console.log(color); // Still prints 'blue' as the global variable remains unchan
 
 This mechanism allows for more control over data access and manipulation within different parts of an application. However, it is essential to use this approach cautiously to prevent confusion about which variable is being referenced at any given time.
 
-In essence, understanding and managing scopes in JavaScript enables developers to write clean, maintainable, and efficient code. By recognizing how and when to use global variables effectively, you can avoid common pitfalls associated with them. Moving forward, we will dissect local and block scopes along with their intricacies to further demystify JavaScript's scope mechanics.
-
 ### Local Scope in JavaScript
 
 Local scope in JavaScript is fundamental to the language's function-based architecture. Whenever a new function is declared, a local scope is created. This scope houses variables that are accessible only within the function's body, maintaining privacy and preventing unwanted interference from outside code.
@@ -90,8 +79,6 @@ outerFunction();
 ```
 
 In addition to local variables, parameters of functions also contribute to local scope. Each argument creates a new, temporary identifier for the duration of the function's execution.
-
-.
 
 ### Block Scope in JavaScript (ES6+)
 
@@ -135,11 +122,31 @@ In JavaScript, lexical scoping refers to how a variable's scope is determined by
 
 To understand lexical scoping better, let's look at its key aspects:
 
-1.  Variable declaration: When we declare a variable, it is placed within a specific scope.
-2.  Variable access: The way we access a variable follows a hierarchy based on where functions and blocks are written.
-3.  Nested functions: Functions that are defined inside other functions create a nested structure of scopes.
+1.  **Variable declaration**: When we declare a variable, it is placed within a specific scope.
+2.  **Variable access**: The way we access a variable follows a hierarchy based on where functions and blocks are written.
+3.  **Nested functions**: Functions that are defined inside other functions create a nested structure of scopes.
 
 The **scope chain** plays a crucial role in how lexical scoping works. It is the mechanism used by JavaScript engines to find the value of a variable in nested scopes. When our code asks for the value of a variable, JavaScript starts searching from the innermost scope and moves outward until it finds the variable or reaches the global scope.
+
+#### Revisit Example of Lexical Scoping
+
+```javascript
+function outerFunction() {
+  const outerVariable = "I'm in the outer function";
+
+  function innerFunction() {
+    console.log(outerVariable); // Accessing outerVariable from the outer function
+  }
+
+  innerFunction();
+}
+
+outerFunction();
+```
+
+In this example, we have an outer function called `outerFunction` that declares a variable `outerVariable`. Inside `outerFunction`, there is an inner function called `innerFunction`. The inner function has access to the variables of its parent function, `outerFunction`, due to lexical scoping.
+
+When `innerFunction` is called, it logs the value of `outerVariable`, which is "I'm in the outer function". This demonstrates how lexical scoping allows inner functions to access variables from their parent functions.
 
 #### How the Scope Chain Works
 
@@ -167,7 +174,7 @@ Closures in JavaScript are functions that have access to an outer function's sco
 
 Closures prove their utility in various scenarios:
 
-#### **Data Encapsulation**
+**Data Encapsulation**
 
 Create private variables by exposing functions that operate on those variables without exposing the variables themselves.
 
@@ -192,7 +199,7 @@ counter.decrement();
 console.log(counter.getCurrentCount()); // Output: 0
 ```
 
-#### **Callback Functions**
+**Callback Functions**
 
 Pass functions as arguments that have access to the scope in which they were created.
 
@@ -208,7 +215,7 @@ The `alertMessage` function is defined inside the `setupAlertTimeout` function, 
 
 `setTimeout` is a function that takes a callback function and a delay time. In this code, the `alertMessage` function is passed as the callback function to `setTimeout`. This means that after the specified delay, the `alertMessage` function will be executed. Using a callback function like this allows us to perform actions asynchronously, without blocking the execution of other code.
 
-#### **Module Pattern**
+**Module Pattern**
 
 Use closures to create modules with private and public components.
 
