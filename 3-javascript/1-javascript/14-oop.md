@@ -9,7 +9,7 @@ Here are some key benefits of using OOP in JavaScript:
 3.  **Refactoring Made Easy**: OOP makes it simpler to refactor and maintain your code because changes to one class don't require modifying the entire codebase.
 4.  **Better Collaboration**: With clear structures and encapsulation, teams can work on different classes without conflicts.
 
-## Understanding Object-Oriented Programming (OOP)
+## 1. Understanding Object-Oriented Programming (OOP)
 
 Object-Oriented Programming (OOP) is a programming style that revolves around objects instead of actions. In OOP languages, you work with four main concepts: _abstraction_, _encapsulation_, _inheritance_, and _polymorphism_. These concepts are not just fancy words; they are fundamental ideas that empower you to write code that is organized, reusable, and scalable.
 
@@ -36,7 +36,7 @@ When comparing OOP with other programming styles like procedural or functional p
 - Procedural programming structures programs as a sequence of steps or procedures, while OOP organizes code into objects containing both data and methods.
 - Functional programming focuses on evaluating functions and using immutable data, whereas OOP revolves around mutable objects created from classes.
 
-## Classes and Objects in JavaScript
+## 2. Classes and Objects in JavaScript
 
 In JavaScript, **classes** are blueprints for creating **objects**. A class encapsulates data for the object, using **properties**, and methods to perform actions. Objects are instances of a class, created to utilize the blueprint's capabilities for specific tasks.
 
@@ -66,7 +66,7 @@ myCar.displayInfo(); // Outputs: This is a Toyota Corolla.
 
 This instance, `myCar`, now has access to the properties and methods defined in the `Car` class. You can create multiple objects from the same class, each with its own set of property values.
 
-## Abstraction, Encapsulation, and Inheritance in Practice
+## 3. Abstraction, Encapsulation, and Inheritance in Practice
 
 **Abstraction** in JavaScript allows you to focus on what an object does instead of how it does it. It is about creating simple models that represent the complexity of the real world. For instance, when you create a `Vehicle` class, you don't have to include every intricate detail about vehicles; you only include the properties and methods relevant to the functionality required for your program.
 
@@ -82,7 +82,7 @@ For example, if you have a `Animal` class with basic traits like age and weight,
 - **Simplified Maintenance:** Changes made to a superclass propagate to subclasses, reducing errors and minimizing maintenance efforts.
 - **Modeling Real-world Relationships:** With abstraction and inheritance, your code more accurately reflects real-world relationships, enhancing readability and understandability.
 
-## Polymorphism and its Applications in JavaScript
+## 4. Polymorphism and its Applications in JavaScript
 
 Polymorphism is a fundamental concept in Object-Oriented Programming that enables objects to be treated as instances of their parent class rather than their specific class. It allows you to use a single interface to represent different types of data. In JavaScript, polymorphism is achieved through **method overriding** and **method overloading**.
 
@@ -132,7 +132,7 @@ greet("Alice", "morning"); // Outputs: Good morning, Alice
 - **Code Reusability**: It encourages code reuse by allowing you to write methods that do not need to know about the specifics of the classes they are dealing with.
 - **Maintainability**: Code is more maintainable because changes in superclass methods can automatically propagate to subclasses that don’t override them.
 
-## Prototypal Inheritance: The Foundation of OOP in JavaScript
+## 5. Prototypal Inheritance: The Foundation of OOP in JavaScript
 
 Prototypal Inheritance is a core concept in JavaScript, fundamentally different from the classical inheritance model found in languages like Java or C++. Instead of creating classes as blueprints for objects, JavaScript establishes a direct link between an object and another object.
 
@@ -195,7 +195,7 @@ dog.bark(); // Rex barks.
 
 In this example, `dogMethods` inherits from `animalMethods`, and `dog` inherits from `dogMethods`. This demonstrates how objects can be linked together to form a chain that allows one object to use another's properties and methods.
 
-## Best Practices for Writing Maintainable OOP Code
+## 6. Best Practices for Writing Maintainable OOP Code
 
 Adhering to OOP best practices in JavaScript is essential for creating code that is both robust and easy to maintain. These practices not only improve readability but also enhance the scalability of applications.
 

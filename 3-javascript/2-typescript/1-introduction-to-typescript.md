@@ -1,9 +1,5 @@
 # Learning TypeScript Online: The Ultimate Resource for Beginners
 
-to TypeScript
-
-### What is TypeScript?
-
 TypeScript is an open-source programming language developed and maintained by **Microsoft Corporation**. It is a syntactical superset of JavaScript, which means it builds on JavaScript by adding new features while still being able to execute any JavaScript code. TypeScript compiles down to plain JavaScript, ensuring compatibility with all browsers and environments that support ECMAScript 6 (ES6).
 
 ### Key Features and Benefits of TypeScript
@@ -14,22 +10,11 @@ TypeScript is an open-source programming language developed and maintained by **
 - **Tooling**: Rich tooling support in popular IDEs like Visual Studio Code.
 - **Compatibility**: Can integrate seamlessly with existing JavaScript libraries and frameworks.
 
-### Comparison Between TypeScript and JavaScript
-
-TypeScript extends JavaScript by introducing static types, interfaces, classes, and other advanced features. While JavaScript is dynamically typed, meaning variable types are determined at runtime, TypeScript's static typing allows developers to specify types at compile time. This leads to better tooling support and fewer runtime errors.
-
-| Feature                 | JavaScript | TypeScript        |
-| ----------------------- | ---------- | ----------------- |
-| Typing                  | Dynamic    | Static (optional) |
-| Error Checking          | Runtime    | Compile-time      |
-| Object-Oriented Support | Limited    | Enhanced          |
-| Tooling                 | Basic      | Advanced          |
-
 ### Reasons for the Popularity of TypeScript
 
 TypeScript has gained widespread popularity due to its ability to improve code quality and maintainability. Its seamless integration with modern development frameworks like Angular adds another layer of appeal. The strong community support and extensive documentation contribute significantly to its adoption in web development projects across the globe.
 
-## Setting up the TypeScript Development Environment
+## 1. Setting up the TypeScript Development Environment
 
 ### Install TypeScript
 
@@ -90,9 +75,9 @@ class Person {
 }
 ```
 
-## Basic TypeScript Syntax
+## 2. Basic TypeScript Syntax
 
-### Variables and Types in TypeScript
+#### Variables and Types in TypeScript
 
 TypeScript introduces static typing by allowing you to specify types for variables. This makes it easier to catch errors at compile-time rather than runtime.
 
@@ -102,7 +87,7 @@ let decimal: number = 6;
 let color: string = "blue";
 ```
 
-### Understanding Static Type Checking in TypeScript
+#### Understanding Static Type Checking in TypeScript
 
 Static type checking ensures that the types of variables are known at compile time. If you try to assign a value of a different type, TypeScript will throw an error.
 
@@ -111,7 +96,7 @@ let num: number = 5;
 num = "hello"; // Error: Type 'string' is not assignable to type 'number'
 ```
 
-### Working with Class-Based Objects in TypeScript
+#### Working with Class-Based Objects in TypeScript
 
 TypeScript enhances JavaScript's object-oriented programming capabilities by introducing classes. This allows for better structuring and reusability of code.
 
@@ -130,7 +115,7 @@ let user = new Person("Alice");
 console.log(user.greet()); // Output: Hello, my name is Alice
 ```
 
-### Functions in TypeScript
+#### Functions in TypeScript
 
 Functions in TypeScript can have their parameters and return types explicitly declared. This leads to more predictable and maintainable code.
 
@@ -144,9 +129,7 @@ let sum = add(5, 3); // sum will be of type number
 
 The combination of these features—_variables and types_, _static type checking_, _class-based objects_, and _functions_—makes TypeScript a powerful tool for building robust applications.
 
-## TypeScript Types
-
-### Basic Types and Type Annotations
+## 3. TypeScript Types
 
 TypeScript has a powerful system for working with different data types. These types can be divided into three categories: primitive, composite, and special types. To fully utilize TypeScript's static type checking features, it is essential to understand these basic types and how to annotate them.
 

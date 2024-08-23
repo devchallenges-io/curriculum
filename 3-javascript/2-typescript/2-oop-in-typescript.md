@@ -1,12 +1,8 @@
 # Object-Oriented Programming in TypeScript
 
-to Object-Oriented Programming in TypeScript
-
 **Object-Oriented Programming (OOP)** is a programming approach that revolves around "objects" containing both data and methods. It focuses on four key principles: _encapsulation_, _inheritance_, _polymorphism_, and _abstraction_. These principles empower developers to build code that is modular, reusable, and easy to maintain. OOP is widely used in software development because it allows us to model real-world scenarios effectively and handle complex applications efficiently.
 
-By embracing OOP concepts in TypeScript, we can create cleaner architecture and more manageable code, ultimately leading to better software development practices.
-
-## Classes and Objects
+## 1. Classes and Objects
 
 In TypeScript, _classes_ serve as blueprints for creating objects. These structures encapsulate data and behavior that objects instantiated from the class can use. A _class_ defines properties (data) and methods (functions) that the objects will have.
 
@@ -49,7 +45,7 @@ person1.greet(); // Output: Hello, my name is Alice
 
 An object like `person1` has access to all properties and methods defined in its class. This approach ensures organized code and reusability by defining a template through classes.
 
-## Interfaces and Abstract Classes
+## 2. Interfaces and Abstract Classes
 
 ### Interfaces
 
@@ -112,7 +108,7 @@ class Dog extends Animal {
 
 `Animal` is an abstract class, which means it cannot be instantiated directly. It has an abstract method `makeSound()` that doesn't have an implementation, and a concrete method `move()` that logs "Moving...".
 
-## Inheritance and Polymorphism
+## 3. Inheritance and Polymorphism
 
 ### Inheritance in TypeScript
 
@@ -168,7 +164,7 @@ dog.move(); // Output: Moving...
 
 A new Dog object is created and its `makeSound()` and `move()` methods are called. The `makeSound()` method uses the implementation provided in the `Dog` class, and the `move()` method uses the implementation inherited from the `Animal` class
 
-## Encapsulation, Access Modifiers, and Encapsulation
+## 4. Encapsulation, Access Modifiers, and Encapsulation
 
 Encapsulation is a core principle in Object-Oriented Programming that involves bundling data with methods that operate on that data. This principle protects the internal state of an object and restricts direct access to some of its components. In TypeScript, encapsulation not only enhances modularity but also ensures data integrity.
 

@@ -1,10 +1,8 @@
 # Mastering TypeScript Generics
 
-to TypeScript Generics
-
 TypeScript Generics offer a powerful way to create reusable and flexible code by allowing you to define functions, classes, and type aliases with placeholder types. These placeholder types are known as _type variables_ and can be replaced with specific types when the function or class is used.
 
-## Understanding Generic Functions
+## 1. Understanding Generic Functions
 
 Generic functions in TypeScript allow you to create functions that can work with a variety of data types. By using **generic type variables**, you enable the function to handle different types without sacrificing type safety.
 
@@ -51,7 +49,7 @@ let numbers = reverseArray([1, 2, 3]); // inferred as number[]
 let strings = reverseArray(["a", "b", "c"]); // inferred as string[]
 ```
 
-## Working with Generic Classes
+## 2. Working with Generic Classes
 
 ### Overview of Generic Classes in TypeScript
 
@@ -112,7 +110,7 @@ console.log(productEntity.id); // Output: A001
 
 This example demonstrates how generic interfaces can be used to enforce specific structures while retaining flexibility. The `Identifiable` interface ensures that any implementing class has an `id` property, but the type of `id` is determined by the generic parameter.
 
-## Applying Constraints and Defaults in Generics
+## 3. Applying Constraints and Defaults in Generics
 
 ### Using Constraints to Restrict the Types Allowed in a Generic
 
@@ -154,7 +152,7 @@ const arr2 = createArray(3, 100); // [100, 100, 100]
 
 Here, if no type is passed while calling `createArray`, TypeScript assumes it as a `string`. This feature is particularly useful for creating more flexible and reusable code components without sacrificing type safety.
 
-## Benefits of Mastering TypeScript Generics
+## 4. Benefits of Mastering TypeScript Generics
 
 ### Increased Type Safety and Code Reusability
 
@@ -172,7 +170,7 @@ For example, libraries like **RxJS** and **React** make extensive use of generic
 
 Engaging in _TypeScript exercises_ that focus on generics is a practical way to solidify your understanding. These exercises often simulate real-world scenarios, helping you apply theoretical concepts to actual coding challenges. Practicing with generics prepares you for complex projects by enhancing your problem-solving skills.
 
-## Best Practices for Using TypeScript Generics Effectively
+##5. Best Practices for Using TypeScript Generics Effectively
 
 ### Write Readable and Understandable Code with Descriptive Variable Names
 
