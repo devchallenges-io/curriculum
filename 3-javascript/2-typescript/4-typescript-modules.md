@@ -2,7 +2,7 @@
 
 TypeScript modules are a fundamental aspect of modern JavaScript development, serving as a powerful tool for structuring and organizing code. By encapsulating functionality into discrete units, modules promote code reuse, maintainability, and clarity.
 
-## Understanding the Different Types of TypeScript Modules
+## 1. Understanding the Different Types of TypeScript Modules
 
 ### ES6 Modules
 
@@ -142,7 +142,7 @@ require(["math"], function (math) {
 
 - Can be overkill for simple projects.
 
-## Exporting and Importing Code in TypeScript Modules
+## 2. Exporting and Importing Code in TypeScript Modules
 
 When working with TypeScript modules, it's important to know how to **export** and **import** code. This allows you to create modular and reusable code in your project.
 
@@ -210,7 +210,7 @@ _Best Practices_:
 
 Understanding these concepts will not only help you organize your code better but also make it easier to maintain and scale in the future.
 
-## Advanced Techniques for Optimizing TypeScript Module Workflow
+## 3. Advanced Techniques for Optimizing TypeScript Module Workflow
 
 Handling complex scenarios in TypeScript modules can significantly improve your workflow efficiency and code quality. Let's dive into two advanced techniques: managing circular dependencies and utilizing dynamic imports.
 

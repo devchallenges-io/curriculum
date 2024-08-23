@@ -325,7 +325,7 @@ class ExampleClass {
 
 These alternatives can mimic some functionalities of parameter decorators while maintaining compatibility with TypeScript 5.0.
 
-## Advanced Usage and Patterns with TypeScript Decorators
+## 5. Advanced Usage and Patterns with TypeScript Decorators
 
 ### Best Practices for Using Decorators Effectively
 
@@ -407,7 +407,7 @@ class User {
 
 This decorator enforces a minimum length constraint on the `username` property while ensuring type safety through TypeScript's static checks.
 
-## Optimizing Performance and Bundling with TypeScript Decorators
+## 6. Optimizing Performance and Bundling with TypeScript Decorators
 
 ### Understanding the Impact of Decorators on Performance
 
@@ -431,7 +431,7 @@ Tree-shaking is a technique used to eliminate dead code during the build process
 - **Abstract Syntax Tree (AST) Analysis**: The TypeScript compiler analyzes the AST to determine which parts of the code are necessary. Decorators can complicate this analysis by introducing dependencies that might seem essential.
 - **TypeScript Compiler Options**: Configuring the TypeScript compiler effectively can help optimize how decorators interact with tree-shaking. Use `experimentalDecorators` and `emitDecoratorMetadata` options wisely to control metadata emission.
 
-## The Future Scope and Potential of TypeScript Decorators
+## 7. The Future Scope and Potential of TypeScript Decorators
 
 ### Exploring Decorator Metadata and Its Role in Future Language Updates
 
