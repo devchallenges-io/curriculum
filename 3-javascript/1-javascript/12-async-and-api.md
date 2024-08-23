@@ -174,7 +174,17 @@ The Fetch API is a powerful example of an asynchronous API that allows developer
 Here's how you can use the Fetch API to make asynchronous requests:
 
 1.  **Making Asynchronous Requests**: To initiate a request, you can use the `fetch()` function, which returns a promise that resolves with a `Response` object.
-2.  javascript fetch('https://api.example.com/data') .then(response => { // Handle the response }) .catch(error => { // Handle any errors });
+
+```javascript
+fetch("https://api.example.com/data")
+  .then((response) => {
+    // Handle the response
+  })
+  .catch((error) => {
+    // Handle any errors
+  });
+```
+
 3.  **Handling Different Types of Responses**: The `Response` object provides several methods that you can use to read and parse the content of the response body based on its type:
 
 - `.json()` - Parses the response as JSON and returns a promise that resolves with the parsed data.

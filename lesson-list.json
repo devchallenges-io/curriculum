@@ -186,16 +186,16 @@
     "group": "javascript"
   },
   {
-    "title": "JavaScript Regular Expressions",
-    "path": "3-javascript/1-javascript/15-regex.md",
-    "slug": "3-javascript/javascript-regular-expressions",
-    "group": "javascript"
-  },
-  {
     "title": "JavaScript Storing Data in Browser",
     "path": "3-javascript/1-javascript/16-storing-data-browser.md",
     "slug": "3-javascript/javascript-storing-data-in-browser",
     "group": "javascript"
+  },
+  {
+    "title": "JavaScript Regular Expressions",
+    "path": "3-javascript/1-javascript/15-regex.md",
+    "slug": "3-javascript/javascript-regular-expressions",
+    "group": "advanced-javascript"
   },
   {
     "title": "JavaScript Recursion",
