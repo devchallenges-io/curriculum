@@ -250,7 +250,7 @@ In this example, `Maybe` ensures that if `findUser(id)` returns `null` or `undef
 
 When you start using functional programming in JavaScript, you may come across some common mistakes that can make it harder to reap the benefits of this approach. It's important to be aware of these pitfalls and know how to avoid them so that you can write better functional code.
 
-### **1. Misunderstanding Immutability**
+**1. Misunderstanding Immutability**
 
 One common mistake is treating variables as mutable objects, meaning that their values can be changed after they are assigned. This goes against the principle of immutability, which is a key concept in functional programming.
 
@@ -259,7 +259,7 @@ To avoid this mistake, here are two things you can do:
 1.  Use `const` instead of `let` or `var` when declaring variables that should not be reassigned.
 2.  Consider using libraries like [Immutable.js](https://immutable-js.github.io/immutable-js/) or [Immer](https://immerjs.github.io/immer/) to enforce immutability in your data structures.
 
-### **2. Overlooking Side Effects**
+**2. Overlooking Side Effects**
 
 In functional programming, we strive to write pure functions as much as possible. A pure function is one that always produces the same output given the same input and has no side effects.
 
@@ -277,7 +277,7 @@ Here are two strategies for dealing with side effects:
 1.  Identify functions in your codebase that have side effects and refactor them to be pure functions whenever possible.
 2.  When you do need to perform side effects, such as making an API call or updating the UI, encapsulate them in separate functions that are explicitly marked as impure.
 
-### **3. Neglecting Function Purity**
+**3. Neglecting Function Purity**
 
 As mentioned earlier, pure functions are a fundamental concept in functional programming. They are predictable, easy to test, and can be safely reused in different parts of your codebase.
 
@@ -289,7 +289,7 @@ To ensure that your functions are pure:
 
 One way to verify the purity of your functions is by writing unit tests that assert their behavior. By doing so, you can catch any unintended side effects or dependencies early on.
 
-### **4. Excessive Function Chaining**
+**4. Excessive Function Chaining**
 
 Function chaining is a powerful technique in functional programming that allows you to combine multiple operations into a single expression. It can make your code more concise and expressive.
 
@@ -302,7 +302,7 @@ To avoid excessive function chaining:
 
 Remember, readability and maintainability should always be a priority when writing code.
 
-### **5. Ignoring Built-in Methods**
+**5. Ignoring Built-in Methods**
 
 JavaScript provides several built-in methods for working with arrays in a functional way. These methods include `map()`, `filter()`, and `reduce()`, among others.
 
@@ -314,7 +314,7 @@ Here are some benefits of using built-in methods:
 - They automatically handle the iteration process for you, so you don't have to worry about managing loop counters or indices.
 - They return new arrays instead of modifying the original array, which promotes immutability.
 
-### **6. Poor Error Handling in Asynchronous Code**
+  **6. Poor Error Handling in Asynchronous Code**
 
 Asynchronous programming is a common scenario in JavaScript, especially when dealing with network requests or file operations. While callbacks have been traditionally used to handle asynchronous code, they can quickly lead to callback hell and make your code hard to follow.
 
@@ -327,7 +327,7 @@ Here are two recommendations for better error handling in asynchronous code:
 
 In addition to Promises or async/await, you can also leverage monadic structures like [Maybe](https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html) or [Either](https://folktale.origamitower.com/api/v2.3.0/en/folktale.either.html) for better error handling and control flow in functional programming.
 
-## 9. Building Scalable Applications with Functional Architecture
+## 8. Building Scalable Applications with Functional Architecture
 
 Functional architecture uses functional programming principles to create systems that are easy to scale and maintain. It focuses on using pure functions and immutable data structures to minimize side effects and make state management simpler in large applications.
 
@@ -384,31 +384,31 @@ When designing a large-scale JavaScript application with functional principles, 
 2.  **Modular Design**: Organize code into small, single-purpose modules that communicate through well-defined interfaces, making it easier to understand and modify specific parts of the system.
 3.  **Type Safety**: Use tools like TypeScript to add static type checking, which can catch potential errors early and provide better documentation for functions and data structures.
 
-## 10. The Future of Functional Programming in JavaScript
+## 9. The Future of Functional Programming in JavaScript
 
 Functional programming in JavaScript is not static; it evolves with the language's ecosystem and the broader development community's needs. Observers and practitioners alike note several emerging technologies and trends that signal an exciting future for functional programming within the JavaScript landscape.
 
-### **1. Evolving Language Specifications**
+**1. Evolving Language Specifications**
 
 As ECMAScript standards evolve, new features that complement functional paradigms are expected to be integrated. This includes proposed additions like pipeline operators, which can further simplify function chaining and composition.
 
-### **2. Enhanced Compiler Support**
+**2. Enhanced Compiler Support**
 
 Tools like Babel and TypeScript continue to enhance their support for functional programming constructs, making it more accessible for developers to adopt a functional style while maintaining compatibility with existing codebases.
 
-### **3. Growing Community Libraries**
+**3. Growing Community Libraries**
 
 Open-source libraries play a pivotal role in shaping how JavaScript developers write functional code. Expect to see growth in this space with libraries offering more specialized functions, seamless immutability, and functional reactive programming capabilities.
 
-### **4. Functional Reactive Programming (FRP)**
+**4. Functional Reactive Programming (FRP)**
 
 FRP merges reactive programming with functional principles, leading to efficient management of event-based systems. Libraries such as RxJS are at the forefront, and their influence is poised to grow as developers tackle more complex front-end applications.
 
-### **5. WebAssembly Intersection**
+**5. WebAssembly Intersection**
 
 As WebAssembly matures, it opens opportunities for running high-performance functional languages directly in the browser. This could lead to hybrid development models where JavaScript interops with purely functional languages compiled to WebAssembly modules.
 
-### **6. Machine Learning & AI**
+**6. Machine Learning & AI**
 
 With the rise of machine learning (ML) and artificial intelligence (AI), functional programming's declarative nature could facilitate clearer expression of complex operations—an area where JavaScript libraries may expand their footprint.
 
