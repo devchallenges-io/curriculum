@@ -91,6 +91,14 @@
     "type": "lesson"
   },
   {
+    "title": "Testimonial Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/testimonial-page",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 29
+  },
+  {
     "title": "CSS Grid",
     "path": "2-responsive-web/1-html-css/4-grid.md",
     "slug": "2-responsive-web/css-grid",
@@ -98,11 +106,27 @@
     "type": "lesson"
   },
   {
+    "title": "Process Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/process-page",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 30
+  },
+  {
     "title": "CSS Positioning",
     "path": "2-responsive-web/1-html-css/5-css-position.md",
     "slug": "2-responsive-web/css-positioning",
     "group": "CSS Fundamentals",
     "type": "lesson"
+  },
+  {
+    "title": "Business Blog Card",
+    "path": "2-responsive-web",
+    "slug": "challenge/business-blog-card",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 28
   },
   {
     "title": "CSS Units",
@@ -117,6 +141,14 @@
     "slug": "2-responsive-web/css-animation",
     "group": "CSS Fundamentals",
     "type": "lesson"
+  },
+  {
+    "title": "Simple Homepage - Alarado",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-hompage-alarado",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 33
   },
   {
     "title": "CSS Functions",
@@ -140,10 +172,26 @@
     "type": "lesson"
   },
   {
-    "title": "Form and Form Validation",
+    "title": "Advanced Homepage - Hufie",
+    "path": "2-responsive-web",
+    "slug": "challenge/advanced-homepage-huffie",
+    "group": "Advanced CSS",
+    "type": "challenge",
+    "challenge_id": 34
+  },
+  {
+    "title": "Basic Form and Form Validation",
     "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
     "slug": "2-responsive-web/form-and-form-validation",
     "group": "Form and Form Validation"
+  },
+  {
+    "title": "Contact Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/contact-page",
+    "group": "Form and Form Validation",
+    "type": "challenge",
+    "challenge_id": 31
   },
   {
     "title": "Accessibility",
