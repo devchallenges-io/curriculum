@@ -216,6 +216,14 @@
     "type": "lesson"
   },
   {
+    "title": "Multi-step Register Form",
+    "path": "3-javascript",
+    "slug": "challenge/contact-page",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 35
+  },
+  {
     "title": "JavaScript Variables and Data Types",
     "path": "3-javascript/1-javascript/2-js-variables.md",
     "slug": "3-javascript/javascript-variables-and-data-types",
@@ -230,12 +238,21 @@
     "type": "lesson"
   },
   {
+    "title": "Music Player",
+    "path": "3-javascript",
+    "slug": "challenge/music-player",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 36
+  },
+  {
     "title": "JavaScript Arrays",
     "path": "3-javascript/1-javascript/4-js-array.md",
     "slug": "3-javascript/javascript-arrays",
     "group": "JavaScript Fundamentals",
     "type": "lesson"
   },
+
   {
     "title": "JavaScript Objects",
     "path": "3-javascript/1-javascript/5-js-advanced-object.md",
@@ -251,11 +268,27 @@
     "type": "lesson"
   },
   {
+    "title": "FAQ Page",
+    "path": "3-javascript",
+    "slug": "challenge/faq-page",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 32
+  },
+  {
     "title": "JavaScript Loops",
     "path": "3-javascript/1-javascript/7-js-loops.md",
     "slug": "3-javascript/javascript-loops",
     "group": "JavaScript Fundamentals",
     "type": "lesson"
+  },
+  {
+    "title": "Guess The Word Game",
+    "path": "3-javascript",
+    "slug": "challenge/guess-the-word",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 37
   },
   {
     "title": "JavaScript Modules Basics",
@@ -265,11 +298,27 @@
     "type": "lesson"
   },
   {
+    "title": "QR code generator",
+    "path": "3-javascript",
+    "slug": "challenge/qa-code-generator",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 41
+  },
+  {
     "title": "JavaScript Async and API",
     "path": "3-javascript/1-javascript/12-async-and-api.md",
     "slug": "3-javascript/javascript-async-and-api",
     "group": "JavaScript Fundamentals",
     "type": "lesson"
+  },
+  {
+    "title": "Random Quote",
+    "path": "3-javascript",
+    "slug": "challenge/random-quote",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 38
   },
   {
     "title": "JavaScript Storing Data in Browser",
@@ -300,6 +349,14 @@
     "type": "lesson"
   },
   {
+    "title": "Basic Text To Speech",
+    "path": "3-javascript",
+    "slug": "challenge/basic-text-to-speech",
+    "group": "Advanced JavaScript",
+    "type": "challenge",
+    "challenge_id": 39
+  },
+  {
     "title": "JavaScript Functional Programming",
     "path": "3-javascript/1-javascript/13-functional-programming.md",
     "slug": "3-javascript/javascript-functional-programming",
@@ -313,7 +370,14 @@
     "group": "Advanced JavaScript",
     "type": "lesson"
   },
-
+  {
+    "title": "Movie Search App",
+    "path": "3-javascript",
+    "slug": "challenge/movie-search-app",
+    "group": "Advanced JavaScript",
+    "type": "challenge",
+    "challenge_id": 40
+  },
   {
     "title": "Introduction to TypeScript",
     "path": "3-javascript/2-typescript/1-introduction-to-typescript.md",
