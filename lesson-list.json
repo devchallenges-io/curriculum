@@ -73,7 +73,8 @@
     "path": "2-responsive-web",
     "slug": "challenge/minimal-blog-card",
     "group": "Introduction to HTML and CSS",
-    "type": "challenge"
+    "type": "challenge",
+    "challenge_id": 27
   },
   {
     "title": "Responsive Design",
