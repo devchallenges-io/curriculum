@@ -419,5 +419,93 @@
     "slug": "3-javascript/typescript-advanced-concepts",
     "group": "TypeScript",
     "type": "lesson"
+  },
+  {
+    "challenge_id": 45,
+    "title": "Simple Coffee Listing",
+    "path": "4-frontend-libraries",
+    "slug": "challenge/simple-coffee-listing",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 46,
+    "title": "Property Listing",
+    "path": "4-frontend-libraries",
+    "slug": "challenge/property-listing",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 47,
+    "title": "Translate app",
+    "slug": "challenge/translate-app",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 42,
+    "title": "GitHub Profile",
+    "slug": "challenge/github-profile",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 48,
+    "title": "Recipe page - HomeChef",
+    "slug": "challenge/recipe-page-homechef",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 49,
+    "title": "Country Page - WorldRanks",
+    "slug": "challenge/country-page",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 50,
+    "title": "Country Quiz",
+    "slug": "challenge/country-quizz",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 51,
+    "title": "AI Chatbot - simplechat.ai",
+    "slug": "challenge/ai-chat-bot",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 52,
+    "title": "Weather App",
+    "slug": "challenge/weather-app",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
+  },
+  {
+    "challenge_id": 54,
+    "title": "Task Manager App",
+    "slug": "challenge/task-manager-app",
+
+    "path": "4-frontend-libraries",
+    "group": "Frontend Libraries",
+    "type": "challenge"
   }
 ]
