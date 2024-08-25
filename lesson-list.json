@@ -3,43 +3,50 @@
     "title": "What is devchallenges.io? How does it work?",
     "path": "1-fundamentals/1-introduction/1-what-is-devchallenges.md",
     "slug": "1-fundamentals/what-is-devchallenges",
-    "group": "Introduction"
+    "group": "Introduction",
+    "type": "lesson"
   },
   {
     "title": "Where to get help?",
     "path": "1-fundamentals/1-introduction/2-where-to-get-help.md",
     "slug": "1-fundamentals/where-to-get-help",
-    "group": "Introduction"
+    "group": "Introduction",
+    "type": "lesson"
   },
   {
     "title": "Visual Studio Code Introduction",
     "path": "1-fundamentals/2-code-editor/1-vscode-introduction.md",
     "slug": "1-fundamentals/visual-studio-code-introduction",
-    "group": "Code Editor"
+    "group": "Code Editor",
+    "type": "lesson"
   },
   {
     "title": "Command Line Basics",
     "path": "1-fundamentals/3-command-lines/1-command-line-basics.md",
     "slug": "1-fundamentals/command-line-basics",
-    "group": "Command Line"
+    "group": "Command Line",
+    "type": "lesson"
   },
   {
     "title": "Introduction to Git and Github",
     "path": "1-fundamentals/4-git-github/1-introduction-to-git-and-github.md",
     "slug": "1-fundamentals/introduction-to-git-and-github",
-    "group": "Git and Github"
+    "group": "Git and Github",
+    "type": "lesson"
   },
   {
     "title": "Writing good commit messages",
     "path": "1-fundamentals/4-git-github/2-writing-good-commits.md",
     "slug": "1-fundamentals/writing-good-commit-messages",
-    "group": "Git and Github"
+    "group": "Git and Github",
+    "type": "lesson"
   },
   {
     "title": "Free Hosting for Web Projects",
     "path": "1-fundamentals/5-hosting/1-free-hosting-web-projects.md",
     "slug": "1-fundamentals/free-hosting-for-web-projects",
-    "group": "Hosting"
+    "group": "Hosting",
+    "type": "lesson"
   },
   {
     "title": "Introduction to HTML and CSS",
@@ -51,67 +58,84 @@
     "title": "Essential HTML Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2.1-html-cheatsheet.md",
     "slug": "2-responsive-web/html-cheat-sheet",
-    "group": "Introduction to HTML and CSS"
+    "group": "Introduction to HTML and CSS",
+    "type": "lesson"
   },
   {
     "title": "Essential CSS Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2.2-css-essential-cheatsheet.md",
     "slug": "2-responsive-web/css-essential-cheat-sheet",
-    "group": "Introduction to HTML and CSS"
+    "group": "Introduction to HTML and CSS",
+    "type": "lesson"
+  },
+  {
+    "title": "Minimal Blog Card",
+    "slug": "challenge/minimal-blog-card",
+    "group": "Introduction to HTML and CSS",
+    "type": "challenge"
   },
   {
     "title": "Responsive Design",
     "path": "2-responsive-web/1-html-css/11-css-responsive-design.md",
     "slug": "2-responsive-web/responsive-design",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Flexbox",
     "path": "2-responsive-web/1-html-css/3-flexbox.md",
     "slug": "2-responsive-web/css-flexbox",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Grid",
     "path": "2-responsive-web/1-html-css/4-grid.md",
     "slug": "2-responsive-web/css-grid",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Positioning",
     "path": "2-responsive-web/1-html-css/5-css-position.md",
     "slug": "2-responsive-web/css-positioning",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Units",
     "path": "2-responsive-web/1-html-css/6-css-unit.md",
     "slug": "2-responsive-web/css-units",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Animation",
     "path": "2-responsive-web/1-html-css/10-css-animation.md",
     "slug": "2-responsive-web/css-animation",
-    "group": "CSS Fundamentals"
+    "group": "CSS Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "CSS Functions",
     "path": "2-responsive-web/1-html-css/7-css-functions.md",
     "slug": "2-responsive-web/css-functions",
-    "group": "Advanced CSS"
+    "group": "Advanced CSS",
+    "type": "lesson"
   },
   {
     "title": "CSS Custom Properties",
     "path": "2-responsive-web/1-html-css/8-css-custom-properties.md",
     "slug": "2-responsive-web/css-custom-properties",
-    "group": "Advanced CSS"
+    "group": "Advanced CSS",
+    "type": "lesson"
   },
   {
     "title": "CSS Advanced Selectors",
     "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md",
     "slug": "2-responsive-web/css-advanced-selectors",
-    "group": "Advanced CSS"
+    "group": "Advanced CSS",
+    "type": "lesson"
   },
   {
     "title": "Form and Form Validation",
@@ -123,139 +147,162 @@
     "title": "Accessibility",
     "path": "2-responsive-web/1-html-css/13-accessibility.md",
     "slug": "2-responsive-web/accessibility",
-    "group": "Accessibility"
+    "group": "Accessibility",
+    "type": "lesson"
   },
   {
     "title": "Introduction to JavaScript",
     "path": "3-javascript/1-javascript/1-introduction-to-javascript.md",
     "slug": "3-javascript/introduction-to-javascript",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript DOM and Events",
     "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
     "slug": "3-javascript/javascript-dom-and-events",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Variables and Data Types",
     "path": "3-javascript/1-javascript/2-js-variables.md",
     "slug": "3-javascript/javascript-variables-and-data-types",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Functions",
     "path": "3-javascript/1-javascript/3-js-functions.md",
     "slug": "3-javascript/javascript-functions",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Arrays",
     "path": "3-javascript/1-javascript/4-js-array.md",
     "slug": "3-javascript/javascript-arrays",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Objects",
     "path": "3-javascript/1-javascript/5-js-advanced-object.md",
     "slug": "3-javascript/javascript-objects",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Conditionals",
     "path": "3-javascript/1-javascript/6-js-conditionals.md",
     "slug": "3-javascript/javascript-conditionals",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Loops",
     "path": "3-javascript/1-javascript/7-js-loops.md",
     "slug": "3-javascript/javascript-loops",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Modules Basics",
     "path": "3-javascript/1-javascript/8-js-modules-basics.md",
     "slug": "3-javascript/javascript-modules-basics",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Async and API",
     "path": "3-javascript/1-javascript/12-async-and-api.md",
     "slug": "3-javascript/javascript-async-and-api",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Storing Data in Browser",
     "path": "3-javascript/1-javascript/16-storing-data-browser.md",
     "slug": "3-javascript/javascript-storing-data-in-browser",
-    "group": "JavaScript Fundamentals"
+    "group": "JavaScript Fundamentals",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Regular Expressions",
     "path": "3-javascript/1-javascript/15-regex.md",
     "slug": "3-javascript/javascript-regular-expressions",
-    "group": "Advanced JavaScript"
+    "group": "Advanced JavaScript",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Recursion",
     "path": "3-javascript/1-javascript/9-js-recursion.md",
     "slug": "3-javascript/javascript-recursion",
-    "group": "Advanced JavaScript"
+    "group": "Advanced JavaScript",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Scope and Closures",
     "path": "3-javascript/1-javascript/11-js-scope-closures.md",
     "slug": "3-javascript/javascript-scope-and-closures",
-    "group": "Advanced JavaScript"
+    "group": "Advanced JavaScript",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Functional Programming",
     "path": "3-javascript/1-javascript/13-functional-programming.md",
     "slug": "3-javascript/javascript-functional-programming",
-    "group": "Advanced JavaScript"
+    "group": "Advanced JavaScript",
+    "type": "lesson"
   },
   {
     "title": "JavaScript OOP Concepts",
     "path": "3-javascript/1-javascript/14-oop.md",
     "slug": "3-javascript/javascript-oop-concepts",
-    "group": "Advanced JavaScript"
+    "group": "Advanced JavaScript",
+    "type": "lesson"
   },
 
   {
     "title": "Introduction to TypeScript",
     "path": "3-javascript/2-typescript/1-introduction-to-typescript.md",
     "slug": "3-javascript/introduction-to-typescript",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   },
   {
     "title": "TypeScript OOP Concepts",
     "path": "3-javascript/2-typescript/2-oop-in-typescript.md",
     "slug": "3-javascript/typescript-oop-concepts",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   },
   {
     "title": "TypeScript Generics",
     "path": "3-javascript/2-typescript/3-typescript-generics.md",
     "slug": "3-javascript/typescript-generics",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   },
   {
     "title": "TypeScript Modules",
     "path": "3-javascript/2-typescript/4-typescript-modules.md",
     "slug": "3-javascript/typescript-modules",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   },
   {
     "title": "TypeScript Decorators",
     "path": "3-javascript/2-typescript/5-typescript-decorators.md",
     "slug": "3-javascript/typescript-decorators",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   },
   {
     "title": "TypeScript Advanced Concepts",
     "path": "3-javascript/2-typescript/6-advanced-typescript-concept.md",
     "slug": "3-javascript/typescript-advanced-concepts",
-    "group": "TypeScript"
+    "group": "TypeScript",
+    "type": "lesson"
   }
 ]
