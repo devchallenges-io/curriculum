@@ -183,7 +183,8 @@
     "title": "Basic Form and Form Validation",
     "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
     "slug": "2-responsive-web/form-and-form-validation",
-    "group": "Form and Form Validation"
+    "group": "Form and Form Validation",
+    "type": "lesson"
   },
   {
     "title": "Contact Page",
