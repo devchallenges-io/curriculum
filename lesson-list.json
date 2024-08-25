@@ -507,5 +507,65 @@
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
+  },
+
+  {
+    "challenge_id": 56,
+    "title": "Code Sharing App",
+    "slug": "challenge/code-shraing-app-note-code",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 57,
+    "title": "Simple Image Uploader",
+    "slug": "challenge/image-upload-app",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 58,
+    "title": "My Task Board",
+    "slug": "challenge/my-task-board-app",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 59,
+    "title": "Unsplash Collection",
+    "slug": "challenge/unsplash-collection",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 60,
+    "title": "AI Image Generator",
+    "slug": "challenge/ai-image-generator",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
+  },
+
+  {
+    "challenge_id": 60,
+    "title": "User Portfolio Management",
+    "slug": "challenge/user-portfolio-management",
+
+    "path": "5-fullstack",
+    "group": "Fullstack",
+    "type": "challenge"
   }
 ]
