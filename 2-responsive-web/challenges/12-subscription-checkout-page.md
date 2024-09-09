@@ -1,0 +1,58 @@
+---
+title: "Subscription Checkout Page Challenge"
+slug: subscription-checkout-page-challenge
+description: "Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes."
+isNew: false
+sort: 4
+difficulty: "intermediate"
+nature: "HTML/CSS"
+skills:
+  - "Styling Forms"
+  - "Grid"
+  - "Flexbox"
+  - "Positioning"
+  - "Responsive Layout"
+  - "HTML"
+  - "CSS"
+seo:
+  title: "Subscription Checkout Page Challenge Project Idea"
+  description: "Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes. This project idea is perfect for intermediate developers who want to enhance their CSS skills and create a visually appealing and user-friendly subscription checkout page. By implementing a checkout page with styled forms and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of Grid, Flex, positioning, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your CSS skills and create an engaging subscription checkout page!"
+  keywords:
+    - "subscription checkout page challenge"
+    - "html css project idea"
+roadmapIds:
+  - "2-responsive-web"
+---
+
+You are required to build a subscription checkout page website with the following elements:
+
+- Personal information and payment details section.
+- Plan selection section.
+
+## Goals
+
+The goals of this project are to help you:
+
+- Practice styling forms and fundamental CSS techniques like Grid, Flex, and positioning.
+- Enhance your CSS skills while creating a visually appealing and user-friendly subscription checkout page.
+- Gain experience working with HTML and CSS to structure and style the website.
+- Improve your understanding of Grid, Flex, positioning, and responsive design.
+- Create a responsive layout that adapts to different screen sizes.
+- Showcase your CSS skills and create an engaging subscription checkout page.
+
+## Requirements
+
+You should create a web page that displays a subscription checkout page with the following features:
+
+- Use fundamental CSS techniques like Grid, Flexbox, and positioning to structure the layout.
+- Include a personal information and payment details section.
+- Include a plan selection section.
+- Style the layout to be responsive and adapt to different screen sizes.
+
+## About
+
+Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes. This project idea is perfect for intermediate developers who want to enhance their CSS skills and create a visually appealing and user-friendly subscription checkout page. By implementing a checkout page with styled forms and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of Grid, Flex, positioning, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your CSS skills and create an engaging subscription checkout page!
+
+## Tech Stack
+
+For this project, it is recommended to use only HTML and CSS to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML and CSS frameworks or libraries. It is recommended to use vanilla HTML and CSS for this project, but you can also choose to use popular frameworks like Tailwind CSS if you prefer.
