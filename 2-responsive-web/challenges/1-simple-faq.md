@@ -1,22 +1,24 @@
 ---
-title: "Simple FAQ Challenge"
-slug: simple-faq-challenge
+title: "Simple Frequently Asked Questions (FAQ) Challenge"
 description: "Create a simple FAQ page to test HTML and CSS syntax and improve your web development skills. Get started with HTML by working with text, links, and lists."
 isNew: false
 sort: 1
-difficulty: "beginner"
 nature: "HTML/CSS"
 skills:
   - "HTML"
   - "CSS"
+lessons:
+  - 2-responsive-web/html-cheat-sheet
+  - 2-responsive-web/css-essential-cheat-sheet
+  - 1-fundamentals/visual-studio-code-introduction
+  - 1-fundamentals/free-hosting-for-web-projects
+similiarChallenges:
 seo:
   title: "Simple FAQ Challenge Project Idea"
   description: "Build a simple FAQ page to test HTML and CSS syntax. Improve your web development skills by creating a web page that allows users to view frequently asked questions and their corresponding answers. This project will help you gain a better understanding of HTML and CSS syntax, as well as practice structuring and styling web pages. By creating a clean and visually appealing layout with clickable and navigatable links, you will enhance your skills in creating user-friendly web interfaces. Choose to use vanilla HTML and CSS or popular frameworks like Tailwind CSS to complete this project."
   keywords:
     - "simple faq challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
 ---
 
 You are required to create a simple FAQ page to test HTML and CSS syntax with provided design.
