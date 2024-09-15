@@ -11,6 +11,24 @@ skills:
   - "Responsive Layout"
   - "HTML"
   - "CSS"
+  - "Images"
+lessons:
+  - 2-responsive-web/css-flexbox
+  - 2-responsive-web/css-grid
+  - 2-responsive-web/responsive-design
+userStories:
+  - Create a bento box layout website with a heading, description, and image for each box.
+  - Utilize grid layout in CSS to structure the layout.
+  - Style the layout to be responsive and adapt to different screen sizes.
+  - Apply clean spacing and typography to enhance the overall design.
+  - Ensure the website is accessible and user-friendly.
+  - Test the website on different devices and screen sizes to ensure responsiveness.
+  - Optimize the website for performance and loading speed.
+  - Use semantic HTML elements to structure the content and improve SEO.
+  - Apply CSS styles to enhance the visual presentation of the bento box elements.
+  - Validate the HTML and CSS code to ensure it follows best practices and standards.
+  - Document the code and provide clear instructions on how to run and use the website.
+  - Deploy the website to make it accessible for everyone.
 seo:
   title: "Bento Box Layout Challenge Project Idea"
   description: "Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project idea is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!"

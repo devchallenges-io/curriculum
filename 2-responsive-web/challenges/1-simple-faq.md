@@ -10,9 +10,19 @@ skills:
 lessons:
   - 2-responsive-web/html-cheat-sheet
   - 2-responsive-web/css-essential-cheat-sheet
-  - 1-fundamentals/visual-studio-code-introduction
-  - 1-fundamentals/free-hosting-for-web-projects
-similiarChallenges:
+userStories:
+  - Create a simple FAQ page using HTML and CSS.
+  - Include a heading that describes the purpose of the page.
+  - Add a list of questions, each followed by its corresponding answer.
+  - Ensure the links are clickable and navigatable with the tab key.
+  - Ensure the layout is clean and visually appealing with appropriate spacing and typography.
+  - Use semantic HTML elements to structure the content and improve SEO.
+  - Apply CSS styles to enhance the visual presentation of the page.
+  - Test the web page on different devices and screen sizes to ensure responsiveness.
+  - Validate the HTML and CSS code to ensure it follows best practices and standards.
+  - Document the code and provide clear instructions on how to run and use the web page.
+  - Deploy the website to make it accessible for everyone.
+
 seo:
   title: "Simple FAQ Challenge Project Idea"
   description: "Build a simple FAQ page to test HTML and CSS syntax. Improve your web development skills by creating a web page that allows users to view frequently asked questions and their corresponding answers. This project will help you gain a better understanding of HTML and CSS syntax, as well as practice structuring and styling web pages. By creating a clean and visually appealing layout with clickable and navigatable links, you will enhance your skills in creating user-friendly web interfaces. Choose to use vanilla HTML and CSS or popular frameworks like Tailwind CSS to complete this project."

@@ -10,6 +10,25 @@ skills:
   - "Flexbox"
   - "HTML"
   - "CSS"
+  - "Images"
+  - "SVG"
+lessons:
+  - 2-responsive-web/responsive-design
+  - 2-responsive-web/css-flexbox
+userStories:
+  - Create a responsive web page that displays a list of articles using HTML and CSS.
+  - Each article should include a picture, title, and publication date.
+  - Implement flexbox to create a visually appealing and responsive layout for the article listing.
+  - Apply clean spacing and typography to enhance the overall design.
+  - Ensure the web page is accessible and user-friendly.
+  - Test the web page on different devices and screen sizes to ensure responsiveness.
+  - Optimize the web page for performance and loading speed.
+  - Use semantic HTML elements to structure the content and improve SEO.
+  - Apply CSS styles to enhance the visual presentation of the articles.
+  - (Optional) Add hover effects or animations to make the article listing more interactive.
+  - Validate the HTML and CSS code to ensure it follows best practices and standards.
+  - Document the code and provide clear instructions on how to run and use the web page.
+  - Deploy the website to make it accessible for everyone.
 seo:
   title: "Simple Article Listing Challenge Project Idea"
   description: "Build a simple article listing challenge with HTML and CSS to practice flexbox and working with article elements. This project idea is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing article listing. By implementing flexbox, you will learn how to create flexible and responsive layouts for displaying multiple articles. Additionally, you will gain experience working with article elements, which are commonly used to structure and organize content on web pages. This project will help you enhance your understanding of HTML and CSS, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your flexbox skills and create an engaging article listing!"

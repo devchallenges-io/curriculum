@@ -12,6 +12,27 @@ skills:
   - "Responsive Layout"
   - "HTML"
   - "CSS"
+lessons:
+  - 2-responsive-web/css-flexbox
+  - 2-responsive-web/css-grid
+  - 2-responsive-web/css-units
+  - 2-responsive-web/responsive-design
+
+userStories:
+  - Create a pricing table section website with 4 columns representing 4 options, each including price, features, and a button.
+  - Utilize styling techniques in CSS to structure the layout.
+  - Ensure the layout is responsive and adapts to different screen sizes.
+  - Apply clean spacing and typography to enhance the overall design.
+  - Make the website accessible and user-friendly.
+  - Test the website on different devices and screen sizes to ensure responsiveness.
+  - Optimize the website for performance and loading speed.
+  - Use semantic HTML elements to structure the content and improve SEO.
+  - Apply CSS styles to enhance the visual presentation of the pricing table elements.
+  - (Optional) Add hover effects or animations to make the website more interactive.
+  - Validate the HTML and CSS code to ensure it follows best practices and standards.
+  - Document the code and provide clear instructions on how to run and use the website.
+  - Deploy the website to make it accessible for everyone.
+
 seo:
   title: "Pricing Table Section Challenge Project Idea"
   description: "Build a pricing table section website challenge with provided design. The layout should have 4 columns representing 4 options, each including price, features, and a button. The goal of this challenge is to practice styling tables, position relative/absolute, and create a responsive layout. This project idea is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and user-friendly pricing table section. By implementing a pricing table section using styling techniques and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of styling tables, position relative/absolute, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging pricing table section!"

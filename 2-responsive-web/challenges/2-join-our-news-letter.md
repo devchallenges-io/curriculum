@@ -7,8 +7,27 @@ sort: 1
 difficulty: "beginner"
 nature: "HTML/CSS"
 skills:
-  - "Basic HTML"
+  - "HTML"
   - "CSS"
+  - "SVG"
+  - "Form"
+  - "Input and Button"
+lessons:
+  - 2-responsive-web/html-cheat-sheet
+  - 2-responsive-web/css-essential-cheat-sheet
+userStories:
+  - Create a join our newsletter web page using HTML and CSS.
+  - Include an icon indicating the logo of the page.
+  - Add an input field for users to enter their email address.
+  - Implement a button to submit the form.
+  - Ensure the layout is clean and visually appealing with appropriate spacing and typography.
+  - Use semantic HTML elements to structure the content and improve SEO.
+  - Apply CSS styles to enhance the visual presentation of the page.
+  - Test the web page on different devices and screen sizes to ensure responsiveness.
+  - Validate the HTML and CSS code to ensure it follows best practices and standards.
+  - Document the code and provide clear instructions on how to run and use the web page.
+  - Deploy the website to make it accessible for everyone.
+
 seo:
   title: "Join Our Newsletter Challenge Project Idea"
   description: "Build a join our newsletter challenge with HTML and CSS to test your skills in basic HTML and CSS and working with input and button elements. This project idea is perfect for beginners who want to practice their HTML and CSS skills while creating a functional and visually appealing web page. By implementing a clean and intuitive design, you will learn how to structure and style a web page using HTML and CSS. Additionally, you will gain experience working with input and button elements, which are essential components of web forms. Joining a newsletter is a common feature on many websites, so this project will give you valuable hands-on experience that you can apply to future projects. Get ready to showcase your HTML and CSS skills and create an engaging join our newsletter page!"
