@@ -40,9 +40,12 @@ challengeTexts:
   - If you encounter any issues, please visit our Help Center.
   - What is your return policy?
   - We offer a 30-day return policy on most items. Here are some key points
-  - Items must be in original condition: Unworn, unused, and unwashed.
-  - Include original packaging and tags: All items should be returned with their original packaging and tags.
-  - Proof of purchase: A receipt or proof of purchase is required.
+  - Items must be in original condition
+  - Unworn, unused, and unwashed.
+  - Include original packaging and tags
+  - All items should be returned with their original packaging and tags.
+  - Proof of purchase
+  - A receipt or proof of purchase is required.
   - For more detailed information, read our full Return Policy.
 ---
 
