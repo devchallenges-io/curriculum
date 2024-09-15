@@ -29,6 +29,21 @@ seo:
   keywords:
     - "simple faq challenge"
     - "html css project idea"
+challengeTexts:
+  - Frequently Asked Questions
+  - Browse through the most frequently asked questions
+  - How can I track my order?
+  - You can track your order using the following steps
+  - Go to the Order Tracking page.
+  - Enter your order number and email address.
+  - Click on the Track Order button to view the current status of your shipment.
+  - If you encounter any issues, please visit our Help Center.
+  - What is your return policy?
+  - We offer a 30-day return policy on most items. Here are some key points
+  - Items must be in original condition: Unworn, unused, and unwashed.
+  - Include original packaging and tags: All items should be returned with their original packaging and tags.
+  - Proof of purchase: A receipt or proof of purchase is required.
+  - For more detailed information, read our full Return Policy.
 ---
 
 You are required to create a simple FAQ page to test HTML and CSS syntax with provided design.
