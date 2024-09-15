@@ -1,7 +1,7 @@
 ---
 title: "Bank Dashboard Challenge - HBank"
 slug: bank-dashboard-challenge-hbank
-description: "Build a bank dashboard website challenge with provided design. The layout should include a top navigation, side navigation, main section, and side section. The main section should display balance details and a summary, while the side section should display credit card details."
+description: "Build a bank dashboard website challenge with provided design. The layout should include a top navigation, side navigation, main section, and side section."
 isNew: false
 sort: 4
 difficulty: "intermediate"

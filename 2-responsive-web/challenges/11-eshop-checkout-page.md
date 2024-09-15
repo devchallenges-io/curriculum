@@ -1,7 +1,7 @@
 ---
 title: "Apple Shop Checkout Page Challenge"
 slug: apple-shop-checkout-page-challenge
-description: "Build an Apple shop checkout page website challenge with provided design. The layout should have 2 main sections: a summary section that lists all the products and a contact form section where users need to provide their name, email, and country. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid and Flex. Create a responsive layout that adapts to different screen sizes."
+description: "Build an Apple shop checkout page website challenge with provided design. The layout should have 2 main sections: a summary section that lists all the products and a contact form section where users need to provide their name, email, and country."
 isNew: false
 sort: 4
 difficulty: "intermediate"

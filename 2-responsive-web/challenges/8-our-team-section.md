@@ -1,7 +1,7 @@
 ---
 title: "Meet the Team Section Challenge"
 slug: meet-the-team-section-challenge
-description: "Build a meet the team section website challenge with provided design. The layout should have 5 images representing 5 members, each including their name and job title. The goal of this challenge is to practice grid layout and position absolute/relative, and style a responsive layout."
+description: "Build a meet the team section website challenge with provided design. The layout should have 5 images representing 5 members, each including their name and job title."
 isNew: false
 sort: 4
 difficulty: "intermediate"

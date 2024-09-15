@@ -1,7 +1,7 @@
 ---
 title: "Subscription Checkout Page Challenge"
 slug: subscription-checkout-page-challenge
-description: "Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes."
+description: "Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection."
 isNew: false
 sort: 4
 difficulty: "intermediate"
