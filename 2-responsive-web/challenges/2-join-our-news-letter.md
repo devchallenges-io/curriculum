@@ -34,8 +34,12 @@ seo:
   keywords:
     - "join our newsletter challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Join our newsletter
+  - Keep up with our latest collections, exclusive deals, and special offers! We introduce a new collection every week, so stay tuned to snag the hottest items just for you.
+  - Enter your email address
+  - Subscribe now
+  - Your email is 100% confidential and won’t send you any spam.
 ---
 
 You are required to code a join our newsletter challenge with HTML and CSS with the provided design.
