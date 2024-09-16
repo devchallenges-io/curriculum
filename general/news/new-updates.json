@@ -1,16 +1,37 @@
 [
   {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/62/challenge-62-thumbnail",
-    "title": "Simple FAQ Challenge",
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/66/challenge-66-thumbnail",
+    "title": "Simple Product Page",
     "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge"],
-    "link": "https://devchallenges.io/challenge/simple-faq-challenge"
+    "tags": ["New Challenge", "Premium"],
+    "link": "https://devchallenges.io/challenge/simple-product-page-challenge"
+  },
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/65/challenge-65-thumbnail",
+    "title": "Simple Feature Section",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Premium"],
+    "link": "https://devchallenges.io/challenge/simple-feature-section-challenge"
+  },
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/64/challenge-64-thumbnail",
+    "title": "Simple Article Listing",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Free"],
+    "link": "https://devchallenges.io/challenge/simple-article-listing"
   },
   {
     "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/63/challenge-63-thumbnail",
     "title": "Join Our Newsletter Challenge",
     "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge"],
+    "tags": ["New Challenge", "Free"],
     "link": "https://devchallenges.io/challenge/join-our-newsletter"
+  },
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/62/challenge-62-thumbnail",
+    "title": "Simple FAQ Challenge",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Free"],
+    "link": "https://devchallenges.io/challenge/simple-faq-challenge"
   }
 ]
