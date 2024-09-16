@@ -69,12 +69,28 @@
     "type": "lesson"
   },
   {
+    "title": "Simple Frequently Asked Questions",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-faq-challenge",
+    "group": "Introduction to HTML and CSS",
+    "type": "challenge",
+    "challenge_id": 62
+  },
+  {
     "title": "Minimal Blog Card",
     "path": "2-responsive-web",
     "slug": "challenge/minimal-blog-card",
     "group": "Introduction to HTML and CSS",
     "type": "challenge",
     "challenge_id": 27
+  },
+  {
+    "title": "Join Our Newsletter",
+    "path": "2-responsive-web",
+    "slug": "challenge/join-our-newsletter",
+    "group": "Introduction to HTML and CSS",
+    "type": "challenge",
+    "challenge_id": 63
   },
   {
     "title": "Responsive Design",
