@@ -45,8 +45,50 @@ seo:
   keywords:
     - "bank dashboard challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Ethan Sutcliffe
+  - Dashboard
+  - Analytics
+  - Performance
+  - Hotjar
+  - New
+  - Support
+  - Tickets
+  - Agents
+  - Customers
+  - Products
+  - Orders
+  - Reports
+  - Settings
+  - Logout
+  - Inventory Details
+  - Your balance
+  - $25,330
+  - 3 cards
+  - Details
+  - Shopping Card
+  - NAME
+  - \**** **** 0928
+  - \**** **** 4486
+  - Exp 26/6
+  - Add Card
+  - Card details
+  - \**** **** 7800
+  - Card number
+  - \**** 1234 4567 7800
+  - Expire date
+  - 08/28
+  - cvv
+  - Level
+  - Spending limits
+  - Daily Transaction Limit
+  - $400 spent of $2000
+  - Earnings
+  - $12,341
+  - Spendings
+  - $4,009
+  - Goals
+  - $8,098
 ---
 
 You are required to build a bank dashboard website with the following elements:

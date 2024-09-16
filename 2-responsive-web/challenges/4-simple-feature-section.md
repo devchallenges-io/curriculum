@@ -38,8 +38,18 @@ seo:
   keywords:
     - "simple feature section challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - ✋
+  - 🥅
+  - 💬
+  - Quality feedbacks for your SaaS products
+  - The blocks & components you need
+  - Collect Feedback at Multiple Touchpoints
+  - Provide a comprehensive understanding of the customer experience.
+  - Ask Targeted and Specific Questions
+  - Avoid vague or open-ended questions that may not yield actionable insights.
+  - Prioritize and Respond to Feedback
+  - Communicate the changes or improvements you've made in response to their feedback.
 ---
 
 You are required to code a simple feature section challenge with HTML and CSS with the provided design.

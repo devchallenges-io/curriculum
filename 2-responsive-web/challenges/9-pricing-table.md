@@ -39,8 +39,31 @@ seo:
   keywords:
     - "pricing table section challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Pricing & Plans
+  - Discover the plan that unlocks the transformative power of digital art and join our vibrant community today.
+  - Website number
+  - Server storage
+  - Database
+  - Unmetered Bandwidth
+  - SSD Disk
+  - VCPUS Fontworld
+  - Worldpress install
+  - Server speed
+  - Free
+  - $0
+  - Per month
+  - 100 GB
+  - Get Started
+  - Team
+  - $59
+  - 500 GB
+  - Popular
+  - $99
+  - 1 TB
+  - Unlimited
+  - Enterprise
+  - $299
 ---
 
 You are required to build a pricing table section website with the following elements: 4 columns representing 4 options, each including price, features, and a button.

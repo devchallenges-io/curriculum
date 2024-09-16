@@ -35,8 +35,15 @@ seo:
   keywords:
     - "simple article listing challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - We release interesting articles about technology
+  - Unlocking the Power of Cloud Computing
+  - A Guide to Scalable Solutions
+  - November 12, 2024
+  - The Future of AI
+  - How Machine Learning is Revolutionizing Industries
+  - The Impact of 5G on Business
+  - How Faster Networks are Transforming the Way We Work
 ---
 
 You are required to code a simple article listing challenge with HTML and CSS with the provided design.

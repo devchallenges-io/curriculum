@@ -40,8 +40,34 @@ seo:
   keywords:
     - "simple homepage challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Connect
+  - EchoPlex is the first community-owned digital art gallery.
+  - Empowering Artists and Connecting Communities Through Digital Art
+  - Create
+  - Explore
+  - Join 30,000+ creators and collections
+  - 👾
+  - Immersive Digital Art Experience
+  - ⚙️
+  - Customizable Flooring
+  - 🎭
+  - State-of-the-Art Displays
+  - 🎓
+  - Expertly Designed Lighting and Sound
+  - 👨🏻‍💻
+  - Community Engagement
+  - 👩‍🎨
+  - Artist Collaborations
+  - 📚
+  - Educational Programs
+  - 🤖
+  - Technology Integration
+  - Begin you digital art journey with EchoPlex
+  - Create
+  - © EchoPlex Oy. All rights reserved.
+  - Term
+  - Privacy Policy
 ---
 
 You are required to build a small homepage website with the following elements: heading, button, images, emojis, logo, and footer.

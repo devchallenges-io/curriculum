@@ -40,8 +40,20 @@ seo:
   keywords:
     - "simple product page challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Home - Products - Sneakers
+  - Nike Air Zoom Pegasus 38 for Running Men
+  - The Nike Air Zoom Pegasus 38 is a high-performance running shoe designed for speed and agility. With its lightweight and responsive midsole, this shoe provides a smooth ride and excellent cushioning. The Pegasus 38 features a full-length Zoom Air unit for added bounce and a more natural stride. The upper is made of a breathable mesh material with a supportive Flyknit construction for a snug and comfortable fit.
+  - Hightlights
+  - Lightweight and Responsive Midsole.
+  - Full-Length Zoom Air Unit.
+  - Breathable Mesh Uppe.
+  - COLOR
+  - Black
+  - Size
+  - $59.00
+  - Add to cart
+  - Add to wishlist
 ---
 
 You are required to code a simple product page about running shoes for men with HTML and CSS with the provided design.

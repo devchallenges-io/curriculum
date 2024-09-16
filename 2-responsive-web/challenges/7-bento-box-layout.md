@@ -35,8 +35,19 @@ seo:
   keywords:
     - "bento box layout challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Explore Our Essential Features for Effective Data Management
+  - Explore how our platform empowers organizations to elevate their data strategy, driving innovation and informed decision-making.
+  - Create high-quality, original content at scale
+  - Scale original content production efficiently.
+  - Repurpose existing content across multiple channels and formats (audio, video)
+  - Recycle content for divers platforms and create new content.
+  - Optimize content for search engines and target audiences
+  - Tailer content for SEO and audience engagement.
+  - Automate repetitive marketing tasks and workflows
+  - Streamline marketing tasks with automations.
+  - Integrate with your favorite marketing tools and platform
+  - Seamlessly integrate with preferred marketing tools.
 ---
 
 You are required to build a bento box layout website with the following elements: heading, description, and image for each box.

@@ -46,8 +46,31 @@ seo:
   keywords:
     - "subscription checkout page challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Upgrade to Plus
+  - Upgrade today and take your AI-powered productivity to the next level.
+  - Billed to
+  - Enter first & last name
+  - Payment Details
+  - Credit Card
+  - Bank Transfer
+  - Points
+  - Email Address
+  - Enter email address
+  - Country
+  - Finland
+  - Postal Code
+  - \00270
+  - Cancel
+  - Subscribe
+  - Starter Plan
+  - Pay monthly
+  - $20/ Month/ Member
+  - Pay Annual
+  - $16/ Month/ Member
+  - Total
+  - $20 / Month
+  - This environment is for demonstration purposes only. Please refrain from entering any actual sensitive data.
 ---
 
 You are required to build a subscription checkout page website with the following elements:

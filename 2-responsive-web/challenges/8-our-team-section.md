@@ -37,8 +37,21 @@ seo:
   keywords:
     - "meet the team section challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Our team
+  - Meet the brain
+  - We are proud to have them as part of our community and look forward to continuing to push the boundaries of what's possible in the world of digital art.
+  - Liam Novak
+  - Software Engineer
+  - Sophia Moretti
+  - Business Development Manager
+  - See all members
+  - Ethan Rossi
+  - Business Development Manager
+  - Isabella Ricci
+  - UX Designer
+  - Noah Conti
+  - Content Creator
 ---
 
 You are required to build a meet the team section website with the following elements: 5 images representing 5 members, each including their name and job title.

@@ -45,8 +45,37 @@ seo:
   keywords:
     - "apple shop checkout page challenge"
     - "html css project idea"
-roadmapIds:
-  - "2-responsive-web"
+challengeTexts:
+  - Checkout
+  - 3 items
+  - iPhone 12 Pro
+  - Golden
+  - $999.00
+  - x 1
+  - Apple Watch
+  - Blue
+  - $399.00
+  - iMac
+  - Green
+  - $1199.00
+  - Enter coupon code
+  - Apply Coupon
+  - Sub total
+  - $2597.00
+  - Tax
+  - $623.28
+  - Total
+  - $3220.28
+  - Contact Information
+  - First & Last name
+  - Enter first & last name
+  - Email Address
+  - Enter email address
+  - Country
+  - Finland
+  - Postal Code
+  - \00270
+  - Continue
 ---
 
 You are required to build an Apple shop checkout page website with the following elements:
