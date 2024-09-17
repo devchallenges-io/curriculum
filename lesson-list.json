@@ -154,6 +154,14 @@
     "challenge_id": 30
   },
   {
+    "title": "Bento Box Layout Feature Section",
+    "path": "2-responsive-web",
+    "slug": "challenge/bento-box-layout-challenge",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 68
+  },
+  {
     "title": "CSS Positioning",
     "path": "2-responsive-web/1-html-css/5-css-position.md",
     "slug": "2-responsive-web/css-positioning",
@@ -167,6 +175,14 @@
     "group": "CSS Fundamentals",
     "type": "challenge",
     "challenge_id": 28
+  },
+  {
+    "title": "Meet the Team Section",
+    "path": "2-responsive-web",
+    "slug": "challenge/meet-the-team-section-challenge",
+    "group": "CSS Fundamentals",
+    "type": "challenge",
+    "challenge_id": 69
   },
   {
     "title": "CSS Units",
@@ -196,6 +212,14 @@
     "slug": "2-responsive-web/css-functions",
     "group": "Advanced CSS",
     "type": "lesson"
+  },
+  {
+    "title": "Simple Homepage - Echoplex",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-homepage-challenge-echoplex",
+    "group": "Advanced CSS",
+    "type": "challenge",
+    "challenge_id": 67
   },
   {
     "title": "CSS Custom Properties",
