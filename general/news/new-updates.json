@@ -1,5 +1,12 @@
 [
   {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/70/challenge-70-thumbnail",
+    "title": "Pricing Table",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Free"],
+    "link": "https://devchallenges.io/challenge/pricing-table-section-challenge"
+  },
+  {
     "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/69/challenge-69-thumbnail",
     "title": "Meet the Team Section",
     "description": "New challenge is available now in Responsive Web Design roadmap.",
