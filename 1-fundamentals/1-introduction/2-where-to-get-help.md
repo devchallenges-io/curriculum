@@ -32,7 +32,7 @@ Leveraging this GitHub community as part of your learning strategy on DevChallen
 
 Posting a new discussion in the GitHub community is straightforward:
 
-1.  Navigate to the [DevChallenges.io Curriculum repository](https://github.com/devchallenges-io/curriculum) on GitHub.
+1.  Navigate to the [DevChallenges.io Github](https://github.com/devchallenges-io) on GitHub.
 2.  Click on the ["Discussions" tab](https://github.com/orgs/devchallenges-io/discussions).
 3.  Select "New Discussion."
 4.  Choose an appropriate category for your topic.
