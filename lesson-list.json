@@ -278,7 +278,7 @@
     "title": "Device Shop Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/apple-shop-checkout-page-challenge",
-    "group": "Advanced CSS",
+    "group": "Form and Form Validation",
     "type": "challenge",
     "challenge_id": 72
   },
@@ -286,7 +286,7 @@
     "title": "Subscription Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/subscription-checkout-page-challenge",
-    "group": "Advanced CSS",
+    "group": "Form and Form Validation",
     "type": "challenge",
     "challenge_id": 73
   },
