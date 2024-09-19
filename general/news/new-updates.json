@@ -1,5 +1,26 @@
 [
   {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/73/challenge-73-thumbnail",
+    "title": "Subscription Checkout",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Premium"],
+    "link": "https://devchallenges.io/challenge/subscription-checkout-page-challenge"
+  },
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/72/challenge-72-thumbnail",
+    "title": "Device Shop Checkout",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Free"],
+    "link": "https://devchallenges.io/challenge/apple-shop-checkout-page-challenge"
+  },
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/71/challenge-71-thumbnail",
+    "title": "Bank Dashboard - HBank",
+    "description": "New challenge is available now in Responsive Web Design roadmap.",
+    "tags": ["New Challenge", "Premium"],
+    "link": "https://devchallenges.io/challenge/bank-dashboard-challenge-hbank"
+  },
+  {
     "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/70/challenge-70-thumbnail",
     "title": "Pricing Table",
     "description": "New challenge is available now in Responsive Web Design roadmap.",

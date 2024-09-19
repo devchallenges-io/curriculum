@@ -252,6 +252,14 @@
     "challenge_id": 34
   },
   {
+    "title": "Bank Dashboard - HBank",
+    "path": "2-responsive-web",
+    "slug": "challenge/bank-dashboard-challenge-hbank",
+    "group": "Advanced CSS",
+    "type": "challenge",
+    "challenge_id": 71
+  },
+  {
     "title": "Basic Form and Form Validation",
     "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
     "slug": "2-responsive-web/form-and-form-validation",
@@ -265,6 +273,22 @@
     "group": "Form and Form Validation",
     "type": "challenge",
     "challenge_id": 31
+  },
+  {
+    "title": "Device Shop Checkout",
+    "path": "2-responsive-web",
+    "slug": "challenge/apple-shop-checkout-page-challenge",
+    "group": "Advanced CSS",
+    "type": "challenge",
+    "challenge_id": 72
+  },
+  {
+    "title": "Subscription Checkout",
+    "path": "2-responsive-web",
+    "slug": "challenge/subscription-checkout-page-challenge",
+    "group": "Advanced CSS",
+    "type": "challenge",
+    "challenge_id": 73
   },
   {
     "title": "Accessibility",
