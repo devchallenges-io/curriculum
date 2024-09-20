@@ -64,9 +64,9 @@ The goals of this project are to help you:
 - Practice more advanced Grid techniques.
 - Enhance your HTML and CSS skills while creating a visually appealing and user-friendly our team section.
 - Gain experience working with HTML and CSS to structure and style the website.
-- Improve your understanding of styling tables, position relative/absolute, and responsive design.
+- Improve your understanding of position relative/absolute, and responsive design.
 - Create visually appealing and user-friendly web pages.
-- Showcase your HTML and CSS skills and create an engaging pricing table section.
+- Showcase your HTML and CSS skills.
 
 ## Requirements
 
