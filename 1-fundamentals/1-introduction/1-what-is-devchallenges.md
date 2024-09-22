@@ -4,15 +4,15 @@ seo:
   description: "Join devChallenges.io to enhance your web development skills with real-world projects, community support, and a structured learning path."
 faqs:
   - What is devChallenges.io?
-    - devChallenges.io is an online platform designed for aspiring web developers to improve their skills through a variety of challenges.
+  - devChallenges.io is an online platform designed for aspiring web developers to improve their skills through a variety of challenges.
   - How does community interaction enhance the learning experience on devChallenges.io?
-    - Community interaction is crucial as it fosters real-time discussions and feedback, enabling users to learn from one another and gain insights that enhance their understanding of web development.
+  - Community interaction is crucial as it fosters real-time discussions and feedback, enabling users to learn from one another and gain insights that enhance their understanding of web development.
   - What should I consider when selecting a challenge on devChallenges.io?
-    - When selecting a challenge, assess your skill level. Beginners might want to start with simpler tasks, while more experienced developers can tackle advanced challenges to further hone their skills.
+  - When selecting a challenge, assess your skill level. Beginners might want to start with simpler tasks, while more experienced developers can tackle advanced challenges to further hone their skills.
   - What types of projects can I showcase after completing challenges on devChallenges.io?
-    - After completing challenges on devChallenges.io, you can showcase a variety of projects including personal websites, web applications, and UI/UX designs. These projects can significantly enhance your portfolio and demonstrate your skills to potential employers.
+  - After completing challenges on devChallenges.io, you can showcase a variety of projects including personal websites, web applications, and UI/UX designs. These projects can significantly enhance your portfolio and demonstrate your skills to potential employers.
   - Is there a structured curriculum available on devChallenges.io?
-    - Yes, devChallenges.io provides a structured curriculum designed to guide users through various learning pathways, helping them progressively build their skills in web development.
+  - Yes, devChallenges.io provides a structured curriculum designed to guide users through various learning pathways, helping them progressively build their skills in web development.
 ---
 
 # What is devChallenges.io?
