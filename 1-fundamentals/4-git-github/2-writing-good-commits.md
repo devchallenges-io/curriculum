@@ -12,8 +12,6 @@ Writing good Git commit messages is an art that requires balance. It's about bei
 
 ## 1. The Basics of Git Commit Messages
 
-### Understanding the Fundamentals
-
 ### Documenting Changes
 
 Each commit message is like a mini-documentation for a set of changes. It comes in handy in various situations:
