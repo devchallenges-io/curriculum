@@ -1,3 +1,16 @@
+---
+seo:
+  title: "Get Help on DevChallenges.io: GitHub, Discord & More"
+  description: "Find help on DevChallenges.io via GitHub, Discord, and more. Enhance your coding skills with community support and feedback."
+faqs:
+  - What community support options are available on DevChallenges.io?
+  - DevChallenges.io offers several community support options, including a GitHub community and a Discord channel. These platforms allow users to seek help, share knowledge, and engage with fellow developers.
+  - How can I effectively utilize the GitHub community for support?
+  - To make the most out of the GitHub community, consider participating actively by asking questions, sharing your projects, and engaging in discussions. Be sure to search for existing topics before posting new discussions to find relevant information quickly.
+  - How can I give constructive feedback on projects submitted by others?
+  - When reviewing others' work, focus on providing specific, actionable feedback. Highlight what works well in their project while also suggesting areas for improvement to foster growth and learning within the community.
+---
+
 # Where to get help?
 
 Seeking help and community support is crucial in skill development. Tackling coding problems alone can be daunting and often leads to frustration. Engaging with a community allows you to gain different perspectives, learn new techniques, and find solutions more efficiently.

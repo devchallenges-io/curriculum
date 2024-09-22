@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master Git Basics: Step-by-Step Guide to GitHub Mastery"
+  description: "Master Git and GitHub: Learn version control, branch management, and collaborative coding with our step-by-step guide."
+faqs:
+  - What is Git and why is it important in software development?
+  - Git is a powerful version control system that helps developers manage changes to their code over time. Its key advantages include snapshotting, which allows users to save the state of their project at any point, making it easy to revert to previous versions or track changes.
+  - How do I get started with Git?
+  - To get started with Git, you first need to install it on your system. Once installed, open your command line or terminal, navigate to your project location using the 'cd' command, and initialize your Git repository by typing 'git init'. Finally, verify that the .git directory has been created.
+  - What are remote repositories and how do they work with GitHub?
+  - Remote repositories are hosted on platforms like GitHub, allowing you to securely store and manage your code online. They enable collaboration by providing a centralized location for team members to access and contribute to projects.
+  - How can I create a GitHub account and repository?
+  - To create a GitHub account, visit the GitHub website and sign up for an account. After creating your account, you can create a new repository by clicking on the 'New' button in your repositories section, filling out the necessary details, and clicking 'Create repository'.
+  - What steps should I follow to add and commit changes in Git?
+  - To add changes in Git, use the command 'git add <file_name>' for specific files or 'git add .' to stage all changes. After staging the files, commit your changes with a clear message using 'git commit -m "Your message here"'. This records the changes in your local repository.
+  - What are branches in Git and how do I manage them?
+  - Branches in Git allow you to work on different features or fixes independently from the main codebase. You can create a new branch using 'git branch branch_name', switch between branches with 'git checkout branch_name', and delete branches after merging them with 'git branch -d branch_name' when they are no longer needed.
+---
+
 # Master Git Basics: A Step-by-Step GitHub lesson
 
 In the rapidly changing world of software development, it's important to understand tools like Git and GitHub. Git is a system that helps track changes in source code, allowing you to go back to different versions of a project. GitHub takes your Git repositories and puts them on the internet, providing a web-based platform for managing your projects.
