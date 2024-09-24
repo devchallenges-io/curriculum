@@ -49,6 +49,13 @@
     "type": "lesson"
   },
   {
+    "title": "Introduction to HTML and CSS",
+    "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md",
+    "slug": "2-responsive-web/introduction-to-html-and-css",
+    "group": "Introduction to HTML and CSS",
+    "type": "lesson"
+  },
+  {
     "title": "Essential HTML Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2.1-html-cheatsheet.md",
     "slug": "2-responsive-web/html-cheat-sheet",
