@@ -1,3 +1,20 @@
+---
+seo:
+  title: "Learn HTML & CSS: Ultimate Beginner's Guide to Web Development"
+  description: "Master HTML and CSS: Learn the basics of web development, from structure with HTML to styling with CSS, in this ultimate beginner's guide."
+faqs:
+  - What is HTML and why is it important?
+  - HTML (HyperText Markup Language) is the foundational building block of web development. It provides the structure for webpages, allowing you to create and organize content effectively.
+  - How do I understand HTML syntax?
+  - HTML code is composed of a series of elements, which are defined by tags. Each element typically has an opening tag, content, and a closing tag, forming the basic syntax needed to structure a webpage.
+  - What is CSS and how does it relate to HTML?
+  - Cascading Style Sheets (CSS) is a fundamental technology used to style and layout web pages. It works alongside HTML by applying styles to HTML elements, enhancing their appearance and overall design.
+  - What are selectors in CSS?
+  - In CSS, selectors are patterns used to select the elements you want to style. There are various types of selectors such as class selectors, ID selectors, and element selectors that allow you to apply styles selectively.
+  - How can I enhance my webpage with CSS styles?
+  - You can enhance your webpage visually by using CSS properties. This includes styling text, fonts, colors, and layouts which play a crucial role in directing user attention and improving user experience.
+---
+
 # Learn HTML and CSS: The Ultimate Beginner's Guide
 
 HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the building blocks of web development. HTML provides the structure of a web page, using elements like headings, paragraphs, and links. It's like the blueprint of a building, defining its different parts.

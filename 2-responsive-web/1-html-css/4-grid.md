@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Mastering CSS Grid: Step-by-Step Guide for Web Developers"
+  description: "Master CSS Grid with our step-by-step guide. Learn to create complex, responsive layouts easily without extra frameworks."
+faqs:
+  - What is CSS Grid Layout?
+  - CSS Grid Layout is a powerful layout system that revolutionized web design by allowing developers to create complex, responsive web layouts easily using a grid-based approach.
+  - What are Grid Lines in CSS Grid?
+  - Grid Lines are the lines that form the structure of the grid. They define the boundaries between columns and rows, helping to position grid items within the layout.
+  - How do I create a basic CSS Grid layout?
+  - "To create a basic CSS Grid layout, you need to select an HTML element as your grid container and apply display: grid; to it. Then, you can define columns and rows using properties like grid-template-columns and grid-template-rows."
+  - What is the gap property in CSS Grid?
+  - The gap property is used to set spacing between grid items. It allows you to control the space between rows and columns without adding margins directly to the items.
+  - How can I align items in a CSS Grid?
+  - You can align items in a CSS Grid using properties such as justify-items for horizontal alignment and align-items for vertical alignment. Additionally, justify-content and align-content can adjust the position of the entire grid within its container.
+  - What are nested grids in CSS Grid?
+  - Nested grids occur when a grid item itself becomes a grid container. This allows for more complex layouts by creating grids within grids, enabling greater flexibility and organization of content.
+---
+
 # Mastering CSS Grid: A Step-by-Step lesson
 
 CSS Grid Layout revolutionized web design by allowing developers to precisely create complex layouts. Unlike older methods, CSS Grid provides a flexible and robust approach to element arrangement on a web page. It offers enhanced control over horizontal and vertical alignment of elements, facilitating responsive designs that adapt to various screen sizes. This advancement enables the creation of complex, adaptable layouts without necessitating complicated frameworks or hacks.

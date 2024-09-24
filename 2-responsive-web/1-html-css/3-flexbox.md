@@ -1,3 +1,20 @@
+---
+seo:
+  title: "Mastering Flexbox: Complete Guide to CSS Flexbox Layout Model"
+  description: "Master CSS Flexbox with our complete guide. Learn flex properties, manage layouts, and create responsive designs effortlessly."
+faqs:
+  - What is the Flexbox layout model?
+  - The Flexbox layout model is a CSS layout method that provides a flexible way to arrange elements within a container. It operates based on a flex formatting context, allowing for efficient alignment and distribution of space among items in a container.
+  - What are the key properties of a flex container?
+  - Key properties of a flex container include 'display', which defines the flex context for child elements, 'flex-direction', which determines the main axis direction (row or column), 'flex-wrap', which controls whether items should wrap onto multiple lines, and 'justify-content' and 'align-items', which align items along the main and cross axes respectively.
+  - How does the gap property work in Flexbox?
+  - The gap property simplifies spacing between flex items by allowing you to set uniform spacing without needing to use margins. It provides an easy way to control the distance between items in both row and column directions.
+  - What is the purpose of flex-grow in Flexbox?
+  - The flex-grow property allows a flex item to grow if there is available space in the flex container. It defines how much of the remaining space in the container should be assigned to the item relative to other items.
+  - What are some real-world applications of Flexbox?
+  - Flexbox is versatile and can be used in various web design scenarios such as building responsive navigation bars, creating flexible card layouts, aligning content within grid systems, and managing complex layouts that require adaptability across different screen sizes.
+---
+
 # Mastering Flexbox: A Complete Guide to CSS Flexbox
 
 ## Understanding the Flexbox Layout Model
