@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Mastering JSON: Ultimate Guide to JavaScript Objects & Notation"
+  description: "Master JavaScript Object Notation (JSON) with our ultimate guide. Learn to define, manipulate, and debug objects effectively."
+faqs:
+  - What is JavaScript Object Notation (JSON)?
+  - JavaScript Object Notation (JSON) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate.
+  - How do you create an object in JavaScript?
+  - "You can create an object using literal syntax. For example: `let car = { make: 'Toyota', model: 'Camry' };` This defines a new object with properties 'make' and 'model'."
+  - What are the differences between dot notation and bracket notation for accessing object properties?
+  - Dot notation is straightforward and used for accessing properties with valid identifier names, while bracket notation allows for more versatility, such as accessing properties with dynamic names or those that include spaces or special characters.
+  - What are constructor functions in JavaScript?
+  - Constructor functions serve as blueprints for creating custom object types. They allow for the instantiation of multiple objects with shared methods and properties.
+  - What are the pros and cons of using object literals versus constructor functions?
+  - Object literals are concise and readable, making them ideal for simple objects. However, they are not suitable for creating multiple instances. Constructor functions, on the other hand, allow for reusable blueprints but are slightly more verbose and require an understanding of function scope.
+  - How does inheritance work in JavaScript?
+  - In JavaScript, objects inherit properties and methods from their prototypes. You can shape inheritance using methods like Object.create() to create an object with a specified prototype.
+---
+
 # Mastering JavaScript Object Notation: The Ultimate Guide
 
 **JavaScript Object Notation (JSON)** is a lightweight data interchange format that is easy for humans to read and write, and simple for machines to parse and generate. It derives its syntax from JavaScript object literal notation but is distinct from the language itself. The use of JSON is prevalent due to:

@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master JavaScript Variables: Guide to var, let & const"
+  description: "Master JavaScript variables: learn var, let, const, their scopes, and best practices for clean, efficient code in dynamic web applications."
+faqs:
+  - What is the difference between var, let, and const in JavaScript?
+  - The var keyword declares a variable that can be re-declared and updated. let also declares a variable but is block-scoped, meaning it is only accessible within the block it is defined. const is used to declare variables whose value should not change throughout the script, providing immutability.
+  - What is variable scope in JavaScript?
+  - "Variable scope determines the accessibility of variables in different parts of your code. In JavaScript, there are three types of scopes: global scope, function scope, and block scope. Understanding these scopes helps prevent unintended access or modification of variables."
+  - What does hoisting mean in JavaScript?
+  - Hoisting is a JavaScript mechanism where variable and function declarations are moved to the top of their containing scope during compilation. This means you can use variables before they are declared, although they will be undefined until their actual declaration line is reached.
+  - What are the common data types in JavaScript?
+  - Common data types in JavaScript include Numbers (both integral and floating-point), Strings (text), Booleans (true or false), Objects (complex data structures), and Arrays (ordered collections). Understanding these data types is essential for effective variable manipulation.
+  - What are some best practices for variable declaration in JavaScript?
+  - Best practices include using let instead of var to avoid issues with hoisting, preventing redeclaration by using let, declaring constants with const when values should remain unchanged, and choosing descriptive variable names that clearly convey their purpose.
+  - How can I check browser support for JavaScript features?
+  - To check browser support for JavaScript features, open the browser console through developer tools and test variable declarations by typing commands such as 'var testVar = "test";'. If no errors occur, your browser supports these keywords.
+---
+
 # Mastering the Basics: Your Ultimate Guide to JavaScript Variables
 
 JavaScript variables are essential for storing and manipulating data in the programming language. They act as containers that hold information which can be accessed and modified throughout a script's execution. Using variables effectively is crucial for creating web applications that are dynamic and interactive.

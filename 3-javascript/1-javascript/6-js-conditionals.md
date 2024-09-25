@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master JavaScript Conditional Statements: Ultimate Guide"
+  description: "Master JavaScript conditional statements: if, else, else if, switch, and ternary. Enhance decision-making in your code for dynamic applications."
+faqs:
+  - What is an if statement in JavaScript?
+  - "The if statement in JavaScript is the fundamental control structure that allows you to execute a block of code based on whether a specified condition evaluates to true. The syntax is: if (condition) { // code to be executed if the condition is true }."
+  - How does the else statement work?
+  - The else statement in JavaScript is used in conjunction with an if statement to execute a block of code when the condition of the if statement evaluates to false. It provides an alternative path for execution.
+  - What is the purpose of the switch statement?
+  - "The switch statement evaluates an expression and matches it against multiple case values, executing different blocks of code based on which case matches. The syntax begins with the switch keyword followed by an expression: switch (expression) { case value1: // Statements executed }."
+  - Can you explain the ternary operator?
+  - "The ternary operator offers a concise method to perform conditional evaluations. It uses three operands in its syntax: a condition followed by a question mark, then the result for true, and finally the result for false. For example: let result = a > b ? 'a is greater' : 'b is greater'."
+  - What are nested if else statements?
+  - Nested if else statements are like branches within branches, allowing you to test multiple conditions within an if or else block. This structure enables more complex decision-making by evaluating additional conditions after an initial condition fails.
+  - What are some common mistakes to avoid with conditional statements?
+  - Common mistakes include neglecting strict equality by using '==' instead of '===' which can lead to unexpected results due to type coercion. It's also important to write descriptive conditionals that are self-explanatory and utilize console.log() strategically for debugging purposes.
+---
+
 # Mastering Conditional Statements in JavaScript: The Ultimate lesson
 
 Conditional statements are essential for decision-making in JavaScript. They allow developers to run code based on specific conditions. By checking if certain criteria are true, JavaScript can perform different actions, making applications dynamic and responsive.
