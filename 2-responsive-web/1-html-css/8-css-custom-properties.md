@@ -1,3 +1,20 @@
+---
+seo:
+  title: "Mastering CSS Custom Properties: Enhance Your Web Design Skills"
+  description: "Master CSS custom properties for dynamic, reusable styles. Enhance code readability and maintainability with advanced techniques and responsive design."
+faqs:
+  - What are CSS Custom Properties?
+  - CSS custom properties, also known as CSS variables, allow developers to store values that can be reused throughout a stylesheet. They provide a way to create dynamic styles and enhance the maintainability of CSS.
+  - How do you declare a CSS Custom Property?
+  - "To declare a custom property, use two dashes followed by the property name. For example: '--main-color: #3498db;'. This declaration can be placed within a selector to define its scope."
+  - What is the @property at-rule in CSS?
+  - The @property at-rule provides an alternative method to define custom properties with specific types and initial values. This allows for more control over how these properties behave within the stylesheet.
+  - How do handle CSS Custom Properties inheritance?
+  - CSS custom properties follow standard inheritance rules in CSS. This means that if a custom property is defined on a parent element, its child elements can access and use that property unless it is overridden.
+  - Can you use CSS Custom Properties for responsive design?
+  - Yes! By combining media queries with CSS custom properties, you can easily adjust styles based on different screen sizes, making your design more responsive and adaptable.
+---
+
 # Mastering CSS Custom Properties
 
 CSS custom properties have transformed the way we style websites, offering a level of dynamic and flexible styling options previously out of reach. They promote the DRY (Don't Repeat Yourself) principle, reduce complexity, and enhance readability in your code.

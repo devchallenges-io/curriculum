@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Web Accessibility: Why It Matters & How to Get Started"
+  description: "Learn why web accessibility matters and get started with WCAG guidelines to create an inclusive online environment for all users."
+faqs:
+  - What is web accessibility and why does it matter?
+  - Web accessibility is the practice of making websites usable for all individuals, including those with disabilities. It matters because it ensures that everyone can access information and services online, promoting inclusivity and equal opportunities.
+  - What are the key elements of HTML accessibility?
+  - Key elements of HTML accessibility include using alternative text for images, ensuring keyboard functionality and focus management, and employing a semantic HTML structure. These practices enhance the usability of websites for users with disabilities.
+  - How can I make media content accessible?
+  - To make media content accessible, provide transcripts for audio files and captions for videos. Additionally, ensure that media players have operable controls designed with accessibility in mind.
+  - Why is testing and evaluation important in web accessibility?
+  - Testing and evaluation are crucial because ensuring web accessibility is a continuous effort. Utilizing automated testing tools can serve as an initial check, while manual inspection and user testing help identify issues that automated tools may miss.
+  - What resources are available for learning about web accessibility standards?
+  - Reliable resources for web accessibility standards include the Web Accessibility Initiative (WAI) guidelines and various educational materials provided by organizations focused on inclusive design. These resources are essential for understanding best practices.
+  - What are the business benefits of prioritizing web accessibility?
+  - Prioritizing web accessibility can lead to increased audience reach, improved SEO, and mitigated legal risks. Accessible websites attract a wider audience and comply with legal standards, enhancing overall business success.
+---
+
 # Web Accessibility: Why It Matters and How to Get Started
 
 Web accessibility is the practice of making websites usable for everyone, including those with disabilities. It involves removing barriers that may hinder interaction or access to information on the web. When websites are designed, developed, and edited with accessibility in mind, all users can have equal opportunities to navigate and engage with the content.

@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master CSS Positioning: A Beginner's Guide to Web Layouts"
+  description: "Master CSS positioning and create responsive websites with our step-by-step guide for beginners. Learn static, relative, absolute, fixed, and sticky positioning."
+faqs:
+  - What is static positioning in CSS?
+  - Static positioning is the default positioning model for HTML elements. Elements with static positioning are placed in the normal document flow, and their position is determined by their order in the HTML. They do not respond to top, right, bottom, or left properties.
+  - How does relative positioning work?
+  - Relative positioning allows you to adjust an element's position relative to its original position in the document flow. When an element is set to relative, you can use top, right, bottom, or left properties to move it without affecting the layout of other elements.
+  - What are the key features of absolute positioning?
+  - Absolute positioning removes an element from the normal document flow and positions it relative to its nearest positioned ancestor (an ancestor with a position property other than static). If there is no such ancestor, it will be positioned relative to the initial containing block (usually the viewport).
+  - What is fixed positioning and when should I use it?
+  - "Fixed positioning allows an element to stay in a fixed position on the screen even when the page is scrolled. This is useful for creating elements like navigation bars that remain visible at all times. A common implementation involves setting 'position: fixed;' along with top and left properties."
+  - Can you explain sticky positioning?
+  - Sticky positioning is a hybrid of relative and fixed positioning. An element with sticky positioning behaves like a relatively positioned element until it crosses a specified threshold (defined by top, right, bottom, or left), after which it behaves like a fixed element. This is useful for headers that stick at the top during scrolling.
+  - How does z-index affect stacking order in CSS?
+  - The z-index property controls the stacking order of positioned elements that overlap. Elements with a higher z-index value will appear on top of those with lower values. The stacking context can also be influenced by factors such as parent elements' z-index and their position property.
+---
+
 # Master CSS Positioning: A Step-by-Step lesson for Beginners
 
 CSS positioning is a fundamental concept in web design that allows developers to control the layout of HTML elements on a page. For beginners, understanding CSS positioning is crucial for creating responsive and visually appealing websites. This lesson will guide you through the different position values in CSS:

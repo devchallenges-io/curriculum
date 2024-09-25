@@ -1,3 +1,22 @@
+---
+seo:
+  title: "CSS Keyframes & Transitions: Ultimate Guide for Web Developers"
+  description: "Master CSS animations, keyframes, and transitions to create dynamic, visually engaging web interfaces. Enhance your web design skills today!"
+faqs:
+  - What are CSS keyframes?
+  - CSS keyframes are a way to create animations by defining styles at various points in the animation sequence. They allow web developers to specify how an element should change from one style to another over time.
+  - How do I create a CSS animation using @keyframes?
+  - "Creating a CSS animation using @keyframes involves two steps: first, you define the keyframes with the @keyframes rule, specifying the styles for different points in the animation. Second, you apply the animation to an element using the 'animation' property."
+  - What is the shorthand animation property in CSS?
+  - The shorthand animation property in CSS allows you to specify multiple animation-related properties in one line. This includes properties like 'animation-name', 'animation-duration', 'animation-timing-function', and more, simplifying the process of applying animations.
+  - What are transitions in CSS?
+  - Transitions in CSS provide a method to smoothly change property values over a specified duration when an element's state changes. They enhance user experience by creating fluid visual effects between different states of an element.
+  - How can I achieve smooth transitions in my web design?
+  - To achieve smooth transitions, identify the CSS properties you want to transition and assign values to them. Use the 'transition' property to define how these properties will change over time, ensuring a seamless visual effect.
+  - What are animation timing functions and why are they important?
+  - Animation timing functions control the pacing of an animation, determining how intermediate property values are calculated over the duration of the animation. They help create more dynamic and realistic animations by allowing for ease-in, ease-out, or linear transitions.
+---
+
 # CSS Keyframes and Transitions: The Ultimate lesson for Web Developers
 
 CSS animations, keyframes, and transitions are foundational elements that empower web developers to craft dynamic and visually engaging interfaces. **CSS animations** expand the capability of CSS by allowing elements to change styles over time without using JavaScript.

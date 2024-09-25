@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Mastering CSS Units: Guide to px, em, rem & More"
+  description: "Master CSS units like px, em, rem, and viewport units to create flexible, scalable, and accessible web layouts. Learn best practices now!"
+faqs:
+  - What are absolute length units in CSS?
+  - Absolute length units in CSS include Centimeters (cm), Millimeters (mm), Inches (in), Pixels (px), Points (pt), and Picas (pc). They provide precise control over the layout, particularly useful in print design where exact measurements are essential.
+  - How does the em unit work in CSS?
+  - The em unit is a relative length unit that scales based on the font size of its parent element. For example, if a parent has a font-size of 16px, setting a child element to 2em would render it at 32px. This allows for responsive text scaling across different screen sizes.
+  - What is the difference between rem and em units?
+  - The rem unit, or 'root em', is also a relative length unit but it references the font size of the root element (usually <html>). This makes rem units more predictable for scaling typography globally, while em units can be influenced by the parent element's font size.
+  - When should I use viewport units like vw and vh?
+  - Viewport units such as vw (viewport width) and vh (viewport height) are essential for responsive design. They allow elements to scale based on the size of the viewport, making them ideal for layouts that need to adapt to different screen sizes.
+  - What are some best practices for using CSS units in typography?
+  - For practical typography, it’s recommended to use rem units for defining base font sizes to ensure easy scalability. Em units can be beneficial for nested elements where you want them to scale based on their parent. Always consider responsiveness when selecting your units.
+  - How do I choose the right CSS units for my project?
+  - Selecting appropriate CSS units depends on your project's needs. Use ems for scalable text styling, pixels for precision in static elements, and viewport units for responsive designs. Additionally, consider cross-browser compatibility to ensure consistent rendering across different platforms.
+---
+
 # Mastering CSS Units: A Comprehensive Guide to px, em, rem, and More
 
 Understanding CSS units is crucial for web developers who want to create precise and flexible layouts. The choice of unit can have a big impact on how scalable, maintainable, and accessible a web page is. In this lesson, we'll provide a comprehensive guide to the main CSS units used in web development.
