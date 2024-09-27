@@ -13,8 +13,8 @@ faqs:
   - Lexical scoping determines how variable names are resolved in nested functions. Understanding this concept helps developers predict how variables will behave in different scopes, leading to fewer bugs and more maintainable code.
   - What best practices should I follow for effective scope management?
   - To manage scope effectively, minimize global variables by declaring them close to where they are used, avoid variable shadowing by being mindful of variable names, encapsulate related data within functions or modules, and use descriptive identifiers for clarity.
-  - How do `let` and `const` improve variable scoping compared to `var`?
-  - `let` and `const` introduce block scope in JavaScript, allowing variables to be limited to the block they are defined in. This prevents unintended access from outside the block and helps improve code readability and maintainability.
+  - "How do 'let' and 'const' improve variable scoping compared to 'var'?"
+  - "'let' and 'const' introduce block scope in JavaScript, allowing variables to be limited to the block they are defined in. This prevents unintended access from outside the block and helps improve code readability and maintainability."
 ---
 
 # Mastering JavaScript Closures
