@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Mastering TypeScript Modules: Comprehensive Guide for Developers"
+  description: "Master TypeScript modules with our comprehensive guide. Learn ES6, CommonJS, AMD, UMD, and advanced techniques for efficient code structure."
+faqs:
+  - What are the different types of TypeScript modules?
+  - TypeScript modules include ES6 Modules, which use the import and export keywords; CommonJS, widely used in Node.js with require for imports; AMD (Asynchronous Module Definition), designed for asynchronous loading of modules; and UMD (Universal Module Definition), which combines AMD and CommonJS patterns to work in both client-side and server-side environments.
+  - How do I export code from a TypeScript module?
+  - "To export code from a TypeScript module, you can use the 'export' keyword. There are two main types of exports: Named Exports, which allow you to export multiple values, and Default Exports, which are useful when a module only exports a single value."
+  - What is the difference between named exports and default exports?
+  - Named exports are used when you want to export multiple values from a module, requiring you to specify the names during import. Default exports, on the other hand, allow a module to export a single value or object without needing to specify its name during import; you can choose any name you want.
+  - How do I import code into another TypeScript module?
+  - Importing code into another module is done using the 'import' statement. For named exports, you need to specify the names of the exported members you're importing. For default exports, you can choose any name when importing.
+  - What are circular dependencies in TypeScript modules?
+  - Circular dependencies occur when two or more modules depend on each other. This can lead to issues in module loading and execution order. It's important to handle these carefully to avoid runtime errors.
+  - What are dynamic imports in TypeScript?
+  - Dynamic imports allow you to load modules conditionally or on demand at runtime rather than at compile time. This can be beneficial for optimizing performance by reducing initial load times and loading only what is necessary.
+---
+
 # Mastering TypeScript Modules: A Comprehensive Guide
 
 TypeScript modules are a fundamental aspect of modern JavaScript development, serving as a powerful tool for structuring and organizing code. By encapsulating functionality into discrete units, modules promote code reuse, maintainability, and clarity.

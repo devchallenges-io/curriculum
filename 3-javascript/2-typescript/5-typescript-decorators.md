@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Mastering TypeScript Decorators: Enhance Your Classes & Methods"
+  description: "Master TypeScript decorators to enhance classes, methods, properties, and parameters. Learn their syntax, usage, and advanced patterns."
+faqs:
+  - What are TypeScript Decorators?
+  - TypeScript decorators are a special kind of declaration that can be attached to classes, methods, properties, or parameters. They provide a way to add metadata or modify the behavior of the target element.
+  - How do decorators work in TypeScript?
+  - Decorators are functions that are prefixed with an '@' symbol. When applied, they receive the target they decorate as an argument, allowing them to modify or enhance the behavior of that target.
+  - What types of declarations can be decorated in TypeScript?
+  - In TypeScript, decorators can be applied to various types of declarations including classes, methods, properties, and parameters. Each type has its own specific use cases and syntax.
+  - How can I define and apply a class decorator?
+  - To define a class decorator, you create a function that takes a constructor as an argument. You can then apply this decorator to a class by prefixing it with the '@' symbol above the class declaration.
+  - What are some common use cases for method decorators?
+  - Method decorators are useful for logging and debugging purposes, tracking method calls and their parameters. They can also be used for validation or enforcing access control on method execution.
+  - How do decorators impact performance in TypeScript?
+  - Decorators add metadata to classes, methods, properties, and parameters which can have performance implications. To optimize usage, minimize the number of decorators applied and ensure they are only used where necessary.
+---
+
 # Mastering TypeScript Decorators
 
 TypeScript Decorators are a powerful feature introduced to add metadata and modify the behavior of classes, methods, properties, and parameters. These decorators enhance the functionality of your code by enabling declarative programming techniques.

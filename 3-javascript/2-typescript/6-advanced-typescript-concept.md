@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master Advanced TypeScript: Unions, Generics & Utility Types"
+  description: "Master advanced TypeScript concepts: union types, generics, type guards, mapped types, and utility types for robust and maintainable code."
+faqs:
+  - What are Union and Intersection Types in TypeScript?
+  - Union types in TypeScript allow you to define a variable that can hold multiple types, while intersection types enable you to combine multiple types into one. This provides flexibility in how variables can be defined and used.
+  - How does Type Inference work in TypeScript?
+  - Type inference is a feature where the TypeScript compiler automatically determines the type of a variable based on the value assigned to it. This simplifies code writing by reducing the need for explicit type annotations.
+  - What are Generics in TypeScript and why are they useful?
+  - Generics in TypeScript allow you to create reusable components that work with any data type. They provide type safety by ensuring that the correct data type is used throughout your code, thus preventing runtime errors.
+  - What are Type Guards and how do they enhance code safety?
+  - Type guards are mechanisms in TypeScript that allow you to narrow down the type of a variable within a conditional block. They enhance code safety by ensuring that operations on variables are performed only when the variable is of a specific type, thereby reducing runtime errors.
+  - What are Type Assertions and what best practices should I follow?
+  - Type assertions allow you to override the inferred type of a value, telling the compiler to treat it as a specific type. Best practices include using type assertions sparingly, as overusing them can undermine type safety and lead to potential errors.
+  - What are Utility Types in TypeScript?
+  - Utility types are predefined types provided by TypeScript that simplify common type transformations. Examples include Partial, Readonly, and Record, which help developers create more flexible and maintainable code.
+---
+
 # Advanced TypeScript Concepts
 
 TypeScript is a statically typed superset of JavaScript that adds optional static types to the language. This allows you to catch errors at compile time, making your code more robust and maintainable. By incorporating TypeScript into your projects, you can leverage advanced features that go beyond basic type definitions, enhancing the capabilities and safety of your code.

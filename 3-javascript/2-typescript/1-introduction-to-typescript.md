@@ -1,3 +1,20 @@
+---
+seo:
+  title: "Learning TypeScript Online: Ultimate Beginner's Guide"
+  description: "Learn TypeScript online with our ultimate guide for beginners. Discover key features, benefits, and how to set up your development environment."
+faqs:
+  - What is TypeScript?
+  - TypeScript is an open-source programming language developed to enhance JavaScript by introducing static typing and object-oriented programming features.
+  - Why has TypeScript become popular among developers?
+  - TypeScript has gained widespread popularity due to its ability to catch errors at compile time through static type checking, improving code quality and maintainability.
+  - How do I set up the TypeScript development environment?
+  - To set up the TypeScript development environment, you need to install Node.js and then use npm to install TypeScript by running the command 'npm install -g typescript'.
+  - What are source maps and why are they important in TypeScript?
+  - Source maps are crucial for debugging TypeScript code as they map the compiled JavaScript back to the original TypeScript source, making it easier to trace errors.
+  - What are the primary primitive data types in TypeScript?
+  - The three primary primitive data types in TypeScript are boolean, number, and string. These types form the foundation for variable declarations and type annotations.
+---
+
 # Learning TypeScript Online: The Ultimate Resource for Beginners
 
 TypeScript is an open-source programming language developed and maintained by **Microsoft Corporation**. It is a syntactical superset of JavaScript, which means it builds on JavaScript by adding new features while still being able to execute any JavaScript code. TypeScript compiles down to plain JavaScript, ensuring compatibility with all browsers and environments that support ECMAScript 6 (ES6).

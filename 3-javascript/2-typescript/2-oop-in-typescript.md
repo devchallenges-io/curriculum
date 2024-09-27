@@ -1,3 +1,22 @@
+---
+seo:
+  title: "Master Object-Oriented Programming in TypeScript: A Complete Guide"
+  description: "Master TypeScript OOP: Learn encapsulation, inheritance, polymorphism, and abstraction for modular, reusable, and maintainable code."
+faqs:
+  - What is Object-Oriented Programming (OOP) in TypeScript?
+  - Object-Oriented Programming (OOP) is a programming approach that uses 'objects' to represent data and methods. In TypeScript, OOP allows developers to create reusable code through classes and interfaces.
+  - How do classes and objects work in TypeScript?
+  - In TypeScript, classes serve as blueprints for creating objects. A class can have properties, such as 'name', which stores information about the object, and methods that define the behaviors associated with the object.
+  - What are interfaces and abstract classes in TypeScript?
+  - Interfaces in OOP define a contract that classes must follow, ensuring consistency across implementations. Abstract classes serve as blueprints for other classes but cannot be instantiated directly. They can contain both concrete methods and abstract methods that must be implemented by derived classes.
+  - What is inheritance and how does it work in TypeScript?
+  - Inheritance in TypeScript allows you to create a new class that reuses properties and methods from an existing class. This promotes code reuse and establishes an inheritance hierarchy, allowing for more complex relationships between classes.
+  - What is encapsulation and how are access modifiers used in TypeScript?
+  - "Encapsulation is a core principle of OOP that restricts access to certain components of an object, protecting its internal state. TypeScript provides three primary access modifiers: public, private, and protected, which control the visibility of class members."
+  - What are setters and getters in TypeScript?
+  - Setters and getters are special methods that provide controlled access to private properties of a class. Setters allow you to set values while enforcing rules or constraints, whereas getters enable you to retrieve property values safely.
+---
+
 # Object-Oriented Programming in TypeScript
 
 **Object-Oriented Programming (OOP)** is a programming approach that revolves around "objects" containing both data and methods. It focuses on four key principles: _encapsulation_, _inheritance_, _polymorphism_, and _abstraction_. These principles empower developers to build code that is modular, reusable, and easy to maintain. OOP is widely used in software development because it allows us to model real-world scenarios effectively and handle complex applications efficiently.
