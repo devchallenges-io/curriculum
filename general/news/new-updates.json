@@ -68,19 +68,5 @@
     "description": "New challenge is available now in Responsive Web Design roadmap.",
     "tags": ["New Challenge", "Free"],
     "link": "https://devchallenges.io/challenge/simple-article-listing"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/63/challenge-63-thumbnail",
-    "title": "Join Our Newsletter Challenge",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Free"],
-    "link": "https://devchallenges.io/challenge/join-our-newsletter"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/62/challenge-62-thumbnail",
-    "title": "Simple FAQ Challenge",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Free"],
-    "link": "https://devchallenges.io/challenge/simple-faq-challenge"
   }
 ]
