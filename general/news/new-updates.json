@@ -40,33 +40,5 @@
     "description": "New challenge is available now in Responsive Web Design roadmap.",
     "tags": ["New Challenge", "Premium"],
     "link": "https://devchallenges.io/challenge/bento-box-layout-challenge"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/67/challenge-67-thumbnail",
-    "title": "Simple Homepage - Echoplex",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Premium"],
-    "link": "https://devchallenges.io/challenge/simple-homepage-challenge-echoplex"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/66/challenge-66-thumbnail",
-    "title": "Simple Product Page",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Premium"],
-    "link": "https://devchallenges.io/challenge/simple-product-page-challenge"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/65/challenge-65-thumbnail",
-    "title": "Simple Feature Section",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Free"],
-    "link": "https://devchallenges.io/challenge/simple-feature-section-challenge"
-  },
-  {
-    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/64/challenge-64-thumbnail",
-    "title": "Simple Article Listing",
-    "description": "New challenge is available now in Responsive Web Design roadmap.",
-    "tags": ["New Challenge", "Free"],
-    "link": "https://devchallenges.io/challenge/simple-article-listing"
   }
 ]
