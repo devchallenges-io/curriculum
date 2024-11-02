@@ -35,11 +35,11 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the web page.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Simple Homepage Challenge Project Idea"
-  description: "Build a small homepage website challenge with HTML and CSS to practice using 12 grid layout, flexbox or grid layout, and creating a responsive layout. This project idea is perfect for beginners who want to improve their HTML and CSS skills while creating a visually appealing and responsive homepage. By implementing a homepage using 12 grid layout, flexbox or grid layout, and responsive techniques, you will learn how to create a visually appealing and user-friendly web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the homepage. This project will help you enhance your understanding of using 12 grid layout, flexbox or grid layout, and creating a responsive layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging homepage!"
+  title: "Simple Homepage Challenge"
+  description: "Build a small homepage website challenge with HTML and CSS to practice using 12 grid layout, flexbox or grid layout, and creating a responsive layout. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a visually appealing and responsive homepage. By implementing a homepage using 12 grid layout, flexbox or grid layout, and responsive techniques, you will learn how to create a visually appealing and user-friendly web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the homepage. This project will help you enhance your understanding of using 12 grid layout, flexbox or grid layout, and creating a responsive layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging homepage!"
   keywords:
     - "simple homepage challenge"
-    - "html css project idea"
+    - "html css project"
 challengeTexts:
   - Connect
   - EchoPlex is the first community-owned digital art gallery.
@@ -89,7 +89,7 @@ You should create a web page that displays a small homepage with the following f
 
 ## About
 
-Build a small homepage website challenge with HTML and CSS to practice using 12 grid layout, flexbox or grid layout, and creating a responsive layout. This project idea is perfect for beginners who want to improve their HTML and CSS skills while creating a visually appealing and responsive homepage. By implementing a homepage using 12 grid layout, flexbox or grid layout, and responsive techniques, you will learn how to create a visually appealing and user-friendly web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the homepage. This project will help you enhance your understanding of using 12 grid layout, flexbox or grid layout, and creating a responsive layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging homepage!
+Build a small homepage website challenge with HTML and CSS to practice using 12 grid layout, flexbox or grid layout, and creating a responsive layout. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a visually appealing and responsive homepage. By implementing a homepage using 12 grid layout, flexbox or grid layout, and responsive techniques, you will learn how to create a visually appealing and user-friendly web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the homepage. This project will help you enhance your understanding of using 12 grid layout, flexbox or grid layout, and creating a responsive layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging homepage!
 
 ## Tech Stack
 

@@ -30,11 +30,11 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the web page.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Simple Article Listing Challenge Project Idea"
-  description: "Build a simple article listing challenge with HTML and CSS to practice flexbox and working with article elements. This project idea is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing article listing. By implementing flexbox, you will learn how to create flexible and responsive layouts for displaying multiple articles. Additionally, you will gain experience working with article elements, which are commonly used to structure and organize content on web pages. This project will help you enhance your understanding of HTML and CSS, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your flexbox skills and create an engaging article listing!"
+  title: "Simple Article Listing Challenge"
+  description: "Build a simple article listing challenge with HTML and CSS to practice flexbox and working with article elements. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing article listing. By implementing flexbox, you will learn how to create flexible and responsive layouts for displaying multiple articles. Additionally, you will gain experience working with article elements, which are commonly used to structure and organize content on web pages. This project will help you enhance your understanding of HTML and CSS, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your flexbox skills and create an engaging article listing!"
   keywords:
     - "simple article listing challenge"
-    - "html css project idea"
+    - "html css project"
 challengeTexts:
   - We release interesting articles about technology
   - Unlocking the Power of Cloud Computing

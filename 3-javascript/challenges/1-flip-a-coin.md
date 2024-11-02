@@ -24,11 +24,11 @@ userStories:
   - Deploy the website to make it accessible for everyone.
 
 seo:
-  title: "Flip a Coin Challenge Project Idea"
+  title: "Flip a Coin Challenge"
   description: "Build a coin flipping game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game. This project will help you gain a better understanding of DOM manipulation, event handling, and responsive design. By creating a visually appealing layout and implementing logic for the coin flip, you will enhance your skills in creating interactive web applications. Choose to use vanilla HTML, CSS, and JavaScript or popular frameworks like React or Vue.js to complete this project."
   keywords:
     - "flip a coin challenge"
-    - "html css javascript project idea"
+    - "html css javascript project"
 challengeTexts:
   - Flip a Coin Game
   - Test your luck with our coin flipping game

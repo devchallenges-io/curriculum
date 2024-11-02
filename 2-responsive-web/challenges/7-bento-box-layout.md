@@ -30,11 +30,11 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the website.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Bento Box Layout Challenge Project Idea"
-  description: "Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project idea is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!"
+  title: "Bento Box Layout Challenge"
+  description: "Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!"
   keywords:
     - "bento box layout challenge"
-    - "html css project idea"
+    - "html css project"
 challengeTexts:
   - Explore Our Essential Features for Effective Data Management
   - Explore how our platform empowers organizations to elevate their data strategy, driving innovation and informed decision-making.
@@ -69,7 +69,7 @@ You should create a web page that displays a bento box layout with the following
 
 ## About
 
-Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project idea is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!
+Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!
 
 ## Tech Stack
 
