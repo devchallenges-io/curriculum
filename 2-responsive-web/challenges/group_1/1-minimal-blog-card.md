@@ -27,8 +27,6 @@ challengeTexts:
   - Annie Spratt
 ---
 
-You are required to create a simple blog card that includes an image, a title, a short description, and a tag.
-
 ## Goals
 
 The goals of this project are to help you:

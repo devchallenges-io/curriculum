@@ -32,8 +32,6 @@ challengeTexts:
   - Customer Manger, Solution Oy
 ---
 
-This challenge is a great way to practice basic HTML and CSS skills. The challenge is to create a business blog card that challenges you to use flexbox, positioning,...
-
 ## Goals
 
 The goals of this project are to help you:
