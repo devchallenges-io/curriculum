@@ -41,7 +41,7 @@ The goals of this project are to help you:
 - Create a card component that matches the given design.
 - Use HTML to create the basic structure.
 - Use CSS to style the card.
-- Deploy the solution and submit Repository URL and Demo URL.
+- Learn how to use absolute positioning.
 
 ## Requirements
 
