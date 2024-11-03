@@ -11,8 +11,10 @@ skills:
   - "Responsive Design"
   - "HTML"
   - "CSS"
+  - "Flexbox"
 lessons:
-  - 2-responsive-web/css-media-queries
+  - 2-responsive-web/responsive-design
+  - 2-responsive-web/form-and-form-validation
 userStories:
   - Create a contact page that matches the given design.
   - Use HTML to create the basic structure.

@@ -7,11 +7,15 @@ sort: 4
 difficulty: "beginner"
 nature: "HTML/CSS"
 skills:
-  - "Responsive Design"
-  - "HTML"
-  - "CSS"
+  - "Flexbox"
+  - "Media Queries"
+  - "Icons"
+  - "Selectors"
 lessons:
-  - 2-responsive-web/css-media-queries
+  - 2-responsive-web/css-flexbox
+  - 2-responsive-web/css-grid
+  - 2-responsive-web/responsive-design
+  - 2-responsive-web/css-advanced-selectors
 userStories:
   - Create a process page that matches the given design.
   - Use HTML to create the basic structure.

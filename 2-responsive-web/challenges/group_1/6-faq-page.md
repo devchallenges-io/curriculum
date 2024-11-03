@@ -7,11 +7,12 @@ sort: 4
 difficulty: "beginner"
 nature: "HTML/CSS"
 skills:
-  - "JS"
+  - "JavaScript"
   - "HTML"
   - "CSS"
 lessons:
-  - 2-responsive-web/css-media-queries
+  - 3-javascript/javascript-dom-and-events
+  - 3-javascript/javascript-conditionals
 userStories:
   - Create a FAQ page that matches the given design.
   - Use HTML to create the basic structure.

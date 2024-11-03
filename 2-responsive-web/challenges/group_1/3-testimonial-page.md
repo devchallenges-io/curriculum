@@ -7,12 +7,13 @@ sort: 4
 difficulty: "beginner"
 nature: "HTML/CSS"
 skills:
-  - "Grid"
+  - "Flexbox"
   - "Media Queries"
   - "Icons"
 lessons:
+  - 2-responsive-web/css-flexbox
   - 2-responsive-web/css-grid
-  - 2-responsive-web/css-media-queries
+  - 2-responsive-web/responsive-design
 userStories:
   - Create a testimonial page that matches the given design.
   - Use HTML to create the basic structure.

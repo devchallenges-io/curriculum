@@ -9,8 +9,11 @@ nature: "HTML/CSS"
 skills:
   - "HTML"
   - "CSS"
+  - "Flexbox"
+  - "Grid"
 lessons:
-  - 2-responsive-web/css-media-queries
+  - 2-responsive-web/css-functions
+  - 2-responsive-web/css-custom-properties
 userStories:
   - Create an advanced homepage - Huffie that matches the given design.
   - Use HTML to create the basic structure.

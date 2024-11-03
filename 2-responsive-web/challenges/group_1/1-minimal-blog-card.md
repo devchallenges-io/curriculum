@@ -8,6 +8,7 @@ skills:
   - "HTML"
   - "CSS"
 lessons:
+  - 2-responsive-web/introduction-to-html-and-css
   - 2-responsive-web/html-cheat-sheet
   - 2-responsive-web/css-essential-cheat-sheet
 userStories:

@@ -10,8 +10,11 @@ skills:
   - "JavaScript"
   - "HTML"
   - "CSS"
+  - "CSS Custom Properties"
 lessons:
-  - 2-responsive-web/css-media-queries
+  - 2-responsive-web/responsive-design
+  - 2-responsive-web/css-custom-properties
+  - 3-javascript/javascript-dom-and-events
 userStories:
   - Create a simple homepage page that matches the given design.
   - Use HTML to create the basic structure.
