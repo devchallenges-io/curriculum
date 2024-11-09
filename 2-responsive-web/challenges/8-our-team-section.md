@@ -76,9 +76,18 @@ You should create a web page that displays a meet the team section with the foll
 - Include 5 images representing 5 members, each including their name and job title
 - Style the layout to be responsive and adapt to different screen sizes
 
-## About
+## Technical Details
 
-Build a meet the team section website challenge with provided design. The layout should have 5 images representing 5 members, each including their name and job title. The goal of this challenge is to practice grid layout and position absolute/relative, and style a responsive layout. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a meet the team section using grid layout and position absolute/relative, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, position absolute/relative, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging meet the team section!
+You can use the provided `background` values or use provided images.
+
+```css
+/* Linear Background */
+background: linear-gradient(
+  180deg,
+  rgba(217, 217, 217, 0) 0%,
+  rgba(0, 0, 0, 0.8) 100%
+);
+```
 
 ## Tech Stack
 

@@ -64,6 +64,15 @@ You should create a web page that allows users to join your newsletter. The page
 - The layout should be clean and visually appealing, with appropriate spacing and typography
 - An icon indicating the purpose of the page (e.g., an envelope icon for a newsletter)
 
+## Technical Details
+
+You can use the provided `box-shadow` values or customize it with your own values.
+
+```css
+/* Box-shadow */
+box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.03), 0px 8px 12px 0px rgba(0, 0, 0, 0.08);
+```
+
 ## Tech Stack
 
 For this project, it is recommended to use only HTML and CSS to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML and CSS frameworks or libraries. It is recommended to use vanilla HTML and CSS for this project, but you can also choose to use popular frameworks like Tailwind CSS if you prefer.

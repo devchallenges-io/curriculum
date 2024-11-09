@@ -78,10 +78,6 @@ You should create a web page that displays a product page for running shoes for 
 - Add buttons to the layout
 - Ensure the layout is visually appealing, with clean spacing and typography
 
-## About
-
-Build a simple product page challenge with HTML and CSS to practice using images, styling complex layouts with flexbox or grid, and adding buttons to the layout. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing product page for running shoes. By implementing a product page using images, flexbox or grid, and buttons, you will learn how to create visually appealing and user-friendly web pages. Additionally, you will gain experience working with HTML and CSS to structure and style the product page. This project will help you enhance your understanding of using images, flexbox or grid, and adding buttons to a layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging product page for running shoes!
-
 ## Tech Stack
 
 For this project, it is recommended to use only HTML and CSS to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML and CSS frameworks or libraries. It is recommended to use vanilla HTML and CSS for this project, but you can also choose to use popular frameworks like Tailwind CSS if you prefer.

@@ -73,9 +73,14 @@ You should create a web page that displays a feature section. The page should ha
 - Cards should be collapsed in smaller screensize
 - The layout should be visually appealing, with clean spacing and typography
 
-## About
+## Technical Details
 
-Build a simple feature section challenge with HTML and CSS to practice flexbox and nested flexbox. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing feature section. By implementing a feature section by using flexbox and nested flexbox, you will learn how to create flexible and responsive layouts for displaying multiple features. Additionally, you will gain experience working with HTML and CSS to structure and style the feature section. This project will help you enhance your understanding of flexbox and nested flexbox, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your flexbox skills and create an engaging feature section!
+You can use the provided `box-shadow` values or customize it with your own values.
+
+```css
+/* Box-shadow */
+box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.15);
+```
 
 ## Tech Stack
 

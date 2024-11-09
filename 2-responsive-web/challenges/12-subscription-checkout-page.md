@@ -60,16 +60,16 @@ challengeTexts:
   - Country
   - Finland
   - Postal Code
-  - \00270
+  - "00270"
   - Cancel
   - Subscribe
   - Starter Plan
   - Pay monthly
-  - $20/ Month/ Member
+  - "$20/ Month/ Member"
   - Pay Annual
-  - $16/ Month/ Member
+  - "$16/ Month/ Member"
   - Total
-  - $20 / Month
+  - "$20 / Month"
   - This environment is for demonstration purposes only. Please refrain from entering any actual sensitive data.
 ---
 
