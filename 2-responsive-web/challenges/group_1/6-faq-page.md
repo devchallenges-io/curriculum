@@ -60,10 +60,6 @@ You should create a web page that displays a FAQ page with the following element
 - Accordions
 - CSS styling to match the design
 
-## About
-
-This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements.
-
 ## Tech Stack
 
 For this project, it is recommended to use HTML, CSS, and JavaScript to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML, CSS, and JavaScript frameworks or libraries. It is recommended to use vanilla HTML, CSS, and JavaScript for this project, but you can also choose to use popular frameworks if you prefer.

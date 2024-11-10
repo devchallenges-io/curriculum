@@ -45,10 +45,6 @@ You should create a web page that displays a blog card with the following elemen
 - A short description
 - A tag
 
-## About
-
-Create a simple blog card using HTML and CSS. Improve your web development skills by creating a web page that displays a blog card with an image, title, short description, and tag. This project will help you practice basic HTML and CSS skills, as well as enhance your ability to create and style web components. By deploying the solution and submitting the Repository URL and Demo URL, you will gain experience in sharing your work with others.
-
 ## Technical Details
 
 You can use the provided `box-shadow` values or customize it with your own values.

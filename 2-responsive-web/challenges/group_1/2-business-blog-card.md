@@ -51,10 +51,6 @@ You should create a web page that displays a blog card with the following elemen
 - Author Infor
 - Overlay image
 
-## About
-
-This challenge is a great way to practice basic HTML and CSS skills. The challenge is to create a business blog card that challenges you to use flexbox, positioning,...
-
 ## Tech Stack
 
 For this project, it is recommended to use HTML and CSS to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML and CSS frameworks or libraries. It is recommended to use vanilla HTML and CSS for this project, but you can also choose to use popular frameworks if you prefer.

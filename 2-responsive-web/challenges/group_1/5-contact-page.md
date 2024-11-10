@@ -60,10 +60,6 @@ You should create a web page that displays a contact page with the following ele
 - Button
 - CSS styling to match the design
 
-## About
-
-This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that you need to work with form, inputs, and dropdowns.
-
 ## Technical Details
 
 You can use CSS or CSS frameworks to style. It is recommended to use the provided `box-shadow` values or customize it with your own values.

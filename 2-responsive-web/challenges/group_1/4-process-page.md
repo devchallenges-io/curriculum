@@ -63,10 +63,6 @@ You should create a web page that displays a process page with the following ele
 - CSS styling to match the design
 - Highlight element for section heading
 
-## About
-
-This challenge is to practice responsive design with HTML and CSS skills. The challenge is to create a process page that you need to work with different break-points.
-
 ## Technical Details
 
 You can use the provided `box-shadow` values or customize it with your own values.

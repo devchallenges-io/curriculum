@@ -60,10 +60,6 @@ You should create a web page that displays a testimonial page with the following
 - Testimonial cards
 - Emoji and provided icon
 
-## About
-
-This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that you need use grid, media queries, icons,...
-
 ## Technical Details
 
 You can use the provided `box-shadow` values or customize it with your own values.

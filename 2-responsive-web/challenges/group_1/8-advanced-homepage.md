@@ -92,10 +92,6 @@ You should create a web page that displays an advanced homepage with the followi
 - CSS styling to match the design
 - Responsive layout for different screen sizes
 
-## About
-
-This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills.
-
 ## Tech Stack
 
 For this project, it is recommended to use HTML and CSS to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML and CSS frameworks or libraries. It is recommended to use vanilla HTML and CSS for this project, but you can also choose to use popular frameworks if you prefer.
