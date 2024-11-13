@@ -395,14 +395,6 @@
     "type": "lesson"
   },
   {
-    "title": "QR code generator",
-    "path": "3-javascript",
-    "slug": "challenge/qa-code-generator",
-    "group": "JavaScript Fundamentals",
-    "type": "challenge",
-    "challenge_id": 41
-  },
-  {
     "title": "JavaScript Async and API",
     "path": "3-javascript/1-javascript/12-async-and-api.md",
     "slug": "3-javascript/javascript-async-and-api",
