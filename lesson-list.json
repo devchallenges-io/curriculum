@@ -649,10 +649,9 @@
   },
 
   {
-    "challenge_id": 60,
+    "challenge_id": 61,
     "title": "User Portfolio Management",
     "slug": "challenge/user-portfolio-management",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
