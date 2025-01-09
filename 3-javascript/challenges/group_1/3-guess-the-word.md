@@ -37,7 +37,7 @@ challengeTexts:
 
 ## Goals
 
-The goals of this project are to help you:
+By completing this challenge, you will:
 
 - Advance your JavaScript skills
 - Create a small game that tests your data management and DOM manipulation with JavaScript
@@ -71,7 +71,7 @@ filter: drop-shadow(0px 4px 0px #7b248a);
 box-shadow: 0px 4px 0px 0px #030616;
 ```
 
-## Implementation Instructions
+## Instructions
 
 To implement the guess the word app, follow these steps:
 
@@ -96,7 +96,31 @@ Remember to test your implementation thoroughly to ensure it meets all the requi
 
 Good luck with your implementation!
 
-### JavaScript Example
+### JavaScript Instructions for Guess the Word App
+
+1. Generate Random Scrambled Word:
+
+- Create an array of words.
+- Write a function to randomly select a word and scramble it.
+
+2. Handle User Input:
+
+- Add event listeners to input fields to capture user input.
+- Automatically focus on the next input field after each letter is entered.
+
+3. Track Wrong Answers:
+
+- Keep a counter for the number of wrong attempts.
+- Display wrong answers and update the counter.
+
+4. Reset Game:
+
+- Add event listeners to the reset button to clear inputs, mistakes, and tries.
+- Reset the game when the number of tries or mistakes reaches 6.
+
+5. Success Alert:
+
+- Show a '🎉 Success' alert when the user correctly guesses the word.
 
 Here is an example of how you can implement a music player app using vanilla JavaScript.
 

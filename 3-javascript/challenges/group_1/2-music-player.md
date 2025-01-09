@@ -35,10 +35,12 @@ challengeTexts:
 
 ## Goals
 
-The goals of this project are to help you:
+By completing this challenge, you will:
 
-- Enhance your JavaScript skills
-- Create a simple music player app that tests your data management capabilities using JavaScript
+- Improve your HTML, CSS, and JavaScript skills.
+- Enhance your ability to create interactive web applications.
+- Implement interactivity using vanilla JavaScript.
+- Gain experience in data management using JavaScript.
 
 ## Requirements
 
@@ -76,9 +78,29 @@ To add a music player app with vanilla JavaScript, follow these steps:
 
 Remember to test your app thoroughly and handle any edge cases or errors that may occur during usage.
 
-### JavaScript Example
+### JavaScript Instructions for Music Player
 
-Here is an example of how you can implement a music player app using vanilla JavaScript.
+1. Create HTML Structure:
+
+- Add audio controls, play/pause button, and progress bar.
+
+2. Select DOM Elements:
+
+- Use `document.getElementById` or `document.querySelector` to select the necessary elements.
+
+3. Add Event Listeners:
+
+- Add event listeners for play/pause button and progress bar.
+
+4. Update Progress Bar:
+
+- Write a function to update the progress bar as the audio plays.
+
+5. Seek Functionality:
+
+- Implement functionality to seek to different parts of the audio using the progress bar.
+
+Here is an example of how you can implement a music player app using vanilla JavaScript:
 
 ```javascript
 // script.js

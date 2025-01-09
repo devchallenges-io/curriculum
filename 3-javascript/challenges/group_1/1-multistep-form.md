@@ -48,13 +48,13 @@ challengeTexts:
   - "Topics:"
 ---
 
-## Goals
+## Learning Goals
 
-The goals of this project are to help you:
+By completing this challenge, you will:
 
-- Enhance your JavaScript skills
-- Create a 3-step registration form with distinct sections
-- Test and improve your JavaScript proficiency
+- Improve your HTML, CSS, and JavaScript skills.
+- Enhance your ability to create interactive web applications.
+- Implement interactivity using vanilla JavaScript.
 
 ## Requirements
 
@@ -104,9 +104,29 @@ background: linear-gradient(
 - Add event listeners to navigation buttons to move between steps.
 - Handle form submission to show a success message.
 
-### JavaScript Example
+### JavaScript Instructions for Multistep Registration Form
 
-Here is an example of how you can implement a music player app using vanilla JavaScript.
+1. Create HTML Structure:
+
+- Add form steps with navigation buttons (Next, Previous, Submit).
+
+2. Select DOM Elements:
+
+- `Use document.getElementById` or `document.querySelector` to select form steps and buttons.
+
+3. Show and Hide Steps:
+
+- Write functions to show the current step and hide the others.
+
+4. Add Event Listeners:
+
+- Add event listeners to navigation buttons to move between steps.
+
+5.  Handle Form Submission:
+
+- Prevent default form submission and show a success message.
+
+Here is an example of how you can implement a multi-step registration form using vanilla JavaScript.
 
 ```javascript
 // script.js
