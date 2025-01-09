@@ -86,6 +86,54 @@ background: linear-gradient(
 );
 ```
 
+## Instruction
+
+1. Create HTML Structure:
+
+- Define a form with three steps, each step in a separate div with a class of step.
+- Include navigation buttons (Next, Previous, Confirm) in each step.
+
+2. Add CSS Styling:
+
+- Style the form and steps to be visually appealing.
+- Use CSS to hide all steps except the current one.
+
+3. Implement JavaScript:
+
+- Write JavaScript to handle showing and hiding steps.
+- Add event listeners to navigation buttons to move between steps.
+- Handle form submission to show a success message.
+
+### JavaScript Example
+
+Here is an example of how you can implement a music player app using vanilla JavaScript.
+
+```javascript
+// script.js
+let currentStep = 1;
+
+function showStep(step) {
+  // Display current step in the UI
+}
+
+function nextStep() {
+  // Handle next step function
+}
+
+function prevStep() {
+  // Handle previous step function
+}
+
+document
+  .getElementById("multiStepForm")
+  .addEventListener("submit", function (event) {
+    event.preventDefault();
+    alert("🎉 Success");
+  });
+
+showStep(currentStep);
+```
+
 ## Tech Stack
 
 For this project, it is recommended to use HTML, CSS, and JavaScript to create the web page. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML, CSS, and JavaScript frameworks or libraries. It is recommended to use Vanilla JavaScript for this project.

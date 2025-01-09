@@ -1,0 +1,107 @@
+[
+  {
+    "author": "Albert Einstein",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "tags": ["universe", "stupidity"]
+  },
+  {
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started.",
+    "tags": ["motivation", "success"]
+  },
+  {
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken.",
+    "tags": ["individuality", "inspiration"]
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Stay hungry, stay foolish.",
+    "tags": ["ambition", "innovation"]
+  },
+  {
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "tags": ["empathy", "impact"]
+  },
+  {
+    "author": "Walt Disney",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "tags": ["action", "achievement"]
+  },
+  {
+    "author": "Nelson Mandela",
+    "quote": "It always seems impossible until it's done.",
+    "tags": ["perseverance", "determination"]
+  },
+  {
+    "author": "Abraham Lincoln",
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "tags": ["life", "legacy"]
+  },
+  {
+    "author": "Coco Chanel",
+    "quote": "The most courageous act is still to think for yourself. Aloud.",
+    "tags": ["courage", "individuality"]
+  },
+  {
+    "author": "Thomas Edison",
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "tags": ["failure", "perseverance"]
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "tags": ["adventure", "leadership"]
+  },
+  {
+    "author": "J.K. Rowling",
+    "quote": "It does not do to dwell on dreams and forget to live.",
+    "tags": ["dreams", "life"]
+  },
+  {
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    "tags": ["work", "passion"]
+  },
+  {
+    "author": "Albert Einstein",
+    "quote": "The true sign of intelligence is not knowledge but imagination.",
+    "tags": ["intelligence", "imagination"]
+  },
+  {
+    "author": "Maya Angelou",
+    "quote": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+    "tags": ["defeat", "resilience"]
+  },
+  {
+    "author": "Walt Disney",
+    "quote": "All our dreams can come true, if we have the courage to pursue them.",
+    "tags": ["dreams", "courage"]
+  },
+  {
+    "author": "Nelson Mandela",
+    "quote": "Education is the most powerful weapon which you can use to change the world.",
+    "tags": ["education", "change"]
+  },
+  {
+    "author": "Abraham Lincoln",
+    "quote": "The best way to predict your future is to create it.",
+    "tags": ["future", "creation"]
+  },
+  {
+    "author": "Coco Chanel",
+    "quote": "Success is most often achieved by those who don't know that failure is inevitable.",
+    "tags": ["success", "failure"]
+  },
+  {
+    "author": "Thomas Edison",
+    "quote": "Genius is one percent inspiration, ninety-nine percent perspiration.",
+    "tags": ["genius", "hard work"]
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "tags": ["self", "potential"]
+  }
+]
