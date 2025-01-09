@@ -9,8 +9,8 @@ skills:
   - "CSS"
   - "JavaScript"
 lessons:
-  - 3-javascript/introduction-to-javascript
-  - 3-javascript/javascript-dom-and-events
+  - 3-javascript/javascript-arrays
+  - 3-javascript/javascript-async-and-api
 userStories:
   - Create a random quote app that matches the provided design.
   - Use HTML to build the basic structure.
@@ -33,7 +33,7 @@ challengeTexts:
   - Reset
 ---
 
-## Goals
+## Learning Goals
 
 By completing this challenge, you will:
 

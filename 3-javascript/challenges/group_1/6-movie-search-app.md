@@ -9,7 +9,7 @@ skills:
   - "CSS"
   - "JavaScript"
 lessons:
-  - 3-javascript/introduction-to-javascript
+  - 3-javascript/javascript-async-and-api
   - 3-javascript/javascript-dom-and-events
 userStories:
   - Create a movie search app that matches the given design.

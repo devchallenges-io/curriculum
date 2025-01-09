@@ -11,6 +11,8 @@ skills:
 lessons:
   - 3-javascript/introduction-to-javascript
   - 3-javascript/javascript-dom-and-events
+  - 3-javascript/javascript-variables-and-data-types
+  - 3-javascript/javascript-functions
 userStories:
   - Create a music player app that matches the given design.
   - Use HTML to create the basic structure, including elements such as image, title, author, progress bar, and player button.
@@ -33,7 +35,7 @@ challengeTexts:
   - Lesfm
 ---
 
-## Goals
+## Learning Goals
 
 By completing this challenge, you will:
 

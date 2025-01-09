@@ -9,7 +9,7 @@ skills:
   - "CSS"
   - "JavaScript"
 lessons:
-  - 3-javascript/introduction-to-javascript
+  - 3-javascript/javascript-oop-concepts
   - 3-javascript/javascript-dom-and-events
 userStories:
   - Create a text-to-speech app that matches the given design.

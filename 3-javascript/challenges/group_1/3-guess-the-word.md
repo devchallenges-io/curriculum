@@ -9,8 +9,9 @@ skills:
   - "CSS"
   - "JavaScript"
 lessons:
-  - 3-javascript/introduction-to-javascript
   - 3-javascript/javascript-dom-and-events
+  - 3-javascript/javascript-arrays
+  - 3-javascript/javascript-loops
 userStories:
   - Create a guess the word game that matches the given design.
   - Use HTML to create the basic structure.
@@ -35,7 +36,7 @@ challengeTexts:
   - Reset
 ---
 
-## Goals
+## Learning Goals
 
 By completing this challenge, you will:
 

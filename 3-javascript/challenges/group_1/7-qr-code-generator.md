@@ -9,7 +9,7 @@ skills:
   - "CSS"
   - "JavaScript"
 lessons:
-  - 3-javascript/introduction-to-javascript
+  - 3-javascript/javascript-modules-basics
   - 3-javascript/javascript-dom-and-events
 userStories:
   - Create a QR code generator app that matches the given design.
@@ -34,7 +34,7 @@ challengeTexts:
   - Share
 ---
 
-## Goals
+## Learning Goals
 
 By completing this challenge, you will:
 
