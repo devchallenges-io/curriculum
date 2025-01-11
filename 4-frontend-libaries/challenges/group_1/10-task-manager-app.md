@@ -85,4 +85,104 @@ For the task management functionalities, you can refer to the user stories provi
 
 For the design elements and text content, you can refer to the challenge texts provided.
 
+Additionally, you can fetch the list of default board lists with the following API endpoint:
+[https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json)
+
+To fetch board data, you can use the following API endpoint for example:
+[https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json)
+
+You should find the endpoints from the board list.
+
+Good luck with the challenge!
+
+## Instructions for Using a Frontend Library for Task Manager Challenge
+
+### 1. Set Up Your Project:
+
+- Use Create React App to set up a new React project.
+- Install necessary dependencies such as axios for API calls and react-beautiful-dnd for drag-and-drop functionality.
+
+### 2. Fetch Initial Data:
+
+- Fetch the list of default board lists using the provided API endpoint.
+- Fetch board details using the endpoints given in the board list.
+
+### 3. Create Components:
+
+- Create React components for the task manager, including board, columns and task cards.
+- Implement drag-and-drop functionality using react-beautiful-dnd.
+
+### 4. Implement Features:
+
+- Allow users to drag and drop task cards between columns.
+- Display the number of tasks in each column.
+- Implement a toggle for light and dark mode.
+
+### 5. Deploy the Application:
+
+- Deploy your application using a service like Vercel or Netlify.
+- Submit the repository URL and demo URL.
+
+#### Example using React:
+
+```js
+import React, { useState, useEffect } from "react";
+import axios from "axios";
+import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
+import "./App.css";
+
+const fetchBoardList = async () => {
+  const response = await axios.get(
+    "https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json"
+  );
+  return response.data;
+};
+
+function App() {
+  const [boards, setBoards] = useState([]);
+
+  const onDragEnd = (result) => {
+    // Handle Drag
+  };
+
+  return (
+    <div className="App">
+      <h1>Task Manager</h1>
+      <DragDropContext onDragEnd={onDragEnd}>
+        {boards.map((board, index) => (
+          <Board key={index} board={board} />
+        ))}
+      </DragDropContext>
+    </div>
+  );
+}
+
+export default App;
+```
+
+```js
+import React from "react";
+import { Droppable, Draggable } from "react-beautiful-dnd";
+
+const Board = ({ board }) => {
+  const [tasks, setTasks] = useState({});
+
+  const fetchBoardDetails = async (url) => {
+    // Fetch board details
+  };
+
+  return (
+    <Droppable droppableId={board.id}>
+      {/* Implement drag functions */}
+    </Droppable>
+  );
+};
+
+export default Board;
+```
+
+## Tech Stack
+
+For this project, you have the flexibility to use HTML, CSS, and JavaScript or a Front-end library like React, Vue, etc. Consider the learning curve and additional setup required when choosing a library. If you are not familiar with any Front-end libraries, it is recommended to use Vanilla JavaScript.
+
 Good luck with the challenge!
