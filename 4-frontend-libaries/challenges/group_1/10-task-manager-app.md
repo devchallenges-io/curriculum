@@ -81,15 +81,11 @@ You should create a web page that includes the following elements:
 
 To build the task management app, you can use an external JS library of your choice. This will help you handle data management and implement various functionalities.
 
-For the task management functionalities, you can refer to the user stories provided.
+- You can fetch the list of default board lists with the following API endpoint:
+  [https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json)
 
-For the design elements and text content, you can refer to the challenge texts provided.
-
-Additionally, you can fetch the list of default board lists with the following API endpoint:
-[https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/list.json)
-
-To fetch board data, you can use the following API endpoint for example:
-[https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json)
+- To fetch board data, you can use the following API endpoint for example:
+  [https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json](https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/task-manager/board-1.json)
 
 You should find the endpoints from the board list.
 
