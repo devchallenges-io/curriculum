@@ -10,7 +10,7 @@ skills:
   - "Next.js"
   - "API Integration"
 lessons:
-  - 1-fundamentals/free-hosting-for-web-projects
+  - "1-fundamentals/free-hosting-for-web-projects"
 userStories:
   - Create a country ranking page that matches the given design.
   - By default, users can see a list of all countries sorted by population.
@@ -24,7 +24,7 @@ userStories:
   - On the country page, users can see info like population, area, capital,....
   - On the country page, users can see the neighboring countries.
   - On the country page, when users select a neighboring country, it should redirect to the according country page.
-  - [Optional] The country list is paginated
+  - "[Optional] The country list is paginated"
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
   title: "Country Page - WorldRanks"
