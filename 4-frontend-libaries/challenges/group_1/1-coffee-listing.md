@@ -81,24 +81,24 @@ fetch(
 
 ### Instructions for Using a Frontend Library for Coffee Listing Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a reusable Card component to display coffee details.
 - Create a CoffeeList component to fetch and render the list of coffee items.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API to retrieve coffee data from the provided URL.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the CoffeeList component to render the list of coffee items using the Card component.
 
-5. Conditional Rendering:
+#### 5. Conditional Rendering:
 
 - Implement conditional rendering for tags and availability status.
 

@@ -66,7 +66,7 @@ You should create a web page that includes the following elements:
 - On the country page, users can see info like population, area, capital,....
 - On the country page, users can see the neighboring countries.
 - On the country page, when users select a neighboring country, it should redirect to the according country page.
-- [Optional] The country list is paginated
+- "[Optional] The country list is paginated"
 - Deploy the solution and submit Repository URL and Demo URL.
 
 ## Technical Details
@@ -89,39 +89,39 @@ For bonus points, you can consider using a frontend framework like Next.js to bu
 
 ### Instructions for Using a Frontend Library for Country Page Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a CountryRanking component to display the country ranking page.
 - Create a CountryDetail component to display the country detail page.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API or a library like Axios to retrieve country data from the provided API.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the CountryRanking component to render the country ranking page.
 - Use the CountryDetail component to render the country detail page.
 
-5. Sorting and Filtering:
+#### 5. Sorting and Filtering:
 
 - Implement sorting functionality for countries by name, population, or area.
 - Implement filtering functionality for countries by regions, United Nations membership, and independence.
 
-6. Redirect to Country Detail Page:
+#### 6. Redirect to Country Detail Page:
 
 - Allow users to select a country and redirect them to the country detail page.
 
-7. Display Country Details:
+#### 7. Display Country Details:
 
 - On the country detail page, display information like population, area, capital,....
 - On the country detail page, display the neighboring countries.
 
-8. Deployment:
+#### 8. Deployment:
 
 - Deploy your solution and provide the Repository URL and Demo URL for submission.
 

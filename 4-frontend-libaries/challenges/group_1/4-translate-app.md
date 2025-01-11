@@ -86,41 +86,41 @@ fetch("https://api.mymemory.translated.net/get", {
 
 ### Instructions for Using a Frontend Library for Translate App Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a TranslateApp component to display the translate application page.
 - Create a TranslateForm component to handle user input and translation requests.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API to retrieve translation data from the provided URL.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the TranslateApp component to render the translate application page.
 - Use the TranslateForm component to handle user input and display the translated text.
 
-5. Real-time Updates:
+#### 5. Real-time Updates:
 
 - Implement real-time updates using debounce or throttling techniques.
 
-6. Language Options:
+#### 6. Language Options:
 
 - Provide at least 3 language options: Detect Language, English, and French.
 
-7. Switch Languages:
+#### 7. Switch Languages:
 
 - Allow users to switch between translation language and translated language.
 
-8. Text-to-Speech:
+#### 8. Text-to-Speech:
 
 - Implement text-to-speech functionality for the translating and translated texts.
 
-9. Copy Text:
+#### 9. Copy Text:
 
 - Provide an option for users to copy the translating and translated texts.
 

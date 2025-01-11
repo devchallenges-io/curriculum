@@ -67,39 +67,39 @@ For bonus points, you can make the application responsive using CSS media querie
 
 ### Instructions for Building an AI Chatbot
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create the Chatbot Layout:
+#### 2. Create the Chatbot Layout:
 
 - Design the layout for the chatbot using React components and CSS.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use JavaScript to fetch responses from the ChatGPT free version based on user questions.
 
-4. Display Default Conversation:
+#### 4. Display Default Conversation:
 
 - Display a small conversation between the user and the chatbot by default.
 
-5. Add Conversations:
+#### 5. Add Conversations:
 
 - Allow users to add new conversations. The title of a new conversation should be the first question from the user.
 
-5. Store Conversations:
+#### 5. Store Conversations:
 
 - Store conversations in the local storage of the browser.
 
-6. Edit Conversations:
+#### 6. Edit Conversations:
 
 - Implement functionality to edit conversations' titles.
 
-6. Delete Conversations:
+#### 7. Delete Conversations:
 
 - Allow users to delete conversations.
 
-7. Deployment:
+#### 8. Deployment:
 
 - Deploy your solution and provide the Repository URL and Demo URL for submission.
 

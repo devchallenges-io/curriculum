@@ -89,27 +89,27 @@ background: linear-gradient(95deg, #111729 3%, #1d1b48 99.61%);
 
 If you choose to use a frontend library like React, Vue, or Svelte for this project, follow these additional instructions:
 
-1. Set Up the Frontend Library:
+#### 1. Set Up the Frontend Library:
 
 - Install the necessary dependencies for the library of your choice. For example, if you're using React, you can use Create React App to set up a new React project.
 - Follow the documentation of the library to set up your project correctly.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Use the library's component system to create reusable components for the input field, profile display, and repository list.
 - Organize your components in a logical folder structure.
 
-3. Fetch GitHub Profile Data:
+#### 3. Fetch GitHub Profile Data:
 
 - Utilize the library's built-in HTTP client or a third-party library (such as Axios) to make API requests to the GitHub API based on the entered username.
 - Handle the API response and update the component's state accordingly.
 
-4. Handle State:
+#### 4. Handle State:
 
 - Use the library's state management system (such as React's useState and useEffect hooks) to manage state and side effects.
 - Update the component's state when necessary, such as when fetching profile data or handling user interactions.
 
-5. Display Profile Information:
+#### 5. Display Profile Information:
 
 - Render the user's profile information, including followers, following, location, and repositories, using the library's templating or JSX syntax.
 

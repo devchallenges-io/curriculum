@@ -86,11 +86,11 @@ For bonus points, you can consider using a frontend framework like React or Vue.
 
 ### Instructions for Using a Frontend Library for Weather App Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a WeatherApp component to display the weather app and handle the functionalities.
 - Create a CurrentWeather component to render the current weather of a location.
@@ -98,23 +98,23 @@ For bonus points, you can consider using a frontend framework like React or Vue.
 - Create a DailyForecast component to render the forecast of the next 5 days.
 - Create a CityWeather component to render the weather of listed cities.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API or a library like Axios to retrieve weather data from the provided API.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the resusable components and render to the UI.
 
-5. Temperature Conversion:
+#### 5. Temperature Conversion:
 
 - Implement functionality to allow users to choose between Celsius and Fahrenheit.
 
-6. City Search:
+#### 6. City Search:
 
 - Implement functionality to allow users to search for a city and see its weather.
 
-7. Deployment:
+#### 7. Deployment:
 
 - Deploy your solution and provide the Repository URL and Demo URL for submission.
 

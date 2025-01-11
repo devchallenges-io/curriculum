@@ -68,39 +68,39 @@ For bonus points, you can consider using a frontend framework like React or Vue.
 
 ### Instructions for Using a Frontend Library for Country Quiz Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a Quiz component to display the quiz page.
 - Create a Question component to render each question.
 - Create a Congratulations component to display the result page.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API or a library like Axios to retrieve country data from the provided API.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the Quiz component to render the quiz page.
 - Use the Question component to render each question.
 - Use the Congratulations component to render the result page.
 
-5. Quiz Functionality:
+#### 5. Quiz Functionality:
 
 - Generate 10 quiz questions using the country data.
 - Display each question with 4 options.
 - Provide immediate feedback on user's answer.
 - Allow users to navigate between questions.
 
-6. Result Page:
+#### 6. Result Page:
 
 - When users answer all 10 questions, display a congratulations page with the result.
 - Allow users to choose to play again.
 
-7. Deployment:
+#### 7. Deployment:
 
 - Deploy your solution and provide the Repository URL and Demo URL for submission.
 

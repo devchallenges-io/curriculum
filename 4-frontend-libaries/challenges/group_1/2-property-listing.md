@@ -83,24 +83,24 @@ fetch(
 
 ### Instructions for Using a Frontend Library for Property Listing Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a reusable PropertyCard component to display property details.
 - Create a PropertyList component to fetch and render the list of properties.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API to retrieve property data from the provided URL.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the PropertyList component to render the list of properties using the PropertyCard component.
 
-5. Filter Functionality:
+#### 5. Filter Functionality:
 
 - Implement filter functionality for location, superhost, and property type.
 

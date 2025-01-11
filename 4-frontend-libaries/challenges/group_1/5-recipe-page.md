@@ -76,38 +76,38 @@ For bonus points, you can consider using Next.js as the frontend library for thi
 
 ### Instructions for Using a Frontend Library for Recipe Page Challenge
 
-1. Set Up Your Project:
+#### 1. Set Up Your Project:
 
 - Use Create React App to set up a new React project.
 
-2. Create Components:
+#### 2. Create Components:
 
 - Create a RecipeCategories component to display the recipe categories.
 - Create a RecipeDetail component to display the recipe detail page.
 
-3. Fetch Data:
+#### 3. Fetch Data:
 
 - Use the fetch API or a library like Axios to retrieve recipe data from the provided API.
 
-4. Render Components:
+#### 4. Render Components:
 
 - Use the RecipeCategories component to render the recipe categories.
 - Use the RecipeDetail component to render the recipe detail page.
 
-5. Sorting and Searching:
+#### 5. Sorting and Searching:
 
 - Implement sorting functionality for recipes by name or ID.
 - Implement searching functionality for recipes by name, instructions, or area.
 
-6. Redirect to Recipe Detail Page:
+#### 6. Redirect to Recipe Detail Page:
 
 - Allow users to select a recipe and redirect them to the recipe detail page.
 
-7. Display Recipe Details:
+#### 7. Display Recipe Details:
 
 - On the Recipe detail page, display the category, area, ingredients, and instructions for the selected recipe.
 
-8. Deployment:
+#### 8. Deployment:
 
 - Deploy your solution and provide the Repository URL and Demo URL for submission.
 
