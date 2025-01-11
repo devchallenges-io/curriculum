@@ -79,8 +79,6 @@ fetch(
   });
 ```
 
-Good luck with the challenge!
-
 ### Instructions for Using a Frontend Library for Coffee Listing Challenge
 
 1. Set Up Your Project:

@@ -16,7 +16,7 @@ userStories:
   - By default, it should translate 'Hello, how are you' to French.
   - Users can change translating text with a maximum of 500 characters.
   - Users can see the translated text after selecting the Translate button. Optionally, users can see updates in real-time and you use debounce or throttling to optimize the application.
-  - Users can choose different languages to translate from. They should see at least 3 options: Detect Language, English and French.
+  - "Users can choose different languages to translate from. They should see at least 3 options: Detect Language, English and French."
   - Users can switch translation language and translated language.
   - Users can have the option to listen to the translating and translated texts.
   - Users can copy the translating and translated texts.
@@ -83,8 +83,6 @@ fetch("https://api.mymemory.translated.net/get", {
     // Handle any errors here
   });
 ```
-
-Good luck with the challenge!
 
 ### Instructions for Using a Frontend Library for Translate App Challenge
 

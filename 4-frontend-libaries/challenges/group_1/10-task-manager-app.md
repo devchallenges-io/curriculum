@@ -93,8 +93,6 @@ To fetch board data, you can use the following API endpoint for example:
 
 You should find the endpoints from the board list.
 
-Good luck with the challenge!
-
 ## Instructions for Using a Frontend Library for Task Manager Challenge
 
 ### 1. Set Up Your Project:

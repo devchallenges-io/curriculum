@@ -66,8 +66,6 @@ https://restcountries.com/v3.1/all?limit=10
 
 For bonus points, you can consider using a frontend framework like React or Vue.js to build this challenge.
 
-Good luck with the challenge!
-
 ### Instructions for Using a Frontend Library for Country Quiz Challenge
 
 1. Set Up Your Project:

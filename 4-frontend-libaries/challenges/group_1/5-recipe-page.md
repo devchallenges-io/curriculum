@@ -74,8 +74,6 @@ https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 For bonus points, you can consider using Next.js as the frontend library for this challenge.
 
-Good luck with the challenge!
-
 ### Instructions for Using a Frontend Library for Recipe Page Challenge
 
 1. Set Up Your Project:

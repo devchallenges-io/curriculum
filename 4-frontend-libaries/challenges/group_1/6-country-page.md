@@ -87,8 +87,6 @@ https://restcountries.com/v3.1/alpha/{countryCode}
 
 For bonus points, you can consider using a frontend framework like Next.js to build this challenge.
 
-Good luck with the challenge!
-
 ### Instructions for Using a Frontend Library for Country Page Challenge
 
 1. Set Up Your Project:
