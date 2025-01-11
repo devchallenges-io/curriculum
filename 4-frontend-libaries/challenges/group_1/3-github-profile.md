@@ -5,9 +5,10 @@ isNew: false
 sort: 1
 nature: "JavaScript"
 skills:
-  - "HTML"
-  - "CSS"
   - "JavaScript"
+  - "React"
+  - "Reusable Components"
+  - "Front-end libraries"
 lessons:
   - 1-fundamentals/free-hosting-for-web-projects
 userStories:
@@ -134,55 +135,6 @@ export default App;
 ```
 
 Remember to consult the documentation of the specific frontend library you choose for more detailed instructions on how to use it effectively.
-
-## Tech Stack
-
-For this project, you have the flexibility to use HTML, CSS, and JavaScript or a frontend library of your choice. Whether you choose to use Vanilla JavaScript or a frontend library, make sure to consider the learning curve and additional setup required.
-
-Good luck with the challenge!
-
-### JavaScript Instructions for GitHub Profile Using React
-
-1. Set Up React Project:
-
-- Use Create React App to set up a new React project.
-
-2. Create Components:
-
-- Create components for the input field, profile display, and repository list.
-
-3. Fetch GitHub Profile Data:
-
-- Use the fetch API to get data from the GitHub API based on the entered username.
-
-4. Handle State:
-
-- Use React's useState and useEffect hooks to manage state and side effects.
-
-5. Display Profile Information:
-
-- Display the user's profile information, including followers, following, location, and repositories.
-
-```js
-// App.js
-import React, { useState } from "react";
-import "./App.css";
-
-function App() {
-  const [username, setUsername] = useState("");
-  const [profile, setProfile] = useState(null);
-  const [repos, setRepos] = useState([]);
-
-  const fetchProfile = () => {
-    // Fetch profile with entered username
-  };
-
-  // Render your components
-  return <div></div>;
-}
-
-export default App;
-```
 
 ## Tech Stack
 
