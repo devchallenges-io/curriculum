@@ -1,0 +1,70 @@
+{
+  "id": 0,
+  "name": "Simple Card Board",
+  "emoji": "🛠️",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create HTML structure for the card",
+      "status": "completed",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-3.jpg?raw=true",
+      "tags": ["new-concept"]
+    },
+    {
+      "id": 2,
+      "title": "Style the card using CSS",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["technical", "styling"]
+    },
+    {
+      "id": 3,
+      "title": "Add hover effect to the card",
+      "status": "backlog",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-1.jpg?raw=true",
+      "tags": ["technical", "front-end", "interactivity"]
+    },
+    {
+      "id": 4,
+      "title": "Implement the ability to drag and drop cards",
+      "status": "completed",
+      "background": null,
+      "tags": ["technical", "front-end", "interactivity"]
+    },
+    {
+      "id": 5,
+      "title": "Add a delete button to remove cards",
+      "status": "in-review",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-4.jpg?raw=true",
+      "tags": ["technical", "front-end", "interactivity"]
+    },
+    {
+      "id": 6,
+      "title": "Implement the ability to edit card content",
+      "status": "backlog",
+      "background": null,
+      "tags": ["technical", "front-end", "interactivity"]
+    },
+    {
+      "id": 7,
+      "title": "Add a form to create new cards",
+      "status": "completed",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-2.jpg?raw=true",
+      "tags": ["technical", "front-end", "interactivity"]
+    },
+    {
+      "id": 8,
+      "title": "Implement the ability to filter cards by category",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["technical", "front-end", "filtering"]
+    },
+    {
+      "id": 9,
+      "title": "Add responsive design for different screen sizes",
+      "status": "in-review",
+      "background": null,
+      "tags": ["design", "responsive"]
+    }
+  ]
+}

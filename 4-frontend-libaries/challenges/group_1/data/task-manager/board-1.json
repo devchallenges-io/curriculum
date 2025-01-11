@@ -1,0 +1,70 @@
+{
+  "id": 1,
+  "name": "Frontend Board",
+  "emoji": "⚙️",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Investigate Framer-Motion for animations.",
+      "status": "backlog",
+      "background": null,
+      "tags": ["concept"]
+    },
+    {
+      "id": 2,
+      "title": "Implement CRUD (Create, Read, Update, and Delete) operations",
+      "status": "backlog",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-3.jpg?raw=true",
+      "tags": ["technical"]
+    },
+    {
+      "id": 3,
+      "title": "Implement the ability for users to edit tasks.",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 4,
+      "title": "Implement the ability for users to view a specific subset of tasks.",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 5,
+      "title": "Use the useEffect state Hook to update the number of pending tasks",
+      "status": "in-progress",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-2.jpg?raw=true",
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 6,
+      "title": "Implement the ability for users to delete tasks using the mouse or keyboard.",
+      "status": "in-review",
+      "background": null,
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 7,
+      "title": "Implement the ability for users to add tasks using the mouse or keyboard.",
+      "status": "in-review",
+      "background": "https://github.com/devchallenges-io/curriculum/blob/main/4-frontend-libaries/challenges/group_1/data/task-manager/image-4.jpg?raw=true",
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 8,
+      "title": "Create a basic App component structure and styling.",
+      "status": "completed",
+      "background": null,
+      "tags": ["technical", "front-end"]
+    },
+    {
+      "id": 9,
+      "title": "Design Todo App",
+      "status": "completed",
+      "background": null,
+      "tags": ["design"]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": 3,
+  "name": "Learning Board",
+  "emoji": "🚀",
+  "tasks": [
+    {
+      "id": 6,
+      "title": "Learn HTML",
+      "status": "backlog",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 7,
+      "title": "Practice CSS",
+      "status": "backlog",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 8,
+      "title": "Explore JavaScript",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 9,
+      "title": "Build a simple website",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 10,
+      "title": "Learn React",
+      "status": "completed",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 11,
+      "title": "Study algorithms",
+      "status": "completed",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 12,
+      "title": "Practice data structures",
+      "status": "completed",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 13,
+      "title": "Explore Python",
+      "status": "backlog",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 14,
+      "title": "Learn SQL",
+      "status": "backlog",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 15,
+      "title": "Build a RESTful API",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 16,
+      "title": "Practice unit testing",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["learning"]
+    },
+    {
+      "id": 17,
+      "title": "Explore Docker",
+      "status": "completed",
+      "background": null,
+      "tags": ["learning"]
+    }
+  ]
+}

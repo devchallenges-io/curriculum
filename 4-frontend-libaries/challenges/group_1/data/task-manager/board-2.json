@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "name": "Design Board",
+  "emoji": "🚀",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create wireframes for homepage",
+      "status": "backlog",
+      "background": null,
+      "tags": ["design"]
+    },
+    {
+      "id": 2,
+      "title": "Design logo for the project",
+      "status": "backlog",
+      "background": null,
+      "tags": ["design"]
+    },
+    {
+      "id": 3,
+      "title": "Choose color palette for the UI",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["design"]
+    },
+    {
+      "id": 4,
+      "title": "Create mockups for mobile devices",
+      "status": "in-progress",
+      "background": null,
+      "tags": ["design"]
+    },
+    {
+      "id": 5,
+      "title": "Finalize typography for the project",
+      "status": "completed",
+      "background": null,
+      "tags": ["design"]
+    }
+  ]
+}
