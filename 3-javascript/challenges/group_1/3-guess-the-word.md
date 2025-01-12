@@ -123,7 +123,7 @@ Good luck with your implementation!
 
 - Show a '🎉 Success' alert when the user correctly guesses the word.
 
-Here is an example of how you can implement a music player app using vanilla JavaScript.
+Here is an example of how you can implement a guess the word app using vanilla JavaScript.
 
 ```javascript
 // script.js
