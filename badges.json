@@ -33,5 +33,82 @@
     "description": "This badge is awarded for completing 40 lessons",
     "level": 2,
     "lessons_completion": 40
+  },
+  {
+    "id": 6,
+    "name": "Solution Completion",
+    "description": "This badge is awarded for completing 20 solutions",
+    "level": 2,
+    "solution_completion": 20
+  },
+  {
+    "id": 7,
+    "name": "Reactions",
+    "level": 2,
+    "description": "This badge is awarded for receiving 100 reactions",
+    "reactions": 100
+  },
+  {
+    "id": 8,
+    "name": "Upvotes",
+    "level": 2,
+    "description": "This badge is awarded for receiving 20 upvotes",
+    "upvotes": 20
+  },
+  {
+    "id": 9,
+    "name": "Lesson Completion",
+    "description": "This badge is awarded for completing 60 lessons",
+    "level": 3,
+    "lessons_completion": 60
+  },
+  {
+    "id": 10,
+    "name": "Solution Completion",
+    "description": "This badge is awarded for completing 30 solutions",
+    "level": 3,
+    "solution_completion": 30
+  },
+  {
+    "id": 11,
+    "name": "Reactions",
+    "level": 3,
+    "description": "This badge is awarded for receiving 200 reactions",
+    "reactions": 200
+  },
+  {
+    "id": 12,
+    "name": "Upvotes",
+    "level": 3,
+    "description": "This badge is awarded for receiving 30 upvotes",
+    "upvotes": 30
+  },
+  {
+    "id": 13,
+    "name": "Lesson Completion",
+    "description": "This badge is awarded for completing 80 lessons",
+    "level": 4,
+    "lessons_completion": 80
+  },
+  {
+    "id": 14,
+    "name": "Solution Completion",
+    "description": "This badge is awarded for completing 40 solutions",
+    "level": 4,
+    "solution_completion": 40
+  },
+  {
+    "id": 15,
+    "name": "Reactions",
+    "level": 4,
+    "description": "This badge is awarded for receiving 300 reactions",
+    "reactions": 300
+  },
+  {
+    "id": 16,
+    "name": "Upvotes",
+    "level": 4,
+    "description": "This badge is awarded for receiving 40 upvotes",
+    "upvotes": 40
   }
 ]
