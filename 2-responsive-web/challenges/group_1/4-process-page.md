@@ -26,8 +26,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Process Page Challenge"
-  description: "This challenge is to practice responsive design with HTML and CSS skills. The challenge is to create a process page that you need to work with different break-points."
+  title: "Process Page Challenge | HTML & CSS project"
+  description: "This project is to practice responsive design with HTML and CSS skills. The project is to create a process page that you need to work with different break-points."
   keywords:
     - "process page"
     - "html css project"

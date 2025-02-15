@@ -22,8 +22,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Advanced Homepage - Huffie"
-  description: "This challenge will put your HTML and CSS skills to the test. The challenge is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills."
+  title: "Advanced Homepage - Huffie | HTML & CSS project"
+  description: "This project will put your HTML and CSS skills to the test. The project is to create a more complex homepage with different sections. You will have to use all your HTML and CSS skills."
   keywords:
     - "advanced homepage"
     - "HTML CSS project"

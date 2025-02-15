@@ -20,8 +20,8 @@ userStories:
   - Use CSS to style the card.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Business Blog Card Challenge"
-  description: "This challenge is a great way to practice basic HTML and CSS skills. The challenge is to create a business blog card that challenges you to use flexbox, positioning,..."
+  title: "Business Blog Card Challenge | HTML & CSS project"
+  description: "This HTML & CSS project is a great way to practice basic HTML and CSS skills. The project is to create a business blog card that challenges you to use flexbox, positioning,..."
   keywords:
     - "business blog card"
     - "html css project"

@@ -32,8 +32,8 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the website.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Meet the Team Section Challenge"
-  description: "Build a meet the team section website challenge with provided design. The layout should have 5 images representing 5 members, each including their name and job title. The goal of this challenge is to practice grid layout and position absolute/relative, and style a responsive layout. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a meet the team section using grid layout and position absolute/relative, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, position absolute/relative, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging meet the team section!"
+  title: "Meet the Team Section Challenge | HTML & CSS project"
+  description: "Build a meet the team section website project with provided design. The layout should have 5 images representing 5 members, each including their name and job title. The goal of this project is to practice grid layout and position absolute/relative, and style a responsive layout. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website."
   keywords:
     - "meet the team section challenge"
     - "html css project"

@@ -24,8 +24,8 @@ userStories:
   - Deploy the website to make it accessible for everyone.
 
 seo:
-  title: "Simple FAQ Challenge"
-  description: "Build a simple FAQ page to test HTML and CSS syntax. Improve your web development skills by creating a web page that allows users to view frequently asked questions and their corresponding answers. This project will help you gain a better understanding of HTML and CSS syntax, as well as practice structuring and styling web pages. By creating a clean and visually appealing layout with clickable and navigatable links, you will enhance your skills in creating user-friendly web interfaces. Choose to use vanilla HTML and CSS or popular frameworks like Tailwind CSS to complete this project."
+  title: "Simple FAQ Challenge | HTML & CSS project"
+  description: "Build a simple FAQ page to test HTML and CSS syntax. Improve your web development skills by creating a web page that allows users to view frequently asked questions and their corresponding answers. This project will help you gain a better understanding of HTML and CSS syntax, as well as practice structuring and styling web pages."
   keywords:
     - "simple faq challenge"
     - "html css project"

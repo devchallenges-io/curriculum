@@ -25,8 +25,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Contact Page Challenge"
-  description: "This challenge is to practice form and responsive design with HTML and CSS skills. The challenge is to create a contact page that you need to work with form, inputs,.."
+  title: "Contact Page Challenge | HTML & CSS project"
+  description: "This project is to practice form and responsive design with HTML and CSS skills. The project is to create a contact page that you need to work with form, inputs,.."
   keywords:
     - "contact page"
     - "html css project"

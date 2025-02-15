@@ -23,8 +23,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "FAQ Page Challenge"
-  description: "This challenge is a great way to start using JS with HTML and CSS. The challenge is to create a FAQ page that challenges you to use JavaScript to modify basic elements"
+  title: "FAQ Page Challenge | HTML, CSS and JavaScript project"
+  description: "This project is a great way to start using JS with HTML and CSS. The project is to create a FAQ page that challenges you to use JavaScript to modify basic elements"
   keywords:
     - "faq page"
     - "html css js project"

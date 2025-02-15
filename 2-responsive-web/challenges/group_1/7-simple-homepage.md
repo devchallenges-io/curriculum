@@ -24,8 +24,9 @@ userStories:
   - The page should be responsive on different screen sizes.
   - On mobile, users should be able to toggle side navigation.
 seo:
-  title: "Simple Homepage - Alarada Challenge"
-  description: "Create a simple homepage page that matches the given design and gain experience in using JavaScript to modify basic elements."
+  title: "Simple Homepage - Alarada Challenge | HTML, CSS and JavaScipt project"
+  description: "Create a simple homepage page that matches the given design and gain experience in using JavaScript to modify basic elements.
+  The project helps you practice your HTML and CSS skills as well as basic JavaScript"
   keywords:
     - "simple homepage"
     - "js html css project"

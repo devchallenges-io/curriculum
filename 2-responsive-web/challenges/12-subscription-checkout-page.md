@@ -41,8 +41,8 @@ userStories:
   - Deploy the website to make it accessible for everyone.
 
 seo:
-  title: "Subscription Checkout Page Challenge"
-  description: "Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes. This project is perfect for intermediate developers who want to enhance their CSS skills and create a visually appealing and user-friendly subscription checkout page. By implementing a checkout page with styled forms and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of Grid, Flex, positioning, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your CSS skills and create an engaging subscription checkout page!"
+  title: "Subscription Checkout Page Challenge | HTML & CSS project"
+  description: "Build a subscription checkout page website project with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this project is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes. This project is perfect for intermediate developers who want to enhance their CSS skills and create a visually appealing and user-friendly subscription checkout page."
   keywords:
     - "subscription checkout page challenge"
     - "html css project"
@@ -97,10 +97,6 @@ You should create a web page that displays a subscription checkout page with the
 - Include a personal information and payment details section.
 - Include a plan selection section.
 - Style the layout to be responsive and adapt to different screen sizes.
-
-## About
-
-Build a subscription checkout page website challenge with provided design. The layout should have 2 main sections: personal information and payment details, and plan selection. The goal of this challenge is to let learners practice styling forms as well as fundamental CSS techniques like Grid, Flex, and positioning. Create a responsive layout that adapts to different screen sizes. This project is perfect for intermediate developers who want to enhance their CSS skills and create a visually appealing and user-friendly subscription checkout page. By implementing a checkout page with styled forms and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of Grid, Flex, positioning, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your CSS skills and create an engaging subscription checkout page!
 
 ## Tech Stack
 

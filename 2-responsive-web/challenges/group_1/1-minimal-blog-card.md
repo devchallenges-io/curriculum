@@ -17,8 +17,8 @@ userStories:
   - Use CSS to style the card.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Minimal Blog Card Challenge"
-  description: "Create a simple blog card using HTML and CSS. Improve your web development skills by creating a web page that displays a blog card with an image, title, short description, and tag. This project will help you practice basic HTML and CSS skills, as well as enhance your ability to create and style web components. By deploying the solution and submitting the Repository URL and Demo URL, you will gain experience in sharing your work with others."
+  title: "Minimal Blog Card Challenge | HTML & CSS project"
+  description: "Create a simple blog card project using HTML and CSS. Improve your web development skills by creating a web page that displays a blog card with an image, title, short description, and tag. This project will help you practice basic HTML and CSS skills, as well as enhance your ability to create and style web components."
   keywords:
     - "minimal blog card challenge"
     - "html css"

@@ -30,8 +30,8 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the website.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Bento Box Layout Challenge"
-  description: "Build a bento box layout website challenge with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of grid layout, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging bento box layout!"
+  title: "Bento Box Layout Challenge | HTML & CSS project"
+  description: "Build a bento box layout website project with HTML and CSS to practice creating a complex layout using grid. Each box should have a heading, description, and image. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and responsive website. By implementing a bento box layout using grid, you will learn how to create a complex and visually appealing web page that adapts to different screen sizes."
   keywords:
     - "bento box layout challenge"
     - "html css project"

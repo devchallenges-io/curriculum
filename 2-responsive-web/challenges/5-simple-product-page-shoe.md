@@ -35,8 +35,8 @@ userStories:
   - Document the code and provide clear instructions on how to run and use the product page.
   - Deploy the website to make it accessible for everyone.
 seo:
-  title: "Simple Product Page Challenge"
-  description: "Code a simple product page challenge with HTML and CSS to practice using images, styling complex layouts with flexbox or grid, and adding buttons to the layout. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing product page for running shoes. By implementing a product page using images, flexbox or grid, and buttons, you will learn how to create visually appealing and user-friendly web pages. Additionally, you will gain experience working with HTML and CSS to structure and style the product page. This project will help you enhance your understanding of using images, flexbox or grid, and adding buttons to a layout, as well as improve your ability to create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging product page for running shoes!"
+  title: "Simple Product Page Challenge | HTML & CSS project"
+  description: "Code a simple product page project with HTML and CSS to practice using images, styling complex layouts with flexbox or grid, and adding buttons to the layout. This project is perfect for beginners who want to improve their HTML and CSS skills while creating a responsive and visually appealing product page for running shoes. By implementing a product page using images, flexbox or grid, and buttons, you will learn how to create visually appealing and user-friendly web pages."
   keywords:
     - "simple product page challenge"
     - "html css project"

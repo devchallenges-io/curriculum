@@ -23,8 +23,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Testimonial Page Challenge"
-  description: "This challenge is to practice more advanced HTML and CSS skills. The challenge is to create a simple testimonial page that you need use grid, media queries, icons,..."
+  title: "Testimonial Page Challenge | HTML & CSS project"
+  description: "This project is to practice more advanced HTML and CSS skills. The project is to create a simple testimonial page that you need use grid, media queries, icons,..."
   keywords:
     - "testimonial page"
     - "html css project"

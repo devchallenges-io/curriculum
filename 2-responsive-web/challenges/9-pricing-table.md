@@ -34,8 +34,8 @@ userStories:
   - Deploy the website to make it accessible for everyone.
 
 seo:
-  title: "Pricing Table Section Challenge"
-  description: "Build a pricing table section website challenge with provided design. The layout should have 4 columns representing 4 options, each including price, features, and a button. The goal of this challenge is to practice styling tables, position relative/absolute, and create a responsive layout. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and user-friendly pricing table section. By implementing a pricing table section using styling techniques and responsive design, you will learn how to create an attractive and functional web page that adapts to different screen sizes. Additionally, you will gain experience working with HTML and CSS to structure and style the website. This project will help you improve your understanding of styling tables, position relative/absolute, responsive design, and create visually appealing and user-friendly web pages. Get ready to showcase your HTML and CSS skills and create an engaging pricing table section!"
+  title: "Pricing Table Section Challenge | HTML & CSS project"
+  description: "Build a pricing table section website project with provided design. The layout should have 4 columns representing 4 options, each including price, features, and a button. The goal of this project is to practice styling tables, position relative/absolute, and create a responsive layout. This project is perfect for intermediate developers who want to enhance their HTML and CSS skills while creating a visually appealing and user-friendly pricing table section."
   keywords:
     - "pricing table section challenge"
     - "html css project"

@@ -29,8 +29,8 @@ userStories:
   - Deploy the website to make it accessible for everyone.
 
 seo:
-  title: "Join Our Newsletter Challenge"
-  description: "Build a join our newsletter challenge with HTML and CSS to test your skills in basic HTML and CSS and working with input and button elements. This project is perfect for beginners who want to practice their HTML and CSS skills while creating a functional and visually appealing web page. By implementing a clean and intuitive design, you will learn how to structure and style a web page using HTML and CSS. Additionally, you will gain experience working with input and button elements, which are essential components of web forms. Joining a newsletter is a common feature on many websites, so this project will give you valuable hands-on experience that you can apply to future projects. Get ready to showcase your HTML and CSS skills and create an engaging join our newsletter page!"
+  title: "Join Our Newsletter Challenge | HTML & CSS project"
+  description: "Build a join our newsletter project with HTML and CSS to test your skills in basic HTML and CSS and working with input and button elements. This project is perfect for beginners who want to practice their HTML and CSS skills while creating a functional and visually appealing web page."
   keywords:
     - "join our newsletter challenge"
     - "html css project"
