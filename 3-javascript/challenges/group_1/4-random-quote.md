@@ -23,8 +23,8 @@ userStories:
   - Ensure the page is responsive across different screen sizes.
   - Deploy the solution and submit both the Repository URL and Demo URL.
 seo:
-  title: "Random Quote"
-  description: "This challenge is an excellent opportunity to gain practical experience in utilizing external APIs within your application. The task involves creating a straightforward application for generating random quotes, which will necessitate the use of an external API. Enhance your JavaScript skills and gain experience in utilizing external APIs by creating a random quote app. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications. By deploying the solution and submitting the Repository URL and Demo URL, you will showcase your work to others."
+  title: "Random Quote | JavaScript project"
+  description: "This challenge is an excellent opportunity to gain practical experience in utilizing external APIs within your application. The task involves creating a straightforward application for generating random quotes, which will necessitate the use of an external API. Enhance your JavaScript skills and gain experience in utilizing external APIs by creating a random quote app."
   keywords:
     - "random quote challenge"
     - "html css javascript"

@@ -26,8 +26,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Guess The Word Game"
-  description: "This challenge is great to advance your JavaScript skills. The challenge is to create a small game that tests your data management and DOM manipulation with JavaScript. Enhance your JavaScript skills and test your data management and DOM manipulation capabilities. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications. By deploying the solution and submitting the Repository URL and Demo URL, you will gain experience in sharing your work with others."
+  title: "Guess The Word Game | JavaScript project"
+  description: "The project is to create a small game that tests your data management and DOM manipulation with JavaScript. Enhance your JavaScript skills and test your data management and DOM manipulation capabilities. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications."
   keywords:
     - "guess the word game challenge"
     - "html css javascript"

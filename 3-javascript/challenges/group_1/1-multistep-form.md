@@ -24,8 +24,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Multi-step Register Form Challenge"
-  description: "Create a 3-step registration form using HTML, CSS, and JavaScript. Enhance your JavaScript skills by creating a web page that allows users to register with distinct sections and test their JavaScript proficiency. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web forms. By deploying the solution and submitting the Repository URL and Demo URL, you will gain experience in sharing your work with others."
+  title: "Multi-step Register Form Challenge | JavaScript project"
+  description: "Create a 3-step registration form using HTML, CSS, and JavaScript. Enhance your JavaScript skills by creating a web page that allows users to register with distinct sections and test their JavaScript proficiency. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web forms."
   keywords:
     - "multi-step register form challenge"
     - "html css javascript"

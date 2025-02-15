@@ -23,8 +23,8 @@ userStories:
   - Ensure the page is responsive on different screen sizes.
   - Deploy the solution and provide the Repository URL and Demo URL.
 seo:
-  title: "Music Player App"
-  description: "Create a simple music player app using HTML, CSS, and JavaScript. Enhance your JavaScript skills and test your data management capabilities. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications. By deploying the solution and submitting the Repository URL and Demo URL, you will gain experience in sharing your work with others."
+  title: "Music Player App | JavaScript project"
+  description: "Create a simple music player app using HTML, CSS, and JavaScript. Enhance your JavaScript skills and test your data management capabilities. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications."
   keywords:
     - "music player app challenge"
     - "html css javascript"

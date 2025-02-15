@@ -23,8 +23,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Text to Speech - Speechbot"
-  description: "The challenge is to create a simple text-to-speech application using advanced built-in JavaScript functionality. This involves working with JavaScript APIs such as the Speech Recognition API and the Speech Synthesis API. Create a text-to-speech app that matches the given design. Use HTML to create the basic structure. Add inputs, tabs, buttons,.. according to the design. Use JavaScript to add interactivity. Users can enter custom text. Users can choose the voice of the speech, the default should be 'Albert'. Users can choose the speed of the speech (0.5, 0.75, 1 or 1.5 times). Users can select Text to Speech button and listen to the speech. The page should be responsive on different screen sizes. Deploy the solution and submit Repository URL and Demo URL."
+  title: "Text to Speech - Speechbot | JavaScript project"
+  description: "The project is to create a simple text-to-speech application using advanced built-in JavaScript functionality. This involves working with JavaScript APIs such as the Speech Recognition API and the Speech Synthesis API. Create a text-to-speech app that matches the given design."
   keywords:
     - "text to speech challenge"
     - "html css javascript"

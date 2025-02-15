@@ -24,8 +24,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Github Profile"
-  description: "The challenge requires creating a Github Profile search application that utilizes multiple API endpoints. The Github Profile search app requires the use of multiple APIs, such as the Github REST API, which returns information about a repository as a JSON."
+  title: "Github Profile | Frontend, React project"
+  description: "The project requires creating a Github Profile search application that utilizes multiple API endpoints. The Github Profile search app requires the use of multiple APIs, such as the Github REST API, which returns information about a repository as a JSON. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "github profile"
     - "html css javascript"

@@ -22,8 +22,8 @@ userStories:
   - On the Recipe detail page, users should see category, area, ingredients and instructions.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Recipe page - HomeChef"
-  description: "In this challenge, you will work with an API to build a Recipe Page/Application. This will require you to understand the API and make multiple API calls to complete the challenge."
+  title: "Recipe page - HomeChef | Frontend, React project"
+  description: "In this challenge, you will work with an API to build a Recipe Page/Application. This will require you to understand the API and make multiple API calls to complete the challenge. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "recipe page"
     - "API integration"

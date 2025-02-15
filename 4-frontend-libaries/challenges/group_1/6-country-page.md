@@ -27,8 +27,8 @@ userStories:
   - "[Optional] The country list is paginated"
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Country Page - WorldRanks"
-  description: "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table."
+  title: "Country Page - WorldRanks | Frontend, React project"
+  description: "Quite often, as a developer, you will have to work with a larger amount of data. In this challenge, you will work with a more complicated set of data of countries and display it in a table. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "country page"
     - "API integration"

@@ -19,8 +19,8 @@ userStories:
   - When users answer all 10 questions, they should see a congratulations page with the result and choose to play again.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Country Quiz"
-  description: "Most of the time, API is optimized for displaying a set of data, but other times, we need to modify the data and use it for our purpose. In this challenge, you will work with country API and build a country quiz app."
+  title: "Country Quiz | Frontend, React project"
+  description: "Most of the time, API is optimized for displaying a set of data, but other times, we need to modify the data and use it for our purpose. In this challenge, you will work with country API and build a country quiz app. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "country quiz"
     - "API integration"

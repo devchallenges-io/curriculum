@@ -23,8 +23,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "QR Code Generator App - QACODE"
-  description: "This challenge provides an excellent opportunity to practice your JavaScript skills by creating a simple QR code generator application that requires the use of an external library. Enhance your JavaScript skills and gain experience in utilizing external libraries by creating a QR code generator app. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications. By deploying the solution and submitting the Repository URL and Demo URL, you will showcase your work to others."
+  title: "QR Code Generator App - QACODE | JavaScript project"
+  description: "This project provides an excellent opportunity to practice your JavaScript skills by creating a simple QR code generator application that requires the use of an external library. Enhance your JavaScript skills and gain experience in utilizing external libraries by creating a QR code generator app. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications."
   keywords:
     - "qr code generator app"
     - "html css javascript"

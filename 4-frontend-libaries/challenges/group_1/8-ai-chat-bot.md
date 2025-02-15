@@ -20,8 +20,8 @@ userStories:
   - The application should be responsive on all devices.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "AI Chatbot - simplechat.ai"
-  description: "As AI is the future, knowing how to build an AI chatbot can be helpful. In this challenge, you will work with a provided API and build a simple AI chatbot."
+  title: "AI Chatbot - simplechat.ai | Frontend, React project"
+  description: "As AI is the future, knowing how to build an AI chatbot can be helpful. In this challenge, you will work with a provided API and build a simple AI chatbot. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "AI chatbot"
     - "API integration"

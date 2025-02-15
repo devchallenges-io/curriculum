@@ -24,8 +24,8 @@ userStories:
   - "Users can toggle between light and dark mode."
   - "Deploy the solution and submit Repository URL and Demo URL."
 seo:
-  title: "Task Manager App"
-  description: "As a frontend developer, it requires you to work with external libraries/tools all the time, sometimes it can be complicated and takes days to understand. In this challenge, you will work with a task manager application, this will challenge you to work with external JS library, as well as data management."
+  title: "Task Manager App | Frontend, React project"
+  description: "As a frontend developer, it requires you to work with external libraries/tools all the time, sometimes it can be complicated and takes days to understand. In this challenge, you will work with a task manager application, this will challenge you to work with external JS library, as well as data management. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "task manager app"
     - "frontend developer"

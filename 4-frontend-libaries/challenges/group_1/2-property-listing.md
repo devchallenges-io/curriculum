@@ -23,8 +23,8 @@ userStories:
   - "Users can filter properties by property type: 1 bedroom or 2 bedrooms."
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Property Listing"
-  description: "This challenge is perfect to improve your Frontend skills from beginner to more advanced. You will need to implement reusable components and filter functionalities."
+  title: "Property Listing | Frontend, React project"
+  description: "This project is perfect to improve your Frontend skills from beginner to more advanced. You will need to implement reusable components and filter functionalities. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "property listing"
     - "react"

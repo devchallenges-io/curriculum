@@ -20,8 +20,8 @@ userStories:
   - Users can search for a city and see its weather.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Weather App"
-  description: "Weather app has been a popular project to add to many devs' portfolios. In this challenge, you will work with an API to get the current weather of a location."
+  title: "Weather App | Frontend, React project"
+  description: "Weather app has been a popular project to add to many devs' portfolios. In this challenge, you will work with an API to get the current weather of a location. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "weather app"
     - "API integration"

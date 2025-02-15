@@ -21,8 +21,8 @@ userStories:
   - Users can choose to list all products or just available products.
   - Deploy the solution and submit Repository URL and Demo URL.
 seo:
-  title: "Simple Coffee Listing"
-  description: "This challenge is great for working with Front-end libraries like React, Vue,... You will need to implement a reusable card component with different variables based on the data given."
+  title: "Simple Coffee Listing | Frontend, React project"
+  description: "This project is great for working with Front-end libraries like React, Vue,... You will need to implement a reusable card component with different variables based on the data given."
   keywords:
     - "coffee listing"
     - "react"

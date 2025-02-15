@@ -21,8 +21,8 @@ userStories:
   - The page should be responsive on different screen sizes.
   - Deploy the solution and submit the Repository URL and Demo URL.
 seo:
-  title: "Movie Search App - OMDb"
-  description: "The challenge is to create a movie search application using external APIs and advanced JavaScript functionalities. The application will allow users to search for movies and display information about them. To create the application, developers can use APIs such as the OMDB API, which provides movie information such as title, year, plot, and ratings. Enhance your JavaScript skills and gain experience in utilizing external APIs by creating a movie search app. This project will help you practice HTML, CSS, and JavaScript, as well as improve your ability to create interactive web applications. By deploying the solution and submitting the Repository URL and Demo URL, you will showcase your work to others."
+  title: "Movie Search App - OMDb | JavaScript project"
+  description: "The project is to create a movie search application using external APIs and advanced JavaScript functionalities. The application will allow users to search for movies and display information about them. To create the application, developers can use APIs such as the OMDB API, which provides movie information such as title, year, plot, and ratings. Enhance your JavaScript skills and gain experience in utilizing external APIs by creating a movie search app."
   keywords:
     - "movie search app"
     - "OMDb API"

@@ -21,8 +21,8 @@ userStories:
   - Users can have the option to listen to the translating and translated texts.
   - Users can copy the translating and translated texts.
 seo:
-  title: "Translate App"
-  description: "As a Frontend developer, you will be given tasks to build an interactive application. In this challenge, you will build a simple translate application with a given API."
+  title: "Translate App | Frontend, React project"
+  description: "As a Frontend developer, you will be given tasks to build an interactive application. In this challenge, you will build a simple translate application with a given API. This project is great for working with Front-end libraries like React, Vue,..."
   keywords:
     - "translate app"
     - "frontend developer"
