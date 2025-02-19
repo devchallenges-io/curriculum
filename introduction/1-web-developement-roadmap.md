@@ -8,8 +8,9 @@ faqs:
   - What are the fundamental technologies I need to master in web development?
   - Mastering HTML and CSS is crucial as they form the backbone of web development. They allow you to create structured and aesthetically pleasing websites, with semantic HTML enhancing SEO-friendliness.
   - What are some key features of modern JavaScript I should know?
-  - What are some tips for writing efficient event handlers?
   - Important ES6+ features include arrow functions for concise syntax, promises for handling asynchronous operations, and async/await syntax which simplifies working with asynchronous code.
+  - How do I improve user experience in frontend development?
+  - Improving user experience involves understanding UI design principles, employing UX design strategies such as user research, and leveraging Progressive Web Apps (PWAs) to enhance performance and offline capabilities.
   - What are the differences between RESTful APIs and GraphQL?
   - RESTful APIs are ideal for simple CRUD operations and caching capabilities, while GraphQL offers more flexibility by allowing clients to request only the data they need, making it efficient for complex queries.
   - How can I boost my job prospects in web development?
