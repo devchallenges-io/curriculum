@@ -80,12 +80,6 @@ The foundation of front-end development rests on three core technologies that wo
 - **ES6+ features** including arrow functions and destructuring
 - **Local storage** management for data persistence
 
-These technologies interconnect to create seamless web experiences:
-
-html
-
-trueUser Prof![User avatar](avatar.jpg)Update
-
 Your proficiency in these core technologies directly impacts:
 
 1.  Website performance

@@ -118,13 +118,25 @@ Here are some key features introduced in ES6 and later versions that every devel
 
 Arrow functions provide a shorter syntax for writing functions while keeping the correct value of `this`.
 
-javascript const greet = name => `Hello, ${name}!`;
+```javascript
+const greet = (name) => `Hello, ${name}!`;
+```
 
 #### Promises & Async Programming
 
 Promises and async/await syntax make it easier to work with asynchronous operations, resulting in cleaner and more maintainable code.
 
-javascript async function fetchData() { try { const response = await fetch('/api/data'); const data = await response.json(); return data; } catch (error) { console.error('Error:', error); } }
+```javascript
+async function fetchData() {
+  try {
+    const response = await fetch("/api/data");
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+```
 
 ### Popular JavaScript Frameworks
 
