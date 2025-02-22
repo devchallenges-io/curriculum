@@ -18,6 +18,8 @@ faqs:
   - Developers should keep an eye on emerging frameworks like Astro, which focuses on zero-JavaScript by default, and Remix, which emphasizes web fundamentals. Both frameworks address modern web development challenges effectively.
 ---
 
+![Avoid common pitfalls as a new developer with our guide on the top 10 mistakes and how to overcome them for successful software development.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/blogs/top-javascript-framework.jpg?raw=true)
+
 ## Introduction
 
 JavaScript frameworks have changed the game in web development, making it easier for developers to create modern applications. These powerful tools offer a structured approach, ready-to-use components, and efficient workflows that make the development process smoother.
