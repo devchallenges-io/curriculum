@@ -15,8 +15,6 @@ faqs:
   - When deploying your projects, consider using platforms like GitHub Pages or Netlify. Ensure you structure your portfolio by complexity level and include live demos to showcase your work effectively.
 ---
 
-# HTML & CSS Projects: The Ultimate Guide for Beginners in 2025
-
 ## Introduction
 
 Web development in 2025 requires hands-on experience, making HTML and CSS projects essential for aspiring developers. These foundational technologies shape the visual and structural elements of websites across the internet.
