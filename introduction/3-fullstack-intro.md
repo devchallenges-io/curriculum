@@ -17,6 +17,8 @@ faqs:
   - To become a successful full-stack developer, start by mastering foundational skills in HTML5 and CSS3. Progress through phases of front-end framework mastery, back-end development with server-side languages, and advanced skills like version control with Git.
 ---
 
+![Master full-stack web development: Learn essential front-end, back-end skills, development stacks, and career insights to become a successful developer.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/full-stack-intro.jpg?raw=true)
+
 ## Introduction
 
 The tech world is witnessing a rising demand for professionals who can bridge the gap between front-end aesthetics and back-end functionality. A **full-stack developer** masters both realms, creating seamless digital experiences from start to finish.

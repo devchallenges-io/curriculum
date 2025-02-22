@@ -1,7 +1,7 @@
 ---
 seo:
   title: "Front-End Development Projects: Ultimate Guide for 2025"
-  description: "Master web development in 2025 with our comprehensive roadmap. Learn essential skills, tools, and best practices to become a successful developer."
+  description: "Master front-end development with our 2025 guide. Learn core technologies, frameworks, and build impressive projects to advance your career."
 faqs:
   - What are the essential skills needed for front-end development projects in 2025?
   - Essential skills for front-end development include a solid understanding of HTML semantics, CSS styling and responsive design, and proficiency in JavaScript. Familiarity with frameworks like React can also enhance your capabilities.
@@ -14,6 +14,8 @@ faqs:
   - How can I make my front-end project stand out?
   - To make your project stand out, focus on incorporating innovative features such as smooth animations using CSS transitions, enhancing user experience with responsive layouts, and using captivating design elements like unique color schemes.
 ---
+
+![Master front-end development with our 2025 guide. Learn core technologies, frameworks, and build impressive projects to advance your career.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/front-end-projects.jpg?raw=true)
 
 ## Introduction
 

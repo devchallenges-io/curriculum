@@ -15,7 +15,7 @@ faqs:
   - When deploying your projects, consider using platforms like GitHub Pages or Netlify. Ensure you structure your portfolio by complexity level and include live demos to showcase your work effectively.
 ---
 
-<!-- ![Master HTML & CSS with beginner-friendly projects in 2025. Learn responsive design, animations, and deployment while building a standout portfolio.](https://api.junia.ai/storage/v1/object/sign/user-generated-images/e8ea8e1f-482a-4fb1-b14a-8a0e53a999eb/3ab95981-ce5e-43a3-9d45-2451c950cc82.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ1c2VyLWdlbmVyYXRlZC1pbWFnZXMvZThlYThlMWYtNDgyYS00ZmIxLWIxNGEtOGEwZTUzYTk5OWViLzNhYjk1OTgxLWNlNWUtNDNhMy05ZDQ1LTI0NTFjOTUwY2M4Mi5wbmciLCJpYXQiOjE3NDAxNjAyNDAsImV4cCI6MjA1NTUyMDI0MH0.P_8diNMRYb3X5zH75E5CQM1KQYbRqUkwpkvCAJBXjlw) -->
+![Master HTML & CSS with beginner-friendly projects in 2025. Learn responsive design, animations, and deployment while building a standout portfolio.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/html-css-projects.jpg?raw=true)
 
 ## Introduction
 

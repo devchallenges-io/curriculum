@@ -17,6 +17,8 @@ faqs:
   - "Boosting your job prospects can be achieved through industry-recognized certifications like AWS Certified Developer or Microsoft Certified: Azure Developer, along with gaining practical experience through strategic internships."
 ---
 
+![Master web development in 2025 with our comprehensive roadmap. Learn essential skills, tools, and best practices to become a successful developer.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/web-development-roadmap.jpg?raw=true)
+
 ## Introduction
 
 The world of web development in 2025 requires a strategic approach to learning and acquiring skills. With so many programming languages, frameworks, and tools available, it can be overwhelming to navigate through them all. That's where a structured roadmap comes in handy. It acts as your roadmap, helping you make sense of the complexities of modern web development.

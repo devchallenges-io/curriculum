@@ -1,7 +1,7 @@
 ---
 seo:
-  title: "Front-End Development Projects: Ultimate Guide for 2025"
-  description: "Master web development in 2025 with our comprehensive roadmap. Learn essential skills, tools, and best practices to become a successful developer."
+  title: "Full-stack Projects Master Web Development & Boost Your Career"
+  description: "Master full stack development through hands-on projects. Learn essential technologies, deployment strategies, and career-enhancing skills for success."
 faqs:
   - What is full-stack development and why is it important?
   - Full-stack development encompasses both frontend and backend development, allowing developers to build complete web applications. Its importance lies in the ability to create user-friendly interfaces while managing server-side operations, making it a crucial skill in modern web development.
@@ -14,6 +14,8 @@ faqs:
   - How can I ensure my full-stack applications are secure?
   - To enhance security in your full-stack applications, implement measures such as user authentication (e.g., JWT tokens), two-factor authentication, rate limiting to prevent abuse, and regular security audits of both frontend and backend components.
 ---
+
+![Master full stack development through hands-on projects. Learn essential technologies, deployment strategies, and career-enhancing skills for success.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/front-end-projects.jpg?raw=true)
 
 ## Introduction
 
