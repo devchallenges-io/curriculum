@@ -3,6 +3,7 @@ seo:
   title: "Top JavaScript Frameworks to Master in 2025 for Developers"
   description: "Explore the top JavaScript frameworks to learn in 2025, including React, Angular, and Vue.js for modern web development success."
 date: "22 Feb 2025"
+thumbnail: https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/blogs/top-javascript-framework.jpg?raw=true
 faqs:
   - What are the top JavaScript frameworks to learn in 2025?
   - The top JavaScript frameworks to learn in 2025 include React, Angular, Vue.js, Svelte, SolidJS, and Ember.js. Each of these frameworks offers unique features that cater to different development needs.

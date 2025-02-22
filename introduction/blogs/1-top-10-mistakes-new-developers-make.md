@@ -3,6 +3,7 @@ seo:
   title: "Top 10 Mistakes New Developers Make and How to Avoid Them"
   description: "Avoid common pitfalls as a new developer with our guide on the top 10 mistakes and how to overcome them for successful software development."
 date: "22 Feb 2025"
+thumbnail: https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/blogs/top-10-mistakes.jpg?raw=true
 faqs:
   - What are some common mistakes new developers make?
   - New developers often face challenges such as lack of planning, ignoring documentation, not utilizing version control, overlooking testing, poor code structure, neglecting user experience, avoiding security best practices, failing to optimize performance, relying too heavily on frameworks or libraries, and avoiding feedback.
@@ -18,7 +19,7 @@ faqs:
   - New developers should actively solicit feedback from peers and mentors throughout the development process. Methods include conducting peer reviews and establishing feedback loops. Implementing constructive criticism fosters continuous improvement and enhances coding skills.
 ---
 
-![Avoid common pitfalls as a new developer with our guide on the top 10 mistakes and how to overcome them for successful software development.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/blogs/top-10-mistakes.jpg?raw=true")
+![Avoid common pitfalls as a new developer with our guide on the top 10 mistakes and how to overcome them for successful software development.](https://github.com/devchallenges-io/curriculum/blob/main/introduction/images/blogs/top-10-mistakes.jpg?raw=true)
 
 ## Introduction
 
