@@ -354,7 +354,7 @@ The integration of these tools and practices creates a robust deployment ecosyst
 
 ## Learning Pathways & Career Growth Strategies as a Web Developer in 2025
 
-The path to becoming a successful web developer in 2025 offers multiple learning routes. **Full Stack Open Course** provides comprehensive training in modern web development, covering React, Node.js, and database management through hands-on projects. **FreeCodeCamp** delivers structured learning paths with interactive coding challenges and real-world project assignments.
+The path to becoming a successful web developer in 2025 offers multiple learning routes. **Full-stack Open Course** provides comprehensive training in modern web development, covering React, Node.js, and database management through hands-on projects.
 
 ### **Bootcamp vs Self-Directed Learning**
 
