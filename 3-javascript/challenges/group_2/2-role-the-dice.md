@@ -71,11 +71,11 @@ The goals of this project are to help you:
    - Display the result in the result display element by setting its `innerHTML` property to an `<img>` tag with the appropriate image source based on the result.
      For example:
 
-   ```javascript
-   const resultDisplay = document.querySelector("#result");
-   const imageSource = `dice-${result}.svg`;
-   resultDisplay.innerHTML = `<img src="${imageSource}" alt="Dice Result">`;
-   ```
+     ```javascript
+     const resultDisplay = document.querySelector("#result");
+     const imageSource = `dice-${result}.svg`;
+     resultDisplay.innerHTML = `<img src="${imageSource}" alt="Dice Result">`;
+     ```
 
 4. **Deployment**: Make the website accessible for everyone.
    - Deploy the website using a service like GitHub Pages, Netlify, or Vercel.

@@ -312,14 +312,16 @@
     "group": "JavaScript Fundamentals",
     "type": "lesson"
   },
+
   {
-    "title": "Multi-step Register Form",
+    "title": "Flip The Coin",
     "path": "3-javascript",
-    "slug": "challenge/multi-step-register-form",
+    "slug": "challenge/flip-the-coin",
     "group": "JavaScript Fundamentals",
     "type": "challenge",
     "challenge_id": 35
   },
+
   {
     "title": "JavaScript Variables and Data Types",
     "path": "3-javascript/1-javascript/2-js-variables.md",
@@ -334,14 +336,16 @@
     "group": "JavaScript Fundamentals",
     "type": "lesson"
   },
+
   {
-    "title": "Music Player",
+    "title": "Multi-step Register Form",
     "path": "3-javascript",
-    "slug": "challenge/music-player",
+    "slug": "challenge/multi-step-register-form",
     "group": "JavaScript Fundamentals",
     "type": "challenge",
-    "challenge_id": 36
+    "challenge_id": 35
   },
+
   {
     "title": "JavaScript Arrays",
     "path": "3-javascript/1-javascript/4-js-array.md",
@@ -357,6 +361,16 @@
     "group": "JavaScript Fundamentals",
     "type": "lesson"
   },
+
+  {
+    "title": "Music Player",
+    "path": "3-javascript",
+    "slug": "challenge/music-player",
+    "group": "JavaScript Fundamentals",
+    "type": "challenge",
+    "challenge_id": 36
+  },
+
   {
     "title": "JavaScript Conditionals",
     "path": "3-javascript/1-javascript/6-js-conditionals.md",
