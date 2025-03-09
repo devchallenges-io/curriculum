@@ -138,6 +138,6 @@ Remember to consult the documentation of the specific frontend library you choos
 
 ## Tech Stack
 
-For this project, you have the flexibility to use HTML, CSS, and JavaScript to create the web page. You can also choose to use frontend libraries like React, Vue, or Svelte if you prefer. You can use any text editor or integrated development environment (IDE) to write your code. There are no specific requirements for the choice of HTML, CSS, and JavaScript frameworks or libraries. However, if you decide to use a frontend library, make sure to consider the learning curve and additional setup required. It is recommended to use Vanilla JavaScript for this project if you are not familiar with any frontend libraries.
+For this project, you have the flexibility to use HTML, CSS, and JavaScript or a Front-end library like React, Vue, etc. Consider the learning curve and additional setup required when choosing a library.
 
 Good luck with the challenge!

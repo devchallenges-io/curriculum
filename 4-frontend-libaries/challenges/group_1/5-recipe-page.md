@@ -152,8 +152,6 @@ export default RecipeDetail;
 
 ## Tech Stack
 
-For this project, you have the flexibility to use HTML, CSS, and JavaScript or a Front-end library like React, Vue, etc. Consider the learning curve and additional setup required when choosing a library. If you are not familiar with any Front-end libraries, it is recommended to use Vanilla JavaScript.
-
-Alternatively, you can also consider using a frontend framework like Next.js for this project. Next.js is a popular React framework that provides server-side rendering, automatic code splitting, and simplified routing. It offers benefits such as improved performance, better SEO, and a smoother development experience. However, keep in mind that using Next.js may require some additional setup and learning compared to Vanilla JavaScript.
+For this project, you have the flexibility to use HTML, CSS, and JavaScript or a Front-end library like React, Vue, etc. Consider the learning curve and additional setup required when choosing a library.
 
 Good luck with the challenge!

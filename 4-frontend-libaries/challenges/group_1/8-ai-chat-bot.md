@@ -181,6 +181,6 @@ console.log(chatbotResponse);
 
 ## Tech Stack
 
-For this project, you can use HTML, CSS, and JavaScript. Consider using a frontend framework like React or Vue.js for additional functionality and ease of development. However, it is not required.
+For this project, you have the flexibility to use HTML, CSS, and JavaScript or a Front-end library like React, Vue, etc. Consider the learning curve and additional setup required when choosing a library.
 
 Good luck with the challenge!
