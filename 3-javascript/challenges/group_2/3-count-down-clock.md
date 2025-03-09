@@ -61,13 +61,13 @@ The goals of this project are to help you:
    - Use the CSS property `transform: scale(0.75);` to style the clock for mobile screens.
    - You can use the provided shadow values or customize it with your own values.
 
-```css
-/* Heading Text Shadow */
-text-shadow: 2px 2px 0px #35383f;
+   ```css
+   /* Heading Text Shadow */
+   text-shadow: 2px 2px 0px #35383f;
 
-/* Button Shadow */
-box-shadow: 0px 4px 0px 0px #23649b;
-```
+   /* Button Shadow */
+   box-shadow: 0px 4px 0px 0px #23649b;
+   ```
 
 3. **JavaScript**: Write the logic to handle the countdown timer.
 
