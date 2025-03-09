@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "imageUrl": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/challenges/74/challenge-74-thumbnail",
+    "title": "Flip The Coin",
+    "description": "New challenge is available now in JavaScript roadmap.",
+    "tags": ["New Challenge"],
+    "link": "https://devchallenges.io/challenge/flip-the-coin"
+  }
+]
