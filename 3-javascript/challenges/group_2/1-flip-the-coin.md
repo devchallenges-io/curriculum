@@ -13,12 +13,10 @@ lessons:
   - 3-javascript/javascript-dom-and-events
 userStories:
   - Create a web page that allows users to flip a virtual coin.
-  - Display the result of the coin flip (head or tail) on the page.
+  - Display the result of the coin flip (heads or tails) on the page.
   - Add a button that triggers the coin flip when clicked.
-  - Style the page using CSS to make it visually appealing.
+  - Style the web page according to the design.
   - Use JavaScript to handle the logic of the coin flip and update the page accordingly.
-  - Ensure the page is responsive and works well on different devices and screen sizes.
-  - Validate the HTML, CSS, and JavaScript code to ensure it follows best practices and standards.
   - Deploy the website to make it accessible for everyone.
 
 seo:
@@ -52,7 +50,7 @@ The goals of this project are to help you:
 - The web page should have a button labeled "Flip Coin".
 - When the button is clicked, the coin should randomly display either "Heads" or "Tails".
 - Display the result of the coin flip on the web page.
-- Style the web page to make it visually appealing.
+- Style the web page according to the design.
 - Ensure the web page is responsive and works well on different devices and screen sizes.
 
 ## Technical Details

@@ -16,7 +16,7 @@ userStories:
   - Allow users to set the duration of the timer by selecting the plus or minus buttons, for example, 10 seconds.
   - Toggle the timer when the circle button is clicked.
   - Display the remaining time on the page.
-  - Style the page using CSS to make it visually appealing.
+  - Style the web page according to the design.
   - Use JavaScript to handle the logic of the count down timer and update the page accordingly.
   - Deploy the website to make it accessible for everyone.
 

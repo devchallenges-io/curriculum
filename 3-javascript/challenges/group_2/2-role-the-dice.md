@@ -16,7 +16,7 @@ userStories:
   - Create a web page that allows users to roll a virtual dice.
   - Display the result of the dice roll (a number between 1 and 6) on the page.
   - Add functionality to roll the dice when users select the dice table or press the space key.
-  - Style the page using CSS to make it visually appealing.
+  - Style the web page according to the design.
   - Use JavaScript to handle the logic of the dice roll and update the page accordingly.
   - Deploy the website to make it accessible for everyone.
 
