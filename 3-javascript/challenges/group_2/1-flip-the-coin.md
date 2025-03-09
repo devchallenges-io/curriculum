@@ -23,7 +23,7 @@ userStories:
 
 seo:
   title: "Flip The Coin | JavaScript project"
-  description: "Build a coin flipping game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game. This project will help you gain a better understanding of DOM manipulation, event handling, and responsive design."
+  description: "Build a coin flipping game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game. This project is a great way to get started with JavaScript and gain a better understanding of DOM manipulation and event handling."
   keywords:
     - "flip a coin challenge"
     - "html css javascript project"
