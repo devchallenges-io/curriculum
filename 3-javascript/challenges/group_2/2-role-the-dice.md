@@ -1,5 +1,5 @@
 ---
-title: "Role the Dice"
+title: "Role The Dice"
 description: "Build a dice rolling game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game."
 isNew: false
 sort: 2
@@ -30,10 +30,6 @@ challengeTexts:
   - Roll the dice
   - Click the screen or press space to roll the dice
 ---
-
-## Goals
-
-# Roll the Dice JavaScript Project Challenge
 
 ## Learning Goals
 
