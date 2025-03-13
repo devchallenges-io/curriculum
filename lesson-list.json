@@ -527,6 +527,15 @@
     "group": "TypeScript",
     "type": "lesson"
   },
+
+  {
+    "title": "Introduction to React",
+    "path": "4-frontend-libaries/1-react.js/1-introduction-to-react.md",
+    "slug": "4-frontend/introduction-to-react",
+    "group": "React",
+    "type": "lesson"
+  },
+
   {
     "challenge_id": 45,
     "title": "Simple Coffee Listing",
