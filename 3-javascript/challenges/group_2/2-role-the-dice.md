@@ -1,6 +1,6 @@
 ---
 title: "Role The Dice"
-description: "Build a dice rolling game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game."
+description: "Create a web-based dice game with HTML, CSS, and JavaScript to enhance your development abilities. Apply your understanding of HTML and CSS code while adding JavaScript functionality to develop an engaging interactive experience."
 isNew: false
 sort: 2
 nature: "HTML/CSS/JavaScript"
@@ -22,7 +22,7 @@ userStories:
 
 seo:
   title: "Roll The Dice | JavaScript project"
-  description: "Build a dice rolling game using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive game."
+  description: "Create a web-based dice game with HTML, CSS, and JavaScript to enhance your development abilities. Apply your understanding of HTML and CSS code while adding JavaScript functionality to develop an engaging interactive experience."
   keywords:
     - "roll a dice challenge"
     - "html css javascript project"
@@ -57,6 +57,17 @@ The goals of this project are to help you:
 
 2. **CSS**: Style the web page to make it visually appealing according to the design.
 
+   - The challenge doesn't require creating the table from scratch; instead, you can style the table using a background image.
+     ```css
+     /* Table Size */
+     .table {
+       width: 520px;
+       height: 400px;
+     }
+     ```
+
+````
+
 3. **JavaScript**: Write the logic to handle the dice roll.
 
    - Select the button and result display elements using `document.querySelector` or `document.getElementById`.
@@ -85,3 +96,4 @@ The goals of this project are to help you:
 - **HTML**: For creating the structure of the web page.
 - **CSS**: For styling the web page and making it responsive.
 - **JavaScript**: For adding interactivity and handling the coin flip logic.
+````

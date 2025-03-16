@@ -1,6 +1,6 @@
 ---
 title: "Count Down Timer"
-description: "Build a count down timer using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive timer."
+description: "Create a countdown timer project with HTML, CSS, and JavaScript to enhance your web development abilities. Challenge your understanding of HTML and CSS code while adding JavaScript functionality to develop a dynamic timer interface."
 isNew: false
 sort: 1
 nature: "HTML/CSS/JavaScript"
@@ -10,6 +10,8 @@ skills:
   - "JavaScript"
 lessons:
   - 3-javascript/javascript-functions
+  - 3-javascript/javascript-dom-and-events
+  - 3-javascript/javascript-variables-and-data-types
 
 userStories:
   - Create a web page that displays a count down timer.
@@ -22,7 +24,7 @@ userStories:
 
 seo:
   title: "Count Down Timer | JavaScript project"
-  description: "Build a count down timer using HTML, CSS, and JavaScript to practice your web development skills. Test your knowledge of HTML and CSS syntax while incorporating JavaScript to create an interactive timer. This project will help you gain a better understanding of DOM manipulation, event handling, and responsive design. By creating a visually appealing layout and implementing logic for the count down timer, you will enhance your skills in creating interactive web applications. Choose to use vanilla HTML, CSS, and JavaScript or popular frameworks like React or Vue.js to complete this project."
+  description: "Create a countdown timer project with HTML, CSS, and JavaScript to enhance your web development abilities. Challenge your understanding of HTML and CSS code while adding JavaScript functionality to develop a dynamic timer interface."
   keywords:
     - "count down timer challenge"
     - "html css javascript project"

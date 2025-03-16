@@ -1,0 +1,129 @@
+{
+  "units": {
+    "km": {
+      "name": "Kilometer",
+      "conversions": [
+        {
+          "unit": "mi",
+          "factor": 0.621371,
+          "description": "1 Kilometer is equal to 0.621371 Miles."
+        },
+        {
+          "unit": "m",
+          "factor": 1000,
+          "description": "1 Kilometer is equal to 1000 Meters."
+        },
+        {
+          "unit": "cm",
+          "factor": 100000,
+          "description": "1 Kilometer is equal to 100000 Centimeters."
+        },
+        {
+          "unit": "in",
+          "factor": 39370.1,
+          "description": "1 Kilometer is equal to 39370.1 Inches."
+        }
+      ]
+    },
+    "mi": {
+      "name": "Mile",
+      "conversions": [
+        {
+          "unit": "km",
+          "factor": 1.60934,
+          "description": "1 Mile is equal to 1.60934 Kilometers."
+        },
+        {
+          "unit": "m",
+          "factor": 1609.34,
+          "description": "1 Mile is equal to 1609.34 Meters."
+        },
+        {
+          "unit": "cm",
+          "factor": 160934,
+          "description": "1 Mile is equal to 160934 Centimeters."
+        },
+        {
+          "unit": "in",
+          "factor": 63360,
+          "description": "1 Mile is equal to 63360 Inches."
+        }
+      ]
+    },
+    "m": {
+      "name": "Meter",
+      "conversions": [
+        {
+          "unit": "km",
+          "factor": 0.001,
+          "description": "1 Meter is equal to 0.001 Kilometers."
+        },
+        {
+          "unit": "mi",
+          "factor": 0.000621371,
+          "description": "1 Meter is equal to 0.000621371 Miles."
+        },
+        {
+          "unit": "cm",
+          "factor": 100,
+          "description": "1 Meter is equal to 100 Centimeters."
+        },
+        {
+          "unit": "in",
+          "factor": 39.37,
+          "description": "1 Meter is equal to 39.37 Inches."
+        }
+      ]
+    },
+    "cm": {
+      "name": "Centimeter",
+      "conversions": [
+        {
+          "unit": "km",
+          "factor": 0.00001,
+          "description": "1 Centimeter is equal to 0.00001 Kilometers."
+        },
+        {
+          "unit": "mi",
+          "factor": 0.0000062137,
+          "description": "1 Centimeter is equal to 0.0000062137 Miles."
+        },
+        {
+          "unit": "m",
+          "factor": 0.01,
+          "description": "1 Centimeter is equal to 0.01 Meters."
+        },
+        {
+          "unit": "in",
+          "factor": 0.393701,
+          "description": "1 Centimeter is equal to 0.393701 Inches."
+        }
+      ]
+    },
+    "in": {
+      "name": "Inch",
+      "conversions": [
+        {
+          "unit": "km",
+          "factor": 0.0000254,
+          "description": "1 Inch is equal to 0.0000254 Kilometers."
+        },
+        {
+          "unit": "mi",
+          "factor": 0.0000157828,
+          "description": "1 Inch is equal to 0.0000157828 Miles."
+        },
+        {
+          "unit": "m",
+          "factor": 0.0254,
+          "description": "1 Inch is equal to 0.0254 Meters."
+        },
+        {
+          "unit": "cm",
+          "factor": 2.54,
+          "description": "1 Inch is equal to 2.54 Centimeters."
+        }
+      ]
+    }
+  }
+}

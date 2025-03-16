@@ -64,6 +64,8 @@ The goals of this project are to help you:
    ```css
    /* Heading Text Shadow */
    text-shadow: 2px 2px 0px #35383f;
+   -webkit-text-stroke-width: 5px;
+   -webkit-text-stroke-color: #35383f;
 
    /* Button Shadow */
    box-shadow: 0px 4px 0px 0px #23649b;
