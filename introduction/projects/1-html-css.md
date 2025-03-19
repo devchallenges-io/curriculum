@@ -1,7 +1,7 @@
 ---
 seo:
-  title: "HTML & CSS Projects: The Ultimate Guide for Beginners"
-  description: "Master HTML & CSS with beginner-friendly projects in 2025. Learn responsive design, animations, and deployment while building a standout portfolio."
+  title: "HTML & CSS Projects to Build Your Portfolio in 2025"
+  description: "Master HTML & CSS with beginner-friendly to advanced projects in 2025. Learn and practice responsive design, animations, and deployment while building a standout portfolio."
 faqs:
   - What are the fundamental skills I need to master for HTML and CSS projects in 2025?
   - To excel in HTML and CSS projects, beginners should focus on mastering the fundamentals such as HTML document structure, semantic elements, and CSS selectors. Understanding layout properties like Flexbox is also crucial.

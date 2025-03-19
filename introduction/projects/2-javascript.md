@@ -1,7 +1,7 @@
 ---
 seo:
-  title: "JavaScript Projects Guide: Build Your First App in 2025"
-  description: "Master JavaScript through hands-on projects in 2025. Learn essential concepts, build practical applications, and prepare for emerging trends in web development."
+  title: "JavaScript Projects to Build Your Portfolio in 2025"
+  description: "Master JavaScript through hands-on projects in 2025. Learn and practice essential concepts, build practical applications, and prepare for emerging trends in web development."
 faqs:
   - What are the essential tools needed for JavaScript development?
   - To begin your JavaScript projects, you'll need a reliable code editor such as VS Code, along with a web browser for testing. These tools provide the necessary environment to write, debug, and run your JavaScript code effectively.

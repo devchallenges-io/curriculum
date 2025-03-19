@@ -1,7 +1,7 @@
 ---
 seo:
-  title: "Full-stack Projects Master Web Development & Boost Your Career"
-  description: "Master full stack development through hands-on projects. Learn essential technologies, deployment strategies, and career-enhancing skills for success."
+  title: "Full-stack Projects to Build Your Portfolio in 2025"
+  description: "Master full stack development through hands-on projects. Learn and practice essential technologies, deployment strategies, and career-enhancing skills for success."
 faqs:
   - What is full-stack development and why is it important?
   - Full-stack development encompasses both frontend and backend development, allowing developers to build complete web applications. Its importance lies in the ability to create user-friendly interfaces while managing server-side operations, making it a crucial skill in modern web development.

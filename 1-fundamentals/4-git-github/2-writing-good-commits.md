@@ -160,4 +160,4 @@ By implementing these strategies, teams can ensure their commit logs remain navi
 
 ## Conclusion
 
-When revisiting past commits or when colleagues rely on the **revision history** to understand the evolution of the codebase, well-crafted messages serve as a testament to the team's professionalism and attention to detail. By adhering to best practices covered in this guide, your project's Git log transforms from a mere technical requirement into a rich narrative of its development journey.
+When revisiting past commits or when colleagues rely on the **revision history** to understand the evolution of the codebase, well-crafted messages serve as a testament to the team's professionalism and attention to detail. By adhering to best practices covered in this lesson, your project's Git log transforms from a mere technical requirement into a rich narrative of its development journey.

@@ -34,7 +34,7 @@ Here are some key things to know about React components:
 
 Whether you're creating a simple portfolio website or a complex web application, it's important to understand the differences between functional and class components. This knowledge will help you make better architectural decisions.
 
-In this guide, we'll take an in-depth look at both types of components. We'll explore their strengths, weaknesses, and when they're best suited for use. By the end of this guide, you'll have a clearer understanding of which approach to choose for your next React project.
+In this lesson, we'll take an in-depth look at both types of components. We'll explore their strengths, weaknesses, and when they're best suited for use. By the end of this guide, you'll have a clearer understanding of which approach to choose for your next React project.
 
 ## Understanding Functional Components
 
@@ -586,4 +586,4 @@ Yet, class components remain valuable in specific scenarios:
 
 The future of React development points toward functional components as the preferred approach. The introduction of new Hook patterns and improved tooling support strengthens this trend. Your choice between functional and class components should align with your project's specific needs, team expertise, and maintenance considerations.
 
-The next step is putting these concepts into practice. [https://devchallenges.io/projects/front-end](https://devchallenges.io) offers an excellent platform to test your React skills through real-world projects.
+The next step is putting these concepts into practice. [https://devchallenges.io](https://devchallenges.io/learn/4-frontend-libraries) offers an excellent platform to test your React skills through real-world projects.

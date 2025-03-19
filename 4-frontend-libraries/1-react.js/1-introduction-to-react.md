@@ -340,7 +340,7 @@ React's component-based architecture scales effectively for large applications, 
 
 React has changed web development with its Virtual DOM, component-driven structure, and easy integration options. The framework is constantly improving, shaping the future of web apps with better performance and easier maintenance.
 
-Ready to start your React journey? **devchallenges.io** offers hands-on projects that help you: [https://devchallenges.io/projects/front-end](https://devchallenges.io/projects/front-end)
+Ready to start your React journey? **devchallenges.io** offers hands-on projects that help you: [https://devchallenges.io](https://devchallenges.io/learn/4-frontend-libraries)
 
 - Build real-world applications
 - Master component architecture

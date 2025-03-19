@@ -251,7 +251,7 @@ export default {
 
 ## Folder Structure Best Practices for React Projects
 
-A well-organized folder structure is essential for any React project. It helps manage code efficiently, improves collaboration among team members, and allows for easy scalability as the project grows. In this article, we will explore proven folder structure patterns that are suitable for different project sizes and complexities.
+A well-organized folder structure is essential for any React project. It helps manage code efficiently, improves collaboration among team members, and allows for easy scalability as the project grows. In this lesson, we will explore proven folder structure patterns that are suitable for different project sizes and complexities.
 
 ### Basic Structure for Small Projects
 
@@ -616,7 +616,7 @@ The combination of proper tooling, thoughtful folder organization, and consisten
 
 Remember to adapt these practices based on your project's specific needs and team preferences. The goal is to create a development environment that promotes efficiency, maintainability, and seamless collaboration among team members.
 
-Ready to improve your React skills? **devchallenges.io** offers hands-on projects that help you: [https://devchallenges.io/projects/front-end](https://devchallenges.io/projects/front-end)
+Ready to improve your React skills? **devchallenges.io** offers hands-on projects that help you: [https://devchallenges.io](https://devchallenges.io/learn/4-frontend-libraries)
 
 - Build real-world applications
 - Master component architecture

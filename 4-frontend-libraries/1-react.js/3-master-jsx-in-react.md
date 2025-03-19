@@ -440,4 +440,4 @@ Your journey through **JSX Deep Dive: Syntax, Expressions, and Styling** has equ
 - Apply styling strategies that scale
 - Structure maintainable applications
 
-The next step is putting these concepts into practice. [https://devchallenges.io/projects/front-end](https://devchallenges.io) offers an excellent platform to test your JSX skills through real-world projects. These hands-on experiences help solidify your understanding and reveal practical applications of JSX patterns.
+The next step is putting these concepts into practice. [https://devchallenges.io](https://devchallenges.io/learn/4-frontend-libraries) offers an excellent platform to test your JSX skills through real-world projects. These hands-on experiences help solidify your understanding and reveal practical applications of JSX patterns.
