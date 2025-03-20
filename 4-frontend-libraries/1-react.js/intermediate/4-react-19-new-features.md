@@ -33,14 +33,6 @@ React 19 introduces powerful new features that make web development easier and m
 
 > **Pro Tip**: React 19 is like getting a new set of power tools - they make your work easier and more efficient!
 
-> **Key Points to Remember**:
->
-> - Actions make server communication simpler
-> - New form hooks make handling user input easier
-> - Server Components make your app faster
-> - Better error handling helps you fix problems quickly
-> - Built-in metadata helps with SEO
-
 ### Why These Features Matter
 
 React 19's new features solve common problems that developers face:
