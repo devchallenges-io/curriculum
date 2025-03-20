@@ -97,21 +97,21 @@
     "title": "CSS Units",
     "path": "2-responsive-web/1-html-css/6-css-unit.md",
     "slug": "2-responsive-web/css-units",
-    "group": "Basic Layout & Components",
+    "group": "Basic Layout and Components",
     "type": "lesson"
   },
   {
     "title": "CSS Positioning",
     "path": "2-responsive-web/1-html-css/5-css-position.md",
     "slug": "2-responsive-web/css-positioning",
-    "group": "Basic Layout & Components",
+    "group": "Basic Layout and Components",
     "type": "lesson"
   },
   {
     "title": "Simple Article Listing",
     "path": "2-responsive-web",
     "slug": "challenge/simple-article-listing",
-    "group": "Basic Layout & Components",
+    "group": "Basic Layout and Components",
     "type": "challenge",
     "challenge_id": 64
   },
@@ -119,7 +119,7 @@
     "title": "Testimonial Page",
     "path": "2-responsive-web",
     "slug": "challenge/testimonial-page",
-    "group": "Basic Layout & Components",
+    "group": "Basic Layout and Components",
     "type": "challenge",
     "challenge_id": 29
   },
@@ -127,7 +127,7 @@
     "title": "Business Blog Card",
     "path": "2-responsive-web",
     "slug": "challenge/business-blog-card",
-    "group": "Basic Layout & Components",
+    "group": "Basic Layout and Components",
     "type": "challenge",
     "challenge_id": 28
   },
@@ -135,14 +135,14 @@
     "title": "CSS Flexbox",
     "path": "2-responsive-web/1-html-css/3-flexbox.md",
     "slug": "2-responsive-web/css-flexbox",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "lesson"
   },
   {
     "title": "Simple Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/simple-feature-section-challenge",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "challenge",
     "challenge_id": 65
   },
@@ -150,7 +150,7 @@
     "title": "Simple Product Page",
     "path": "2-responsive-web",
     "slug": "challenge/simple-product-page-challenge",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "challenge",
     "challenge_id": 66
   },
@@ -663,7 +663,7 @@
     "title": "Translate app",
     "slug": "challenge/translate-app",
     "path": "4-frontend-libraries",
-    "group": "React Hooks & Patterns",
+    "group": "React Hooks and Patterns",
     "type": "challenge"
   },
 
@@ -672,7 +672,7 @@
     "title": "Task Manager App",
     "slug": "challenge/task-manager-app",
     "path": "4-frontend-libraries",
-    "group": "React Hooks & Patterns",
+    "group": "React Hooks and Patterns",
     "type": "challenge"
   },
 
@@ -686,7 +686,7 @@
 
   {
     "title": "React Performance Optimization",
-    "path": "4-frontend-libraries/1-react.js/intermediate/3-react-performance-optimization.md",
+    "path": "4-frontend-libraries/1-react.js/intermediate/3-performance-optimization.md",
     "slug": "4-frontend-libraries/react-performance-optimization",
     "group": "React Advanced Features",
     "type": "lesson"
