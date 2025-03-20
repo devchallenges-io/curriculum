@@ -52,28 +52,28 @@
     "title": "Introduction to HTML and CSS",
     "path": "2-responsive-web/1-html-css/1-introduction-to-html-css.md",
     "slug": "2-responsive-web/introduction-to-html-and-css",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "lesson"
   },
   {
     "title": "Essential HTML Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2.1-html-cheatsheet.md",
     "slug": "2-responsive-web/html-cheat-sheet",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "lesson"
   },
   {
     "title": "Essential CSS Cheat Sheet",
     "path": "2-responsive-web/1-html-css/2.2-css-essential-cheatsheet.md",
     "slug": "2-responsive-web/css-essential-cheat-sheet",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "lesson"
   },
   {
     "title": "Simple Frequently Asked Questions",
     "path": "2-responsive-web",
     "slug": "challenge/simple-faq-challenge",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "challenge",
     "challenge_id": 62
   },
@@ -81,7 +81,7 @@
     "title": "Minimal Blog Card",
     "path": "2-responsive-web",
     "slug": "challenge/minimal-blog-card",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "challenge",
     "challenge_id": 27
   },
@@ -89,29 +89,29 @@
     "title": "Join Our Newsletter",
     "path": "2-responsive-web",
     "slug": "challenge/join-our-newsletter",
-    "group": "Introduction to HTML and CSS",
+    "group": "HTML/CSS Fundamentals",
     "type": "challenge",
     "challenge_id": 63
   },
   {
-    "title": "Responsive Design",
-    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md",
-    "slug": "2-responsive-web/responsive-design",
-    "group": "CSS Fundamentals",
+    "title": "CSS Units",
+    "path": "2-responsive-web/1-html-css/6-css-unit.md",
+    "slug": "2-responsive-web/css-units",
+    "group": "Basic Layout & Components",
     "type": "lesson"
   },
   {
-    "title": "CSS Flexbox",
-    "path": "2-responsive-web/1-html-css/3-flexbox.md",
-    "slug": "2-responsive-web/css-flexbox",
-    "group": "CSS Fundamentals",
+    "title": "CSS Positioning",
+    "path": "2-responsive-web/1-html-css/5-css-position.md",
+    "slug": "2-responsive-web/css-positioning",
+    "group": "Basic Layout & Components",
     "type": "lesson"
   },
   {
     "title": "Simple Article Listing",
     "path": "2-responsive-web",
     "slug": "challenge/simple-article-listing",
-    "group": "CSS Fundamentals",
+    "group": "Basic Layout & Components",
     "type": "challenge",
     "challenge_id": 64
   },
@@ -119,22 +119,30 @@
     "title": "Testimonial Page",
     "path": "2-responsive-web",
     "slug": "challenge/testimonial-page",
-    "group": "CSS Fundamentals",
+    "group": "Basic Layout & Components",
     "type": "challenge",
     "challenge_id": 29
   },
   {
-    "title": "CSS Grid",
-    "path": "2-responsive-web/1-html-css/4-grid.md",
-    "slug": "2-responsive-web/css-grid",
-    "group": "CSS Fundamentals",
+    "title": "Business Blog Card",
+    "path": "2-responsive-web",
+    "slug": "challenge/business-blog-card",
+    "group": "Basic Layout & Components",
+    "type": "challenge",
+    "challenge_id": 28
+  },
+  {
+    "title": "CSS Flexbox",
+    "path": "2-responsive-web/1-html-css/3-flexbox.md",
+    "slug": "2-responsive-web/css-flexbox",
+    "group": "Flexbox & Grid Layout",
     "type": "lesson"
   },
   {
     "title": "Simple Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/simple-feature-section-challenge",
-    "group": "CSS Fundamentals",
+    "group": "Flexbox & Grid Layout",
     "type": "challenge",
     "challenge_id": 65
   },
@@ -142,113 +150,105 @@
     "title": "Simple Product Page",
     "path": "2-responsive-web",
     "slug": "challenge/simple-product-page-challenge",
-    "group": "CSS Fundamentals",
+    "group": "Flexbox & Grid Layout",
     "type": "challenge",
     "challenge_id": 66
   },
   {
-    "title": "Process Page",
-    "path": "2-responsive-web",
-    "slug": "challenge/process-page",
-    "group": "CSS Fundamentals",
-    "type": "challenge",
-    "challenge_id": 30
+    "title": "CSS Grid",
+    "path": "2-responsive-web/1-html-css/4-grid.md",
+    "slug": "2-responsive-web/css-grid",
+    "group": "Flexbox & Grid Layout",
+    "type": "lesson"
   },
   {
     "title": "Bento Box Layout Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/bento-box-layout-challenge",
-    "group": "CSS Fundamentals",
+    "group": "Flexbox & Grid Layout",
     "type": "challenge",
     "challenge_id": 68
-  },
-  {
-    "title": "CSS Positioning",
-    "path": "2-responsive-web/1-html-css/5-css-position.md",
-    "slug": "2-responsive-web/css-positioning",
-    "group": "CSS Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "Business Blog Card",
-    "path": "2-responsive-web",
-    "slug": "challenge/business-blog-card",
-    "group": "CSS Fundamentals",
-    "type": "challenge",
-    "challenge_id": 28
   },
   {
     "title": "Meet the Team Section",
     "path": "2-responsive-web",
     "slug": "challenge/meet-the-team-section-challenge",
-    "group": "CSS Fundamentals",
+    "group": "Flexbox & Grid Layout",
     "type": "challenge",
     "challenge_id": 69
   },
   {
-    "title": "CSS Units",
-    "path": "2-responsive-web/1-html-css/6-css-unit.md",
-    "slug": "2-responsive-web/css-units",
-    "group": "CSS Fundamentals",
+    "title": "Responsive Design",
+    "path": "2-responsive-web/1-html-css/11-css-responsive-design.md",
+    "slug": "2-responsive-web/responsive-design",
+    "group": "Responsive Design",
     "type": "lesson"
   },
   {
-    "title": "Pricing Table",
+    "title": "Process Page",
     "path": "2-responsive-web",
-    "slug": "challenge/pricing-table-section-challenge",
-    "group": "CSS Fundamentals",
+    "slug": "challenge/process-page",
+    "group": "Responsive Design",
     "type": "challenge",
-    "challenge_id": 70
-  },
-  {
-    "title": "CSS Animation",
-    "path": "2-responsive-web/1-html-css/10-css-animation.md",
-    "slug": "2-responsive-web/css-animation",
-    "group": "CSS Fundamentals",
-    "type": "lesson"
+    "challenge_id": 30
   },
   {
     "title": "Simple Homepage - Alarado",
     "path": "2-responsive-web",
     "slug": "challenge/simple-hompage-alarado",
-    "group": "CSS Fundamentals",
+    "group": "Responsive Design",
     "type": "challenge",
     "challenge_id": 33
+  },
+  {
+    "title": "Pricing Table",
+    "path": "2-responsive-web",
+    "slug": "challenge/pricing-table-section-challenge",
+    "group": "Responsive Design",
+    "type": "challenge",
+    "challenge_id": 70
   },
   {
     "title": "CSS Functions",
     "path": "2-responsive-web/1-html-css/7-css-functions.md",
     "slug": "2-responsive-web/css-functions",
-    "group": "Advanced CSS",
+    "group": "Advanced CSS Features",
     "type": "lesson"
-  },
-  {
-    "title": "Simple Homepage - Echoplex",
-    "path": "2-responsive-web",
-    "slug": "challenge/simple-homepage-challenge-echoplex",
-    "group": "Advanced CSS",
-    "type": "challenge",
-    "challenge_id": 67
   },
   {
     "title": "CSS Custom Properties",
     "path": "2-responsive-web/1-html-css/8-css-custom-properties.md",
     "slug": "2-responsive-web/css-custom-properties",
-    "group": "Advanced CSS",
+    "group": "Advanced CSS Features",
     "type": "lesson"
   },
   {
     "title": "CSS Advanced Selectors",
     "path": "2-responsive-web/1-html-css/9-css-advanced-selectors.md",
     "slug": "2-responsive-web/css-advanced-selectors",
-    "group": "Advanced CSS",
+    "group": "Advanced CSS Features",
     "type": "lesson"
+  },
+  {
+    "title": "CSS Animation",
+    "path": "2-responsive-web/1-html-css/10-css-animation.md",
+    "slug": "2-responsive-web/css-animation",
+    "group": "Advanced CSS Features",
+    "type": "lesson"
+  },
+  {
+    "title": "Simple Homepage - Echoplex",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-homepage-challenge-echoplex",
+    "group": "Advanced CSS Features",
+    "type": "challenge",
+    "challenge_id": 67
   },
   {
     "title": "Advanced Homepage - Hufie",
     "path": "2-responsive-web",
     "slug": "challenge/advanced-homepage-huffie",
-    "group": "Advanced CSS",
+    "group": "Advanced CSS Features",
     "type": "challenge",
     "challenge_id": 34
   },
@@ -256,7 +256,7 @@
     "title": "Bank Dashboard - HBank",
     "path": "2-responsive-web",
     "slug": "challenge/bank-dashboard-challenge-hbank",
-    "group": "Advanced CSS",
+    "group": "Advanced CSS Features",
     "type": "challenge",
     "challenge_id": 71
   },
@@ -264,14 +264,14 @@
     "title": "Basic Form and Form Validation",
     "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
     "slug": "2-responsive-web/form-and-form-validation",
-    "group": "Form and Form Validation",
+    "group": "Forms & Validation",
     "type": "lesson"
   },
   {
     "title": "Contact Page",
     "path": "2-responsive-web",
     "slug": "challenge/contact-page",
-    "group": "Form and Form Validation",
+    "group": "Forms & Validation",
     "type": "challenge",
     "challenge_id": 31
   },
@@ -279,7 +279,7 @@
     "title": "Device Shop Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/apple-shop-checkout-page-challenge",
-    "group": "Form and Form Validation",
+    "group": "Forms & Validation",
     "type": "challenge",
     "challenge_id": 72
   },
@@ -287,7 +287,7 @@
     "title": "Subscription Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/subscription-checkout-page-challenge",
-    "group": "Form and Form Validation",
+    "group": "Forms & Validation",
     "type": "challenge",
     "challenge_id": 73
   },
@@ -302,189 +302,178 @@
     "title": "Introduction to JavaScript",
     "path": "3-javascript/1-javascript/1-introduction-to-javascript.md",
     "slug": "3-javascript/introduction-to-javascript",
-    "group": "JavaScript Fundamentals",
+    "group": "JavaScript Basics",
     "type": "lesson"
   },
-  {
-    "title": "JavaScript DOM and Events",
-    "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
-    "slug": "3-javascript/javascript-dom-and-events",
-    "group": "JavaScript Fundamentals",
-    "type": "lesson"
-  },
-
-  {
-    "title": "Flip The Coin",
-    "path": "3-javascript",
-    "slug": "challenge/flip-the-coin",
-    "group": "JavaScript Fundamentals",
-    "type": "challenge",
-    "challenge_id": 35
-  },
-
   {
     "title": "JavaScript Variables and Data Types",
     "path": "3-javascript/1-javascript/2-js-variables.md",
     "slug": "3-javascript/javascript-variables-and-data-types",
-    "group": "JavaScript Fundamentals",
+    "group": "JavaScript Basics",
     "type": "lesson"
   },
   {
     "title": "JavaScript Functions",
     "path": "3-javascript/1-javascript/3-js-functions.md",
     "slug": "3-javascript/javascript-functions",
-    "group": "JavaScript Fundamentals",
+    "group": "JavaScript Basics",
     "type": "lesson"
   },
-
-  {
-    "title": "Multi-step Register Form",
-    "path": "3-javascript",
-    "slug": "challenge/multi-step-register-form",
-    "group": "JavaScript Fundamentals",
-    "type": "challenge",
-    "challenge_id": 35
-  },
-
   {
     "title": "JavaScript Arrays",
     "path": "3-javascript/1-javascript/4-js-array.md",
     "slug": "3-javascript/javascript-arrays",
-    "group": "JavaScript Fundamentals",
+    "group": "JavaScript Basics",
     "type": "lesson"
   },
-
   {
     "title": "JavaScript Objects",
     "path": "3-javascript/1-javascript/5-js-advanced-object.md",
     "slug": "3-javascript/javascript-objects",
-    "group": "JavaScript Fundamentals",
+    "group": "JavaScript Basics",
     "type": "lesson"
   },
-
   {
-    "title": "Music Player",
+    "title": "Flip The Coin",
     "path": "3-javascript",
-    "slug": "challenge/music-player",
-    "group": "JavaScript Fundamentals",
+    "slug": "challenge/flip-the-coin",
+    "group": "JavaScript Basics",
     "type": "challenge",
-    "challenge_id": 36
+    "challenge_id": 35
   },
-
   {
-    "title": "JavaScript Conditionals",
-    "path": "3-javascript/1-javascript/6-js-conditionals.md",
-    "slug": "3-javascript/javascript-conditionals",
-    "group": "JavaScript Fundamentals",
+    "title": "JavaScript DOM and Events",
+    "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
+    "slug": "3-javascript/javascript-dom-and-events",
+    "group": "DOM & Events",
     "type": "lesson"
   },
   {
     "title": "FAQ Page",
     "path": "3-javascript",
     "slug": "challenge/faq-page",
-    "group": "JavaScript Fundamentals",
+    "group": "DOM & Events",
     "type": "challenge",
     "challenge_id": 32
+  },
+  {
+    "title": "Multi-step Register Form",
+    "path": "3-javascript",
+    "slug": "challenge/multi-step-register-form",
+    "group": "DOM & Events",
+    "type": "challenge",
+    "challenge_id": 35
+  },
+  {
+    "title": "JavaScript Conditionals",
+    "path": "3-javascript/1-javascript/6-js-conditionals.md",
+    "slug": "3-javascript/javascript-conditionals",
+    "group": "Control Flow",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Loops",
     "path": "3-javascript/1-javascript/7-js-loops.md",
     "slug": "3-javascript/javascript-loops",
-    "group": "JavaScript Fundamentals",
+    "group": "Control Flow",
     "type": "lesson"
   },
   {
     "title": "Guess The Word Game",
     "path": "3-javascript",
     "slug": "challenge/guess-the-word",
-    "group": "JavaScript Fundamentals",
+    "group": "Control Flow",
     "type": "challenge",
     "challenge_id": 37
+  },
+  {
+    "title": "Music Player",
+    "path": "3-javascript",
+    "slug": "challenge/music-player",
+    "group": "Control Flow",
+    "type": "challenge",
+    "challenge_id": 36
+  },
+  {
+    "title": "JavaScript Storing Data in Browser",
+    "path": "3-javascript/1-javascript/16-storing-data-browser.md",
+    "slug": "3-javascript/javascript-storing-data-in-browser",
+    "group": "Data Management",
+    "type": "lesson"
   },
   {
     "title": "JavaScript Modules Basics",
     "path": "3-javascript/1-javascript/8-js-modules-basics.md",
     "slug": "3-javascript/javascript-modules-basics",
-    "group": "JavaScript Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "JavaScript Async and API",
-    "path": "3-javascript/1-javascript/12-async-and-api.md",
-    "slug": "3-javascript/javascript-async-and-api",
-    "group": "JavaScript Fundamentals",
+    "group": "Data Management",
     "type": "lesson"
   },
   {
     "title": "Random Quote",
     "path": "3-javascript",
     "slug": "challenge/random-quote",
-    "group": "JavaScript Fundamentals",
+    "group": "Data Management",
     "type": "challenge",
     "challenge_id": 38
   },
   {
-    "title": "JavaScript Storing Data in Browser",
-    "path": "3-javascript/1-javascript/16-storing-data-browser.md",
-    "slug": "3-javascript/javascript-storing-data-in-browser",
-    "group": "JavaScript Fundamentals",
+    "title": "JavaScript Async and API",
+    "path": "3-javascript/1-javascript/12-async-and-api.md",
+    "slug": "3-javascript/javascript-async-and-api",
+    "group": "Asynchronous Programming",
     "type": "lesson"
+  },
+  {
+    "title": "Movie Search App",
+    "path": "3-javascript",
+    "slug": "challenge/movie-search-app",
+    "group": "Asynchronous Programming",
+    "type": "challenge",
+    "challenge_id": 40
   },
   {
     "title": "JavaScript Regular Expressions",
     "path": "3-javascript/1-javascript/15-regex.md",
     "slug": "3-javascript/javascript-regular-expressions",
-    "group": "Advanced JavaScript",
+    "group": "Advanced Concepts",
     "type": "lesson"
   },
   {
     "title": "JavaScript Recursion",
     "path": "3-javascript/1-javascript/9-js-recursion.md",
     "slug": "3-javascript/javascript-recursion",
-    "group": "Advanced JavaScript",
+    "group": "Advanced Concepts",
     "type": "lesson"
   },
   {
     "title": "JavaScript Scope and Closures",
     "path": "3-javascript/1-javascript/11-js-scope-closures.md",
     "slug": "3-javascript/javascript-scope-and-closures",
-    "group": "Advanced JavaScript",
+    "group": "Advanced Concepts",
     "type": "lesson"
   },
-
   {
-    "title": "Movie Search App",
+    "title": "Basic Text To Speech",
     "path": "3-javascript",
-    "slug": "challenge/movie-search-app",
-    "group": "Advanced JavaScript",
+    "slug": "challenge/basic-text-to-speech",
+    "group": "Advanced Concepts",
     "type": "challenge",
-    "challenge_id": 40
+    "challenge_id": 39
   },
-
   {
     "title": "JavaScript Functional Programming",
     "path": "3-javascript/1-javascript/13-functional-programming.md",
     "slug": "3-javascript/javascript-functional-programming",
-    "group": "Advanced JavaScript",
+    "group": "Programming Paradigms",
     "type": "lesson"
   },
   {
     "title": "JavaScript OOP Concepts",
     "path": "3-javascript/1-javascript/14-oop.md",
     "slug": "3-javascript/javascript-oop-concepts",
-    "group": "Advanced JavaScript",
+    "group": "Programming Paradigms",
     "type": "lesson"
   },
-
-  {
-    "title": "Basic Text To Speech",
-    "path": "3-javascript",
-    "slug": "challenge/basic-text-to-speech",
-    "group": "Advanced JavaScript",
-    "type": "challenge",
-    "challenge_id": 39
-  },
-
   {
     "title": "Introduction to TypeScript",
     "path": "3-javascript/2-typescript/1-introduction-to-typescript.md",
@@ -527,7 +516,6 @@
     "group": "TypeScript",
     "type": "lesson"
   },
-
   {
     "title": "Introduction to React",
     "path": "4-frontend-libraries/1-react.js/1-introduction-to-react.md",
@@ -535,7 +523,6 @@
     "group": "React",
     "type": "lesson"
   },
-
   {
     "challenge_id": 45,
     "title": "Simple Coffee Listing",
@@ -556,7 +543,6 @@
     "challenge_id": 47,
     "title": "Translate app",
     "slug": "challenge/translate-app",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -565,7 +551,6 @@
     "challenge_id": 42,
     "title": "GitHub Profile",
     "slug": "challenge/github-profile",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -574,7 +559,6 @@
     "challenge_id": 48,
     "title": "Recipe page - HomeChef",
     "slug": "challenge/recipe-page-homechef",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -583,7 +567,6 @@
     "challenge_id": 49,
     "title": "Country Page - WorldRanks",
     "slug": "challenge/country-page",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -592,7 +575,6 @@
     "challenge_id": 50,
     "title": "Country Quiz",
     "slug": "challenge/country-quizz",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -601,7 +583,6 @@
     "challenge_id": 51,
     "title": "AI Chatbot - simplechat.ai",
     "slug": "challenge/ai-chat-bot",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -610,7 +591,6 @@
     "challenge_id": 52,
     "title": "Weather App",
     "slug": "challenge/weather-app",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
@@ -619,62 +599,50 @@
     "challenge_id": 54,
     "title": "Task Manager App",
     "slug": "challenge/task-manager-app",
-
     "path": "4-frontend-libraries",
     "group": "Frontend Libraries",
     "type": "challenge"
   },
-
   {
     "challenge_id": 56,
     "title": "Code Sharing App",
     "slug": "challenge/code-shraing-app-note-code",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
   },
-
   {
     "challenge_id": 57,
     "title": "Simple Image Uploader",
     "slug": "challenge/image-upload-app",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
   },
-
   {
     "challenge_id": 58,
     "title": "My Task Board",
     "slug": "challenge/my-task-board-app",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
   },
-
   {
     "challenge_id": 59,
     "title": "Unsplash Collection",
     "slug": "challenge/unsplash-collection",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
   },
-
   {
     "challenge_id": 60,
     "title": "AI Image Generator",
     "slug": "challenge/ai-image-generator",
-
     "path": "5-fullstack",
     "group": "Fullstack",
     "type": "challenge"
   },
-
   {
     "challenge_id": 61,
     "title": "User Portfolio Management",
