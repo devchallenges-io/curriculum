@@ -71,13 +71,6 @@ JSX offers several advantages over traditional JavaScript approaches when it com
 
 3. **Type Safety**: Another benefit of using JSX is the potential for type safety through compile-time checks. Since JSX is transformed into JavaScript during the build process, any errors in our markup can be caught early on before they reach production.
 
-> **Benefits of JSX**:
->
-> - More readable and maintainable code
-> - Better error detection
-> - Easier debugging
-> - Learn more about [JSX benefits](https://react.dev/learn/writing-markup-with-jsx#why-jsx)
-
 ## The importance of understanding JSX
 
 For React developers, having a solid understanding of JSX fundamentals is essential. It empowers us to create maintainable, efficient, and dynamic user interfaces while bridging the gap between markup and logic.
@@ -497,13 +490,6 @@ function Card() {
 }
 ```
 
-> **Utility CSS Benefits**:
->
-> - Rapid development
-> - Consistent styling
-> - Responsive design
-> - Learn more about [Tailwind CSS](https://tailwindcss.com/docs)
-
 ## 4. Best Practices for Writing Clean and Maintainable JSX Code
 
 Writing clean JSX code requires following specific design principles that improve code quality and maintainability. Here are key practices to implement in your React projects:
@@ -612,13 +598,6 @@ const element = React.createElement(
 );
 ```
 
-> **Transformation Tips**:
->
-> - Understand the process
-> - Write efficient JSX
-> - Use modern features
-> - Learn more about [JSX transformation](https://react.dev/learn/writing-markup-with-jsx#jsx-is-a-closer-to-javascript)
-
 ## 5. JSX Limitations and Common Pitfalls
 
 While JSX is powerful, it's important to understand its limitations and common pitfalls:
@@ -700,13 +679,6 @@ const UserProfile: React.FC<UserProps> = ({ name, age, email }) => {
   );
 };
 ```
-
-> **TypeScript Benefits**:
->
-> - Type safety
-> - Better IDE support
-> - Catch errors early
-> - Learn more about [TypeScript with React](https://react.dev/static/typescript-4.9.5/playground.html)
 
 ## 7. Event Handling in JSX
 

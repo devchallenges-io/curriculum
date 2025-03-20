@@ -122,7 +122,9 @@ async function addComment(postId, content) {
     createdAt: new Date(),
   };
 }
+```
 
+```jsx
 function CommentForm({ postId }) {
   const [comments, setComments] = useState([]);
 

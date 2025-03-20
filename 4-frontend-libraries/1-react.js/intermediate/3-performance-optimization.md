@@ -40,13 +40,6 @@ Performance optimization in React is crucial for creating fast, responsive appli
 > - Measure before and after changes
 > - Start with the most impactful optimizations
 
-### Learning Objectives
-
-- Understand why performance optimization matters
-- Learn essential React optimization techniques
-- Master practical implementation strategies
-- Know how to measure and monitor performance
-
 ### Why Performance Matters
 
 - Faster applications lead to better user engagement

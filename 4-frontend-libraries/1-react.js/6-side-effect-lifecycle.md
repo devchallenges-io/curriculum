@@ -77,13 +77,6 @@ To build efficient React applications, it's crucial to have a thorough understan
 - Maintain clean, predictable component behavior
 - Handle resource management effectively
 
-> **Benefits of useEffect**:
->
-> - Better performance
-> - Cleaner code
-> - Fewer bugs
-> - Learn more about [useEffect benefits](https://react.dev/learn/synchronizing-with-effects)
-
 This guide delves into the complexities of `useEffect`, showcasing how to leverage its power while steering clear of common mistakes in your React applications.
 
 ## Understanding Side Effects in React
@@ -100,38 +93,17 @@ Side effects in React represent operations that occur outside the normal compone
 - Database queries
 - Loading remote resources
 
-> **Data Fetching Benefits**:
->
-> - Get data from servers
-> - Update UI with results
-> - Handle loading states
-> - Learn more about [React data fetching](https://react.dev/learn/synchronizing-with-effects#fetching-data)
-
 #### 2. DOM Manipulations
 
 - Direct updates to document title
 - Managing focus states
 - Controlling scroll positions
 
-> **DOM Manipulation Benefits**:
->
-> - Update browser UI
-> - Control user focus
-> - Manage scroll behavior
-> - Learn more about [React DOM manipulation](https://react.dev/learn/manipulating-the-dom-with-refs)
-
 #### 3. Subscriptions
 
 - WebSocket connections
 - Event listeners
 - Third-party service integrations
-
-> **Subscription Benefits**:
->
-> - Real-time updates
-> - Event handling
-> - External service integration
-> - Learn more about [React subscriptions](https://react.dev/learn/synchronizing-with-effects#subscribing-to-events)
 
 Side effects require careful handling because they can impact application performance and user experience. Consider this example of an unmanaged side effect:
 
@@ -159,13 +131,6 @@ This code creates memory leaks and performance issues because it adds multiple l
 - Reduces unnecessary re-renders
 - Maintains consistent application state
 - Improves application responsiveness
-
-> **Management Benefits**:
->
-> - Better performance
-> - Fewer bugs
-> - Cleaner code
-> - Learn more about [React effect management](https://react.dev/learn/synchronizing-with-effects)
 
 A well-managed side effect looks like this:
 
@@ -208,13 +173,6 @@ useEffect(() => {
 }, [dependencies]);
 ```
 
-> **useEffect Structure**:
->
-> - Effect function
-> - Cleanup function
-> - Dependencies array
-> - Learn more about [useEffect structure](https://react.dev/reference/react/useEffect)
-
 The hook accepts two arguments:
 
 - A function containing the effect logic
@@ -251,13 +209,6 @@ function ExampleComponent() {
   }, []);
 }
 ```
-
-> **Lifecycle Benefits**:
->
-> - Simpler code
-> - Better organization
-> - Easier maintenance
-> - Learn more about [React lifecycle](https://react.dev/learn/lifecycle-of-reactive-effects)
 
 ### How useEffect Works with the Component Render Cycle
 
@@ -395,13 +346,6 @@ useEffect(() => {
 }, [dependencies]);
 ```
 
-> **Cleanup Structure**:
->
-> - Effect setup
-> - Cleanup function
-> - Resource management
-> - Learn more about [React cleanup](https://react.dev/learn/synchronizing-with-effects)
-
 ### Common Use Cases for Cleanup Functions
 
 #### 1. Managing Event Listeners
@@ -473,13 +417,6 @@ useEffect(() => {
 - Handle asynchronous operations properly
 - Ensure cleanup functions run synchronously
 
-> **Cleanup Best Practices**:
->
-> - Clean up all resources
-> - Handle async operations
-> - Run cleanup synchronously
-> - Learn more about [React cleanup best practices](https://react.dev/learn/synchronizing-with-effects)
-
 **Example with Async Operations:**
 
 ```jsx
@@ -516,13 +453,6 @@ useEffect(() => {
 - Unsubscribe from subscriptions
 - Reset state values when necessary
 
-> **Resource Management**:
->
-> - Clean up timers
-> - Remove listeners
-> - Cancel requests
-> - Learn more about [React resource management](https://react.dev/learn/synchronizing-with-effects)
-
 **Example with Multiple Resources:**
 
 ```jsx
@@ -539,13 +469,6 @@ useEffect(() => {
   };
 }, []);
 ```
-
-> **Multiple Resources**:
->
-> - Handle multiple resources
-> - Clean up everything
-> - Prevent memory leaks
-> - Learn more about [React multiple resources](https://react.dev/learn/synchronizing-with-effects)
 
 ## Best Practices for Using useEffect and Cleanup Functions Effectively
 
@@ -575,13 +498,6 @@ useEffect(() => {
 }, []);
 ```
 
-> **Effect Focus**:
->
-> - One effect per concern
-> - Better organization
-> - Easier maintenance
-> - Learn more about [React effect focus](https://react.dev/learn/synchronizing-with-effects)
-
 ### 2. Optimize Dependencies
 
 - Include only necessary dependencies in the dependency array
@@ -599,13 +515,6 @@ useEffect(() => {
 }, [userId, userName]);
 ```
 
-> **Dependency Optimization**:
->
-> - Specific dependencies
-> - Better performance
-> - Fewer re-renders
-> - Learn more about [React dependencies](https://react.dev/learn/synchronizing-with-effects)
-
 ### 3. Handle Cleanup Consistently
 
 - Return cleanup functions for all subscriptions and timers
@@ -620,13 +529,6 @@ useEffect(() => {
 }, []);
 ```
 
-> **Cleanup Consistency**:
->
-> - Always clean up
-> - Prevent memory leaks
-> - Better performance
-> - Learn more about [React cleanup](https://react.dev/learn/synchronizing-with-effects)
-
 ### 4. Use Ref for Mutable Values
 
 - Store values that don't trigger re-renders in refs
@@ -639,13 +541,6 @@ useEffect(() => {
   return () => clearInterval(timerRef.current);
 }, []);
 ```
-
-> **Ref Usage**:
->
-> - Store mutable values
-> - Access current values
-> - Better performance
-> - Learn more about [React refs](https://react.dev/learn/referencing-values-with-refs)
 
 These practices help create maintainable, efficient React applications while preventing common pitfalls like memory leaks and unnecessary re-renders.
 
@@ -680,13 +575,6 @@ useEffect(() => {
 }, []);
 ```
 
-> **Loop Fix**:
->
-> - Use functional updates
-> - Clear dependencies
-> - Better performance
-> - Learn more about [React effect fixes](https://react.dev/learn/synchronizing-with-effects)
-
 ### 2. Stale Closures
 
 #### Captures outdated values
@@ -717,13 +605,6 @@ useEffect(() => {
   return () => clearInterval(timer);
 }, [count]);
 ```
-
-> **Closure Fix**:
->
-> - Include dependencies
-> - Use refs when needed
-> - Better behavior
-> - Learn more about [React closure fixes](https://react.dev/learn/synchronizing-with-effects)
 
 ### 3. Race Conditions in Data Fetching
 
@@ -758,13 +639,6 @@ useEffect(() => {
 }, [id]);
 ```
 
-> **Race Condition Fix**:
->
-> - Track mounted state
-> - Cancel old requests
-> - Better data handling
-> - Learn more about [React race condition fixes](https://react.dev/learn/synchronizing-with-effects)
-
 ### 4. Missing Dependency Warnings
 
 To address missing dependency warnings, consider the following steps:
@@ -772,13 +646,6 @@ To address missing dependency warnings, consider the following steps:
 - Use the ESLint plugin `eslint-plugin-react-hooks`
 - Address all dependency warnings unless there's a compelling reason to ignore them
 - Consider refactoring complex effects into custom hooks for better maintainability
-
-> **Dependency Warnings**:
->
-> - Use ESLint
-> - Fix warnings
-> - Better code quality
-> - Learn more about [React dependency warnings](https://react.dev/learn/synchronizing-with-effects)
 
 ## Conclusion
 
@@ -813,13 +680,6 @@ useEffect(() => {
   };
 }, []);
 ```
-
-> **Common Patterns**:
->
-> - Cleanup functions
-> - Data fetching
-> - Resource management
-> - Learn more about [React patterns](https://react.dev/learn/synchronizing-with-effects)
 
 The power of `useEffect` lies in its flexibility - from simple DOM manipulations to complex data synchronization. The ability to handle side effects seamlessly transforms good React applications into great ones.
 

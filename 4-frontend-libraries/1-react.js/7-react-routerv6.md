@@ -25,21 +25,7 @@ React Router v6 is a powerful routing library that makes navigation in React app
 
 > **Pro Tip**: Think of React Router as a GPS for your React application - it helps users navigate between different parts of your app without refreshing the page.
 
-The latest version of React Router comes with some major improvements:
-
-- **Simplified API**: The syntax for defining routes has been made simpler.
-- **Enhanced Performance**: Rendering and navigation have been optimized for better speed.
-- **TypeScript Support**: There are built-in type definitions for improved development with TypeScript.
-- **Automatic Route Ranking**: An intelligent system for matching paths automatically.
-
-> **Key Points to Remember**:
->
-> - React Router helps manage navigation in React apps
-> - It prevents page refreshes when navigating
-> - It maintains app state during navigation
-> - Learn more about [React Router basics](https://reactrouter.com/en/main)
-
-In this guide, we will explore the main features of React Router v6:
+In this lesson, we will explore the main features of React Router v6:
 
 - Dynamic routing capabilities for flexible URL parameters
 - Nested routes for organized component hierarchies
@@ -61,13 +47,6 @@ Here's how client-side routing works in React:
 - **State Preservation**: The application maintains its state during navigation
 - **Instant Updates**: Page transitions happen instantly without reload delays
 
-> **Client-Side Routing Benefits**:
->
-> - Faster navigation
-> - Better user experience
-> - State preservation
-> - Learn more about [React Router navigation](https://reactrouter.com/en/main/guides/navigation)
-
 ### Benefits of React Router v6 for SPAs
 
 React Router v6 enhances single-page applications (SPAs) through several key benefits:
@@ -78,38 +57,17 @@ React Router v6 enhances single-page applications (SPAs) through several key ben
 - Faster page transitions
 - Minimal data transfer
 
-> **Performance Benefits**:
->
-> - No full page reloads
-> - Faster transitions
-> - Better user experience
-> - Learn more about [React Router performance](https://reactrouter.com/en/main/guides/performance)
-
 2. **Enhanced User Experience**
 
 - Smooth navigation without page refreshes
 - Persistent application state
 - Dynamic content loading
 
-> **User Experience Benefits**:
->
-> - Smooth transitions
-> - State preservation
-> - Better feedback
-> - Learn more about [React Router UX](https://reactrouter.com/en/main/guides/ux)
-
 3. **Developer-Friendly Features**
 
 - Declarative routing syntax
 - Built-in navigation components
 - Powerful pattern matching
-
-> **Developer Benefits**:
->
-> - Easy to use
-> - Powerful features
-> - Better organization
-> - Learn more about [React Router features](https://reactrouter.com/en/main/guides/features)
 
 ### Basic Routing Example
 
@@ -504,13 +462,6 @@ Here's a practical example of styling active links with CSS:
 }
 ```
 
-> **Active Link Styling**:
->
-> - Visual feedback
-> - User experience
-> - Consistent design
-> - Learn more about [React Router styling](https://reactrouter.com/en/main/guides/styling)
-
 `NavLink` becomes particularly useful when building navigation menus, breadcrumbs, or any UI element that needs to reflect the current route state visually to users.
 
 ## Best Practices for Implementing Navigation in React Applications
@@ -525,13 +476,6 @@ Creating user-friendly navigation goes beyond basic implementation. Here are ess
 - Implement ARIA labels for screen readers
 - Maintain consistent navigation patterns across routes
 
-> **Semantic Navigation**:
->
-> - Accessibility
-> - SEO benefits
-> - Better structure
-> - Learn more about [React Router accessibility](https://reactrouter.com/en/main/guides/accessibility)
-
 ### Performance Optimization
 
 - Implement lazy loading for route components
@@ -540,13 +484,6 @@ Creating user-friendly navigation goes beyond basic implementation. Here are ess
 const About = React.lazy(() => import("./routes/About"));
 ```
 
-> **Lazy Loading**:
->
-> - Better performance
-> - Smaller bundles
-> - Faster loading
-> - Learn more about [React Router lazy loading](https://reactrouter.com/en/main/guides/lazy-loading)
-
 - Pre-fetch routes on hover for faster transitions
 
 ```jsx
@@ -554,13 +491,6 @@ const About = React.lazy(() => import("./routes/About"));
   About
 </Link>
 ```
-
-> **Route Prefetching**:
->
-> - Faster transitions
-> - Better UX
-> - Optimized loading
-> - Learn more about [React Router prefetching](https://reactrouter.com/en/main/guides/prefetching)
 
 ### User Experience Enhancement
 
@@ -582,25 +512,11 @@ const About = React.lazy(() => import("./routes/About"));
 </nav>
 ```
 
-> **UX Enhancement**:
->
-> - Loading states
-> - Scroll behavior
-> - Navigation feedback
-> - Learn more about [React Router UX](https://reactrouter.com/en/main/guides/ux)
-
 ### Error Handling
 
 - Create dedicated error boundary components
 - Implement fallback routes for 404 pages
 - Handle broken links gracefully with user-friendly messages
-
-> **Error Handling**:
->
-> - Error boundaries
-> - Fallback routes
-> - User feedback
-> - Learn more about [React Router error handling](https://reactrouter.com/en/main/guides/error-handling)
 
 ## Conclusion
 

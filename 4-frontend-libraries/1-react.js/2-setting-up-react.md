@@ -25,26 +25,12 @@ When starting a new React project, it's important to carefully choose the tools 
 
 Create React App is a reliable tool for developers, offering a stable environment with pre-configured settings and essential tools like Webpack and Babel. On the other hand, Vite is an advanced build tool that provides an incredibly fast development experience using native ES modules.
 
-> **Key Points to Remember**:
->
-> - CRA is better for beginners and small projects
-> - Vite is better for larger projects and faster development
-> - Both tools handle complex configurations automatically
-> - Learn more about [React project setup](https://react.dev/learn/start-a-new-react-project)
-
 A well-organized folder structure is crucial for any successful React project. It:
 
 - Improves code maintainability
 - Speeds up development workflow
 - Promotes collaboration among team members
 - Allows for scalability as projects grow
-
-> **Why Structure Matters**:
->
-> - Easier to find and modify code
-> - Better team collaboration
-> - Simpler maintenance
-> - Learn more about [React project structure](https://react.dev/learn/thinking-in-react)
 
 The decisions you make during project setup can have a significant impact on how efficient your development process is and how easy it will be to maintain your project in the long run. This guide will walk you through the setup process using both CRA and Vite, as well as proven folder structure patterns that can be applied to projects of different sizes and complexities.
 
@@ -61,13 +47,6 @@ Create React App (CRA) is an official tool developed by Facebook for creating si
 - **ESLint Setup**: Pre-configured code linting for maintaining code quality standards
 - **Hot Reloading**: Instant reflection of code changes in the browser
 - **Testing Environment**: Jest testing framework ready for unit testing
-
-> **Feature Benefits**:
->
-> - No configuration needed
-> - Built-in development tools
-> - Ready for testing
-> - Learn more about [CRA features](https://create-react-app.dev/docs/getting-started)
 
 CRA is particularly useful in various situations:
 
@@ -92,13 +71,6 @@ For beginners, CRA offers several advantages:
 3. Built-in error reporting
 4. Extensive documentation and community support
 
-> **Beginner Benefits**:
->
-> - Easy to get started
-> - Clear documentation
-> - Helpful error messages
-> - Learn more about [CRA for beginners](https://create-react-app.dev/docs/getting-started)
-
 ### Limitations in Larger Applications
 
 However, there are limitations to consider when working on larger applications:
@@ -107,13 +79,6 @@ However, there are limitations to consider when working on larger applications:
 2. Increased bundle size with unused features
 3. Challenging to customize webpack settings
 4. Performance impacts in complex applications
-
-> **CRA Limitations**:
->
-> - Less flexible configuration
-> - Larger bundle sizes
-> - Performance overhead
-> - Learn more about [CRA limitations](https://create-react-app.dev/docs/advanced-configuration)
 
 The opinionated structure of CRA works well for standard React applications but may require "ejection" (a process that allows you to customize the underlying configuration) for advanced customization needs. As projects become more complex and require specialized configurations, this trade-off between simplicity and flexibility becomes more apparent.
 
@@ -130,25 +95,11 @@ Vite is a next-generation build tool designed to overcome the limitations of tra
 - **True Hot Module Replacement (HMR)**: Changes reflect in the browser within milliseconds
 - **Out-of-the-box TypeScript Support**: Direct TypeScript compilation without additional configuration
 
-> **Vite Benefits**:
->
-> - Faster development
-> - Better performance
-> - Modern features
-> - Learn more about [Vite features](https://vitejs.dev/guide/)
-
 ### Speed Comparison with Create React App:
 
 - Development server startup: Vite < 1 second vs CRA 20-30 seconds
 - Hot module replacement: Vite ~50ms vs CRA 2-3 seconds
 - Production builds: Vite uses Rollup for optimized bundles
-
-> **Performance Benefits**:
->
-> - Faster startup
-> - Quick updates
-> - Optimized builds
-> - Learn more about [Vite performance](https://vitejs.dev/guide/why.html)
 
 ### Plugin Ecosystem and Extensibility:
 
@@ -157,26 +108,12 @@ Vite is a next-generation build tool designed to overcome the limitations of tra
 - Pre-configured templates for popular frameworks
 - Built-in support for CSS modules, PostCSS, and asset handling
 
-> **Plugin Benefits**:
->
-> - Easy customization
-> - Framework support
-> - Asset handling
-> - Learn more about [Vite plugins](https://vitejs.dev/plugins/)
-
 ### Ideal Use Cases:
 
 1. Large-scale applications with numerous components
 2. Projects requiring quick iteration cycles
 3. Teams prioritizing development experience
 4. Applications needing fine-grained build configuration
-
-> **When to Use Vite**:
->
-> - Large projects
-> - Need fast development
-> - Modern features
-> - Learn more about [Vite use cases](https://vitejs.dev/guide/why.html)
 
 The modern architecture of Vite makes it particularly suitable for projects where build performance and development experience are critical factors. Its ability to handle large codebases efficiently positions it as a powerful alternative to traditional bundler-based setups.
 
@@ -197,13 +134,6 @@ or with `yarn`
 ```bash
 yarn create react-app my-react-app
 ```
-
-> **Installation Notes**:
->
-> - Requires Node.js
-> - Uses npm or yarn
-> - Creates project structure
-> - Learn more about [CRA installation](https://create-react-app.dev/docs/getting-started)
 
 ### 2. Navigate to Project Directory
 
@@ -250,26 +180,12 @@ my-react-app/
 └── README.md
 ```
 
-> **Project Structure**:
->
-> - Organized folders
-> - Clear separation
-> - Easy to navigate
-> - Learn more about [CRA structure](https://create-react-app.dev/docs/folder-structure)
-
 After running the development server, CRA opens your default browser at `http://localhost:3000`. The development environment includes:
 
 - **Hot Module Replacement**: Changes reflect instantly in the browser
 - **Error Overlay**: Displays runtime errors in the browser
 - **Source Maps**: Helps debug code in development tools
 - **Built-in ESLint Configuration**: Catches common mistakes during development
-
-> **Development Features**:
->
-> - Live updates
-> - Error handling
-> - Debugging tools
-> - Learn more about [CRA development features](https://create-react-app.dev/docs/available-scripts)
 
 The development server also provides a build optimization preview and helpful terminal output, showing compilation status and any errors or warnings in your code.
 
@@ -291,26 +207,12 @@ or
 yarn create vite my-react-app
 ```
 
-> **Project Creation**:
->
-> - Modern setup
-> - Fast initialization
-> - Template selection
-> - Learn more about [Vite setup](https://vitejs.dev/guide/)
-
 ### 2. Select Project Template
 
 When prompted, choose:
 
 - Framework: `React`
 - Variant: `JavaScript` or `TypeScript`
-
-> **Template Options**:
->
-> - Multiple frameworks
-> - Language choices
-> - TypeScript support
-> - Learn more about [Vite templates](https://vitejs.dev/guide/)
 
 ### 3. Navigate and Install Dependencies
 
@@ -337,13 +239,6 @@ or
 yarn dev
 ```
 
-> **Development Server**:
->
-> - Fast startup
-> - Hot module replacement
-> - Error handling
-> - Learn more about [Vite development](https://vitejs.dev/guide/features.html)
-
 The generated project structure includes:
 
 ```
@@ -360,26 +255,12 @@ my-react-app/
 └── vite.config.js
 ```
 
-> **Vite Structure**:
->
-> - Modern organization
-> - Clear separation
-> - Easy to understand
-> - Learn more about [Vite structure](https://vitejs.dev/guide/)
-
 **Key Differences from CRA:**
 
 - `index.html` lives in the root directory
 - Entry point is `src/main.jsx`
 - Built-in support for static assets in `public/`
 - Simplified configuration in `vite.config.js`
-
-> **Structure Differences**:
->
-> - More modern approach
-> - Better organization
-> - Simpler configuration
-> - Learn more about [Vite vs CRA](https://vitejs.dev/guide/why.html)
 
 Vite's development server starts in milliseconds and provides instant hot module replacement (HMR). The build tool optimizes your production bundle automatically, splitting code and lazy-loading modules for optimal performance.
 
@@ -392,13 +273,6 @@ export default {
   build: { outDir: "build" },
 };
 ```
-
-> **Configuration Options**:
->
-> - Plugin support
-> - Server settings
-> - Build options
-> - Learn more about [Vite configuration](https://vitejs.dev/config/)
 
 ## Folder Structure Best Practices for React Projects
 
@@ -433,13 +307,6 @@ src/
 └── App.jsx
 ```
 
-> **Basic Structure Benefits**:
->
-> - Easy to understand
-> - Clear organization
-> - Scalable foundation
-> - Learn more about [React folder structure](https://react.dev/learn/thinking-in-react)
-
 This structure follows these key principles:
 
 - **Component Organization**: Each component lives in its dedicated folder with associated files (styles, tests)
@@ -447,26 +314,12 @@ This structure follows these key principles:
 - **Testing Structure**: Dedicated `__tests__` folder separates test files from implementation
 - **Asset Management**: Clear separation of images, icons, and global styles
 
-> **Structure Principles**:
->
-> - Clear separation
-> - Easy maintenance
-> - Good organization
-> - Learn more about [React organization](https://react.dev/learn/thinking-in-react)
-
 The benefits of this straightforward approach include:
 
 - **Quick Navigation**: Developers can locate files instantly
 - **Predictable Pattern**: New team members adapt quickly to the codebase
 - **Maintainable Testing**: Organized test structure encourages consistent testing practices
 - **Scalable Foundation**: Easy to expand as project requirements grow
-
-> **Structure Benefits**:
->
-> - Easy to navigate
-> - Team friendly
-> - Scalable
-> - Learn more about [React benefits](https://react.dev/learn/thinking-in-react)
 
 For components that share common functionality or UI elements, consider creating subdirectories:
 
@@ -479,13 +332,6 @@ components/
 ├── Header/
 └── Footer/
 ```
-
-> **Subdirectory Benefits**:
->
-> - Better organization
-> - Clear relationships
-> - Easy to maintain
-> - Learn more about [React subdirectories](https://react.dev/learn/thinking-in-react)
 
 This basic structure provides a solid foundation for small projects while maintaining flexibility for future growth. The clear separation of concerns makes code reviews more efficient and helps prevent technical debt from accumulating early in the development process.
 
@@ -509,23 +355,9 @@ src/
 └── context/
 ```
 
-> **Intermediate Structure**:
->
-> - Better organization
-> - Clear separation
-> - Scalable design
-> - Learn more about [React intermediate structure](https://react.dev/learn/thinking-in-react)
-
 #### Pages Directory
 
 The `pages` directory contains components that represent different routes in your application. Each page component serves as a container for smaller, reusable components.
-
-> **Pages Benefits**:
->
-> - Route organization
-> - Clear hierarchy
-> - Easy navigation
-> - Learn more about [React pages](https://react.dev/learn/thinking-in-react)
 
 #### Components Directory
 
@@ -535,13 +367,6 @@ The `components` directory now includes subdirectories:
 - `forms/`: Contains form-related components
 - `layout/`: Stores header, footer, navigation components
 
-> **Component Organization**:
->
-> - Clear categories
-> - Easy to find
-> - Better reuse
-> - Learn more about [React components](https://react.dev/learn/your-first-component)
-
 #### Assets Folder
 
 The `assets` folder organizes static files:
@@ -550,13 +375,6 @@ The `assets` folder organizes static files:
 - `icons/`: SVG icons and icon components
 - `styles/`: Global styles, themes, CSS modules
 
-> **Asset Management**:
->
-> - Clear organization
-> - Easy to maintain
-> - Better performance
-> - Learn more about [React assets](https://react.dev/learn/thinking-in-react)
-
 #### Additional Directories
 
 Additional directories enhance maintainability:
@@ -564,13 +382,6 @@ Additional directories enhance maintainability:
 - `utils/`: Helper functions and utilities
 - `services/`: API calls and external service integrations
 - `context/`: React Context providers and consumers
-
-> **Additional Benefits**:
->
-> - Better organization
-> - Clear separation
-> - Easy maintenance
-> - Learn more about [React utilities](https://react.dev/learn/thinking-in-react)
 
 This structure promotes component reusability and makes navigation intuitive for team members.
 
@@ -604,34 +415,13 @@ src/
 └── types/
 ```
 
-> **Advanced Structure**:
->
-> - Feature-based
-> - Clear separation
-> - Scalable design
-> - Learn more about [React advanced structure](https://react.dev/learn/thinking-in-react)
-
 #### Key Features of the Structure
 
 - Each feature folder contains all related code, making it easier to maintain and test.
 - The `shared` directory holds common components and utilities used across features.
 - The `core` folder includes application-wide configurations and essential services.
 
-> **Structure Features**:
->
-> - Feature isolation
-> - Shared resources
-> - Core functionality
-> - Learn more about [React features](https://react.dev/learn/thinking-in-react)
-
 This structure works exceptionally well with lazy loading and code splitting, allowing features to be loaded on demand for optimal performance.
-
-> **Performance Benefits**:
->
-> - Lazy loading
-> - Code splitting
-> - Better performance
-> - Learn more about [React performance](https://react.dev/learn/thinking-in-react)
 
 #### Benefits of the Approach
 
@@ -639,13 +429,6 @@ This structure works exceptionally well with lazy loading and code splitting, al
 - Enables parallel development across teams
 - Simplifies feature additions and removals
 - Promotes code reusability through shared utilities
-
-> **Approach Benefits**:
->
-> - Better organization
-> - Team efficiency
-> - Easy maintenance
-> - Learn more about [React benefits](https://react.dev/learn/thinking-in-react)
 
 ### Utilizing Path Aliases
 
@@ -660,13 +443,6 @@ You can use clean, intuitive aliases:
 ```typescript
 import { Button } from "@components/ui/Button";
 ```
-
-> **Path Alias Benefits**:
->
-> - Cleaner imports
-> - Better maintainability
-> - Easier refactoring
-> - Learn more about [React path aliases](https://react.dev/learn/thinking-in-react)
 
 #### Setting Up Path Aliases
 
@@ -686,13 +462,6 @@ import { Button } from "@components/ui/Button";
 }
 ```
 
-> **TypeScript Configuration**:
->
-> - Path mapping
-> - Better imports
-> - Type safety
-> - Learn more about [React TypeScript](https://react.dev/learn/typescript)
-
 **2. Update your build configuration (Vite example):**
 
 ```javascript
@@ -707,13 +476,6 @@ export default defineConfig({
   },
 });
 ```
-
-> **Build Configuration**:
->
-> - Path resolution
-> - Better organization
-> - Clean imports
-> - Learn more about [React configuration](https://react.dev/learn/thinking-in-react)
 
 Path aliases enhance code maintainability by reducing refactoring complexity and improving import readability. They create a consistent way to reference project files regardless of the current file's location in the directory structure.
 
@@ -732,13 +494,6 @@ A robust React development environment requires essential tools to maintain code
 - IDE integration for real-time formatting
 - Supports multiple file types (JavaScript, TypeScript, CSS)
 
-> **Prettier Benefits**:
->
-> - Consistent formatting
-> - Better readability
-> - Team standards
-> - Learn more about [Prettier](https://prettier.io/)
-
 ```json
 {
   "semi": true,
@@ -754,13 +509,6 @@ A robust React development environment requires essential tools to maintain code
 - Identifies potential bugs and anti-patterns
 - Enforces coding standards
 - Custom rule configurations
-
-> **ESLint Benefits**:
->
-> - Code quality
-> - Bug prevention
-> - Standards enforcement
-> - Learn more about [ESLint](https://eslint.org/)
 
 ```json
 // .eslintrc
@@ -792,13 +540,6 @@ npm install --save-dev prettier eslint eslint-config-prettier
 }
 ```
 
-> **Integration Benefits**:
->
-> - Automated formatting
-> - Quality checks
-> - Consistent code
-> - Learn more about [React tooling](https://react.dev/learn/thinking-in-react)
-
 #### VS Code Integration
 
 Add these settings to your `settings.json`:
@@ -813,13 +554,6 @@ Add these settings to your `settings.json`:
 }
 ```
 
-> **VS Code Benefits**:
->
-> - Auto-formatting
-> - Real-time checks
-> - Better development
-> - Learn more about [VS Code React](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
-
 #### Git Pre-commit Setup
 
 Create a `.lintstagedrc` file:
@@ -830,25 +564,11 @@ Create a `.lintstagedrc` file:
 }
 ```
 
-> **Git Benefits**:
->
-> - Quality control
-> - Consistent code
-> - Better collaboration
-> - Learn more about [React Git](https://react.dev/learn/thinking-in-react)
-
 These tools work together to create a seamless development experience. Prettier handles code formatting, ESLint catches potential issues, and Git hooks ensure code quality standards are met before commits reach your repository.
 
 #### Version Control with Husky Hooks
 
 Husky hooks transform your React project's version control into a robust quality assurance system. These Git hooks automate code quality checks before commits and pushes, preventing problematic code from entering your repository.
-
-> **Husky Benefits**:
->
-> - Quality assurance
-> - Automated checks
-> - Better collaboration
-> - Learn more about [Husky](https://typicode.github.io/husky/)
 
 ##### Setting Up Husky
 
@@ -892,26 +612,12 @@ This setup runs linting and formatting checks before each commit. A practical ex
 }
 ```
 
-> **Lint-staged Benefits**:
->
-> - Efficient checks
-> - Better performance
-> - Quality control
-> - Learn more about [lint-staged](https://github.com/okonet/lint-staged)
-
 Husky integrates seamlessly with other tools:
 
 - **ESLint**: Catches code quality issues
 - **Prettier**: Ensures consistent formatting
 - **Jest**: Runs tests before pushing changes
 - **TypeScript**: Performs type checking
-
-> **Integration Benefits**:
->
-> - Better quality
-> - Automated checks
-> - Consistent code
-> - Learn more about [React tooling](https://react.dev/learn/thinking-in-react)
 
 This automated workflow maintains code quality standards across team members and prevents common issues from reaching your main branches.
 
@@ -933,24 +639,11 @@ Setting up a React project requires careful consideration of your development to
 - Enhanced flexibility for customization
 - Excellent for large-scale applications
 
-> **Tool Comparison**:
->
-> - CRA: Beginner friendly
-> - Vite: Performance focused
-> - Learn more about [React tools](https://react.dev/learn/thinking-in-react)
-
 A well-organized folder structure serves as the backbone of successful React projects:
 
 - Small projects benefit from a simple `/components`, `/hooks`, and `/tests` structure
 - Growing applications require additional organization with `/pages` and `/ui` components
 - Complex projects thrive with feature-based architecture and specialized service folders
-
-> **Structure Benefits**:
->
-> - Better organization
-> - Easy maintenance
-> - Scalable design
-> - Learn more about [React structure](https://react.dev/learn/thinking-in-react)
 
 The combination of proper tooling, thoughtful folder organization, and consistent coding practices creates a solid foundation for React development. These practices enable:
 
@@ -958,13 +651,6 @@ The combination of proper tooling, thoughtful folder organization, and consisten
 - Improved code maintainability
 - Enhanced team collaboration
 - Scalable application architecture
-
-> **Development Benefits**:
->
-> - Better efficiency
-> - Quality code
-> - Team collaboration
-> - Learn more about [React development](https://react.dev/learn/thinking-in-react)
 
 Remember to adapt these practices based on your project's specific needs and team preferences. The goal is to create a development environment that promotes efficiency, maintainability, and seamless collaboration among team members.
 

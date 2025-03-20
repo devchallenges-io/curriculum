@@ -229,13 +229,6 @@ Functional components naturally align with pure function principles:
 - Easier to test and debug
 - Better code organization
 
-> **Testing Advantages**:
->
-> - Components can be tested as pure functions
-> - Easier to mock props and state
-> - Better test isolation
-> - Learn more about [testing React components](https://react.dev/learn/testing)
-
 ### **4. Testing Advantages**
 
 The absence of complex lifecycle methods and class instances makes unit testing straightforward. You can test your components as regular functions, focusing on input-output relationships without managing complex state scenarios.

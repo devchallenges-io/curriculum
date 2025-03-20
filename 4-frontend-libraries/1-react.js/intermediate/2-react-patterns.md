@@ -31,27 +31,12 @@ Three important patterns stand out in the React world:
 - **Render Props**: Share component logic flexibly
 - **Higher-Order Components (HOCs)**: Reuse component logic effectively
 
-> **Key Points to Remember**:
->
-> - Patterns help solve common React problems
-> - They improve code reusability
-> - They make components more maintainable
-> - Learn more about [React Design Patterns](https://react.dev/learn/thinking-in-react)
-
 These patterns aren't just theoretical ideas - they're practical tools that help you write cleaner, more maintainable code. They enable you to:
 
 - Reduce code duplication
 - Create more flexible component APIs
 - Manage state and logic efficiently
 - Build truly reusable components
-
-> **Learning Objectives**:
->
-> - Understand what React patterns are
-> - Learn when to use each pattern
-> - Master pattern implementation
-> - Explore real-world examples
-> - Learn more about [React Patterns Guide](https://react.dev/learn/thinking-in-react)
 
 In this lesson, we'll explore each pattern in detail with practical examples. You'll learn when to use each pattern and how to implement them in your projects. By the end, you'll have a solid understanding of these powerful techniques to enhance your React applications.
 

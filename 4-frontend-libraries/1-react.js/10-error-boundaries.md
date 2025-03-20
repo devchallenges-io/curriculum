@@ -32,31 +32,7 @@ React's error handling mechanism helps developers:
 - Capture and log errors for debugging
 - Maintain smooth user experiences
 
-> **Key Points to Remember**:
->
-> - Error boundaries catch errors in child components
-> - They prevent the entire app from crashing
-> - They show fallback UI when errors occur
-> - Learn more about [React Error Boundaries](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
-
 Debugging strategies complement error boundaries by providing tools and techniques to identify, track, and resolve issues during development. From React DevTools to strategic console logging, these approaches streamline the debugging process.
-
-> **Learning Objectives**:
->
-> - Understand how error boundaries work
-> - Learn debugging techniques
-> - Master error handling patterns
-> - Explore debugging tools
-> - Learn more about [React Error Handling](https://react.dev/learn/thinking-in-react)
-
-This guide explores:
-
-- Creating and implementing error boundaries
-- Understanding their limitations
-- Utilizing React DevTools effectively
-- Applying practical debugging techniques
-- Resolving common React application issues
-- Integrating third-party error boundary libraries
 
 Whether you're building a small project or a complex application, these skills form the foundation of reliable React development. Let's dive into mastering error handling and debugging in React.
 
@@ -67,13 +43,6 @@ Error boundaries act as JavaScript error catchers in React component trees, prev
 > **Pro Tip**: Think of error boundaries as a way to gracefully handle errors in your React components, similar to how try-catch blocks work in JavaScript.
 
 React 16 introduced error boundaries as a response to the challenge of handling runtime errors gracefully. Before this feature, JavaScript errors could corrupt React's internal state, leading to cryptic errors on subsequent renders.
-
-> **Error Boundary Basics**:
->
-> - Catch errors in child components
-> - Show fallback UI
-> - Log error information
-> - Learn more about [React Error Boundary Basics](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
 
 ### How Error Boundaries Work
 
@@ -125,13 +94,6 @@ Creating an error boundary requires implementing at least one of these lifecycle
 - `static getDerivedStateFromError()` - Renders fallback UI
 - `componentDidCatch()` - Logs error information
 
-> **Implementation Steps**:
->
-> - Create class component
-> - Add error methods
-> - Define fallback UI
-> - Learn more about [React Error Boundary Methods](https://react.dev/reference/react/Component#static-getderivedstatefromerror)
-
 **Usage Example:**
 
 ```jsx
@@ -178,21 +140,7 @@ function App() {
 }
 ```
 
-> **Error Boundary Example**:
->
-> - Error state management
-> - Fallback UI
-> - Error logging
-> - Learn more about [React Error Boundary Examples](https://react.dev/learn/thinking-in-react)
-
 Error boundaries behave like `catch {}` blocks in JavaScript, but for components. They're particularly useful for protecting critical application sections where errors are likely to occur, such as data fetching boundaries or complex UI rendering logic.
-
-> **Error Boundary Use Cases**:
->
-> - Data fetching
-> - Complex UI
-> - Third-party components
-> - Learn more about [React Error Boundary Use Cases](https://react.dev/learn/thinking-in-react)
 
 The granularity of error boundaries depends on your application needs. You can wrap individual components, routes, or specific features to create isolated error handling zones that prevent cascading failures across your application.
 
@@ -207,13 +155,6 @@ Error boundaries in React have specific limitations that developers need to be a
 - Server-side rendering (SSR)
 - Errors thrown in the error boundary itself
 
-> **Error Boundary Limitations**:
->
-> - Event handlers
-> - Async code
-> - SSR errors
-> - Learn more about [React Error Boundary Limitations](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
-
 Here's an example of an error that won't be caught:
 
 ```jsx
@@ -225,12 +166,6 @@ const ButtonComponent = () => {
   return <button onClick={handleClick}>Click Me</button>;
 };
 ```
-
-> **Uncaught Error Example**:
->
-> - Event handler error
-> - No boundary catch
-> - Learn more about [React Event Handler Errors](https://react.dev/learn/thinking-in-react)
 
 To handle errors in these scenarios, implement traditional `try-catch` blocks:
 
@@ -250,21 +185,7 @@ const SafeButtonComponent = () => {
 };
 ```
 
-> **Error Handling Example**:
->
-> - Try-catch blocks
-> - Error logging
-> - User feedback
-> - Learn more about [React Error Handling Patterns](https://react.dev/learn/thinking-in-react)
-
 Error boundaries are a safety net, but they don't replace proper error handling practices. Implement comprehensive error tracking, logging, and monitoring systems to maintain robust applications. Consider using error reporting services to track and analyze production errors effectively.
-
-> **Error Handling Best Practices**:
->
-> - Use try-catch for events
-> - Log errors properly
-> - Show user feedback
-> - Learn more about [React Error Handling Best Practices](https://react.dev/learn/thinking-in-react)
 
 ## Debugging Strategies in React
 
@@ -276,13 +197,6 @@ React applications can become complex, making debugging a crucial skill for deve
 
 React DevTools is a browser extension that provides deep insights into your React applications. This powerful tool enables developers to:
 
-> **React DevTools Features**:
->
-> - Component inspection
-> - State monitoring
-> - Performance profiling
-> - Learn more about [React DevTools](https://react.dev/learn/react-developer-tools)
-
 #### 1. Component Inspection
 
 - View the complete component hierarchy
@@ -290,25 +204,11 @@ React DevTools is a browser extension that provides deep insights into your Reac
 - Track component updates and re-renders
 - Analyze performance bottlenecks
 
-> **Component Inspection Tips**:
->
-> - Use component tree
-> - Check props and state
-> - Monitor updates
-> - Learn more about [React Component Inspection](https://react.dev/learn/react-developer-tools)
-
 #### 2. State Management
 
 - Monitor state changes
 - Modify state values during runtime
 - Debug Redux store and Context API
-
-> **State Management Tips**:
->
-> - Track state changes
-> - Debug state updates
-> - Monitor context
-> - Learn more about [React State Management](https://react.dev/learn/thinking-in-react)
 
 ```jsx
 // Example component for debugging
@@ -331,24 +231,11 @@ function UserProfile({ user }) {
 }
 ```
 
-> **Debugging Example**:
->
-> - State management
-> - Component updates
-> - User interaction
-> - Learn more about [React Debugging Examples](https://react.dev/learn/react-developer-tools)
-
 **Installing React DevTools:**
 
 1. Chrome Web Store: Search "React Developer Tools"
 2. Firefox Add-ons: Search "React Developer Tools"
 3. Standalone app for other browsers
-
-> **DevTools Installation**:
->
-> - Browser extensions
-> - Standalone app
-> - Learn more about [React DevTools Installation](https://react.dev/learn/react-developer-tools)
 
 **Key Features:**
 
@@ -359,26 +246,12 @@ function UserProfile({ user }) {
 - View source code locations
 - Inspect component props and hooks
 
-> **Components Tab Features**:
->
-> - Tree navigation
-> - Component search
-> - Props inspection
-> - Learn more about [React Components Tab](https://react.dev/learn/react-developer-tools)
-
 2. **Profiler Tab**
 
 - Record rendering performance
 - Identify unnecessary re-renders
 - Measure component mount times
 - Analyze update durations
-
-> **Profiler Tab Features**:
->
-> - Performance recording
-> - Render analysis
-> - Mount timing
-> - Learn more about [React Profiler](https://react.dev/learn/react-developer-tools)
 
 ### Console Logging and Breakpoints
 
@@ -403,25 +276,11 @@ function UserProfile({ user }) {
 }
 ```
 
-> **Console Logging Tips**:
->
-> - Use appropriate methods
-> - Log relevant data
-> - Track component lifecycle
-> - Learn more about [React Console Logging](https://react.dev/learn/react-developer-tools)
-
 #### 2. Strategic Console Placement
 
 - Log state changes in `useEffect`
 - Track prop updates in render cycles
 - Monitor event handler execution
-
-> **Console Placement Tips**:
->
-> - Effect hooks
-> - Render cycles
-> - Event handlers
-> - Learn more about [React Console Placement](https://react.dev/learn/react-developer-tools)
 
 #### 3. VS Code Breakpoint Techniques
 
@@ -436,13 +295,6 @@ function handleSubmit(event) {
 }
 ```
 
-> **Breakpoint Tips**:
->
-> - Strategic placement
-> - Conditional breakpoints
-> - Step through code
-> - Learn more about [React Breakpoints](https://react.dev/learn/react-developer-tools)
-
 2. **Conditional Breakpoints**: Right-click the gutter and set conditions
 
 ```jsx
@@ -452,25 +304,11 @@ if (userId === "123") {
 }
 ```
 
-> **Conditional Breakpoint Tips**:
->
-> - Set conditions
-> - Debug specific cases
-> - Track variables
-> - Learn more about [React Conditional Breakpoints](https://react.dev/learn/react-developer-tools)
-
 #### 4. Debugging Tools in Action
 
 - Use `debugger` statement for code pause
 - Watch variables in VS Code's debug sidebar
 - Step through code execution with F10 (step over) and F11 (step into)
-
-> **Debugging Tool Tips**:
->
-> - Debugger statement
-> - Variable watching
-> - Step execution
-> - Learn more about [React Debugging Tools](https://react.dev/learn/react-developer-tools)
 
 #### 5. Chrome DevTools Integration
 
@@ -511,13 +349,6 @@ MyComponent from './components/MyComponent.jsx'
 export default function MyComponent() { // Component code }
 ```
 
-> **Import/Export Tips**:
->
-> - Use correct syntax
-> - Include file extensions
-> - Follow naming conventions
-> - Learn more about [React Imports and Exports](https://react.dev/learn/thinking-in-react)
-
 ### 2. Syntax Errors in JSX
 
 ```jsx
@@ -532,13 +363,6 @@ export default function MyComponent() { // Component code }
 </div>
 ```
 
-> **JSX Syntax Tips**:
->
-> - Use camelCase
-> - Proper event handling
-> - Correct attributes
-> - Learn more about [React JSX Syntax](https://react.dev/learn/thinking-in-react)
-
 ### 3. State Updates Not Reflecting
 
 ```jsx
@@ -549,13 +373,6 @@ setState(count + 1); // Direct mutation
 setState((prevCount) => prevCount + 1); // Using callback
 ```
 
-> **State Update Tips**:
->
-> - Use callbacks
-> - Avoid direct mutation
-> - Handle async updates
-> - Learn more about [React State Updates](https://react.dev/learn/thinking-in-react)
-
 **Quick Debug Checklist:**
 
 - Check browser console for error messages
@@ -563,13 +380,6 @@ setState((prevCount) => prevCount + 1); // Using callback
 - Ensure component names start with capital letters
 - Validate proper closing of JSX tags
 - Review React Hook rules compliance
-
-> **Debug Checklist Tips**:
->
-> - Console errors
-> - Dependencies
-> - Component naming
-> - Learn more about [React Debug Checklist](https://react.dev/learn/thinking-in-react)
 
 ## Best Practices for Implementing Error Boundaries with Libraries Support
 
@@ -584,13 +394,6 @@ Implementing error boundaries effectively requires strategic placement and thoug
 - Isolate third-party components
 - Shield data fetching operations
 
-> **Error Boundary Placement Tips**:
->
-> - Feature isolation
-> - Critical protection
-> - Third-party handling
-> - Learn more about [React Error Boundary Placement](https://react.dev/learn/thinking-in-react)
-
 Creating user-friendly fallback UIs enhances the error handling experience:
 
 ```jsx
@@ -603,21 +406,7 @@ const FallbackComponent = ({ error, resetErrorBoundary }) => (
 );
 ```
 
-> **Fallback UI Tips**:
->
-> - Clear messaging
-> - Recovery options
-> - User guidance
-> - Learn more about [React Fallback UI](https://react.dev/learn/thinking-in-react)
-
 The `react-error-boundary` library simplifies error handling implementation with built-in features:
-
-> **Library Benefits**:
->
-> - Automatic reset
-> - Retry functionality
-> - Custom recovery
-> - Learn more about [React Error Boundary Library](https://react.dev/learn/thinking-in-react)
 
 Example implementation using react-error-boundary:
 
@@ -638,13 +427,6 @@ function MyApp() {
 }
 ```
 
-> **Library Implementation Tips**:
->
-> - Use built-in features
-> - Customize fallback UI
-> - Handle state reset
-> - Learn more about [React Error Boundary Library Implementation](https://react.dev/learn/thinking-in-react)
-
 The library's reset capabilities allow users to recover from errors without page refreshes. This approach maintains application state while providing a seamless recovery experience.
 
 > **Pro tip:** Combine error boundaries with error tracking services to monitor and address issues in production environments effectively.
@@ -659,13 +441,6 @@ The real strength comes from using these methods together:
 - DevTools provide detailed insights into components
 - Console logging allows for precise debugging control
 - Breakpoints enable step-by-step analysis
-
-> **Key Takeaways**:
->
-> - Error handling importance
-> - Debugging tools
-> - Best practices
-> - Learn more about [React Error Handling and Debugging](https://react.dev/learn/thinking-in-react)
 
 These tools and strategies work best when used in unison, forming a complete system for handling errors that improves both development speed and user experience.
 

@@ -30,22 +30,7 @@ With Custom Hooks, React's component-based structure becomes even more powerful,
 - Create modular, testable code
 - Implement complex state management solutions
 
-> **Key Points to Remember**:
->
-> - Custom hooks start with "use"
-> - They can use other React hooks
-> - They help share logic between components
-> - Learn more about [React Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 Think of Custom Hooks as your personal toolkit for building advanced React applications. They combine the flexibility of JavaScript functions with React's state management capabilities, creating a perfect blend of **reusability** and **composability**.
-
-> **Learning Objectives**:
->
-> - Understand what custom hooks are
-> - Learn how to create custom hooks
-> - Master hook composition
-> - Explore real-world examples
-> - Learn more about [React Hooks Basics](https://react.dev/learn/thinking-in-react)
 
 In this lesson, we will explore Custom Hooks in detail. We will discuss their benefits, best practices for implementation, and real-world applications. You will learn how to create your own Custom Hooks, understand testing strategies, and master the art of composing hooks for complex functionality.
 
@@ -58,13 +43,6 @@ Custom hooks are a powerful feature introduced in React 16.8. They allow develop
 ### What Are Custom Hooks?
 
 Custom hooks are specialized JavaScript functions that follow a specific naming convention - they must start with "use" (e.g., `useCustomHook`). These functions can call other hooks and can be used to encapsulate stateful logic or side effects.
-
-> **Custom Hook Basics**:
->
-> - Must start with "use"
-> - Can use other hooks
-> - Share logic between components
-> - Learn more about [React Custom Hook Basics](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 Here's a basic example of a custom hook structure:
 
@@ -80,13 +58,6 @@ function useCustomHook(initialValue) {
 }
 ```
 
-> **Hook Structure Example**:
->
-> - State management
-> - Event handling
-> - Return values
-> - Learn more about [React Hook Structure](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### Key Characteristics of Custom Hooks
 
 Let's break down the core characteristics of custom hooks:
@@ -97,13 +68,6 @@ Let's break down the core characteristics of custom hooks:
 - **Stateful Logic**: They can maintain their own state using React's built-in hooks
 - **Component-Independent**: The logic exists separately from any specific component
 - **Shareable**: Multiple components can use the same custom hook
-
-> **Hook Characteristics**:
->
-> - Pure functions
-> - State management
-> - Component independence
-> - Learn more about [React Hook Characteristics](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ### Why Use Custom Hooks?
 
@@ -116,26 +80,12 @@ Custom hooks serve several key roles in React applications:
 - **Side Effects**: Manage operations like data fetching and subscriptions
 - **Component Simplification**: Keep component code clean and focused
 
-> **Hook Benefits**:
->
-> - Code reuse
-> - State management
-> - Side effect handling
-> - Learn more about [React Hook Benefits](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 The power of custom hooks lies in their ability to combine multiple React hooks into a single, reusable function. They can utilize any built-in React hook, including:
 
 - `useState` for state management
 - `useEffect` for side effects
 - `useContext` for context consumption
 - `useReducer` for complex state logic
-
-> **Built-in Hook Usage**:
->
-> - State hooks
-> - Effect hooks
-> - Context hooks
-> - Learn more about [React Built-in Hooks](https://react.dev/reference/react)
 
 This composability allows developers to build sophisticated functionality while maintaining clean, maintainable code structures.
 
@@ -148,13 +98,6 @@ Custom hooks have transformed React development by offering powerful benefits th
 ### 1. Code Reusability
 
 Custom hooks allow developers to extract complex logic into reusable functions. This approach eliminates redundant code across components and promotes a DRY (Don't Repeat Yourself) coding practice.
-
-> **Code Reuse Benefits**:
->
-> - Reduce duplication
-> - Maintain consistency
-> - Easier updates
-> - Learn more about [React Code Reuse](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ```jsx
 // Reusable authentication hook
@@ -181,23 +124,9 @@ const useAuth = () => {
 };
 ```
 
-> **Auth Hook Example**:
->
-> - State management
-> - Authentication logic
-> - User handling
-> - Learn more about [React Auth Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### 2. Enhanced Maintainability
 
 Custom hooks create a clear separation of concerns by isolating specific functionality:
-
-> **Maintainability Benefits**:
->
-> - Clear separation
-> - Easier updates
-> - Better testing
-> - Learn more about [React Code Maintenance](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 - **Isolated Logic**: Each hook focuses on a single responsibility
 - **Easier Updates**: Changes to shared logic can be made in one place
@@ -206,13 +135,6 @@ Custom hooks create a clear separation of concerns by isolating specific functio
 ### 3. Cleaner Component Structure
 
 Components become more focused and readable when complex logic is moved to custom hooks:
-
-> **Component Structure Benefits**:
->
-> - Cleaner code
-> - Better readability
-> - Easier testing
-> - Learn more about [React Component Structure](https://react.dev/learn/thinking-in-react)
 
 ```jsx
 // Before: Component with mixed concerns
@@ -274,13 +196,6 @@ const UserProfile = () => {
 
 Custom hooks excel in managing complex state scenarios:
 
-> **State Management Benefits**:
->
-> - Complex state handling
-> - Better organization
-> - Reusable logic
-> - Learn more about [React State Management](https://react.dev/learn/thinking-in-react)
-
 ```jsx
 const useCounter = (initialValue = 0) => {
   const [count, setCount] = useState(initialValue);
@@ -304,13 +219,6 @@ const useCounter = (initialValue = 0) => {
 
 Custom hooks provide a clean API for complex operations:
 
-> **Encapsulation Benefits**:
->
-> - Clean interfaces
-> - Hidden complexity
-> - Consistent usage
-> - Learn more about [React Hook Encapsulation](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 - Hide implementation details
 - Expose only necessary functions and state
 - Create consistent interfaces across components
@@ -330,23 +238,9 @@ function CounterComponent() {
 }
 ```
 
-> **Clean API Example**:
->
-> - Simple interface
-> - Clear usage
-> - Consistent pattern
-> - Learn more about [React Hook APIs](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### 6. Cross-Cutting Concerns
 
 Custom hooks handle functionality that spans multiple components:
-
-> **Cross-Cutting Benefits**:
->
-> - Shared functionality
-> - Consistent behavior
-> - Centralized logic
-> - Learn more about [React Cross-Cutting Concerns](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 - Authentication state
 - Form validation
@@ -359,13 +253,6 @@ This abstraction creates a single source of truth for these concerns, making it 
 ### Simplified Side Effects Handling in Custom Hooks
 
 Managing side effects in React components can get complicated, especially when it comes to tasks like fetching data, handling subscriptions, or manipulating the DOM. This is where custom hooks come in handy.
-
-> **Side Effect Benefits**:
->
-> - Clean organization
-> - Reusable logic
-> - Better testing
-> - Learn more about [React Side Effects](https://react.dev/learn/synchronizing-with-effects)
 
 #### Handling API Calls with a Custom Hook
 
@@ -396,13 +283,6 @@ function useDataFetching(url) {
   return { data, loading, error };
 }
 ```
-
-> **Data Fetching Example**:
->
-> - Error handling
-> - Loading states
-> - Data management
-> - Learn more about [React Data Fetching](https://react.dev/learn/synchronizing-with-effects)
 
 This approach offers several benefits:
 
@@ -438,13 +318,6 @@ function UserProfile({ userId }) {
 
 Custom hooks are also capable of managing cleanup operations effectively:
 
-> **Cleanup Benefits**:
->
-> - Resource management
-> - Memory leak prevention
-> - Proper cleanup
-> - Learn more about [React Cleanup](https://react.dev/learn/synchronizing-with-effects)
-
 ```jsx
 function useWebSocket(url) {
   const [message, setMessage] = useState(null);
@@ -477,13 +350,6 @@ Creating effective custom hooks requires following specific patterns and practic
 
 Custom hooks must follow the `use` prefix naming convention. This isn't just a stylistic choice - it's a crucial requirement that React uses to identify hooks:
 
-> **Naming Benefits**:
->
-> - Clear identification
-> - Consistent pattern
-> - Better readability
-> - Learn more about [React Hook Naming](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ```jsx
 // ✅ Correct naming
 const useOnlineStatus = () => {
@@ -496,23 +362,9 @@ const getOnlineStatus = () => {
 };
 ```
 
-> **Naming Examples**:
->
-> - Correct usage
-> - Common patterns
-> - Best practices
-> - Learn more about [React Hook Patterns](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### Pure Function Principles
 
 Custom hooks should maintain pure function characteristics:
-
-> **Pure Function Benefits**:
->
-> - Predictable behavior
-> - Easier testing
-> - Better debugging
-> - Learn more about [React Pure Functions](https://react.dev/learn/thinking-in-react)
 
 - Return consistent outputs for the same inputs
 - Avoid direct DOM manipulation
@@ -529,23 +381,9 @@ const useCounter = (initialValue = 0) => {
 };
 ```
 
-> **Pure Function Example**:
->
-> - State management
-> - Action handlers
-> - Return values
-> - Learn more about [React Hook Purity](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### Leveraging Existing React Hooks for Composability
 
 Custom hooks gain power through composition with React's built-in hooks:
-
-> **Composition Benefits**:
->
-> - Complex functionality
-> - Reusable patterns
-> - Better organization
-> - Learn more about [React Hook Composition](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ```jsx
 const useThemeAwareButton = () => {
@@ -566,23 +404,9 @@ const useThemeAwareButton = () => {
 };
 ```
 
-> **Composition Example**:
->
-> - Multiple hooks
-> - Context usage
-> - Style management
-> - Learn more about [React Hook Context](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ### Single Responsibility Pattern
 
 Each custom hook should focus on one specific functionality:
-
-> **Single Responsibility Benefits**:
->
-> - Clear purpose
-> - Easier testing
-> - Better maintenance
-> - Learn more about [React Hook Responsibility](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ```jsx
 // ✅ Single responsibility
@@ -619,13 +443,6 @@ const useLocalStorage = (key, initialValue) => {
 ### Error Handling
 
 Implement robust error handling within custom hooks to prevent silent failures:
-
-> **Error Handling Benefits**:
->
-> - Better reliability
-> - User feedback
-> - Debugging ease
-> - Learn more about [React Hook Error Handling](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ```jsx
 const useFetch = (url) => {
@@ -725,13 +542,6 @@ describe("useCounter hook", () => {
 
 For hooks that depend on external context or providers, you'll need to wrap them in the required context:
 
-> **Dependency Testing Benefits**:
->
-> - Context testing
-> - Provider wrapping
-> - State management
-> - Learn more about [React Hook Dependencies](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 ```jsx
 import { renderHook, act } from "@testing-library/react-hooks";
 import { ThemeProvider } from "./ThemeContext";
@@ -798,13 +608,6 @@ src/
 ### Hook Documentation
 
 Documenting your hooks helps team members understand their purpose and usage:
-
-> **Documentation Benefits**:
->
-> - Clear usage
-> - Better understanding
-> - Easier maintenance
-> - Learn more about [React Hook Documentation](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ```jsx
 /**

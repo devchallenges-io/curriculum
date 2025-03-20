@@ -42,21 +42,6 @@ Among the many React Hooks available, several stand out for their ability to sol
 > - They work only in functional components
 > - Learn more about [React Hooks basics](https://react.dev/reference/react)
 
-In this lesson, we'll explore these hooks through practical examples and real-world scenarios. You'll learn:
-
-- How to manage complex state patterns with `useReducer`
-- Techniques for DOM manipulation and value persistence using `useRef`
-- Methods to leverage the new React 19 hooks for better user experiences
-- Best practices for implementing these hooks in your applications
-
-> **Learning Objectives**:
->
-> - Understand when to use each hook
-> - Master complex state management
-> - Learn DOM manipulation techniques
-> - Explore new React 19 features
-> - Learn more about [React Hooks learning path](https://react.dev/learn)
-
 Whether you're building a simple counter application or a complex data-driven interface, mastering these hooks will enhance your ability to create efficient, maintainable React applications.
 
 ## Understanding React Hooks
@@ -68,13 +53,6 @@ React Hooks changed the way developers write React applications when they were i
 ### What Are React Hooks?
 
 React Hooks are JavaScript functions that allow you to "hook into" React state and lifecycle features directly from functional components. They provide a more direct way to work with React's features, eliminating the complexity of `this` binding and reducing boilerplate code.
-
-> **Hook Basics**:
->
-> - Special functions
-> - Use React features
-> - Clean syntax
-> - Learn more about [React Hooks introduction](https://react.dev/reference/react)
 
 ### The Evolution of React Components
 
@@ -129,13 +107,6 @@ function Counter() {
 - **Bundle Size Optimization**: Hooks can lead to smaller bundle sizes compared to class components
 - **Consistent Behavior**: Hooks ensure consistent behavior across components by following the same patterns
 
-> **Hook Benefits**:
->
-> - Clean code
-> - Reusable logic
-> - Better testing
-> - Learn more about [React Hooks benefits](https://react.dev/learn/reusing-logic-with-custom-hooks)
-
 The adoption of hooks has led to more maintainable and readable code, making React development more intuitive for both new and experienced developers. This modern approach aligns with functional programming principles and promotes better code organization.
 
 ## 1. Managing Complex State with useReducer
@@ -167,13 +138,6 @@ function reducer(state, action) {
   }
 }
 ```
-
-> **useReducer Structure**:
->
-> - State management
-> - Action handling
-> - Predictable updates
-> - Learn more about [React useReducer](https://react.dev/reference/react/useReducer)
 
 ### Practical Example: Multi-Action Counter
 
@@ -237,13 +201,6 @@ function Counter() {
 - **Action History**: Actions can be logged for debugging purposes
 - **Complex State Dependencies**: Handles multiple related state updates in a single action
 
-> **useReducer Advantages**:
->
-> - Centralized logic
-> - Predictable updates
-> - Better testing
-> - Learn more about [React useReducer benefits](https://react.dev/learn/extracting-state-logic-into-a-reducer)
-
 `useReducer` shines when managing state that involves multiple sub-values or complex state transitions. It provides a structured approach to state management, making your code more maintainable and easier to debug.
 
 ## 2. Accessing DOM Elements and Storing Mutable Values with useRef
@@ -290,13 +247,6 @@ function SearchBar() {
 }
 ```
 
-> **Input Focus Example**:
->
-> - DOM manipulation
-> - User interaction
-> - Clean implementation
-> - Learn more about [React useRef examples](https://react.dev/learn/manipulating-the-dom-with-refs)
-
 ### Common Use Cases
 
 - **DOM References**
@@ -307,13 +257,6 @@ function SearchBar() {
   - Previous state values
   - Interval IDs
   - Instance variables
-
-> **useRef Use Cases**:
->
-> - DOM access
-> - Value storage
-> - Media control
-> - Learn more about [React useRef use cases](https://react.dev/learn/manipulating-the-dom-with-refs)
 
 ### Advanced Example: Tracking Previous Values
 
@@ -335,13 +278,6 @@ function Counter() {
   );
 }
 ```
-
-> **Previous Values Example**:
->
-> - Value tracking
-> - Effect integration
-> - Clean updates
-> - Learn more about [React useRef advanced](https://react.dev/learn/manipulating-the-dom-with-refs)
 
 `useRef` serves as a "box" that holds mutable values in its `.current` property, making it an essential tool for DOM manipulation and storing values that shouldn't trigger re-renders.
 
@@ -366,13 +302,6 @@ function UserProfile({ userId }) {
 }
 ```
 
-> **use Hook Basics**:
->
-> - Resource reading
-> - Promise handling
-> - Context access
-> - Learn more about [React use hook](https://react.dev/reference/react/use)
-
 In this example, `use` allows the component to directly consume a Promise returned by `fetchUser`. React will automatically suspend the component while the data is loading, and resume rendering once it's available.
 
 ### Key Features
@@ -381,13 +310,6 @@ In this example, `use` allows the component to directly consume a Promise return
 - Can be used anywhere in your component, not just at the top level
 - Works inside other hooks and even conditional statements
 - Simplifies data fetching patterns
-
-> **use Hook Features**:
->
-> - Flexible usage
-> - Resource handling
-> - Data fetching
-> - Learn more about [React use hook features](https://react.dev/reference/react/use)
 
 ### Example: Context Consumption with `use`
 
@@ -402,13 +324,6 @@ function ThemedButton() {
   return <button className={`btn-${theme}`}>Themed Button</button>;
 }
 ```
-
-> **Context Example**:
->
-> - Clean syntax
-> - Direct access
-> - Better readability
-> - Learn more about [React use hook context](https://react.dev/reference/react/use)
 
 The `use` hook provides a more flexible way to consume context that can be used in more places than `useContext`.
 
@@ -482,13 +397,6 @@ function TodoList() {
 - Creates a more responsive user experience
 - Handles temporary UI states during asynchronous operations
 - Integrates seamlessly with React's rendering model
-
-> **Optimistic UI Benefits**:
->
-> - Better performance
-> - Responsive UI
-> - State handling
-> - Learn more about [React useOptimistic benefits](https://react.dev/reference/react/useOptimistic)
 
 ## 5. New in React 19: Enhanced Form Handling with `useFormStatus` and `useFormState`
 
@@ -588,13 +496,6 @@ async function submitContact(prevState, formData) {
 - Server component compatibility
 - Simplified validation and error handling
 
-> **Form Hook Benefits**:
->
-> - Better integration
-> - Loading states
-> - Accessibility
-> - Learn more about [React form hooks](https://react.dev/reference/react/useFormState)
-
 ## Best Practices for Using React Hooks Effectively
 
 Implementing React Hooks effectively requires strategic decision-making and adherence to established patterns. Here's a practical guide to help you make informed choices:
@@ -610,13 +511,6 @@ Implementing React Hooks effectively requires strategic decision-making and adhe
 - Having 2-3 state transitions
 - Working with a small component scope
 
-> **useState Use Cases**:
->
-> - Simple state
-> - Basic updates
-> - Small components
-> - Learn more about [React useState](https://react.dev/reference/react/useState)
-
 **Use useReducer when:**
 
 - Managing complex objects or arrays
@@ -625,38 +519,17 @@ Implementing React Hooks effectively requires strategic decision-making and adhe
 - Needing predictable state updates
 - Building state management for larger components
 
-> **useReducer Use Cases**:
->
-> - Complex state
-> - Multiple actions
-> - Business logic
-> - Learn more about [React useReducer](https://react.dev/reference/react/useReducer)
-
 ### Rules of Hooks
 
 - Only call hooks at the top level of your function component or custom hook
 - Don't call hooks inside loops, conditions, or nested functions
 - Always use the React prefix for custom hooks (e.g., `useFetchData`)
 
-> **Hook Rules**:
->
-> - Top level only
-> - No conditions
-> - Proper naming
-> - Learn more about [React Hooks rules](https://react.dev/warnings/invalid-hook-call-warning)
-
 ### When to Use the New React 19 Hooks
 
 - Use the `use` hook when you need to read resources like Promises or Context in a more flexible way
 - Use `useOptimistic` for immediate UI feedback during asynchronous operations
 - Use `useFormStatus` and `useFormState` for enhanced form functionality and better user experience
-
-> **New Hook Use Cases**:
->
-> - Resource reading
-> - Optimistic updates
-> - Form handling
-> - Learn more about [React 19 hooks](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 
 ## Conclusion
 
