@@ -148,35 +148,7 @@ function UserProfile() {
 }
 ```
 
-> **Good Practice**:
->
-> - Clean up listeners
-> - Prevent memory leaks
-> - Better performance
-> - Learn more about [React best practices](https://react.dev/learn/synchronizing-with-effects#how-to-handle-the-effect-firing-twice-in-development)
-
 This implementation ensures proper resource cleanup and prevents memory leaks while maintaining the desired functionality.
-
-## The useEffect Hook Explained
-
-The `useEffect` hook is React's built-in solution for handling side effects in functional components. It was introduced in React 16.8. This powerful API provides a streamlined approach to managing component lifecycle and side effects in a single, intuitive interface.
-
-> **Pro Tip**: Think of `useEffect` as a way to handle "after-render" tasks in your components.
-
-```jsx
-useEffect(() => {
-  // Effect code here
-
-  return () => {
-    // Cleanup code here
-  };
-}, [dependencies]);
-```
-
-The hook accepts two arguments:
-
-- A function containing the effect logic
-- An optional array of dependencies
 
 ### Replacing Lifecycle Methods
 
