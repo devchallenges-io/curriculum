@@ -571,7 +571,7 @@
   },
   {
     "title": "Side Effects in React",
-    "path": "4-frontend-libraries/1-react.js/6-side-effects-lifecycle.md",
+    "path": "4-frontend-libraries/1-react.js/6-side-effect-lifecycle.md",
     "slug": "4-frontend-libraries/side-effects-in-react",
     "group": "React State & Effects",
     "type": "lesson"

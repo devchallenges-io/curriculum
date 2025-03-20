@@ -3,18 +3,18 @@ seo:
   title: "State Management in React: useState & Controlled Components"
   description: "Master state management in React with useState and controlled components for dynamic, interactive web applications."
 faqs:
-  - What is state management in React?
-  - State management in React refers to how data that changes over time is handled within a React application. It involves tracking and updating the state of components to ensure that the UI reflects the current data.
-  - What is the useState hook and why is it important?
-  - The useState hook is a fundamental building block in React functional components, enabling developers to add state management capabilities without class components. This powerful hook returns an array containing two elements: the current state value and a function to update it.
-  - What are controlled components and how do they work?
-  - Controlled components are a specific pattern in React where form elements are directly controlled by React state. These components rely on state to manage their values and changes, creating a single source of truth for form data.
-  - What are uncontrolled components and how do they work?
-  - Uncontrolled components offer a different way of handling form inputs in React applications. These components keep their internal state within the DOM itself, instead of relying on React's state management.
-  - What is the difference between controlled and uncontrolled components?
-  - Controlled components provide a single source of truth for form data, allowing for real-time access to input values and ensuring that the UI and data state are always synchronized. Uncontrolled components keep their internal state within the DOM itself, providing direct access to the input values.
-  - What is a hybrid approach to form handling in React?
-  - A hybrid approach to form handling combines the best aspects of controlled and uncontrolled components. This method allows developers to maintain granular control over specific form elements while keeping others uncontrolled for performance optimization.
+  - "What is state management in React?"
+  - "State management in React refers to how data that changes over time is handled within a React application. It involves tracking and updating the state of components to ensure that the UI reflects the current data."
+  - "What is the useState hook and why is it important?"
+  - "The useState hook is a fundamental building block in React functional components, enabling developers to add state management capabilities without class components. This powerful hook returns an array containing two elements: the current state value and a function to update it."
+  - "What are controlled components and how do they work?"
+  - "Controlled components are a specific pattern in React where form elements are directly controlled by React state. These components rely on state to manage their values and changes, creating a single source of truth for form data."
+  - "What are uncontrolled components and how do they work?"
+  - "Uncontrolled components offer a different way of handling form inputs in React applications. These components keep their internal state within the DOM itself, instead of relying on React's state management."
+  - "What is the difference between controlled and uncontrolled components?"
+  - "Controlled components provide a single source of truth for form data, allowing for real-time access to input values and ensuring that the UI and data state are always synchronized. Uncontrolled components keep their internal state within the DOM itself, providing direct access to the input values."
+  - "What is a hybrid approach to form handling in React?"
+  - "A hybrid approach to form handling combines the best aspects of controlled and uncontrolled components. This method allows developers to maintain granular control over specific form elements while keeping others uncontrolled for performance optimization."
 ---
 
 # State Management Basics: useState and Controlled Components

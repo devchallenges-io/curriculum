@@ -3,20 +3,20 @@ seo:
   title: "Deep Dive into React Hooks: useReducer, useRef, and New React 19 Hooks"
   description: "Explore essential React Hooks including useReducer, useRef, and exciting new hooks from React 19 like use, useOptimistic, and useFormStatus."
 faqs:
-  - What are React hooks and why are they important?
-  - React hooks are functions that allow developers to use state and other React features in functional components. They're important because they enable cleaner code organization, better component reusability, and simpler state management without using class components.
-  - What is the useReducer hook used for?
-  - The useReducer hook is used for managing complex state logic in React applications. It follows a Redux-like pattern where state updates happen through a reducer function, making state management more predictable and testable.
-  - What new hooks are introduced in React 19?
-  - React 19 introduces several new hooks including: use (for resource reading), useOptimistic (for optimistic UI updates), useFormStatus and useFormState (for form handling), and useActionState (for server component actions).
-  - What is the useRef hook used for?
-  - The useRef hook is used to create a mutable reference that persists throughout a component's lifecycle. It's useful for storing values that need to change without triggering re-renders, such as DOM elements or interval IDs.
-  - What is the use hook used for?
-  - The use hook is used to read resources like Promises or Context in a more flexible way. It allows components to directly consume resources without the need for higher-order components or context providers.
-  - What is the useOptimistic hook used for?
-  - The useOptimistic hook is used to create optimistic UI updates. It shows the expected result of an action before the server confirms it, improving the user experience especially for operations like form submissions or data mutations.
-  - What is the useFormStatus hook used for?
-  - The useFormStatus hook provides information about the current status of a form submission, making it easy to show loading states, disable buttons during submission, etc.
+  - "What are React hooks and why are they important?"
+  - "React hooks are functions that allow developers to use state and other React features in functional components. They're important because they enable cleaner code organization, better component reusability, and simpler state management without using class components."
+  - "What is the useReducer hook used for?"
+  - "The useReducer hook is used for managing complex state logic in React applications. It follows a Redux-like pattern where state updates happen through a reducer function, making state management more predictable and testable."
+  - "What new hooks are introduced in React 19?"
+  - "React 19 introduces several new hooks including: use (for resource reading), useOptimistic (for optimistic UI updates), useFormStatus and useFormState (for form handling), and useActionState (for server component actions)."
+  - "What is the useRef hook used for?"
+  - "The useRef hook is used to create a mutable reference that persists throughout a component's lifecycle. It's useful for storing values that need to change without triggering re-renders, such as DOM elements or interval IDs."
+  - "What is the use hook used for?"
+  - "The use hook is used to read resources like Promises or Context in a more flexible way. It allows components to directly consume resources without the need for higher-order components or context providers."
+  - "What is the useOptimistic hook used for?"
+  - "The useOptimistic hook is used to create optimistic UI updates. It shows the expected result of an action before the server confirms it, improving the user experience especially for operations like form submissions or data mutations."
+  - "What is the useFormStatus hook used for?"
+  - "The useFormStatus hook provides information about the current status of a form submission, making it easy to show loading states, disable buttons during submission, etc."
 ---
 
 # React Hooks Deep Dive: useReducer, useRef, and New React 19 Hooks
