@@ -105,50 +105,12 @@ Side effects in React represent operations that occur outside the normal compone
 - Event listeners
 - Third-party service integrations
 
-Side effects require careful handling because they can impact application performance and user experience. Consider this example of an unmanaged side effect:
-
-```jsx
-function UserProfile() {
-  // This creates a new event listener on every render
-  document.addEventListener("scroll", handleScroll);
-
-  return <div>User Profile Content</div>;
-}
-```
-
-> **Common Mistake**:
->
-> - Creating listeners without cleanup
-> - Memory leaks
-> - Performance issues
-> - Learn more about [React cleanup](https://react.dev/learn/synchronizing-with-effects#how-to-handle-the-effect-firing-twice-in-development)
-
-This code creates memory leaks and performance issues because it adds multiple listeners without cleanup.
-
 ### Proper Side Effect Management Benefits:
 
 - Prevents memory leaks
 - Reduces unnecessary re-renders
 - Maintains consistent application state
 - Improves application responsiveness
-
-A well-managed side effect looks like this:
-
-```jsx
-function UserProfile() {
-  useEffect(() => {
-    document.addEventListener("scroll", handleScroll);
-
-    return () => {
-      document.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
-
-  return <div>User Profile Content</div>;
-}
-```
-
-This implementation ensures proper resource cleanup and prevents memory leaks while maintaining the desired functionality.
 
 ### Replacing Lifecycle Methods
 
