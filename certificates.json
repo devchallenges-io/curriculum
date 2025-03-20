@@ -86,7 +86,23 @@
     "path_id": 2
   },
   {
-    "lessons": [],
+    "lessons": [
+      "4-frontend-libraries/introduction-to-react",
+      "4-frontend-libraries/setting-up-react",
+      "4-frontend-libraries/jsx-in-react",
+      "4-frontend-libraries/react-components",
+      "4-frontend-libraries/react-state-management",
+      "4-frontend-libraries/side-effects-in-react",
+      "4-frontend-libraries/react-router-v6",
+      "4-frontend-libraries/context-api",
+      "4-frontend-libraries/react-hook-deep-dive",
+      "4-frontend-libraries/custom-hooks",
+      "4-frontend-libraries/react-patterns",
+      "4-frontend-libraries/error-boundaries",
+      "4-frontend-libraries/react-performance-optimization",
+      "4-frontend-libraries/react-19-new-features",
+      "4-frontend-libraries/react-server-components"
+    ],
     "certificate": "4-frontend-libraries",
     "title": "Frontend Roadmap",
     "description": "gained knowledge in using popular frameworks like React or Vue.js for building scalable and maintainable web applications.",
