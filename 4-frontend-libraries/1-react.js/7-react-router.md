@@ -1,37 +1,37 @@
 ---
 seo:
-  title: "React Router v6: Dynamic Routing & Navigation Explained"
-  description: "Explore React Router v6 for dynamic routing, nested routes, and enhanced navigation in your web applications. Boost your SPA development!"
+  title: "React Router v7: Dynamic Routing & Navigation Explained"
+  description: "Explore React Router v7 for dynamic routing, nested routes, and enhanced navigation in your web applications. Boost your SPA development!"
 faqs:
-  - What is React Router v6 and how does it enhance routing in React applications?
-  - React Router v6 is a powerful routing library designed for React applications that enhances navigation and routing capabilities. It supports dynamic routing, nested routes, and improved URL management, making it ideal for single-page applications (SPAs). With features like the useParams hook and dynamic segments, it allows developers to create more interactive and user-friendly web applications.
-  - How does client-side routing work in React using React Router v6?
-  - Client-side routing in React with React Router v6 works by managing the browser's history and URL without refreshing the entire page. This allows for seamless transitions between different views of the application. The library intercepts navigation events and renders the appropriate components based on the current URL, providing a smoother user experience.
-  - What are dynamic routes and how can they be implemented in React Router v6?
-  - Dynamic routes in React Router v6 allow web applications to handle variable URL segments. They can be implemented using route parameters, which are defined in the route path. For example, you can create a route like `/product/:productId` to dynamically display product details based on the `productId`. The useParams hook is then utilized to access these parameters within your components.
-  - What are nested routes and how do they work in React Router v6?
-  - Nested routes in React Router v6 create a hierarchical structure in React applications, establishing parent-child relationships between different routes. This organization method mirrors the natural hierarchy of user interfaces, making complex navigation systems more manageable and intuitive.
-  - How can you implement lazy loading in React Router v6?
-  - Lazy loading in React Router v6 allows you to load routes only when they are needed, improving performance by reducing the initial bundle size. This is achieved through the use of React's lazy component and Suspense components.
-  - What best practices should I follow when implementing error handling with React Router v6?
-  - When implementing error handling with React Router v6, it's essential to create dedicated error boundary components that catch errors in your component tree. Additionally, consider implementing fallback UI elements to provide users with meaningful feedback when an error occurs. This ensures a smoother user experience even when issues arise during navigation.
+  - What is React Router v7 and how does it enhance routing in React applications?
+  - React Router v7 is the latest version of the powerful routing library designed for React applications that enhances navigation and routing capabilities. It supports dynamic routing, nested routes, and improved URL management, making it ideal for single-page applications (SPAs). With features like the useParams hook and dynamic segments, it allows developers to create more interactive and user-friendly web applications.
+  - How does client-side routing work in React using React Router v7?
+  - Client-side routing in React with React Router v7 works by managing the browser's history and URL without refreshing the entire page. This allows for seamless transitions between different views of the application. The library intercepts navigation events and renders the appropriate components based on the current URL, providing a smoother user experience.
+  - What are dynamic routes and how can they be implemented in React Router v7?
+  - Dynamic routes in React Router v7 allow web applications to handle variable URL segments. They can be implemented using route parameters, which are defined in the route path. For example, you can create a route like `/product/:productId` to dynamically display product details based on the `productId`. The useParams hook is then utilized to access these parameters within your components.
+  - What are nested routes and how do they work in React Router v7?
+  - Nested routes in React Router v7 create a hierarchical structure in React applications, establishing parent-child relationships between different routes. This organization method mirrors the natural hierarchy of user interfaces, making complex navigation systems more manageable and intuitive.
+  - How can you implement lazy loading in React Router v7?
+  - Lazy loading in React Router v7 allows you to load routes only when they are needed, improving performance by reducing the initial bundle size. This is achieved through the use of React's lazy component and Suspense components.
+  - What best practices should I follow when implementing error handling with React Router v7?
+  - When implementing error handling with React Router v7, it's essential to create dedicated error boundary components that catch errors in your component tree. Additionally, consider implementing fallback UI elements to provide users with meaningful feedback when an error occurs. This ensures a smoother user experience even when issues arise during navigation.
 ---
 
-# React Router v6: Dynamic Routing, Nested Routes, and Navigation
+# React Router v7: Dynamic Routing, Nested Routes, and Navigation
 
 ## Introduction
 
-React Router v6 is a powerful routing library that makes navigation in React applications much easier. It allows developers to create dynamic, multi-page experiences within single-page applications (SPAs) while ensuring smooth transitions between pages.
+React Router v7 is the latest version of the powerful routing library that makes navigation in React applications much easier. It allows developers to create dynamic, multi-page experiences within single-page applications (SPAs) while ensuring smooth transitions between pages.
 
 > **Pro Tip**: Think of React Router as a GPS for your React application - it helps users navigate between different parts of your app without refreshing the page.
 
-In this lesson, we will explore the main features of React Router v6:
+In this lesson, we will explore the main features of React Router v7:
 
 - Dynamic routing capabilities for flexible URL parameters
 - Nested routes for organized component hierarchies
 - Advanced navigation components for seamless user experiences
 
-Whether you're building a small portfolio site or a complex web application, mastering React Router v6 will help you create intuitive and professional navigation systems.
+Whether you're building a small portfolio site or a complex web application, mastering React Router v7 will help you create intuitive and professional navigation systems.
 
 ## Understanding Routing in React
 
@@ -47,9 +47,9 @@ Here's how client-side routing works in React:
 - **State Preservation**: The application maintains its state during navigation
 - **Instant Updates**: Page transitions happen instantly without reload delays
 
-### Benefits of React Router v6 for SPAs
+### Benefits of React Router v7 for SPAs
 
-React Router v6 enhances single-page applications (SPAs) through several key benefits:
+React Router v7 enhances single-page applications (SPAs) through several key benefits:
 
 1. **Improved Performance**
 
@@ -71,7 +71,7 @@ React Router v6 enhances single-page applications (SPAs) through several key ben
 
 ### Basic Routing Example
 
-Here's a basic example of how routing is implemented using React Router v6:
+Here's a basic example of how routing is implemented using React Router v7:
 
 ```jsx
 // Basic routing example
@@ -87,11 +87,11 @@ Here's a basic example of how routing is implemented using React Router v6:
 > - Routes container
 > - Individual routes
 > - Component elements
-> - Learn more about [React Router basics](https://reactrouter.com/en/main/guides/quick-start)
+> - Learn more about [React Router basics](https://reactrouter.com/docs/en/main/guides/quick-start)
 
-This routing structure creates a foundation for building complex navigation patterns while maintaining clean, organized code. The declarative nature of React Router v6 makes it intuitive to define routes and handle navigation logic within your application.
+This routing structure creates a foundation for building complex navigation patterns while maintaining clean, organized code. The declarative nature of React Router v7 makes it intuitive to define routes and handle navigation logic within your application.
 
-## Dynamic Routing with React Router v6
+## Dynamic Routing with React Router v7
 
 Dynamic routing enables web applications to handle variable URL patterns and render components based on URL parameters. This powerful feature allows developers to create flexible, data-driven routes that respond to user interactions and display specific content.
 
@@ -99,7 +99,7 @@ Dynamic routing enables web applications to handle variable URL patterns and ren
 
 ### Understanding Dynamic Segments
 
-Dynamic segments in React Router v6 are URL parameters that capture values from the URL path. These segments are defined using a colon `:` followed by the parameter name:
+Dynamic segments in React Router v7 are URL parameters that capture values from the URL path. These segments are defined using a colon `:` followed by the parameter name:
 
 ```jsx
 <Route path="/users/:userId" element={} />
@@ -110,7 +110,7 @@ Dynamic segments in React Router v6 are URL parameters that capture values from 
 > - Use colon syntax
 > - Capture URL values
 > - Access via useParams
-> - Learn more about [React Router dynamic routes](https://reactrouter.com/en/main/guides/dynamic-routes)
+> - Learn more about [React Router dynamic routes](https://reactrouter.com/docs/en/main/guides/dynamic-routes)
 
 In this example, `:userId` is a dynamic segment that matches any value in that position of the URL.
 
@@ -153,13 +153,13 @@ function ProductDetails() {
 > - Define route with parameter
 > - Access parameter with useParams
 > - Use in component
-> - Learn more about [React Router parameters](https://reactrouter.com/en/main/guides/params)
+> - Learn more about [React Router parameters](https://reactrouter.com/home)
 
 In this example, the `:productId` parameter in the route path captures any value in that position of the URL, and the `useParams` hook makes it available in the component.
 
 ### Accessing Route Parameters
 
-React Router v6 provides the `useParams` hook to access URL parameters within components:
+React Router v7 provides the `useParams` hook to access URL parameters within components:
 
 ```jsx
 function BlogPost() {
@@ -179,7 +179,7 @@ function BlogPost() {
 > - Access with useParams
 > - Multiple parameters
 > - Type safety
-> - Learn more about [React Router params](https://reactrouter.com/en/main/guides/params)
+> - Learn more about [React Router params](https://reactrouter.com/home)
 
 This component would work with a route like `<Route path="/blog/:category/:postId" element={<BlogPost />} />`.
 
@@ -199,11 +199,11 @@ Routes can contain multiple dynamic segments to capture different parts of the U
 > - Multiple segments
 > - Nested parameters
 > - Complex routing
-> - Learn more about [React Router multiple params](https://reactrouter.com/en/main/guides/params)
+> - Learn more about [React Router multiple params](https://reactrouter.com/home)
 
 ### Optional Parameters
 
-React Router v6 supports optional parameters using the `?` symbol:
+React Router v7 supports optional parameters using the `?` symbol:
 
 ```jsx
 <Route path="/products/:category?/:id" element={<ProductView />} />
@@ -214,7 +214,7 @@ React Router v6 supports optional parameters using the `?` symbol:
 > - Use question mark
 > - Flexible matching
 > - Fallback values
-> - Learn more about [React Router optional params](https://reactrouter.com/en/main/guides/params)
+> - Learn more about [React Router optional params](https://reactrouter.com/home)
 
 This route matches both `/products/electronics/123` and `/products/123`.
 
@@ -233,7 +233,7 @@ You can enhance your routes with specific patterns:
 > - Validate parameters
 > - Type checking
 > - Pattern matching
-> - Learn more about [React Router patterns](https://reactrouter.com/en/main/guides/patterns)
+> - Learn more about [React Router patterns](https://reactrouter.com/docs/en/main/guides/patterns)
 
 - **Splat Routes**:
 
@@ -246,11 +246,11 @@ You can enhance your routes with specific patterns:
 > - Catch all paths
 > - Wildcard matching
 > - Flexible routing
-> - Learn more about [React Router splat](https://reactrouter.com/en/main/guides/splat)
+> - Learn more about [React Router splat](https://reactrouter.com/home)
 
 These patterns provide precise control over URL matching and parameter capture, enabling developers to create sophisticated routing systems that handle complex navigation requirements.
 
-## Nested Routes in React Router v6
+## Nested Routes in React Router v7
 
 Nested routes create a hierarchical structure in React applications, establishing parent-child relationships between different routes. This organization method mirrors the natural hierarchy of user interfaces, making complex navigation systems more manageable and intuitive.
 
@@ -280,7 +280,7 @@ function Products() {
 > - Parent component
 > - Child routes
 > - Outlet component
-> - Learn more about [React Router nested routes](https://reactrouter.com/en/main/guides/nested-routes)
+> - Learn more about [React Router nested routes](https://reactrouter.com/docs/en/main/guides/nested-routes)
 
 The `Outlet` component serves as a placeholder where child routes will render their content.
 
@@ -304,7 +304,7 @@ The setup process involves three key steps:
 > - Define hierarchy
 > - Set up structure
 > - Organize content
-> - Learn more about [React Router parent routes](https://reactrouter.com/en/main/guides/nested-routes)
+> - Learn more about [React Router parent routes](https://reactrouter.com/docs/en/main/guides/nested-routes)
 
 2. **Create Child Components**
 
@@ -323,7 +323,7 @@ function Clothing() {
 > - Specific content
 > - Reusable components
 > - Clean organization
-> - Learn more about [React Router child components](https://reactrouter.com/en/main/guides/nested-routes)
+> - Learn more about [React Router child components](https://reactrouter.com/docs/en/main/guides/nested-routes)
 
 3. **Use the Outlet Component**
    The `<Outlet />` component acts as a placeholder where child routes render their content. It's essential for nested route functionality:
@@ -349,7 +349,7 @@ function Layout() {
 > - Render child routes
 > - Maintain layout
 > - Handle nesting
-> - Learn more about [React Router Outlet](https://reactrouter.com/en/main/components/outlet)
+> - Learn more about [React Router Outlet](https://reactrouter.com/docs/en/main/components/outlet)
 
 ### Dynamic Nested Routes
 
@@ -366,7 +366,7 @@ Nested routes support dynamic parameters, enabling flexible content rendering:
 > - Dynamic parameters
 > - Flexible content
 > - Complex routing
-> - Learn more about [React Router dynamic nested](https://reactrouter.com/en/main/guides/nested-routes)
+> - Learn more about [React Router dynamic nested](https://reactrouter.com/docs/en/main/guides/nested-routes)
 
 This structure creates URLs like `/categories/electronics/12345`, where both category and product IDs are dynamic parameters accessible through `useParams()`:
 
@@ -383,9 +383,9 @@ function ProductDetails() {
 }
 ```
 
-## Enhancing Navigation with React Router v6
+## Enhancing Navigation with React Router v7
 
-React Router v6 provides powerful navigation components that simplify the creation of interactive links and navigation menus in your applications. Let's explore the two primary navigation components: `Link` and `NavLink`.
+React Router v7 provides powerful navigation components that simplify the creation of interactive links and navigation menus in your applications. Let's explore the two primary navigation components: `Link` and `NavLink`.
 
 > **Pro Tip**: Think of navigation components like road signs - they help users know where they can go and where they are.
 
@@ -411,7 +411,7 @@ function Navigation() {
 > - Basic navigation
 > - URL handling
 > - Smooth transitions
-> - Learn more about [React Router Link](https://reactrouter.com/en/main/components/link)
+> - Learn more about [React Router Link](https://reactrouter.com/docs/en/main/components/link)
 
 ### NavLink Component
 
@@ -444,7 +444,7 @@ function Navigation() {
 > - Active state
 > - Styling options
 > - Better UX
-> - Learn more about [React Router NavLink](https://reactrouter.com/en/main/components/nav-link)
+> - Learn more about [React Router NavLink](https://reactrouter.com/docs/en/main/components/nav-link)
 
 The `NavLink` component offers these distinct advantages:
 
@@ -466,7 +466,7 @@ Here's a practical example of styling active links with CSS:
 
 ## Best Practices for Implementing Navigation in React Applications
 
-Creating user-friendly navigation goes beyond basic implementation. Here are essential practices to enhance your React Router v6 navigation:
+Creating user-friendly navigation goes beyond basic implementation. Here are essential practices to enhance your React Router v7 navigation:
 
 > **Pro Tip**: Follow these best practices to create better navigation experiences for your users.
 
@@ -520,7 +520,7 @@ const About = React.lazy(() => import("./routes/About"));
 
 ## Conclusion
 
-React Router v6 is a powerful tool for creating dynamic, user-friendly web applications. Its features, such as dynamic routing capabilities, nested routes, and improved navigation components, give developers the necessary tools for modern web development.
+React Router v7 is a powerful tool for creating dynamic, user-friendly web applications. Its features, such as dynamic routing capabilities, nested routes, and improved navigation components, give developers the necessary tools for modern web development.
 
 > **Pro Tip**: Practice these concepts in real projects to truly understand them.
 
@@ -537,11 +537,11 @@ The library's easy-to-use API makes it simple to handle complex routing situatio
 
 > **Learning Resources**:
 >
-> - [React Router Documentation](https://reactrouter.com/en/main)
-> - [React Router Tutorial](https://reactrouter.com/en/main/start/tutorial)
-> - [React Router Examples](https://reactrouter.com/en/main/start/examples)
-> - [React Router API Reference](https://reactrouter.com/en/main/route)
-> - [React Router Community](https://reactrouter.com/en/main/community)
+> - [React Router Documentation](https://reactrouter.com/docs/en/main)
+> - [React Router Tutorial](https://reactrouter.com/docs/en/main/start/tutorial)
+> - [React Router Examples](https://reactrouter.com/docs/en/main/start/examples)
+> - [React Router API Reference](https://reactrouter.com/docs/en/main/route)
+> - [React Router Community](https://reactrouter.com/docs/en/main/community)
 > - [React Router GitHub](https://github.com/remix-run/react-router)
 > - [React Router Blog](https://remix.run/blog)
 > - [React Router Discord](https://discord.gg/6Ry36Dm)

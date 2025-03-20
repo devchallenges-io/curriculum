@@ -605,8 +605,8 @@
 
   {
     "title": "React Router v6",
-    "path": "4-frontend-libraries/1-react.js/7-react-routerv6.md",
-    "slug": "4-frontend-libraries/react-router-v6",
+    "path": "4-frontend-libraries/1-react.js/7-react-router.md",
+    "slug": "4-frontend-libraries/react-router",
     "group": "React Routing and Context",
     "type": "lesson"
   },
