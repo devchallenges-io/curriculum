@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master CSS Positioning: A Beginner's Guide to Web Layouts"
+  title: "CSS Positioning: A Beginner's Guide to Web Layouts"
   description: "Master CSS positioning and create responsive websites with our step-by-step guide for beginners. Learn static, relative, absolute, fixed, and sticky positioning."
 faqs:
   - What is static positioning in CSS?
@@ -17,7 +17,7 @@ faqs:
   - The z-index property controls the stacking order of positioned elements that overlap. Elements with a higher z-index value will appear on top of those with lower values. The stacking context can also be influenced by factors such as parent elements' z-index and their position property.
 ---
 
-# Master CSS Positioning: A Step-by-Step lesson for Beginners
+# CSS Positioning: A Step-by-Step lesson for Beginners
 
 CSS positioning is a fundamental concept in web design that allows developers to control the layout of HTML elements on a page. For beginners, understanding CSS positioning is crucial for creating responsive and visually appealing websites. This lesson will guide you through the different position values in CSS:
 

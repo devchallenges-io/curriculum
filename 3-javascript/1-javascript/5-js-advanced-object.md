@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering JSON: Ultimate Guide to JavaScript Objects & Notation"
+  title: "JSON: Guide to JavaScript Objects & Notation"
   description: "Master JavaScript Object Notation (JSON) with our ultimate guide. Learn to define, manipulate, and debug objects effectively."
 faqs:
   - What is JavaScript Object Notation (JSON)?
@@ -17,7 +17,7 @@ faqs:
   - In JavaScript, objects inherit properties and methods from their prototypes. You can shape inheritance using methods like Object.create() to create an object with a specified prototype.
 ---
 
-# Mastering JavaScript Object Notation: The Ultimate Guide
+# JavaScript Object Notation: The Ultimate Guide
 
 **JavaScript Object Notation (JSON)** is a lightweight data interchange format that is easy for humans to read and write, and simple for machines to parse and generate. It derives its syntax from JavaScript object literal notation but is distinct from the language itself. The use of JSON is prevalent due to:
 

@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master JavaScript Variables: Guide to var, let & const"
+  title: "JavaScript Variables: Guide to var, let & const"
   description: "Master JavaScript variables: learn var, let, const, their scopes, and best practices for clean, efficient code in dynamic web applications."
 faqs:
   - What is the difference between var, let, and const in JavaScript?
@@ -17,7 +17,7 @@ faqs:
   - To check browser support for JavaScript features, open the browser console through developer tools and test variable declarations by typing commands such as 'var testVar = "test";'. If no errors occur, your browser supports these keywords.
 ---
 
-# Mastering the Basics: Your Ultimate Guide to JavaScript Variables
+# JavaScript Variables: Guide to var, let & const
 
 JavaScript variables are essential for storing and manipulating data in the programming language. They act as containers that hold information which can be accessed and modified throughout a script's execution. Using variables effectively is crucial for creating web applications that are dynamic and interactive.
 

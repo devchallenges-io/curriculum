@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering Recursion in JavaScript: A Comprehensive Guide"
+  title: "Recursion in JavaScript: A Comprehensive Guide"
   description: "Master recursion in JavaScript with this step-by-step guide. Learn key principles, examples, and how to overcome recursion limits."
 faqs:
   - What is recursion in JavaScript?
@@ -17,7 +17,7 @@ faqs:
   - Recursive data structures, like linked lists and trees, consist of nodes that reference other nodes. This structure allows for efficient data organization and manipulation using recursive algorithms for traversal.
 ---
 
-# Mastering Recursion in JavaScript: A Step-by-Step Guide
+# Recursion in JavaScript: A Step-by-Step Guide
 
 Recursion in JavaScript is a fundamental programming technique that developers use to create functions that call themselves. This lesson is a comprehensive guide on how recursion works and why it's essential to understand in JavaScript programming.
 

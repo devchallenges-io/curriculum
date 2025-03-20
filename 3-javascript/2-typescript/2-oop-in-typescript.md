@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master Object-Oriented Programming in TypeScript: A Complete Guide"
+  title: "Object-Oriented Programming in TypeScript: A Complete Guide"
   description: "Master TypeScript OOP: Learn encapsulation, inheritance, polymorphism, and abstraction for modular, reusable, and maintainable code."
 faqs:
   - What is Object-Oriented Programming (OOP) in TypeScript?

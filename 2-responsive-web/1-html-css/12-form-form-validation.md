@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master HTML Forms & Validation: Step-by-Step Guide"
+  title: "HTML Forms & Validation: Step-by-Step Guide"
   description: "Master HTML forms and validation: create secure, user-friendly forms with step-by-step guidance on input types, attributes, and JavaScript techniques."
 faqs:
   - What are HTML forms used for?
@@ -17,7 +17,7 @@ faqs:
   - Understanding different input types helps developers create forms that accurately capture user data while ensuring a better user experience through appropriate field restrictions and validations.
 ---
 
-# Mastering Form and Form Validation: A Step-by-Step HTML lesson
+# Form and Form Validation: A Step-by-Step HTML lesson
 
 HTML forms are essential in web development, as they allow users to submit information on websites. Whether it's signing up for a service, providing contact details, or entering payment information, forms enable this crucial user interaction.
 

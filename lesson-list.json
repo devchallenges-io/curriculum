@@ -408,14 +408,7 @@
     "group": "Data Management",
     "type": "lesson"
   },
-  {
-    "title": "Random Quote",
-    "path": "3-javascript",
-    "slug": "challenge/random-quote",
-    "group": "Data Management",
-    "type": "challenge",
-    "challenge_id": 38
-  },
+
   {
     "title": "JavaScript Async and API",
     "path": "3-javascript/1-javascript/12-async-and-api.md",
@@ -423,6 +416,16 @@
     "group": "Asynchronous Programming",
     "type": "lesson"
   },
+
+  {
+    "title": "Random Quote",
+    "path": "3-javascript",
+    "slug": "challenge/random-quote",
+    "group": "Asynchronous Programming",
+    "type": "challenge",
+    "challenge_id": 38
+  },
+
   {
     "title": "Movie Search App",
     "path": "3-javascript",

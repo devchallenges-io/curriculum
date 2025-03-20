@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master TypeScript Generics: Boost Flexibility & Reusability"
+  title: "TypeScript Generics: Boost Flexibility & Reusability"
   description: "Master TypeScript Generics to create reusable, flexible code. Learn generic functions, classes, constraints, and best practices."
 faqs:
   - What are TypeScript Generics?
@@ -17,7 +17,7 @@ faqs:
   - To improve readability when using TypeScript Generics, opt for descriptive variable names for generic types. Additionally, consider utilizing union types and intersection types in conjunction with generics to express complex relationships between types clearly.
 ---
 
-# Mastering TypeScript Generics
+# TypeScript Generics
 
 TypeScript Generics offer a powerful way to create reusable and flexible code by allowing you to define functions, classes, and type aliases with placeholder types. These placeholder types are known as _type variables_ and can be replaced with specific types when the function or class is used.
 

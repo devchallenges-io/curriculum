@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering Responsive Design: Key Principles and Techniques"
+  title: "Responsive Design: Key Principles and Techniques"
   description: "Master responsive web design: fluid layouts, media queries, and CSS tricks. Ensure your site looks great on any device."
 faqs:
   - What is responsive design and why is it important?
@@ -17,7 +17,7 @@ faqs:
   - Future trends in responsive design include enhanced media features from Level 4 specifications that focus on user preferences, improved interaction media features for better engagement, and adapting designs to accommodate a multi-device landscape where personalization becomes increasingly important.
 ---
 
-# Mastering Responsive Design
+# Responsive Design
 
 Responsive design is crucial for creating web experiences that work well on different devices. With more people using mobile and tablet devices to access the internet, it's essential to prioritize responsive web design in modern web development. This approach ensures that users can easily interact with and view websites on any device, whether it's a large desktop monitor or a small smartphone.
 

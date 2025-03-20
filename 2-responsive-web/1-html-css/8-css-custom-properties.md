@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering CSS Custom Properties: Enhance Your Web Design Skills"
+  title: "CSS Custom Properties: Enhance Your Web Design Skills"
   description: "Master CSS custom properties for dynamic, reusable styles. Enhance code readability and maintainability with advanced techniques and responsive design."
 faqs:
   - What are CSS Custom Properties?
@@ -15,7 +15,7 @@ faqs:
   - Yes! By combining media queries with CSS custom properties, you can easily adjust styles based on different screen sizes, making your design more responsive and adaptable.
 ---
 
-# Mastering CSS Custom Properties
+# CSS Custom Properties
 
 CSS custom properties have transformed the way we style websites, offering a level of dynamic and flexible styling options previously out of reach. They promote the DRY (Don't Repeat Yourself) principle, reduce complexity, and enhance readability in your code.
 

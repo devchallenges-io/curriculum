@@ -316,7 +316,7 @@ The benefits of this straightforward approach include:
 
 For components that share common functionality or UI elements, consider creating subdirectories:
 
-```
+```bash
 components/
 ├── forms/
 │ ├── Input/

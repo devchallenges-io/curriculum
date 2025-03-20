@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering CSS Units: Guide to px, em, rem & More"
+  title: "CSS Units: Guide to px, em, rem & More"
   description: "Master CSS units like px, em, rem, and viewport units to create flexible, scalable, and accessible web layouts. Learn best practices now!"
 faqs:
   - What are absolute length units in CSS?
@@ -17,7 +17,7 @@ faqs:
   - Selecting appropriate CSS units depends on your project's needs. Use ems for scalable text styling, pixels for precision in static elements, and viewport units for responsive designs. Additionally, consider cross-browser compatibility to ensure consistent rendering across different platforms.
 ---
 
-# Mastering CSS Units: A Comprehensive Guide to px, em, rem, and More
+# CSS Units: A Comprehensive Guide to px, em, rem, and More
 
 Understanding CSS units is crucial for web developers who want to create precise and flexible layouts. The choice of unit can have a big impact on how scalable, maintainable, and accessible a web page is. In this lesson, we'll provide a comprehensive guide to the main CSS units used in web development.
 

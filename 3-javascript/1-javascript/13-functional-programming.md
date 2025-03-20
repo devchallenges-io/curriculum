@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master Functional Programming in JavaScript: Ultimate Guide"
+  title: "Functional Programming in JavaScript: Ultimate Guide"
   description: "Master functional programming in JavaScript. Learn key principles, benefits, and techniques to write clean, efficient code."
 faqs:
   - What is functional programming?
@@ -17,7 +17,7 @@ faqs:
   - Asynchronous operations can introduce complexities in state management due to their non-blocking nature. Challenges include managing side effects and ensuring that the application state remains consistent. Libraries like Folktale.js can help handle these declarative async flows effectively.
 ---
 
-# Mastering Functional Programming in JavaScript: A Comprehensive Guide
+# Functional Programming in JavaScript: A Comprehensive Guide
 
 Functional programming is a powerful programming style that focuses on evaluating mathematical functions to perform computations. It offers a different way of organizing and running code, with a strong emphasis on using functions and avoiding side effects.
 

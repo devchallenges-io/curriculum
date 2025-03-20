@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering TypeScript Modules: Comprehensive Guide for Developers"
+  title: "TypeScript Modules: Comprehensive Guide for Developers"
   description: "Master TypeScript modules with our comprehensive guide. Learn ES6, CommonJS, AMD, UMD, and advanced techniques for efficient code structure."
 faqs:
   - What are the different types of TypeScript modules?
@@ -17,7 +17,7 @@ faqs:
   - Dynamic imports allow you to load modules conditionally or on demand at runtime rather than at compile time. This can be beneficial for optimizing performance by reducing initial load times and loading only what is necessary.
 ---
 
-# Mastering TypeScript Modules: A Comprehensive Guide
+# TypeScript Modules: A Comprehensive Guide
 
 TypeScript modules are a fundamental aspect of modern JavaScript development, serving as a powerful tool for structuring and organizing code. By encapsulating functionality into discrete units, modules promote code reuse, maintainability, and clarity.
 

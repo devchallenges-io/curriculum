@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering JavaScript Arrays: Comprehensive Guide for Developers"
+  title: "JavaScript Arrays: Comprehensive Guide for Developers"
   description: "Master JavaScript arrays: learn array creation, manipulation, multidimensional arrays, comparison methods, and practical examples."
 faqs:
   - What are the basics of arrays in JavaScript?
@@ -17,7 +17,7 @@ faqs:
   - The sort() method in JavaScript sorts the elements of an array in place and returns the sorted array. It converts elements into strings by default for comparison. To sort numbers correctly or sort objects by specific properties, you need to provide a comparison function.
 ---
 
-# Mastering JavaScript Arrays: A Complete lesson
+# JavaScript Arrays: A Complete lesson
 
 JavaScript arrays are versatile data structures integral to modern web development. Understanding arrays in JavaScript is essential for managing collections of data efficiently and performing complex operations with ease. Given their importance, this lesson on JavaScript arrays aims to equip developers with a comprehensive understanding of array-related concepts.
 

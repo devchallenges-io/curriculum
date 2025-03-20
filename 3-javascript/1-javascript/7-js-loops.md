@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master JavaScript Loops: A Beginner's Comprehensive Guide"
+  title: "JavaScript Loops: A Beginner's Comprehensive Guide"
   description: "Master JavaScript loops: for, while, do-while, for-in, for-of, and forEach. Learn their syntax, use cases, and write efficient code."
 faqs:
   - What is a for loop in JavaScript?
@@ -17,7 +17,7 @@ faqs:
   - JavaScript loops are powerful tools for working with data because they allow developers to automate repetitive tasks, process collections of items efficiently, and implement complex algorithms that require multiple iterations.
 ---
 
-# Mastering JavaScript Loops: A Complete Guide for Beginners
+# JavaScript Loops: A Complete Guide for Beginners
 
 In the ever-changing world of web development, JavaScript loops are crucial for handling repetitive tasks efficiently. Whether you're working with data structures or automating repetitive processes, knowing how to use loops is essential for any JavaScript developer.
 

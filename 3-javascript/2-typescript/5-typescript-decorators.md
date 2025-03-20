@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering TypeScript Decorators: Enhance Your Classes & Methods"
+  title: "TypeScript Decorators: Enhance Your Classes & Methods"
   description: "Master TypeScript decorators to enhance classes, methods, properties, and parameters. Learn their syntax, usage, and advanced patterns."
 faqs:
   - What are TypeScript Decorators?
@@ -17,7 +17,7 @@ faqs:
   - Decorators add metadata to classes, methods, properties, and parameters which can have performance implications. To optimize usage, minimize the number of decorators applied and ensure they are only used where necessary.
 ---
 
-# Mastering TypeScript Decorators
+# TypeScript Decorators
 
 TypeScript Decorators are a powerful feature introduced to add metadata and modify the behavior of classes, methods, properties, and parameters. These decorators enhance the functionality of your code by enabling declarative programming techniques.
 

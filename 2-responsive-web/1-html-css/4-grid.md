@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Mastering CSS Grid: Step-by-Step Guide for Web Developers"
+  title: "CSS Grid: Step-by-Step Guide for Web Developers"
   description: "Master CSS Grid with our step-by-step guide. Learn to create complex, responsive layouts easily without extra frameworks."
 faqs:
   - What is CSS Grid Layout?
@@ -17,7 +17,7 @@ faqs:
   - Nested grids occur when a grid item itself becomes a grid container. This allows for more complex layouts by creating grids within grids, enabling greater flexibility and organization of content.
 ---
 
-# Mastering CSS Grid: A Step-by-Step lesson
+# CSS Grid: A Step-by-Step lesson
 
 CSS Grid Layout revolutionized web design by allowing developers to precisely create complex layouts. Unlike older methods, CSS Grid provides a flexible and robust approach to element arrangement on a web page. It offers enhanced control over horizontal and vertical alignment of elements, facilitating responsive designs that adapt to various screen sizes. This advancement enables the creation of complex, adaptable layouts without necessitating complicated frameworks or hacks.
 

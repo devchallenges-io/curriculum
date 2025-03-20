@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master Advanced TypeScript: Unions, Generics & Utility Types"
+  title: "Advanced TypeScript: Unions, Generics & Utility Types"
   description: "Master advanced TypeScript concepts: union types, generics, type guards, mapped types, and utility types for robust and maintainable code."
 faqs:
   - What are Union and Intersection Types in TypeScript?

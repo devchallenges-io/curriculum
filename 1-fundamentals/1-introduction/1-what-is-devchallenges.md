@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master Web Development with devChallenges.io: Real Projects & Community"
+  title: "Web Development with devChallenges.io: Real Projects & Community"
   description: "Join devChallenges.io to enhance your web development skills with real-world projects, community support, and a structured learning path."
 faqs:
   - What is devChallenges.io?

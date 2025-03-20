@@ -1,6 +1,6 @@
 ---
 seo:
-  title: "Master JavaScript Conditional Statements: Ultimate Guide"
+  title: "JavaScript Conditional Statements: Ultimate Guide"
   description: "Master JavaScript conditional statements: if, else, else if, switch, and ternary. Enhance decision-making in your code for dynamic applications."
 faqs:
   - What is an if statement in JavaScript?
@@ -17,7 +17,7 @@ faqs:
   - Common mistakes include neglecting strict equality by using '==' instead of '===' which can lead to unexpected results due to type coercion. It's also important to write descriptive conditionals that are self-explanatory and utilize console.log() strategically for debugging purposes.
 ---
 
-# Mastering Conditional Statements in JavaScript: The Ultimate lesson
+# Conditional Statements in JavaScript: The Ultimate lesson
 
 Conditional statements are essential for decision-making in JavaScript. They allow developers to run code based on specific conditions. By checking if certain criteria are true, JavaScript can perform different actions, making applications dynamic and responsive.
 
