@@ -544,89 +544,13 @@
     "group": "React Fundamentals",
     "type": "lesson"
   },
-  {
-    "title": "React State Management",
-    "path": "4-frontend-libraries/1-react.js/5-state-management.md",
-    "slug": "4-frontend-libraries/react-state-management",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "Side Effects in React",
-    "path": "4-frontend-libraries/1-react.js/6-side-effects-lifecycle.md",
-    "slug": "4-frontend-libraries/side-effects-in-react",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "React Router v6",
-    "path": "4-frontend-libraries/1-react.js/7-react-routerv6.md",
-    "slug": "4-frontend-libraries/react-router-v6",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "Context API",
-    "path": "4-frontend-libraries/1-react.js/8-context-api.md",
-    "slug": "4-frontend-libraries/context-api",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "React Hooks in Depth",
-    "path": "4-frontend-libraries/1-react.js/9-react-hook-deep-dive.md",
-    "slug": "4-frontend-libraries/react-hook-deep-dive",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "Error Boundaries",
-    "path": "4-frontend-libraries/1-react.js/10-error-boundaries.md",
-    "slug": "4-frontend-libraries/error-boundaries",
-    "group": "React Fundamentals",
-    "type": "lesson"
-  },
-  {
-    "title": "Custom Hooks",
-    "path": "4-frontend-libraries/1-react.js/intermediate/1-custom-hook.md",
-    "slug": "4-frontend-libraries/custom-hooks",
-    "group": "React Intermediate",
-    "type": "lesson"
-  },
-  {
-    "title": "React Patterns",
-    "path": "4-frontend-libraries/1-react.js/intermediate/2-react-patterns.md",
-    "slug": "4-frontend-libraries/react-patterns",
-    "group": "React Intermediate",
-    "type": "lesson"
-  },
-  {
-    "title": "React Performance Optimization",
-    "path": "4-frontend-libraries/1-react.js/intermediate/3-react-performance-optimization.md",
-    "slug": "4-frontend-libraries/react-performance-optimization",
-    "group": "React Intermediate",
-    "type": "lesson"
-  },
-  {
-    "title": "React 19 New Features",
-    "path": "4-frontend-libraries/1-react.js/intermediate/4-react-19-new-features.md",
-    "slug": "4-frontend-libraries/react-19-new-features",
-    "group": "React Intermediate",
-    "type": "lesson"
-  },
-  {
-    "title": "React Server Components",
-    "path": "4-frontend-libraries/1-react.js/intermediate/5-react-server-components.md",
-    "slug": "4-frontend-libraries/react-server-components",
-    "group": "React Intermediate",
-    "type": "lesson"
-  },
+
   {
     "challenge_id": 45,
     "title": "Simple Coffee Listing",
     "path": "4-frontend-libraries",
     "slug": "challenge/simple-coffee-listing",
-    "group": "Frontend Libraries",
+    "group": "React Fundamentals",
     "type": "challenge"
   },
   {
@@ -634,23 +558,31 @@
     "title": "Property Listing",
     "path": "4-frontend-libraries",
     "slug": "challenge/property-listing",
-    "group": "Frontend Libraries",
+    "group": "React Fundamentals",
     "type": "challenge"
+  },
+
+  {
+    "title": "React State Management",
+    "path": "4-frontend-libraries/1-react.js/5-state-management.md",
+    "slug": "4-frontend-libraries/react-state-management",
+    "group": "React State & Effects",
+    "type": "lesson"
   },
   {
-    "challenge_id": 47,
-    "title": "Translate app",
-    "slug": "challenge/translate-app",
-    "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
-    "type": "challenge"
+    "title": "Side Effects in React",
+    "path": "4-frontend-libraries/1-react.js/6-side-effects-lifecycle.md",
+    "slug": "4-frontend-libraries/side-effects-in-react",
+    "group": "React State & Effects",
+    "type": "lesson"
   },
+
   {
     "challenge_id": 42,
     "title": "GitHub Profile",
     "slug": "challenge/github-profile",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React State & Effects",
     "type": "challenge"
   },
   {
@@ -658,15 +590,40 @@
     "title": "Recipe page - HomeChef",
     "slug": "challenge/recipe-page-homechef",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React State & Effects",
     "type": "challenge"
   },
+
+  {
+    "challenge_id": 52,
+    "title": "Weather App",
+    "slug": "challenge/weather-app",
+    "path": "4-frontend-libraries",
+    "group": "React State & Effects",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React Router v6",
+    "path": "4-frontend-libraries/1-react.js/7-react-routerv6.md",
+    "slug": "4-frontend-libraries/react-router-v6",
+    "group": "React Routing & Context",
+    "type": "lesson"
+  },
+  {
+    "title": "Context API",
+    "path": "4-frontend-libraries/1-react.js/8-context-api.md",
+    "slug": "4-frontend-libraries/context-api",
+    "group": "React Routing & Context",
+    "type": "lesson"
+  },
+
   {
     "challenge_id": 49,
     "title": "Country Page - WorldRanks",
     "slug": "challenge/country-page",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React Routing & Context",
     "type": "challenge"
   },
   {
@@ -674,33 +631,91 @@
     "title": "Country Quiz",
     "slug": "challenge/country-quizz",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React Routing & Context",
     "type": "challenge"
+  },
+
+  {
+    "title": "React Hooks in Depth",
+    "path": "4-frontend-libraries/1-react.js/9-react-hook-deep-dive.md",
+    "slug": "4-frontend-libraries/react-hook-deep-dive",
+    "group": "React Hooks & Patterns",
+    "type": "lesson"
   },
   {
-    "challenge_id": 51,
-    "title": "AI Chatbot - simplechat.ai",
-    "slug": "challenge/ai-chat-bot",
-    "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
-    "type": "challenge"
+    "title": "Custom Hooks",
+    "path": "4-frontend-libraries/1-react.js/intermediate/1-custom-hook.md",
+    "slug": "4-frontend-libraries/custom-hooks",
+    "group": "React Hooks & Patterns",
+    "type": "lesson"
   },
+
   {
-    "challenge_id": 52,
-    "title": "Weather App",
-    "slug": "challenge/weather-app",
+    "title": "React Patterns",
+    "path": "4-frontend-libraries/1-react.js/intermediate/2-react-patterns.md",
+    "slug": "4-frontend-libraries/react-patterns",
+    "group": "React Hooks & Patterns",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 47,
+    "title": "Translate app",
+    "slug": "challenge/translate-app",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React Hooks & Patterns",
     "type": "challenge"
   },
+
   {
     "challenge_id": 54,
     "title": "Task Manager App",
     "slug": "challenge/task-manager-app",
     "path": "4-frontend-libraries",
-    "group": "Frontend Libraries",
+    "group": "React Hooks & Patterns",
     "type": "challenge"
   },
+
+  {
+    "title": "Error Boundaries",
+    "path": "4-frontend-libraries/1-react.js/10-error-boundaries.md",
+    "slug": "4-frontend-libraries/error-boundaries",
+    "group": "React Advanced Features",
+    "type": "lesson"
+  },
+
+  {
+    "title": "React Performance Optimization",
+    "path": "4-frontend-libraries/1-react.js/intermediate/3-react-performance-optimization.md",
+    "slug": "4-frontend-libraries/react-performance-optimization",
+    "group": "React Advanced Features",
+    "type": "lesson"
+  },
+
+  {
+    "challenge_id": 51,
+    "title": "AI Chatbot - simplechat.ai",
+    "slug": "challenge/ai-chat-bot",
+    "path": "4-frontend-libraries",
+    "group": "React Advanced Features",
+    "type": "challenge"
+  },
+
+  {
+    "title": "React 19 New Features",
+    "path": "4-frontend-libraries/1-react.js/intermediate/4-react-19-new-features.md",
+    "slug": "4-frontend-libraries/react-19-new-features",
+    "group": "React More Features",
+    "type": "lesson"
+  },
+  {
+    "title": "React Server Components",
+    "path": "4-frontend-libraries/1-react.js/intermediate/5-react-server-components.md",
+    "slug": "4-frontend-libraries/react-server-components",
+    "group": "React More Features",
+    "type": "lesson"
+  },
+
   {
     "challenge_id": 56,
     "title": "Code Sharing App",
