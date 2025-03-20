@@ -81,7 +81,7 @@ By mastering these concepts:
 - **Expressions**: Leveraging JavaScript expressions effectively within our components
 - **Styling**: Exploring different ways to style our elements using inline styles or CSS classes
 
-we can unlock the full potential of React and build robust web applications.
+We can unlock the full potential of React and build robust web applications.
 
 > **Learning Path**:
 >

@@ -55,13 +55,6 @@ CRA is particularly useful in various situations:
 - Creating small to medium-sized projects
 - Quick prototyping of ideas
 
-> **When to Use CRA**:
->
-> - Starting to learn React
-> - Building small projects
-> - Need quick setup
-> - Learn more about [when to use CRA](https://create-react-app.dev/docs/getting-started)
-
 ### Advantages for Beginners
 
 For beginners, CRA offers several advantages:
@@ -162,7 +155,7 @@ yarn start
 
 The initial project structure created by CRA includes:
 
-```
+```bash
 my-react-app/
 ├── node_modules/
 ├── public/
@@ -241,7 +234,7 @@ yarn dev
 
 The generated project structure includes:
 
-```
+```bash
 my-react-app/
 ├── public/
 ├── src/
@@ -284,7 +277,7 @@ A well-organized folder structure is essential for any React project. It helps m
 
 For small to medium-sized React applications, a simple yet effective folder structure provides clarity without unnecessary complexity:
 
-```
+```bash
 src/
 ├── components/
 │ ├── Button/
@@ -339,7 +332,7 @@ This basic structure provides a solid foundation for small projects while mainta
 
 As your React project expands, a more structured organization becomes essential. Here's a scalable folder structure suited for growing applications:
 
-```
+```bash
 src/
 ├── pages/
 ├── components/
@@ -389,7 +382,7 @@ This structure promotes component reusability and makes navigation intuitive for
 
 Complex React applications require a more advanced folder structure that can grow with additional features and team members. The feature-based architecture offers an effective way to manage large applications:
 
-```
+```bash
 src/
 ├── features/
 │ ├── authentication/
