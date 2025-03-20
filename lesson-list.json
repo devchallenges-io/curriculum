@@ -158,14 +158,14 @@
     "title": "CSS Grid",
     "path": "2-responsive-web/1-html-css/4-grid.md",
     "slug": "2-responsive-web/css-grid",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "lesson"
   },
   {
     "title": "Bento Box Layout Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/bento-box-layout-challenge",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "challenge",
     "challenge_id": 68
   },
@@ -173,7 +173,7 @@
     "title": "Meet the Team Section",
     "path": "2-responsive-web",
     "slug": "challenge/meet-the-team-section-challenge",
-    "group": "Flexbox & Grid Layout",
+    "group": "Flexbox and Grid Layout",
     "type": "challenge",
     "challenge_id": 69
   },
@@ -264,14 +264,14 @@
     "title": "Basic Form and Form Validation",
     "path": "2-responsive-web/1-html-css/12-form-form-validation.md",
     "slug": "2-responsive-web/form-and-form-validation",
-    "group": "Forms & Validation",
+    "group": "Forms and Validation",
     "type": "lesson"
   },
   {
     "title": "Contact Page",
     "path": "2-responsive-web",
     "slug": "challenge/contact-page",
-    "group": "Forms & Validation",
+    "group": "Forms and Validation",
     "type": "challenge",
     "challenge_id": 31
   },
@@ -279,7 +279,7 @@
     "title": "Device Shop Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/apple-shop-checkout-page-challenge",
-    "group": "Forms & Validation",
+    "group": "Forms and Validation",
     "type": "challenge",
     "challenge_id": 72
   },
@@ -287,7 +287,7 @@
     "title": "Subscription Checkout",
     "path": "2-responsive-web",
     "slug": "challenge/subscription-checkout-page-challenge",
-    "group": "Forms & Validation",
+    "group": "Forms and Validation",
     "type": "challenge",
     "challenge_id": 73
   },
@@ -345,14 +345,14 @@
     "title": "JavaScript DOM and Events",
     "path": "3-javascript/1-javascript/1.1-js-dom-and-events.md",
     "slug": "3-javascript/javascript-dom-and-events",
-    "group": "DOM & Events",
+    "group": "DOM and Events",
     "type": "lesson"
   },
   {
     "title": "FAQ Page",
     "path": "3-javascript",
     "slug": "challenge/faq-page",
-    "group": "DOM & Events",
+    "group": "DOM and Events",
     "type": "challenge",
     "challenge_id": 32
   },
@@ -360,7 +360,7 @@
     "title": "Multi-step Register Form",
     "path": "3-javascript",
     "slug": "challenge/multi-step-register-form",
-    "group": "DOM & Events",
+    "group": "DOM and Events",
     "type": "challenge",
     "challenge_id": 35
   },
@@ -566,14 +566,14 @@
     "title": "React State Management",
     "path": "4-frontend-libraries/1-react.js/5-state-management.md",
     "slug": "4-frontend-libraries/react-state-management",
-    "group": "React State & Effects",
+    "group": "React State and Effects",
     "type": "lesson"
   },
   {
     "title": "Side Effects in React",
     "path": "4-frontend-libraries/1-react.js/6-side-effect-lifecycle.md",
     "slug": "4-frontend-libraries/side-effects-in-react",
-    "group": "React State & Effects",
+    "group": "React State and Effects",
     "type": "lesson"
   },
 
@@ -582,7 +582,7 @@
     "title": "GitHub Profile",
     "slug": "challenge/github-profile",
     "path": "4-frontend-libraries",
-    "group": "React State & Effects",
+    "group": "React State and Effects",
     "type": "challenge"
   },
   {
@@ -590,7 +590,7 @@
     "title": "Recipe page - HomeChef",
     "slug": "challenge/recipe-page-homechef",
     "path": "4-frontend-libraries",
-    "group": "React State & Effects",
+    "group": "React State and Effects",
     "type": "challenge"
   },
 
@@ -599,7 +599,7 @@
     "title": "Weather App",
     "slug": "challenge/weather-app",
     "path": "4-frontend-libraries",
-    "group": "React State & Effects",
+    "group": "React State and Effects",
     "type": "challenge"
   },
 
@@ -607,14 +607,14 @@
     "title": "React Router v6",
     "path": "4-frontend-libraries/1-react.js/7-react-routerv6.md",
     "slug": "4-frontend-libraries/react-router-v6",
-    "group": "React Routing & Context",
+    "group": "React Routing and Context",
     "type": "lesson"
   },
   {
     "title": "Context API",
     "path": "4-frontend-libraries/1-react.js/8-context-api.md",
     "slug": "4-frontend-libraries/context-api",
-    "group": "React Routing & Context",
+    "group": "React Routing and Context",
     "type": "lesson"
   },
 
@@ -623,7 +623,7 @@
     "title": "Country Page - WorldRanks",
     "slug": "challenge/country-page",
     "path": "4-frontend-libraries",
-    "group": "React Routing & Context",
+    "group": "React Routing and Context",
     "type": "challenge"
   },
   {
@@ -631,7 +631,7 @@
     "title": "Country Quiz",
     "slug": "challenge/country-quizz",
     "path": "4-frontend-libraries",
-    "group": "React Routing & Context",
+    "group": "React Routing and Context",
     "type": "challenge"
   },
 
@@ -639,14 +639,14 @@
     "title": "React Hooks in Depth",
     "path": "4-frontend-libraries/1-react.js/9-react-hook-deep-dive.md",
     "slug": "4-frontend-libraries/react-hook-deep-dive",
-    "group": "React Hooks & Patterns",
+    "group": "React Hooks and Patterns",
     "type": "lesson"
   },
   {
     "title": "Custom Hooks",
     "path": "4-frontend-libraries/1-react.js/intermediate/1-custom-hook.md",
     "slug": "4-frontend-libraries/custom-hooks",
-    "group": "React Hooks & Patterns",
+    "group": "React Hooks and Patterns",
     "type": "lesson"
   },
 
@@ -654,7 +654,7 @@
     "title": "React Patterns",
     "path": "4-frontend-libraries/1-react.js/intermediate/2-react-patterns.md",
     "slug": "4-frontend-libraries/react-patterns",
-    "group": "React Hooks & Patterns",
+    "group": "React Hooks and Patterns",
     "type": "lesson"
   },
 
