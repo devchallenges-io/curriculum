@@ -604,7 +604,7 @@
   },
 
   {
-    "title": "React Router v6",
+    "title": "React Router",
     "path": "4-frontend-libraries/1-react.js/7-react-router.md",
     "slug": "4-frontend-libraries/react-router",
     "group": "React Routing and Context",
