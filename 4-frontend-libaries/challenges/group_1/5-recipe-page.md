@@ -62,13 +62,13 @@ To fetch recipe data, you can use the [MealDB API](https://www.themealdb.com/api
 
 To get recipe categories, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://www.themealdb.com/api/json/v1/1/categories.php
 ```
 
 To get recipe details for a specific recipe ID, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 ```
 

@@ -62,7 +62,7 @@ You should create a web page that includes the following elements:
 
 To fetch the data for the property listing, you should make a GET request to the following URL:
 
-```
+```bash
 https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/property-listing-data.json
 ```
 

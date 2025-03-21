@@ -75,13 +75,13 @@ To fetch country data, you can use the [WorldRanks API](https://restcountries.co
 
 To get all countries sorted by population, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://restcountries.com/v3.1/all?sort=population
 ```
 
 To get country details for a specific country code, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://restcountries.com/v3.1/alpha/{countryCode}
 ```
 

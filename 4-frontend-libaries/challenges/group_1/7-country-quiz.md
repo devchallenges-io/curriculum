@@ -60,7 +60,7 @@ To fetch country data for the quiz questions, you can use the [WorldRanks API](h
 
 To generate 10 quiz questions, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://restcountries.com/v3.1/all?limit=10
 ```
 

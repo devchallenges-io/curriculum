@@ -60,7 +60,7 @@ You should create a web page that includes the following elements:
 
 To fetch the data for the coffee listing, you should make a GET request to the following URL:
 
-```
+```bash
 https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/simple-coffee-listing-data.json
 ```
 

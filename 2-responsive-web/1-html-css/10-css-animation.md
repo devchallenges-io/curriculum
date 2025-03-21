@@ -64,7 +64,7 @@ The `animation` property in CSS is a shorthand property that allows you to speci
 
 The syntax for the shorthand animation property is as follows:
 
-```
+```css
 animation: name duration timing-function delay iteration-count direction
   fill-mode play-state;
 ```
@@ -114,7 +114,7 @@ You can use the shorthand transition property to specify multiple transition-rel
 
 The syntax for the shorthand transition property is as follows:
 
-```
+```css
 transition: property duration timing-function delay;
 ```
 

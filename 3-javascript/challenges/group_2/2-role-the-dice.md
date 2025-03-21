@@ -66,8 +66,6 @@ The goals of this project are to help you:
      }
      ```
 
-````
-
 3. **JavaScript**: Write the logic to handle the dice roll.
 
    - Select the button and result display elements using `document.querySelector` or `document.getElementById`.
@@ -96,4 +94,3 @@ The goals of this project are to help you:
 - **HTML**: For creating the structure of the web page.
 - **CSS**: For styling the web page and making it responsive.
 - **JavaScript**: For adding interactivity and handling the coin flip logic.
-````

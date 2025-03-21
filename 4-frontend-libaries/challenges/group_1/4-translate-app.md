@@ -58,7 +58,7 @@ You should create a web page that includes the following elements:
 
 To fetch the data for the translation, you should make a POST request to the following URL:
 
-```
+```bash
 https://mymemory.translated.net/doc/spec.php
 ```
 

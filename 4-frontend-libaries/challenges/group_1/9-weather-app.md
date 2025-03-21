@@ -66,19 +66,19 @@ To fetch the current weather of a location, you can use an API like [OpenWeather
 
 To display the temperature of the upcoming 24 hours with 3-hour intervals, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://api.openweathermap.org/data/2.5/forecast?q={city}&appid={your_api_key}
 ```
 
 or
 
-```
+```bash
 https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 ```
 
 To display a forecast of the next 5 days, you can make a GET request to the following endpoint:
 
-```
+```bash
 https://api.openweathermap.org/data/2.5/forecast/daily?q={city}&cnt=5&appid={your_api_key}
 ```
 

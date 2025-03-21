@@ -581,7 +581,7 @@ As applications grow, organizing custom hooks becomes crucial for maintainabilit
 
 A common approach is to organize hooks by functionality:
 
-```
+```bash
 src/
   hooks/
     useAuth/
