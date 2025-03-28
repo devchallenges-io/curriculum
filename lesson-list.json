@@ -93,25 +93,36 @@
     "type": "challenge",
     "challenge_id": 63
   },
+
   {
     "title": "CSS Units",
     "path": "2-responsive-web/1-html-css/6-css-unit.md",
     "slug": "2-responsive-web/css-units",
-    "group": "Basic Layout and Components",
+    "group": "Basic Layout and Flexbox",
     "type": "lesson"
   },
+
+  {
+    "title": "CSS Flexbox",
+    "path": "2-responsive-web/1-html-css/3-flexbox.md",
+    "slug": "2-responsive-web/css-flexbox",
+    "group": "Basic Layout and Flexbox",
+    "type": "lesson"
+  },
+
   {
     "title": "CSS Positioning",
     "path": "2-responsive-web/1-html-css/5-css-position.md",
     "slug": "2-responsive-web/css-positioning",
-    "group": "Basic Layout and Components",
+    "group": "Basic Layout and Flexbox",
     "type": "lesson"
   },
+
   {
     "title": "Simple Article Listing",
     "path": "2-responsive-web",
     "slug": "challenge/simple-article-listing",
-    "group": "Basic Layout and Components",
+    "group": "Basic Layout and Flexbox",
     "type": "challenge",
     "challenge_id": 64
   },
@@ -119,7 +130,7 @@
     "title": "Testimonial Page",
     "path": "2-responsive-web",
     "slug": "challenge/testimonial-page",
-    "group": "Basic Layout and Components",
+    "group": "Basic Layout and Flexbox",
     "type": "challenge",
     "challenge_id": 29
   },
@@ -127,45 +138,42 @@
     "title": "Business Blog Card",
     "path": "2-responsive-web",
     "slug": "challenge/business-blog-card",
-    "group": "Basic Layout and Components",
+    "group": "Basic Layout and Flexbox",
     "type": "challenge",
     "challenge_id": 28
   },
-  {
-    "title": "CSS Flexbox",
-    "path": "2-responsive-web/1-html-css/3-flexbox.md",
-    "slug": "2-responsive-web/css-flexbox",
-    "group": "Flexbox and Grid Layout",
-    "type": "lesson"
-  },
+
   {
     "title": "Simple Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/simple-feature-section-challenge",
-    "group": "Flexbox and Grid Layout",
+    "group": "Basic Layout and Flexbox",
     "type": "challenge",
     "challenge_id": 65
   },
-  {
-    "title": "Simple Product Page",
-    "path": "2-responsive-web",
-    "slug": "challenge/simple-product-page-challenge",
-    "group": "Flexbox and Grid Layout",
-    "type": "challenge",
-    "challenge_id": 66
-  },
+
   {
     "title": "CSS Grid",
     "path": "2-responsive-web/1-html-css/4-grid.md",
     "slug": "2-responsive-web/css-grid",
-    "group": "Flexbox and Grid Layout",
+    "group": "Grid Layout",
     "type": "lesson"
   },
+
+  {
+    "title": "Simple Product Page",
+    "path": "2-responsive-web",
+    "slug": "challenge/simple-product-page-challenge",
+    "group": "Grid Layout",
+    "type": "challenge",
+    "challenge_id": 66
+  },
+
   {
     "title": "Bento Box Layout Feature Section",
     "path": "2-responsive-web",
     "slug": "challenge/bento-box-layout-challenge",
-    "group": "Flexbox and Grid Layout",
+    "group": "Grid Layout",
     "type": "challenge",
     "challenge_id": 68
   },
@@ -173,7 +181,7 @@
     "title": "Meet the Team Section",
     "path": "2-responsive-web",
     "slug": "challenge/meet-the-team-section-challenge",
-    "group": "Flexbox and Grid Layout",
+    "group": "Grid Layout",
     "type": "challenge",
     "challenge_id": 69
   },
